@@ -1,0 +1,207 @@
+{
+  "generated_at": "2026-08-12T13:13:33+00:00",
+  "hn": [
+    {
+      "id": 49241679,
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "domain": "research.meta.ai",
+      "points": 1192,
+      "comments": 637,
+      "author": "riordan",
+      "time": 1786356602
+    },
+    {
+      "id": 49250836,
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "domain": "thewalrus.ca",
+      "points": 910,
+      "comments": 937,
+      "author": "awnird",
+      "time": 1786401390
+    },
+    {
+      "id": 49239751,
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "domain": "docker.com",
+      "points": 684,
+      "comments": 392,
+      "author": "etoxin",
+      "time": 1786341758
+    },
+    {
+      "id": 49257876,
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "domain": "stolen-thoughts.com",
+      "points": 649,
+      "comments": 291,
+      "author": "quantumgarbage",
+      "time": 1786454520
+    },
+    {
+      "id": 49243880,
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "domain": "ft.com",
+      "points": 636,
+      "comments": 598,
+      "author": "root-parent",
+      "time": 1786370782
+    },
+    {
+      "id": 49246804,
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "domain": "cactuscompute.com",
+      "points": 521,
+      "comments": 176,
+      "author": "HenryNdubuaku",
+      "time": 1786382527
+    },
+    {
+      "id": 49257160,
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "domain": "ft.com",
+      "points": 475,
+      "comments": 445,
+      "author": "ilamont",
+      "time": 1786450987
+    },
+    {
+      "id": 49250109,
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "domain": "support.claude.com",
+      "points": 437,
+      "comments": 399,
+      "author": "mfiguiere",
+      "time": 1786397816
+    },
+    {
+      "id": 49252179,
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "domain": "github.com",
+      "points": 431,
+      "comments": 95,
+      "author": "swyx",
+      "time": 1786411329
+    },
+    {
+      "id": 49261133,
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "domain": "developers.googleblog.com",
+      "points": 397,
+      "comments": 456,
+      "author": "0xedb",
+      "time": 1786467429
+    },
+    {
+      "id": 49255710,
+      "title": "Nvidia's Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "domain": "stratechery.com",
+      "points": 341,
+      "comments": 168,
+      "author": "jonbaer",
+      "time": 1786442520
+    },
+    {
+      "id": 49259339,
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "domain": "github.com",
+      "points": 297,
+      "comments": 43,
+      "author": "frabonacci",
+      "time": 1786459833
+    }
+  ],
+  "media": [
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "TechCrunch",
+      "published": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "time": 1786484351,
+      "snippet": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch",
+      "published": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "time": 1786475735,
+      "snippet": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+    },
+    {
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "source": "TechCrunch",
+      "published": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "time": 1786474152,
+      "snippet": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now genera"
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch",
+      "published": "Tue, 11 Aug 2026 17:41:34 +0000",
+      "time": 1786470094,
+      "snippet": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different va"
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "time": 1786392000,
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San "
+    },
+    {
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "time": 1786352400,
+      "snippet": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been disco"
+    },
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "time": 1786352400,
+      "snippet": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way ba"
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 03 Aug 2026 18:43:30 +0000",
+      "time": 1785782610,
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more c"
+    },
+    {
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat",
+      "published": "Tue, 19 May 2026 17:45:00 GMT",
+      "time": 1779212700,
+      "snippet": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list"
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat",
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "time": 1769090400,
+      "snippet": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 millio"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "generated_at": "2026-08-12T13:13:19+00:00",
+  "data": {
+    "daily": [
+      {
+        "full_name": "cathrynlavery/diagram-design",
+        "url": "/cathrynlavery/diagram-design",
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "language": "HTML",
+        "stars_today": 1616,
+        "stars_total": 8446
+      },
+      {
+        "full_name": "macro-inc/macro",
+        "url": "/macro-inc/macro",
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "language": "Rust",
+        "stars_today": 248,
+        "stars_total": 1229
+      },
+      {
+        "full_name": "semantica-agi/semantica",
+        "url": "/semantica-agi/semantica",
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "stars_today": 834,
+        "stars_total": 5427
+      },
+      {
+        "full_name": "stablyai/orca",
+        "url": "/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "language": "TypeScript",
+        "stars_today": 1215,
+        "stars_total": 43421
+      },
+      {
+        "full_name": "msitarzewski/agency-agents",
+        "url": "/msitarzewski/agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars_today": 1969,
+        "stars_total": 144254
+      },
+      {
+        "full_name": "shiyu-coder/Kronos",
+        "url": "/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars_today": 238,
+        "stars_total": 36834
+      },
+      {
+        "full_name": "NanmiCoder/MediaCrawler",
+        "url": "/NanmiCoder/MediaCrawler",
+        "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+        "language": "Python",
+        "stars_today": 855,
+        "stars_total": 61848
+      },
+      {
+        "full_name": "hugohe3/ppt-master",
+        "url": "/hugohe3/ppt-master",
+        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+        "language": "Python",
+        "stars_today": 364,
+        "stars_total": 45202
+      },
+      {
+        "full_name": "infiniflow/ragflow",
+        "url": "/infiniflow/ragflow",
+        "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+        "language": "Go",
+        "stars_today": 85,
+        "stars_total": 87384
+      },
+      {
+        "full_name": "paperclipai/paperclip",
+        "url": "/paperclipai/paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "stars_today": 573,
+        "stars_total": 77483
+      },
+      {
+        "full_name": "NVIDIA-NeMo/Switchyard",
+        "url": "/NVIDIA-NeMo/Switchyard",
+        "description": "",
+        "language": "Rust",
+        "stars_today": 370,
+        "stars_total": 624
+      },
+      {
+        "full_name": "ZuodaoTech/everyone-can-use-english",
+        "url": "/ZuodaoTech/everyone-can-use-english",
+        "description": "人人都能用英语",
+        "language": "TypeScript",
+        "stars_today": 53,
+        "stars_total": 35948
+      }
+    ],
+    "weekly": [
+      {
+        "full_name": "cloudflare/computer",
+        "url": "/cloudflare/computer",
+        "description": "Give your agent a computer 👾",
+        "language": "TypeScript",
+        "stars_today": 6775,
+        "stars_total": 7721
+      },
+      {
+        "full_name": "semantica-agi/semantica",
+        "url": "/semantica-agi/semantica",
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "stars_today": 2712,
+        "stars_total": 5427
+      },
+      {
+        "full_name": "TencentCloud/TencentDB-Agent-Memory",
+        "url": "/TencentCloud/TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "stars_today": 7017,
+        "stars_total": 20351
+      },
+      {
+        "full_name": "huangruiteng/loopx",
+        "url": "/huangruiteng/loopx",
+        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+        "language": "Python",
+        "stars_today": 2687,
+        "stars_total": 4306
+      },
+      {
+        "full_name": "firecrawl/pdf-inspector",
+        "url": "/firecrawl/pdf-inspector",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "language": "Rust",
+        "stars_today": 5367,
+        "stars_total": 14901
+      },
+      {
+        "full_name": "google/skills",
+        "url": "/google/skills",
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "stars_today": 2216,
+        "stars_total": 17854
+      },
+      {
+        "full_name": "vitali87/code-graph-rag",
+        "url": "/vitali87/code-graph-rag",
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "language": "Python",
+        "stars_today": 1189,
+        "stars_total": 4006
+      },
+      {
+        "full_name": "zhaoxuya520/reverse-skill",
+        "url": "/zhaoxuya520/reverse-skill",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "language": "PowerShell",
+        "stars_today": 6730,
+        "stars_total": 24298
+      },
+      {
+        "full_name": "esengine/DeepSeek-Reasonix",
+        "url": "/esengine/DeepSeek-Reasonix",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+        "language": "Go",
+        "stars_today": 3517,
+        "stars_total": 34122
+      },
+      {
+        "full_name": "drawdb-io/drawdb",
+        "url": "/drawdb-io/drawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "language": "JavaScript",
+        "stars_today": 597,
+        "stars_total": 38909
+      },
+      {
+        "full_name": "virgiliojr94/book-to-skill",
+        "url": "/virgiliojr94/book-to-skill",
+        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "language": "Python",
+        "stars_today": 4155,
+        "stars_total": 20738
+      },
+      {
+        "full_name": "Comfy-Org/ComfyUI",
+        "url": "/Comfy-Org/ComfyUI",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "language": "Python",
+        "stars_today": 3252,
+        "stars_total": 126994
+      }
+    ],
+    "monthly": [
+      {
+        "full_name": "diegosouzapw/OmniRoute",
+        "url": "/diegosouzapw/OmniRoute",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+        "language": "TypeScript",
+        "stars_today": 30582,
+        "stars_total": 46285
+      },
+      {
+        "full_name": "koala73/worldmonitor",
+        "url": "/koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "stars_today": 19348,
+        "stars_total": 81079
+      },
+      {
+        "full_name": "Nutlope/hallmark",
+        "url": "/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars_today": 20034,
+        "stars_total": 24286
+      },
+      {
+        "full_name": "1jehuang/jcode",
+        "url": "/1jehuang/jcode",
+        "description": "The most RAM efficient harness",
+        "language": "Rust",
+        "stars_today": 8917,
+        "stars_total": 17285
+      },
+      {
+        "full_name": "zhaoxuya520/reverse-skill",
+        "url": "/zhaoxuya520/reverse-skill",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "language": "PowerShell",
+        "stars_today": 15942,
+        "stars_total": 24298
+      },
+      {
+        "full_name": "TencentCloud/TencentDB-Agent-Memory",
+        "url": "/TencentCloud/TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "stars_today": 11445,
+        "stars_total": 20351
+      },
+      {
+        "full_name": "HKUDS/DeepTutor",
+        "url": "/HKUDS/DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "stars_today": 9113,
+        "stars_total": 35098
+      },
+      {
+        "full_name": "pingdotgg/t3code",
+        "url": "/pingdotgg/t3code",
+        "description": "",
+        "language": "TypeScript",
+        "stars_today": 4753,
+        "stars_total": 18352
+      },
+      {
+        "full_name": "stablyai/orca",
+        "url": "/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "language": "TypeScript",
+        "stars_today": 26440,
+        "stars_total": 43422
+      },
+      {
+        "full_name": "mattpocock/skills",
+        "url": "/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars_today": 49161,
+        "stars_total": 214628
+      },
+      {
+        "full_name": "every-app/open-seo",
+        "url": "/every-app/open-seo",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "stars_today": 7123,
+        "stars_total": 11419
+      },
+      {
+        "full_name": "earendil-works/pi",
+        "url": "/earendil-works/pi",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "language": "TypeScript",
+        "stars_today": 18096,
+        "stars_total": 88316
+      }
+    ]
+  }
+}
