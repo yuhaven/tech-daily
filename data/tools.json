@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:38:31+00:00",
+  "generated_at": "2026-08-13T03:04:43+00:00",
   "showhn": [
     {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
@@ -50,8 +50,8 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
-      "points": 523,
-      "comments": 176,
+      "points": 526,
+      "comments": 178,
       "author": "HenryNdubuaku",
       "time": "2026-08-10T17:22:07Z"
     },
@@ -83,15 +83,6 @@
       "time": "2026-07-28T22:09:06Z"
     },
     {
-      "title": "Show HN: Super Dario",
-      "url": "https://superdario.pawb.de",
-      "domain": "superdario.pawb.de",
-      "points": 397,
-      "comments": 100,
-      "author": "thepasch",
-      "time": "2026-07-13T17:53:52Z"
-    },
-    {
       "title": "Show HN: Isopolis – Isometric pixel map of SF",
       "url": "https://sf.isopolis.city/",
       "domain": "sf.isopolis.city",
@@ -108,6 +99,15 @@
       "comments": 115,
       "author": "tomilan",
       "time": "2026-08-02T02:07:09Z"
+    },
+    {
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "url": "https://photosynthesis.camera",
+      "domain": "photosynthesis.camera",
+      "points": 323,
+      "comments": 300,
+      "author": "sajomes",
+      "time": "2026-08-08T22:47:10Z"
     }
   ],
   "hot": [
@@ -188,7 +188,7 @@
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "domain": "seangoedecke.com",
       "points": 1413,
-      "comments": 572,
+      "comments": 573,
       "author": "MaxMussio",
       "time": "2026-08-03T21:13:53Z"
     },
@@ -206,7 +206,7 @@
       "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "domain": "techspot.com",
       "points": 1340,
-      "comments": 1118,
+      "comments": 1119,
       "author": "eecc",
       "time": "2026-07-26T22:21:41Z"
     },

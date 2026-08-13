@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T15:38:30+00:00",
+  "generated_at": "2026-08-13T03:04:42+00:00",
   "hn": [
     {
       "id": 49241679,
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "domain": "research.meta.ai",
-      "points": 1195,
+      "points": 1198,
       "comments": 637,
       "author": "riordan",
       "time": 1786356602
@@ -16,18 +16,28 @@
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "domain": "thewalrus.ca",
-      "points": 914,
-      "comments": 947,
+      "points": 927,
+      "comments": 963,
       "author": "awnird",
       "time": 1786401390
+    },
+    {
+      "id": 49271994,
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "domain": "blog.florianherrengt.com",
+      "points": 749,
+      "comments": 682,
+      "author": "florianherrengt",
+      "time": 1786540805
     },
     {
       "id": 49257876,
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
       "domain": "stolen-thoughts.com",
-      "points": 670,
-      "comments": 295,
+      "points": 684,
+      "comments": 300,
       "author": "quantumgarbage",
       "time": 1786454520
     },
@@ -36,8 +46,8 @@
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
       "domain": "ft.com",
-      "points": 491,
-      "comments": 459,
+      "points": 507,
+      "comments": 472,
       "author": "ilamont",
       "time": 1786450987
     },
@@ -46,8 +56,8 @@
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
-      "points": 439,
-      "comments": 401,
+      "points": 443,
+      "comments": 408,
       "author": "mfiguiere",
       "time": 1786397816
     },
@@ -56,8 +66,8 @@
       "title": "Go is an ideal language for AI-assisted software engineering",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "domain": "developers.googleblog.com",
-      "points": 408,
-      "comments": 477,
+      "points": 424,
+      "comments": 500,
       "author": "0xedb",
       "time": 1786467429
     },
@@ -66,8 +76,8 @@
       "title": "llama.cpp",
       "url": "https://llama.app",
       "domain": "llama.app",
-      "points": 317,
-      "comments": 146,
+      "points": 351,
+      "comments": 166,
       "author": "kristianpaul",
       "time": 1786510319
     },
@@ -76,76 +86,106 @@
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
       "domain": "blogs.nvidia.com",
-      "points": 250,
-      "comments": 125,
+      "points": 257,
+      "comments": 133,
       "author": "droidjj",
       "time": 1786476952
-    },
-    {
-      "id": 49271994,
-      "title": "AI is removing the middle class of software engineering",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "domain": "blog.florianherrengt.com",
-      "points": 195,
-      "comments": 172,
-      "author": "florianherrengt",
-      "time": 1786540805
-    },
-    {
-      "id": 49256057,
-      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "domain": "lighthousenewsletter.com",
-      "points": 185,
-      "comments": 27,
-      "author": "j0selit0",
-      "time": 1786444847
-    },
-    {
-      "id": 49264583,
-      "title": "Emergent Introspective Awareness in Large Language Models",
-      "url": "https://arxiv.org/abs/2601.01828",
-      "domain": "arxiv.org",
-      "points": 66,
-      "comments": 30,
-      "author": "doener",
-      "time": 1786482850
     },
     {
       "id": 49272569,
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
       "domain": "knownagents.com",
-      "points": 53,
-      "comments": 15,
+      "points": 240,
+      "comments": 179,
       "author": "gavinhking",
       "time": 1786543366
+    },
+    {
+      "id": 49256057,
+      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "domain": "lighthousenewsletter.com",
+      "points": 189,
+      "comments": 29,
+      "author": "j0selit0",
+      "time": 1786444847
+    },
+    {
+      "id": 49269090,
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "domain": "discoveredmaterials.com",
+      "points": 119,
+      "comments": 23,
+      "author": "advaith08",
+      "time": 1786521080
     }
   ],
   "media": [
     {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
       "source": "TechCrunch",
-      "published": "Wed, 12 Aug 2026 14:20:33 +0000",
-      "time": 1786544433,
-      "snippet": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
+      "published": "Wed, 12 Aug 2026 22:26:37 +0000",
+      "time": 1786573597,
+      "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
     },
     {
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "source": "TechCrunch",
-      "published": "Wed, 12 Aug 2026 11:00:00 +0000",
-      "time": 1786532400,
-      "snippet": "Blacksmith says revenue has grown more than tenfold over the past year."
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "source": "Ars Technica",
+      "published": "Wed, 12 Aug 2026 22:02:25 +0000",
+      "time": 1786572145,
+      "snippet": "“ShieldFont” aims to poison AI training data without making pages unreadable for people."
     },
     {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "source": "Ars Technica",
+      "published": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "time": 1786568430,
+      "snippet": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
       "source": "TechCrunch",
-      "published": "Tue, 11 Aug 2026 21:39:11 +0000",
-      "time": 1786484351,
-      "snippet": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "time": 1786565440,
+      "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch",
+      "published": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "time": 1786558752,
+      "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch",
+      "published": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "time": 1786557060,
+      "snippet": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "time": 1786553517,
+      "snippet": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potenti"
+    },
+    {
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "source": "Ars Technica",
+      "published": "Wed, 12 Aug 2026 15:19:17 +0000",
+      "time": 1786547957,
+      "snippet": "AI firms quietly bulk buying rare books face resistance from booksellers."
     },
     {
       "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
@@ -156,52 +196,12 @@
       "snippet": "But will Gemini's surge survive slowing model releases?"
     },
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch",
-      "published": "Tue, 11 Aug 2026 19:15:35 +0000",
-      "time": 1786475735,
-      "snippet": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
-    },
-    {
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "source": "Ars Technica",
-      "published": "Mon, 10 Aug 2026 22:13:03 +0000",
-      "time": 1786399983,
-      "snippet": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward."
-    },
-    {
       "title": "AI professors are negotiating the new realities of academic research",
       "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
       "source": "MIT Tech Review",
       "published": "Mon, 10 Aug 2026 20:00:00 +0000",
       "time": 1786392000,
       "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San "
-    },
-    {
-      "title": "AI for science needs reasoning, not just data",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "time": 1786352400,
-      "snippet": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been disco"
-    },
-    {
-      "title": "These startups are chasing the next big thing in LLMs",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "time": 1786352400,
-      "snippet": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way ba"
-    },
-    {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 03 Aug 2026 18:43:30 +0000",
-      "time": 1785782610,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more c"
     }
   ]
 }
