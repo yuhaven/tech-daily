@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:03:43+00:00",
+  "generated_at": "2026-08-14T16:04:36+00:00",
   "hn": [
     {
       "id": 49289112,
@@ -17,7 +17,7 @@
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "domain": "cerebras.ai",
-      "points": 675,
+      "points": 676,
       "comments": 262,
       "author": "pr337h4m",
       "time": 1786644602,
@@ -40,7 +40,7 @@
       "url": "https://docs.mistral.ai/models/ocr-4-1",
       "domain": "docs.mistral.ai",
       "points": 395,
-      "comments": 159,
+      "comments": 160,
       "author": "spelk",
       "time": 1786640712,
       "title_zh": "米斯特拉尔 OCR 4.1"
@@ -55,16 +55,6 @@
       "author": "wglb",
       "time": 1786152020,
       "title_zh": "“小人物”幻觉背后的蘑菇被发现"
-    },
-    {
-      "id": 49218040,
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "domain": "phys.org",
-      "points": 288,
-      "comments": 274,
-      "author": "wglb",
-      "time": 1786152020
     },
     {
       "id": 49285327,
@@ -93,21 +83,11 @@
       "title": "Don't classify, hallucinate!",
       "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
       "domain": "softwaredoug.com",
-      "points": 143,
-      "comments": 67,
+      "points": 144,
+      "comments": 68,
       "author": "softwaredoug",
       "time": 1786395036,
       "title_zh": "不要分类，产生幻觉！"
-    },
-    {
-      "id": 49249523,
-      "title": "Don't classify, hallucinate!",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "domain": "softwaredoug.com",
-      "points": 137,
-      "comments": 64,
-      "author": "softwaredoug",
-      "time": 1786395036
     },
     {
       "id": 49287153,
@@ -156,6 +136,24 @@
   ],
   "media": [
     {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch",
+      "published": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "time": 1786722208,
+      "snippet": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more p",
+      "title_zh": "马克·扎克伯格真的相信人工智能“适合所有人”吗？"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch",
+      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "time": 1786719011,
+      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "title_zh": "Kog 正在更深入地利用 GPU 进行更多推理"
+    },
+    {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "source": "Ars Technica",
@@ -163,6 +161,24 @@
       "time": 1786717634,
       "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TechCrunch",
+      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "time": 1786716300,
+      "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "title_zh": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch",
+      "published": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "time": 1786716000,
+      "snippet": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more p",
+      "title_zh": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题"
     },
     {
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
@@ -208,42 +224,6 @@
       "time": 1786611600,
       "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millenni",
       "title_zh": "孩子们如何看待人工智能，用他们自己的话说"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Tech Review",
-      "published": "Wed, 12 Aug 2026 16:51:57 +0000",
-      "time": 1786553517,
-      "snippet": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potenti",
-      "title_zh": "使用可信数据扩展人工智能代理"
-    },
-    {
-      "title": "AI professors are negotiating the new realities of academic research",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 10 Aug 2026 20:00:00 +0000",
-      "time": 1786392000,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San ",
-      "title_zh": "人工智能教授正在讨论学术研究的新现实"
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat",
-      "published": "Tue, 19 May 2026 17:45:00 GMT",
-      "time": 1779212700,
-      "snippet": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list",
-      "title_zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat",
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT",
-      "time": 1769090400,
-      "snippet": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 millio",
-      "title_zh": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS"
     }
   ]
 }
