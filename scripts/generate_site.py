@@ -98,7 +98,7 @@ def repo_card(idx, repo):
     if repo.get("stars_total"):
         total_html = f'<span class="stars-total">⭐ {repo["stars_total"]:,}</span>'
     desc_zh_html = (
-        f'<span class="repo-desc-zh">译：{desc_zh}</span>' if desc_zh else ""
+        f'<span class="zh-line">译：{desc_zh}</span>' if desc_zh else ""
     )
     return (
         f'<a class="repo-card" href="{url}" target="_blank" rel="noopener" draggable="false">'
@@ -141,6 +141,8 @@ def build_github(github):
 def hn_item(item):
     points = item.get("points", 0)
     comments = item.get("comments", 0)
+    zh = esc(item.get("title_zh") or "")
+    zh_html = f'<span class="zh-line">译：{zh}</span>' if zh else ""
     meta = (
         f"{esc(item.get('domain', 'news.ycombinator.com'))} · "
         f"{rel_time(item.get('time'))} · 💬 {comments}"
@@ -150,6 +152,7 @@ def hn_item(item):
         f'<span class="heat">{points}</span>'
         f'<span class="news-main">'
         f'<span class="news-title">{esc(item["title"])}</span>'
+        f"{zh_html}"
         f'<span class="news-meta">{meta}</span>'
         f"</span></a>"
     )
@@ -157,6 +160,8 @@ def hn_item(item):
 
 def media_item(item):
     snippet = esc(item.get("snippet")) or ""
+    zh = esc(item.get("title_zh") or "")
+    zh_html = f'<span class="zh-line">译：{zh}</span>' if zh else ""
     snippet_html = (
         f'<span class="news-snippet">{snippet}</span>' if snippet else ""
     )
@@ -169,6 +174,7 @@ def media_item(item):
         f'<span class="heat media">媒体</span>'
         f'<span class="news-main">'
         f'<span class="news-title">{esc(item["title"])}</span>'
+        f"{zh_html}"
         f'{snippet_html}'
         f'<span class="news-meta">{meta}</span>'
         f"</span></a>"
@@ -201,6 +207,8 @@ def build_news(news):
 
 def tool_item(item, tag):
     points = item.get("points", 0)
+    zh = esc(item.get("title_zh") or "")
+    zh_html = f'<span class="zh-line">译：{zh}</span>' if zh else ""
     meta = (
         f"{esc(item.get('domain', 'news.ycombinator.com'))} · "
         f"{rel_time(parse_iso(item.get('time')))} · 💬 {item.get('comments', 0)}"
@@ -210,6 +218,7 @@ def tool_item(item, tag):
         f'<span class="heat">{points}</span>'
         f'<span class="news-main">'
         f'<span class="news-title">{esc(item["title"])}</span>'
+        f"{zh_html}"
         f'<span class="news-meta">{meta}</span>'
         f"</span></a>"
     )
@@ -320,7 +329,7 @@ section { margin-top: 24px; scroll-margin-top: 56px; }
   color: #98a4b0; font-size: 12px; overflow-wrap: break-word;
   display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden;
 }
-.repo-desc-zh {
+.zh-line {
   color: #7f8b98; font-size: 11.5px; overflow-wrap: break-word;
   display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden;
 }

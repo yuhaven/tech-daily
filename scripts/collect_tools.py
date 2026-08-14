@@ -75,6 +75,32 @@ def main():
     showhn = collect_show_hn()
     hot = collect_hot()
     print(f"[tools] Show HN: {len(showhn)}, hot stories: {len(hot)}")
+
+    # Reuse translations from the previous run when titles are unchanged.
+    previous = common.read_json(common.DATA / "tools.json")
+    cache = {}
+    for item in previous.get("showhn", []) + previous.get("hot", []):
+        title = item.get("title")
+        zh = item.get("title_zh")
+        if title and zh:
+            cache[title] = zh
+
+    translated = 0
+    for item in showhn + hot:
+        title = item.get("title")
+        if not title:
+            item["title_zh"] = None
+            continue
+        if title in cache:
+            item["title_zh"] = cache[title]
+            continue
+        zh = common.translate(title)
+        cache[title] = zh
+        item["title_zh"] = zh
+        if zh:
+            translated += 1
+    print(f"[tools] translated: {translated}")
+
     common.write_json(
         common.DATA / "tools.json",
         {

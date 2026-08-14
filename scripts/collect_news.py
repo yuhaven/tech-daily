@@ -176,6 +176,32 @@ def main():
     print(f"[news] HN AI stories: {len(hn)}")
     media = collect_media()
     print(f"[news] media stories: {len(media)}")
+
+    # Reuse translations from the previous run when titles are unchanged.
+    previous = common.read_json(common.DATA / "ai_news.json")
+    cache = {}
+    for item in previous.get("hn", []) + previous.get("media", []):
+        title = item.get("title")
+        zh = item.get("title_zh")
+        if title and zh:
+            cache[title] = zh
+
+    translated = 0
+    for item in hn + media:
+        title = item.get("title")
+        if not title:
+            item["title_zh"] = None
+            continue
+        if title in cache:
+            item["title_zh"] = cache[title]
+            continue
+        zh = common.translate(title)
+        cache[title] = zh
+        item["title_zh"] = zh
+        if zh:
+            translated += 1
+    print(f"[news] translated: {translated}")
+
     common.write_json(
         common.DATA / "ai_news.json",
         {
