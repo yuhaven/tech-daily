@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T03:03:39+00:00",
+  "generated_at": "2026-08-14T15:53:32+00:00",
   "hn": [
     {
       "id": 49289112,
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "domain": "blog.google",
-      "points": 649,
-      "comments": 370,
+      "points": 931,
+      "comments": 470,
       "author": "thisisauserid",
       "time": 1786641802
     },
@@ -16,8 +16,8 @@
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "domain": "cerebras.ai",
-      "points": 453,
-      "comments": 191,
+      "points": 672,
+      "comments": 262,
       "author": "pr337h4m",
       "time": 1786644602
     },
@@ -26,38 +26,38 @@
       "title": "Codex in ChatGPT desktop app for Linux is now in preview",
       "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
       "domain": "community.openai.com",
-      "points": 446,
-      "comments": 300,
+      "points": 459,
+      "comments": 315,
       "author": "allanrbo",
       "time": 1786596821
-    },
-    {
-      "id": 49218040,
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "domain": "phys.org",
-      "points": 264,
-      "comments": 261,
-      "author": "wglb",
-      "time": 1786152020
     },
     {
       "id": 49288889,
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
       "domain": "docs.mistral.ai",
-      "points": 262,
-      "comments": 103,
+      "points": 394,
+      "comments": 159,
       "author": "spelk",
       "time": 1786640712
+    },
+    {
+      "id": 49218040,
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+      "domain": "phys.org",
+      "points": 288,
+      "comments": 274,
+      "author": "wglb",
+      "time": 1786152020
     },
     {
       "id": 49285327,
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "domain": "netlify.com",
-      "points": 180,
-      "comments": 75,
+      "points": 211,
+      "comments": 91,
       "author": "toddmorey",
       "time": 1786626329
     },
@@ -66,18 +66,28 @@
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
       "domain": "discoveredmaterials.com",
-      "points": 155,
+      "points": 158,
       "comments": 35,
       "author": "advaith08",
       "time": 1786521080
+    },
+    {
+      "id": 49249523,
+      "title": "Don't classify, hallucinate!",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "domain": "softwaredoug.com",
+      "points": 137,
+      "comments": 64,
+      "author": "softwaredoug",
+      "time": 1786395036
     },
     {
       "id": 49287153,
       "title": "Text AI watermarks will always be trivial to remove",
       "url": "https://www.seangoedecke.com/text-ai-watermarks/",
       "domain": "seangoedecke.com",
-      "points": 100,
-      "comments": 103,
+      "points": 136,
+      "comments": 172,
       "author": "pseudolus",
       "time": 1786633630
     },
@@ -86,8 +96,8 @@
       "title": "AI At Home Part 1: A Box Of Scraps",
       "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
       "domain": "jdagostino.github.io",
-      "points": 98,
-      "comments": 48,
+      "points": 124,
+      "comments": 58,
       "author": "timmmmmmay",
       "time": 1786638125
     },
@@ -96,64 +106,62 @@
       "title": "How AI text watermarking works",
       "url": "https://declaude.org/watermarking/",
       "domain": "declaude.org",
-      "points": 91,
-      "comments": 73,
+      "points": 122,
+      "comments": 92,
       "author": "padolsey",
       "time": 1786663015
     },
     {
-      "id": 49283063,
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "url": "https://www.codewithbullet.com",
-      "domain": "codewithbullet.com",
-      "points": 86,
-      "comments": 56,
-      "author": "adi1",
-      "time": 1786608870
-    },
-    {
-      "id": 49283563,
-      "title": "Can I use my Outputs to train an AI model?",
-      "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
-      "domain": "support.claude.com",
-      "points": 86,
-      "comments": 78,
-      "author": "DarenWatson",
-      "time": 1786613653
+      "id": 49290768,
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "domain": "cdn.openai.com",
+      "points": 120,
+      "comments": 95,
+      "author": "malshe",
+      "time": 1786649138
     }
   ],
   "media": [
     {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
       "source": "TechCrunch",
-      "published": "Thu, 13 Aug 2026 21:13:24 +0000",
-      "time": 1786655604,
-      "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+      "published": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "time": 1786722208,
+      "snippet": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more p"
     },
     {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
       "source": "TechCrunch",
-      "published": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "time": 1786652079,
-      "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "time": 1786719011,
+      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
     },
     {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch",
-      "published": "Thu, 13 Aug 2026 19:22:40 +0000",
-      "time": 1786648960,
-      "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica",
+      "published": "Fri, 14 Aug 2026 14:27:14 +0000",
+      "time": 1786717634,
+      "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
     },
     {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "source": "TechCrunch",
-      "published": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "time": 1786648789,
-      "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
+      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "time": 1786716300,
+      "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch",
+      "published": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "time": 1786716000,
+      "snippet": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more p"
     },
     {
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
@@ -186,14 +194,6 @@
       "published": "Thu, 13 Aug 2026 13:41:10 +0000",
       "time": 1786628470,
       "snippet": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing ba"
-    },
-    {
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "source": "Ars Technica",
-      "published": "Thu, 13 Aug 2026 11:10:18 +0000",
-      "time": 1786619418,
-      "snippet": "The mark flags anything Claude processed, even human writing it only edited."
     },
     {
       "title": "How kids feel about AI, in their own words",

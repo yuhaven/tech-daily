@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:52:29+00:00",
+  "generated_at": "2026-08-14T15:53:30+00:00",
   "data": {
     "daily": [
       {
@@ -8,7 +8,7 @@
         "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "language": "HTML",
         "stars_today": 3651,
-        "stars_total": 16739,
+        "stars_total": 16743,
         "description_zh": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
       },
       {
@@ -17,7 +17,7 @@
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "language": "Python",
         "stars_today": 661,
-        "stars_total": 5408,
+        "stars_total": 5409,
         "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
       },
       {
@@ -71,7 +71,7 @@
         "description": "💫 Toolkit to help you get started with Spec-Driven Development",
         "language": "Python",
         "stars_today": 1147,
-        "stars_total": 128182,
+        "stars_total": 128189,
         "description_zh": "💫 帮助您开始规范驱动开发的工具包"
       },
       {
@@ -127,7 +127,7 @@
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "language": "Python",
         "stars_today": 4073,
-        "stars_total": 7369,
+        "stars_total": 7370,
         "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
       },
       {
@@ -208,7 +208,7 @@
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "language": "Python",
         "stars_today": 1377,
-        "stars_total": 5408,
+        "stars_total": 5409,
         "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
       },
       {
@@ -228,7 +228,7 @@
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
         "language": "TypeScript",
         "stars_today": 30875,
-        "stars_total": 47769,
+        "stars_total": 47770,
         "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、330 多个提供商（90 多个免费）、1200 多个模型 — Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 320 多名贡献者构建"
       },
       {
@@ -300,7 +300,7 @@
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
         "stars_today": 49199,
-        "stars_total": 217270,
+        "stars_total": 217272,
         "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
       },
       {
@@ -309,7 +309,7 @@
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
         "language": "TypeScript",
         "stars_today": 19316,
-        "stars_total": 90310,
+        "stars_total": 90311,
         "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
       },
       {
@@ -318,7 +318,7 @@
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": "Python",
         "stars_today": 12598,
-        "stars_total": 21472,
+        "stars_total": 21474,
         "description_zh": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
       },
       {
