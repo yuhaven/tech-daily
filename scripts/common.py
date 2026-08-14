@@ -2,6 +2,7 @@
 
 import json
 import re
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -71,3 +72,39 @@ def parse_stars(text):
     elif unit == "m":
         num *= 1_000_000
     return int(num)
+
+
+def translate(text, target="zh-CN"):
+    """Translate short text to Chinese via Google's public endpoint,
+    with MyMemory as fallback. Returns None on failure (caller degrades)."""
+    if not text or not text.strip():
+        return None
+    q = urllib.parse.quote(text[:500])
+
+    google_url = (
+        f"https://translate.googleapis.com/translate_a/single"
+        f"?client=gtx&sl=auto&tl={target}&dt=t&q={q}"
+    )
+    try:
+        raw = http_get(google_url, timeout=15)
+        # The response may carry an XSSI prefix before the JSON array.
+        start = raw.find(b"[")
+        data = json.loads(raw[start:].decode("utf-8"))
+        parts = [seg[0] for seg in data[0] if seg and seg[0]]
+        result = "".join(parts).strip()
+        if result:
+            return result
+    except Exception:  # noqa: BLE001 - fall through to MyMemory
+        pass
+
+    memory_url = (
+        f"https://api.mymemory.translated.net/get?q={q}&langpair=en|{target}"
+    )
+    try:
+        data = fetch_json(memory_url, timeout=15)
+        result = (data.get("responseData") or {}).get("translatedText") or ""
+        if result and "MYMEMORY WARNING" not in result and result != "NO QUERY":
+            return result.strip() or None
+    except Exception:  # noqa: BLE001
+        pass
+    return None

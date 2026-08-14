@@ -32,6 +32,8 @@ python scripts/generate_site.py
 
 纯 Python 标准库实现，无第三方依赖。
 
+GitHub 仓库的英文描述会自动附带一行机器翻译的中文参考（带“译：”前缀），原文保持权威。
+
 ## 数据来源与免责声明
 
 所有内容均来自公开 API / RSS：GitHub Trending、Hacker News（Firebase & Algolia API）、上述科技媒体官方 RSS。页面仅做聚合展示，点击条目可跳转原文；内容版权归原作者所有。

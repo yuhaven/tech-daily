@@ -82,6 +82,7 @@ def empty_state(text="该数据源暂无可展示内容，请稍后再来"):
 def repo_card(idx, repo):
     name = esc(repo["full_name"])
     desc = esc(repo.get("description")) or "暂无描述"
+    desc_zh = esc(repo.get("description_zh")) or ""
     url = f"https://github.com{esc(repo['url'])}"
     lang_html = ""
     if repo.get("language"):
@@ -96,12 +97,16 @@ def repo_card(idx, repo):
     total_html = ""
     if repo.get("stars_total"):
         total_html = f'<span class="stars-total">⭐ {repo["stars_total"]:,}</span>'
+    desc_zh_html = (
+        f'<span class="repo-desc-zh">译：{desc_zh}</span>' if desc_zh else ""
+    )
     return (
         f'<a class="repo-card" href="{url}" target="_blank" rel="noopener" draggable="false">'
         f'<span class="rank">{idx}</span>'
         f'<span class="repo-main">'
         f'<span class="repo-name">{name}</span>'
         f'<span class="repo-desc">{desc}</span>'
+        f"{desc_zh_html}"
         f'<span class="repo-meta">{lang_html}{today_html}{total_html}</span>'
         f"</span></a>"
     )
@@ -313,6 +318,10 @@ section { margin-top: 24px; scroll-margin-top: 56px; }
 .repo-card:hover .repo-name { color: #7db3da; }
 .repo-desc {
   color: #98a4b0; font-size: 12px; overflow-wrap: break-word;
+  display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden;
+}
+.repo-desc-zh {
+  color: #7f8b98; font-size: 11.5px; overflow-wrap: break-word;
   display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden;
 }
 .repo-meta { display: flex; gap: 10px; font-size: 11.5px; color: var(--muted); align-items: center; flex-wrap: wrap; }

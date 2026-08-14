@@ -148,10 +148,40 @@ def collect_period(period, days):
 
 def main():
     result = {}
+    # Reuse translations from the previous run when descriptions are unchanged.
+    previous = common.read_json(common.DATA / "github_trending.json")
+    cache = {}
+    for period_repos in previous.get("data", {}).values():
+        for repo in period_repos:
+            desc = repo.get("description")
+            zh = repo.get("description_zh")
+            if desc and zh:
+                cache[desc] = zh
+
+    translated = 0
+    skipped = 0
     for period, days in PERIODS:
         repos = collect_period(period, days)
+        for repo in repos:
+            desc = repo.get("description")
+            if not desc:
+                repo["description_zh"] = None
+                skipped += 1
+                continue
+            if desc in cache:
+                repo["description_zh"] = cache[desc]
+                skipped += 1
+                continue
+            zh = common.translate(desc)
+            cache[desc] = zh
+            repo["description_zh"] = zh
+            if zh:
+                translated += 1
+            else:
+                skipped += 1
         result[period] = repos
         print(f"[github] {period}: {len(repos)} repos")
+    print(f"[github] translated: {translated}, cached/failed: {skipped}")
     common.write_json(
         common.DATA / "github_trending.json",
         {"generated_at": common.now_iso(), "data": result},
