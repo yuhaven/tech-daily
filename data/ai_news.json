@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T16:04:36+00:00",
+  "generated_at": "2026-08-15T01:54:02+00:00",
   "hn": [
     {
       "id": 49289112,
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "domain": "blog.google",
-      "points": 932,
-      "comments": 471,
+      "points": 948,
+      "comments": 482,
       "author": "thisisauserid",
       "time": 1786641802,
       "title_zh": "双子座3.7闪存"
@@ -17,29 +17,18 @@
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "domain": "cerebras.ai",
-      "points": 676,
-      "comments": 262,
+      "points": 698,
+      "comments": 272,
       "author": "pr337h4m",
       "time": 1786644602,
       "title_zh": "加速 GPT-5.6 Sol 超快"
-    },
-    {
-      "id": 49281916,
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "domain": "community.openai.com",
-      "points": 459,
-      "comments": 315,
-      "author": "allanrbo",
-      "time": 1786596821,
-      "title_zh": "适用于 Linux 的 ChatGPT 桌面应用程序中的 Codex 现已提供预览版"
     },
     {
       "id": 49288889,
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
       "domain": "docs.mistral.ai",
-      "points": 395,
+      "points": 402,
       "comments": 160,
       "author": "spelk",
       "time": 1786640712,
@@ -50,22 +39,55 @@
       "title": "Mushroom behind 'tiny people' hallucinations identified",
       "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
       "domain": "phys.org",
-      "points": 288,
-      "comments": 274,
+      "points": 294,
+      "comments": 278,
       "author": "wglb",
       "time": 1786152020,
       "title_zh": "“小人物”幻觉背后的蘑菇被发现"
+    },
+    {
+      "id": 49300314,
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "domain": "blog.google",
+      "points": 280,
+      "comments": 170,
+      "author": "u1hcw9nx",
+      "time": 1786722190,
+      "title_zh": "谷歌正在通过同态加密使私人人工智能变得实用"
+    },
+    {
+      "id": 49249523,
+      "title": "Don't classify, hallucinate",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "domain": "softwaredoug.com",
+      "points": 217,
+      "comments": 86,
+      "author": "softwaredoug",
+      "time": 1786395036,
+      "title_zh": "不要分类，产生幻觉"
     },
     {
       "id": 49285327,
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "domain": "netlify.com",
-      "points": 212,
-      "comments": 91,
+      "points": 215,
+      "comments": 94,
       "author": "toddmorey",
       "time": 1786626329,
       "title_zh": "选择AI模型：一个提示，11个模型，不同的结果"
+    },
+    {
+      "id": 49300568,
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "domain": "byhand.ai",
+      "points": 205,
+      "comments": 17,
+      "author": "sans_souse",
+      "time": 1786723139,
+      "title_zh": "手工人工智能"
     },
     {
       "id": 49269090,
@@ -79,62 +101,58 @@
       "title_zh": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理"
     },
     {
-      "id": 49249523,
-      "title": "Don't classify, hallucinate!",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "domain": "softwaredoug.com",
-      "points": 144,
-      "comments": 68,
-      "author": "softwaredoug",
-      "time": 1786395036,
-      "title_zh": "不要分类，产生幻觉！"
-    },
-    {
       "id": 49287153,
       "title": "Text AI watermarks will always be trivial to remove",
       "url": "https://www.seangoedecke.com/text-ai-watermarks/",
       "domain": "seangoedecke.com",
-      "points": 136,
-      "comments": 172,
+      "points": 141,
+      "comments": 183,
       "author": "pseudolus",
       "time": 1786633630,
       "title_zh": "文本 AI 水印总是很容易删除"
+    },
+    {
+      "id": 49300800,
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "domain": "claude.com",
+      "points": 132,
+      "comments": 90,
+      "author": "twapi",
+      "time": 1786724121,
+      "title_zh": "最大限度地发挥克劳德代码课程的价值"
     },
     {
       "id": 49288293,
       "title": "AI At Home Part 1: A Box Of Scraps",
       "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
       "domain": "jdagostino.github.io",
-      "points": 124,
-      "comments": 58,
+      "points": 125,
+      "comments": 60,
       "author": "timmmmmmay",
       "time": 1786638125,
       "title_zh": "人工智能在家第 1 部分：一盒废料"
-    },
-    {
-      "id": 49290768,
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "domain": "cdn.openai.com",
-      "points": 122,
-      "comments": 95,
-      "author": "malshe",
-      "time": 1786649138,
-      "title_zh": "组织如何使用人工智能：来自 ChatGPT 的证据 [pdf]"
-    },
-    {
-      "id": 49283063,
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "url": "https://www.codewithbullet.com",
-      "domain": "codewithbullet.com",
-      "points": 104,
-      "comments": 77,
-      "author": "adi1",
-      "time": 1786608870,
-      "title_zh": "推出 HN: Bullet (YC S26) – 更快的编码代理"
     }
   ],
   "media": [
+    {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "source": "Ars Technica",
+      "published": "Fri, 14 Aug 2026 17:26:53 +0000",
+      "time": 1786728413,
+      "snippet": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch",
+      "published": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "time": 1786724020,
+      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印"
+    },
     {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
       "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
@@ -172,42 +190,6 @@
       "title_zh": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气"
     },
     {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch",
-      "published": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "time": 1786716000,
-      "snippet": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more p",
-      "title_zh": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题"
-    },
-    {
-      "title": "The new Instagram logo is the perfect embodiment of AI slop",
-      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-      "source": "Ars Technica",
-      "published": "Thu, 13 Aug 2026 17:32:10 +0000",
-      "time": 1786642330,
-      "snippet": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
-      "title_zh": "Instagram新标志是AI Slop的完美体现"
-    },
-    {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "Ars Technica",
-      "published": "Thu, 13 Aug 2026 17:00:13 +0000",
-      "time": 1786640413,
-      "snippet": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
-      "title_zh": "谷歌在上一次发布仅三周后就发布了 Gemini 3.7 Flash"
-    },
-    {
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "source": "Ars Technica",
-      "published": "Thu, 13 Aug 2026 13:58:56 +0000",
-      "time": 1786629536,
-      "snippet": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-      "title_zh": "Anthropic 上市后市值可能达 2 万亿美元"
-    },
-    {
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
       "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "source": "MIT Tech Review",
@@ -224,6 +206,24 @@
       "time": 1786611600,
       "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millenni",
       "title_zh": "孩子们如何看待人工智能，用他们自己的话说"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "time": 1786553517,
+      "snippet": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potenti",
+      "title_zh": "使用可信数据扩展人工智能代理"
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "time": 1786392000,
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San ",
+      "title_zh": "人工智能教授正在讨论学术研究的新现实"
     }
   ]
 }
