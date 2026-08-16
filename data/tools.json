@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:54:03+00:00",
+  "generated_at": "2026-08-16T02:00:41+00:00",
   "showhn": [
     {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
@@ -134,20 +134,10 @@
       "title_zh": "Show HN：我用价值 1,600 美元的 ESP32 更换了价值 12 万美元的保龄球中心系统"
     },
     {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "domain": "kimi.com",
-      "points": 2107,
-      "comments": 1216,
-      "author": "vincent_s",
-      "time": "2026-07-16T14:46:05Z",
-      "title_zh": "Kimi K3：开放前沿智能"
-    },
-    {
       "title": "Don't be a meat proxy",
       "url": "https://gruhn.me/blog/2026-08-03/",
       "domain": "gruhn.me",
-      "points": 1845,
+      "points": 1848,
       "comments": 742,
       "author": "ngruhn",
       "time": "2026-08-03T06:28:01Z",
@@ -172,6 +162,16 @@
       "author": "Jrh0203",
       "time": "2026-07-31T15:17:28Z",
       "title_zh": "显示 HN：电梯"
+    },
+    {
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "domain": "pcworld.com",
+      "points": 1656,
+      "comments": 641,
+      "author": "DemiGuru",
+      "time": "2026-08-14T19:03:20Z",
+      "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
     },
     {
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -224,6 +224,16 @@
       "title_zh": "HuggingFace 上的 Kimi-K3"
     },
     {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "domain": "huggingface.co",
+      "points": 1357,
+      "comments": 772,
+      "author": "erdaltoprak",
+      "time": "2026-08-14T15:00:00Z",
+      "title_zh": "骐文3.8 27B"
+    },
+    {
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",
       "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "domain": "techspot.com",
@@ -232,16 +242,6 @@
       "author": "eecc",
       "time": "2026-07-26T22:21:41Z",
       "title_zh": "美国公民在机场搜查期间擦拭 GrapheneOS 手机后被指控"
-    },
-    {
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "domain": "news.ycombinator.com",
-      "points": 1318,
-      "comments": 756,
-      "author": "nprateem",
-      "time": "2026-07-17T09:42:05Z",
-      "title_zh": "AWS：预估账单数据不准确 – 17 亿美元"
     }
   ]
 }

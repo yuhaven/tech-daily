@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-15T01:54:02+00:00",
+  "generated_at": "2026-08-16T02:00:40+00:00",
   "hn": [
     {
       "id": 49289112,
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "domain": "blog.google",
-      "points": 948,
-      "comments": 482,
+      "points": 960,
+      "comments": 490,
       "author": "thisisauserid",
       "time": 1786641802,
       "title_zh": "双子座3.7闪存"
@@ -17,124 +17,151 @@
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "domain": "cerebras.ai",
-      "points": 698,
-      "comments": 272,
+      "points": 707,
+      "comments": 276,
       "author": "pr337h4m",
       "time": 1786644602,
       "title_zh": "加速 GPT-5.6 Sol 超快"
-    },
-    {
-      "id": 49288889,
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "domain": "docs.mistral.ai",
-      "points": 402,
-      "comments": 160,
-      "author": "spelk",
-      "time": 1786640712,
-      "title_zh": "米斯特拉尔 OCR 4.1"
-    },
-    {
-      "id": 49218040,
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "domain": "phys.org",
-      "points": 294,
-      "comments": 278,
-      "author": "wglb",
-      "time": 1786152020,
-      "title_zh": "“小人物”幻觉背后的蘑菇被发现"
     },
     {
       "id": 49300314,
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "domain": "blog.google",
-      "points": 280,
-      "comments": 170,
+      "points": 480,
+      "comments": 280,
       "author": "u1hcw9nx",
       "time": 1786722190,
       "title_zh": "谷歌正在通过同态加密使私人人工智能变得实用"
     },
     {
-      "id": 49249523,
-      "title": "Don't classify, hallucinate",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "domain": "softwaredoug.com",
-      "points": 217,
-      "comments": 86,
-      "author": "softwaredoug",
-      "time": 1786395036,
-      "title_zh": "不要分类，产生幻觉"
-    },
-    {
-      "id": 49285327,
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "domain": "netlify.com",
-      "points": 215,
-      "comments": 94,
-      "author": "toddmorey",
-      "time": 1786626329,
-      "title_zh": "选择AI模型：一个提示，11个模型，不同的结果"
+      "id": 49312845,
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "domain": "davidepiffer.com",
+      "points": 414,
+      "comments": 372,
+      "author": "rzk",
+      "time": 1786817582,
+      "title_zh": "人工智能拥有比人脑大得多的工作记忆"
     },
     {
       "id": 49300568,
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
       "domain": "byhand.ai",
-      "points": 205,
-      "comments": 17,
+      "points": 353,
+      "comments": 29,
       "author": "sans_souse",
       "time": 1786723139,
       "title_zh": "手工人工智能"
     },
     {
-      "id": 49269090,
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "domain": "discoveredmaterials.com",
-      "points": 159,
-      "comments": 35,
-      "author": "advaith08",
-      "time": 1786521080,
-      "title_zh": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理"
-    },
-    {
-      "id": 49287153,
-      "title": "Text AI watermarks will always be trivial to remove",
-      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "domain": "seangoedecke.com",
-      "points": 141,
-      "comments": 183,
-      "author": "pseudolus",
-      "time": 1786633630,
-      "title_zh": "文本 AI 水印总是很容易删除"
+      "id": 49218040,
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+      "domain": "phys.org",
+      "points": 304,
+      "comments": 279,
+      "author": "wglb",
+      "time": 1786152020,
+      "title_zh": "“小人物”幻觉背后的蘑菇被发现"
     },
     {
       "id": 49300800,
       "title": "Maximizing the value of your Claude Code sessions",
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
       "domain": "claude.com",
-      "points": 132,
-      "comments": 90,
+      "points": 302,
+      "comments": 176,
       "author": "twapi",
       "time": 1786724121,
       "title_zh": "最大限度地发挥克劳德代码课程的价值"
     },
     {
-      "id": 49288293,
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "domain": "jdagostino.github.io",
-      "points": 125,
-      "comments": 60,
-      "author": "timmmmmmay",
-      "time": 1786638125,
-      "title_zh": "人工智能在家第 1 部分：一盒废料"
+      "id": 49309451,
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "domain": "allen.bargi.org",
+      "points": 270,
+      "comments": 175,
+      "author": "allenb",
+      "time": 1786790381,
+      "title_zh": "与人工智能一起工作感觉更像是领导而不是编码"
+    },
+    {
+      "id": 49285327,
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "domain": "netlify.com",
+      "points": 218,
+      "comments": 95,
+      "author": "toddmorey",
+      "time": 1786626329,
+      "title_zh": "选择AI模型：一个提示，11个模型，不同的结果"
+    },
+    {
+      "id": 49269090,
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "domain": "discoveredmaterials.com",
+      "points": 160,
+      "comments": 35,
+      "author": "advaith08",
+      "time": 1786521080,
+      "title_zh": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理"
+    },
+    {
+      "id": 49307700,
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "domain": "chenxiachan.github.io",
+      "points": 112,
+      "comments": 52,
+      "author": "chatchan",
+      "time": 1786768927,
+      "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图"
+    },
+    {
+      "id": 49313367,
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "domain": "science.org",
+      "points": 93,
+      "comments": 45,
+      "author": "AnodicElegy",
+      "time": 1786821173,
+      "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路"
     }
   ],
   "media": [
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "published": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "time": 1786829359,
+      "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "title_zh": "女子声称她的继父使用 Grok 将童年照片变成露骨图像"
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "time": 1786820319,
+      "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "title_zh": "Anthropic 分享了有关克劳德新水印如何运作的更多细节"
+    },
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch",
+      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "time": 1786811400,
+      "snippet": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "title_zh": "SpaceX 正式完成 Cursor 收购"
+    },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
@@ -154,24 +181,6 @@
       "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印"
     },
     {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch",
-      "published": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "time": 1786722208,
-      "snippet": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more p",
-      "title_zh": "马克·扎克伯格真的相信人工智能“适合所有人”吗？"
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "TechCrunch",
-      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "time": 1786719011,
-      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "title_zh": "Kog 正在更深入地利用 GPU 进行更多推理"
-    },
-    {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "source": "Ars Technica",
@@ -179,15 +188,6 @@
       "time": 1786717634,
       "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "TechCrunch",
-      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
-      "time": 1786716300,
-      "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "title_zh": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气"
     },
     {
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
