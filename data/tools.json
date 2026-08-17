@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:00:41+00:00",
+  "generated_at": "2026-08-17T01:59:25+00:00",
   "showhn": [
     {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
@@ -45,7 +45,7 @@
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "domain": "toneyalexander.github.io",
-      "points": 626,
+      "points": 627,
       "comments": 99,
       "author": "automatoney",
       "time": "2026-08-04T15:16:22Z",
@@ -55,8 +55,8 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
-      "points": 527,
-      "comments": 182,
+      "points": 532,
+      "comments": 183,
       "author": "HenryNdubuaku",
       "time": "2026-08-10T17:22:07Z",
       "title_zh": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人"
@@ -137,7 +137,7 @@
       "title": "Don't be a meat proxy",
       "url": "https://gruhn.me/blog/2026-08-03/",
       "domain": "gruhn.me",
-      "points": 1848,
+      "points": 1849,
       "comments": 742,
       "author": "ngruhn",
       "time": "2026-08-03T06:28:01Z",
@@ -154,6 +154,16 @@
       "title_zh": "近距离工作5"
     },
     {
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "domain": "pcworld.com",
+      "points": 1712,
+      "comments": 693,
+      "author": "DemiGuru",
+      "time": "2026-08-14T19:03:20Z",
+      "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
+    },
+    {
       "title": "Show HN: Elevators",
       "url": "https://john.fun/elevators",
       "domain": "john.fun",
@@ -162,16 +172,6 @@
       "author": "Jrh0203",
       "time": "2026-07-31T15:17:28Z",
       "title_zh": "显示 HN：电梯"
-    },
-    {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "domain": "pcworld.com",
-      "points": 1656,
-      "comments": 641,
-      "author": "DemiGuru",
-      "time": "2026-08-14T19:03:20Z",
-      "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
     },
     {
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -214,6 +214,16 @@
       "title_zh": "法学硕士奖励专业知识"
     },
     {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "domain": "huggingface.co",
+      "points": 1410,
+      "comments": 783,
+      "author": "erdaltoprak",
+      "time": "2026-08-14T15:00:00Z",
+      "title_zh": "骐文3.8 27B"
+    },
+    {
       "title": "Kimi-K3 on HuggingFace",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
       "domain": "huggingface.co",
@@ -222,16 +232,6 @@
       "author": "nateb2022",
       "time": "2026-07-27T06:18:10Z",
       "title_zh": "HuggingFace 上的 Kimi-K3"
-    },
-    {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "domain": "huggingface.co",
-      "points": 1357,
-      "comments": 772,
-      "author": "erdaltoprak",
-      "time": "2026-08-14T15:00:00Z",
-      "title_zh": "骐文3.8 27B"
     },
     {
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",

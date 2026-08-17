@@ -1,140 +1,167 @@
 {
-  "generated_at": "2026-08-16T02:00:40+00:00",
+  "generated_at": "2026-08-17T01:59:24+00:00",
   "hn": [
     {
       "id": 49289112,
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "domain": "blog.google",
-      "points": 960,
-      "comments": 490,
+      "points": 966,
+      "comments": 491,
       "author": "thisisauserid",
       "time": 1786641802,
       "title_zh": "双子座3.7闪存"
     },
     {
-      "id": 49289844,
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "domain": "cerebras.ai",
-      "points": 707,
-      "comments": 276,
-      "author": "pr337h4m",
-      "time": 1786644602,
-      "title_zh": "加速 GPT-5.6 Sol 超快"
+      "id": 49312845,
+      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "domain": "davidepiffer.com",
+      "points": 594,
+      "comments": 487,
+      "author": "rzk",
+      "time": 1786817582,
+      "title_zh": "人工智能并不是比数学家思考得好，而是比他们记忆力好"
+    },
+    {
+      "id": 49319556,
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "domain": "platform.claude.com",
+      "points": 546,
+      "comments": 228,
+      "author": "tosh",
+      "time": 1786884501,
+      "title_zh": "克劳德：系统提示"
     },
     {
       "id": 49300314,
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "domain": "blog.google",
-      "points": 480,
-      "comments": 280,
+      "points": 491,
+      "comments": 283,
       "author": "u1hcw9nx",
       "time": 1786722190,
       "title_zh": "谷歌正在通过同态加密使私人人工智能变得实用"
-    },
-    {
-      "id": 49312845,
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "domain": "davidepiffer.com",
-      "points": 414,
-      "comments": 372,
-      "author": "rzk",
-      "time": 1786817582,
-      "title_zh": "人工智能拥有比人脑大得多的工作记忆"
-    },
-    {
-      "id": 49300568,
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "domain": "byhand.ai",
-      "points": 353,
-      "comments": 29,
-      "author": "sans_souse",
-      "time": 1786723139,
-      "title_zh": "手工人工智能"
-    },
-    {
-      "id": 49218040,
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "domain": "phys.org",
-      "points": 304,
-      "comments": 279,
-      "author": "wglb",
-      "time": 1786152020,
-      "title_zh": "“小人物”幻觉背后的蘑菇被发现"
-    },
-    {
-      "id": 49300800,
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "domain": "claude.com",
-      "points": 302,
-      "comments": 176,
-      "author": "twapi",
-      "time": 1786724121,
-      "title_zh": "最大限度地发挥克劳德代码课程的价值"
     },
     {
       "id": 49309451,
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "domain": "allen.bargi.org",
-      "points": 270,
-      "comments": 175,
+      "points": 321,
+      "comments": 198,
       "author": "allenb",
       "time": 1786790381,
       "title_zh": "与人工智能一起工作感觉更像是领导而不是编码"
     },
     {
-      "id": 49285327,
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "domain": "netlify.com",
-      "points": 218,
-      "comments": 95,
-      "author": "toddmorey",
-      "time": 1786626329,
-      "title_zh": "选择AI模型：一个提示，11个模型，不同的结果"
+      "id": 49317760,
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "domain": "littlelearner-ll.github.io",
+      "points": 234,
+      "comments": 205,
+      "author": "porridgeraisin",
+      "time": 1786865873,
+      "title_zh": "如果法学硕士从未见过五年级以上的材料，会发生什么？"
     },
     {
-      "id": 49269090,
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "domain": "discoveredmaterials.com",
-      "points": 160,
-      "comments": 35,
-      "author": "advaith08",
-      "time": 1786521080,
-      "title_zh": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理"
+      "id": 49320611,
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "domain": "vectoral.com",
+      "points": 226,
+      "comments": 89,
+      "author": "mlenhard",
+      "time": 1786891495,
+      "title_zh": "人工智能信用转售经济"
     },
     {
-      "id": 49307700,
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "domain": "chenxiachan.github.io",
-      "points": 112,
-      "comments": 52,
-      "author": "chatchan",
-      "time": 1786768927,
-      "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图"
+      "id": 49323381,
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "domain": "bloomberg.com",
+      "points": 200,
+      "comments": 145,
+      "author": "zacharyozer",
+      "time": 1786912276,
+      "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易"
     },
     {
       "id": 49313367,
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "domain": "science.org",
-      "points": 93,
-      "comments": 45,
+      "points": 180,
+      "comments": 90,
       "author": "AnodicElegy",
       "time": 1786821173,
       "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路"
+    },
+    {
+      "id": 49316271,
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "domain": "anthropic.com",
+      "points": 180,
+      "comments": 130,
+      "author": "maxutility",
+      "time": 1786846373,
+      "title_zh": "新兴多智能体系统的模式和问题"
+    },
+    {
+      "id": 49269090,
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "domain": "discoveredmaterials.com",
+      "points": 161,
+      "comments": 35,
+      "author": "advaith08",
+      "time": 1786521080,
+      "title_zh": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理"
+    },
+    {
+      "id": 49324087,
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "domain": "daringfireball.net",
+      "points": 147,
+      "comments": 156,
+      "author": "ropbear",
+      "time": 1786917223,
+      "title_zh": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲"
     }
   ],
   "media": [
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch",
+      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "time": 1786913824,
+      "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "title_zh": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch",
+      "published": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "time": 1786912321,
+      "snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "title_zh": "为什么人们不相信马克·扎克伯格的人工智能未来"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch",
+      "published": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "time": 1786899231,
+      "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "title_zh": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”"
+    },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -145,24 +172,6 @@
       "title_zh": "女子声称她的继父使用 Grok 将童年照片变成露骨图像"
     },
     {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch",
-      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
-      "time": 1786820319,
-      "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "title_zh": "Anthropic 分享了有关克劳德新水印如何运作的更多细节"
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "TechCrunch",
-      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
-      "time": 1786811400,
-      "snippet": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "title_zh": "SpaceX 正式完成 Cursor 收购"
-    },
-    {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
       "source": "Ars Technica",
@@ -170,15 +179,6 @@
       "time": 1786728413,
       "snippet": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
       "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch",
-      "published": "Fri, 14 Aug 2026 16:13:40 +0000",
-      "time": 1786724020,
-      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印"
     },
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:00:37+00:00",
+  "generated_at": "2026-08-17T01:59:21+00:00",
   "data": {
     "daily": [
       {
@@ -7,108 +7,63 @@
         "url": "/cordiverse/cordis",
         "description": "Meta-Framework of Spatiotemporal Composability",
         "language": "TypeScript",
-        "stars_today": 599,
-        "stars_total": 4090,
+        "stars_today": 720,
+        "stars_total": 4812,
         "description_zh": "时空可组合性元框架"
       },
       {
-        "full_name": "cathrynlavery/diagram-design",
-        "url": "/cathrynlavery/diagram-design",
-        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-        "language": "HTML",
-        "stars_today": 1607,
-        "stars_total": 18661,
-        "description_zh": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
-      },
-      {
-        "full_name": "cursor/plugins",
-        "url": "/cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars_today": 149,
-        "stars_total": 2955,
-        "description_zh": "光标插件规范和官方插件"
-      },
-      {
-        "full_name": "cactus-compute/needle",
-        "url": "/cactus-compute/needle",
-        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-        "language": "Python",
-        "stars_today": 547,
-        "stars_total": 6082,
-        "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+        "full_name": "basecamp/omarchy",
+        "url": "/basecamp/omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars_today": 270,
+        "stars_total": 25430,
+        "description_zh": "美丽、现代、有主见的 Linux"
       },
       {
         "full_name": "unslothai/unsloth",
         "url": "/unslothai/unsloth",
         "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
         "language": "Python",
-        "stars_today": 434,
-        "stars_total": 72064,
+        "stars_today": 572,
+        "stars_total": 72635,
         "description_zh": "用于运行和训练 LLM 和扩散模型的本地 UI，包括 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。"
+      },
+      {
+        "full_name": "OpenCut-app/OpenCut",
+        "url": "/OpenCut-app/OpenCut",
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "stars_today": 150,
+        "stars_total": 83933,
+        "description_zh": "开源 CapCut 替代方案"
       },
       {
         "full_name": "public-apis/public-apis",
         "url": "/public-apis/public-apis",
         "description": "A collective list of free APIs",
         "language": "Python",
-        "stars_today": 2260,
-        "stars_total": 460220,
+        "stars_today": 1588,
+        "stars_total": 461854,
         "description_zh": "免费 API 集合列表"
-      },
-      {
-        "full_name": "MakazhanAlpamys/Soup",
-        "url": "/MakazhanAlpamys/Soup",
-        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-        "language": "Python",
-        "stars_today": 297,
-        "stars_total": 1683,
-        "description_zh": "从一个 YAML 微调 LLM。层流在 4 GB 笔记本电脑 GPU 上训练 8B 模型。"
-      },
-      {
-        "full_name": "github/spec-kit",
-        "url": "/github/spec-kit",
-        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "language": "Python",
-        "stars_today": 892,
-        "stars_total": 129213,
-        "description_zh": "💫 帮助您开始规范驱动开发的工具包"
-      },
-      {
-        "full_name": "megadose/holehe",
-        "url": "/megadose/holehe",
-        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-        "language": "Python",
-        "stars_today": 382,
-        "stars_total": 13126,
-        "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
-      },
-      {
-        "full_name": "altic-dev/FluidVoice",
-        "url": "/altic-dev/FluidVoice",
-        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
-        "language": "Swift",
-        "stars_today": 104,
-        "stars_total": 10340,
-        "description_zh": "最快且唯一具有设备上 STT 和自定义训练的 AI 增强模型的 macOS 听写应用程序。本地 Wispr Flow 替代方案。在 X 上私信我们以获得复活节彩蛋 😉 - https://x.com/fluidvoiceapp"
       },
       {
         "full_name": "ToolJet/ToolJet",
         "url": "/ToolJet/ToolJet",
         "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
         "language": "JavaScript",
-        "stars_today": 544,
-        "stars_total": 39554,
+        "stars_today": 452,
+        "stars_total": 40072,
         "description_zh": "ToolJet 是 ToolJet AI 的开源基础 - ToolJet AI 是用于构建内部工具、仪表板、业务应用程序、工作流程和 AI 代理的企业应用程序生成平台 🚀"
       },
       {
-        "full_name": "HKUDS/CLI-Anything",
-        "url": "/HKUDS/CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "full_name": "cactus-compute/needle",
+        "url": "/cactus-compute/needle",
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "language": "Python",
-        "stars_today": 118,
-        "stars_total": 47368,
-        "description_zh": "“CLI-Anything：使所有软件代理原生”--CLI-Hub：https://clianything.cc/"
+        "stars_today": 443,
+        "stars_total": 6621,
+        "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
       }
     ],
     "weekly": [
@@ -117,8 +72,8 @@
         "url": "/cathrynlavery/diagram-design",
         "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "language": "HTML",
-        "stars_today": 14735,
-        "stars_total": 18661,
+        "stars_today": 15600,
+        "stars_total": 19601,
         "description_zh": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
       },
       {
@@ -126,8 +81,8 @@
         "url": "/semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "language": "Python",
-        "stars_today": 5339,
-        "stars_total": 7946,
+        "stars_today": 5284,
+        "stars_total": 8212,
         "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
       },
       {
@@ -135,44 +90,35 @@
         "url": "/PrimeIntellect-ai/prime-agent",
         "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "language": "TypeScript",
-        "stars_today": 8488,
-        "stars_total": 16299,
+        "stars_today": 6435,
+        "stars_total": 16592,
         "description_zh": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
-      },
-      {
-        "full_name": "megadose/holehe",
-        "url": "/megadose/holehe",
-        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-        "language": "Python",
-        "stars_today": 1059,
-        "stars_total": 13126,
-        "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
       },
       {
         "full_name": "NVIDIA-NeMo/Switchyard",
         "url": "/NVIDIA-NeMo/Switchyard",
         "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
         "language": "Rust",
-        "stars_today": 1326,
-        "stars_total": 1587,
+        "stars_today": 1435,
+        "stars_total": 1697,
         "description_zh": "Switchyard 允许 LLM 应用程序跨模型和提供商路由流量，同时保留本机 OpenAI 和 Anthropic API 兼容性 - 实现灵活的模型选择、基准测试和成本/性能优化。"
       },
       {
-        "full_name": "vitali87/code-graph-rag",
-        "url": "/vitali87/code-graph-rag",
-        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "full_name": "megadose/holehe",
+        "url": "/megadose/holehe",
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "language": "Python",
-        "stars_today": 1756,
-        "stars_total": 4373,
-        "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
+        "stars_today": 1287,
+        "stars_total": 13300,
+        "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
       },
       {
         "full_name": "cactus-compute/needle",
         "url": "/cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "language": "Python",
-        "stars_today": 2488,
-        "stars_total": 6082,
+        "stars_today": 2950,
+        "stars_total": 6621,
         "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
       },
       {
@@ -180,35 +126,35 @@
         "url": "/macro-inc/macro",
         "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
         "language": "Rust",
-        "stars_today": 2434,
-        "stars_total": 3276,
+        "stars_today": 2588,
+        "stars_total": 3422,
         "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
+      },
+      {
+        "full_name": "vitali87/code-graph-rag",
+        "url": "/vitali87/code-graph-rag",
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "language": "Python",
+        "stars_today": 1686,
+        "stars_total": 4434,
+        "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
       },
       {
         "full_name": "ToolJet/ToolJet",
         "url": "/ToolJet/ToolJet",
         "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
         "language": "JavaScript",
-        "stars_today": 1047,
-        "stars_total": 39554,
+        "stars_today": 1518,
+        "stars_total": 40072,
         "description_zh": "ToolJet 是 ToolJet AI 的开源基础 - ToolJet AI 是用于构建内部工具、仪表板、业务应用程序、工作流程和 AI 代理的企业应用程序生成平台 🚀"
-      },
-      {
-        "full_name": "TencentCloud/TencentDB-Agent-Memory",
-        "url": "/TencentCloud/TencentDB-Agent-Memory",
-        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-        "language": "TypeScript",
-        "stars_today": 3956,
-        "stars_total": 21998,
-        "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
       },
       {
         "full_name": "addyosmani/agent-skills",
         "url": "/addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "JavaScript",
-        "stars_today": 3300,
-        "stars_total": 87510,
+        "stars_today": 2882,
+        "stars_total": 87778,
         "description_zh": "AI 编码代理的生产级工程技能。"
       },
       {
@@ -216,28 +162,46 @@
         "url": "/3b1b/manim",
         "description": "Animation engine for explanatory math videos",
         "language": "Python",
-        "stars_today": 2008,
-        "stars_total": 91238,
+        "stars_today": 1978,
+        "stars_total": 91362,
         "description_zh": "用于解释数学视频的动画引擎"
+      },
+      {
+        "full_name": "basecamp/omarchy",
+        "url": "/basecamp/omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars_today": 759,
+        "stars_total": 25430,
+        "description_zh": "美丽、现代、有主见的 Linux"
       }
     ],
     "monthly": [
       {
+        "full_name": "bojieli/ai-agent-book",
+        "url": "/bojieli/ai-agent-book",
+        "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+        "language": "Python",
+        "stars_today": 37110,
+        "stars_total": 37926,
+        "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+      },
+      {
         "full_name": "diegosouzapw/OmniRoute",
         "url": "/diegosouzapw/OmniRoute",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 339 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "language": "TypeScript",
-        "stars_today": 31196,
-        "stars_total": 48608,
-        "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、339 个提供商（90 多个免费）、1200 多个模型 — Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 450 多名贡献者构建"
+        "stars_today": 31374,
+        "stars_total": 49197,
+        "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、340 个提供商（90 多个免费）、1200 多个模型 — Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 450 多名贡献者构建"
       },
       {
         "full_name": "koala73/worldmonitor",
         "url": "/koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "language": "TypeScript",
-        "stars_today": 20570,
-        "stars_total": 82151,
+        "stars_today": 20810,
+        "stars_total": 82419,
         "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
       },
       {
@@ -245,8 +209,8 @@
         "url": "/1jehuang/jcode",
         "description": "The most RAM efficient harness",
         "language": "Rust",
-        "stars_today": 9406,
-        "stars_total": 17648,
+        "stars_today": 9481,
+        "stars_total": 17756,
         "description_zh": "RAM 效率最高的线束"
       },
       {
@@ -254,8 +218,8 @@
         "url": "/TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
         "language": "TypeScript",
-        "stars_today": 13073,
-        "stars_total": 21998,
+        "stars_today": 13308,
+        "stars_total": 22261,
         "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
       },
       {
@@ -263,8 +227,8 @@
         "url": "/zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "language": "PowerShell",
-        "stars_today": 17376,
-        "stars_total": 25509,
+        "stars_today": 17554,
+        "stars_total": 25718,
         "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
       },
       {
@@ -272,63 +236,54 @@
         "url": "/pingdotgg/t3code",
         "description": "",
         "language": "TypeScript",
-        "stars_today": 4953,
-        "stars_total": 18883,
+        "stars_today": 5027,
+        "stars_total": 18965,
         "description_zh": null
-      },
-      {
-        "full_name": "stablyai/orca",
-        "url": "/stablyai/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "language": "TypeScript",
-        "stars_today": 26744,
-        "stars_total": 46136,
-        "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和 VPS 上使用。"
-      },
-      {
-        "full_name": "mattpocock/skills",
-        "url": "/mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars_today": 47580,
-        "stars_total": 218419,
-        "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
       },
       {
         "full_name": "earendil-works/pi",
         "url": "/earendil-works/pi",
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
         "language": "TypeScript",
-        "stars_today": 19831,
-        "stars_total": 90935,
+        "stars_today": 19903,
+        "stars_total": 91562,
         "description_zh": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
-      },
-      {
-        "full_name": "HKUDS/DeepTutor",
-        "url": "/HKUDS/DeepTutor",
-        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-        "language": "Python",
-        "stars_today": 9896,
-        "stars_total": 35793,
-        "description_zh": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
       },
       {
         "full_name": "every-app/open-seo",
         "url": "/every-app/open-seo",
         "description": "Open source alternative to Semrush and Ahrefs",
         "language": "TypeScript",
-        "stars_today": 7741,
-        "stars_total": 12060,
+        "stars_today": 7870,
+        "stars_total": 12219,
         "description_zh": "Semrush 和 Ahrefs 的开源替代方案"
+      },
+      {
+        "full_name": "mattpocock/skills",
+        "url": "/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars_today": 46346,
+        "stars_total": 219346,
+        "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
       },
       {
         "full_name": "virgiliojr94/book-to-skill",
         "url": "/virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": "Python",
-        "stars_today": 13193,
-        "stars_total": 21860,
+        "stars_today": 13494,
+        "stars_total": 22240,
         "description_zh": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      },
+      {
+        "full_name": "stablyai/orca",
+        "url": "/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "language": "TypeScript",
+        "stars_today": 26429,
+        "stars_total": 46630,
+        "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和 VPS 上使用。"
       }
     ]
   }
