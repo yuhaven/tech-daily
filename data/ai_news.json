@@ -1,175 +1,211 @@
 {
-  "generated_at": "2026-08-17T01:59:24+00:00",
+  "generated_at": "2026-08-18T01:55:12+00:00",
   "hn": [
     {
-      "id": 49289112,
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "domain": "blog.google",
-      "points": 966,
-      "comments": 491,
-      "author": "thisisauserid",
-      "time": 1786641802,
-      "title_zh": "双子座3.7闪存"
-    },
-    {
-      "id": 49312845,
-      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "domain": "davidepiffer.com",
-      "points": 594,
-      "comments": 487,
-      "author": "rzk",
-      "time": 1786817582,
-      "title_zh": "人工智能并不是比数学家思考得好，而是比他们记忆力好"
+      "id": 49324087,
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "domain": "daringfireball.net",
+      "points": 765,
+      "comments": 674,
+      "author": "ropbear",
+      "time": 1786917223,
+      "title_zh": "Anthropic在《克劳德》中的“水印”文本掺假是对写作的歪曲"
     },
     {
       "id": 49319556,
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "domain": "platform.claude.com",
-      "points": 546,
-      "comments": 228,
+      "points": 740,
+      "comments": 281,
       "author": "tosh",
       "time": 1786884501,
       "title_zh": "克劳德：系统提示"
     },
     {
-      "id": 49300314,
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "domain": "blog.google",
-      "points": 491,
-      "comments": 283,
-      "author": "u1hcw9nx",
-      "time": 1786722190,
-      "title_zh": "谷歌正在通过同态加密使私人人工智能变得实用"
-    },
-    {
-      "id": 49309451,
-      "title": "Working with AI feels more like leadership than coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "domain": "allen.bargi.org",
-      "points": 321,
-      "comments": 198,
-      "author": "allenb",
-      "time": 1786790381,
-      "title_zh": "与人工智能一起工作感觉更像是领导而不是编码"
-    },
-    {
-      "id": 49317760,
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "domain": "littlelearner-ll.github.io",
-      "points": 234,
-      "comments": 205,
-      "author": "porridgeraisin",
-      "time": 1786865873,
-      "title_zh": "如果法学硕士从未见过五年级以上的材料，会发生什么？"
+      "id": 49336573,
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "domain": "rickmanelius.com",
+      "points": 596,
+      "comments": 373,
+      "author": "mooreds",
+      "time": 1786996035,
+      "title_zh": "AI;DR（AI；未读）"
     },
     {
       "id": 49320611,
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
-      "points": 226,
-      "comments": 89,
+      "points": 323,
+      "comments": 128,
       "author": "mlenhard",
       "time": 1786891495,
       "title_zh": "人工智能信用转售经济"
     },
     {
-      "id": 49323381,
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "domain": "bloomberg.com",
-      "points": 200,
-      "comments": 145,
-      "author": "zacharyozer",
-      "time": 1786912276,
-      "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易"
+      "id": 49331423,
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "domain": "wiz.io",
+      "points": 317,
+      "comments": 125,
+      "author": "galnagli",
+      "time": 1786976318,
+      "title_zh": "AI 生成的 GitHub Copilot “Autofix” 允许 Snowflake 的 Jira 受到损害"
     },
     {
-      "id": 49313367,
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "domain": "science.org",
-      "points": 180,
-      "comments": 90,
-      "author": "AnodicElegy",
-      "time": 1786821173,
-      "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路"
+      "id": 49329575,
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "domain": "blog.roboflow.com",
+      "points": 302,
+      "comments": 152,
+      "author": "plurby",
+      "time": 1786968582,
+      "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型"
     },
     {
-      "id": 49316271,
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "domain": "anthropic.com",
-      "points": 180,
-      "comments": 130,
-      "author": "maxutility",
-      "time": 1786846373,
-      "title_zh": "新兴多智能体系统的模式和问题"
-    },
-    {
-      "id": 49269090,
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "domain": "discoveredmaterials.com",
-      "points": 161,
-      "comments": 35,
-      "author": "advaith08",
-      "time": 1786521080,
-      "title_zh": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理"
-    },
-    {
-      "id": 49324087,
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "domain": "daringfireball.net",
-      "points": 147,
+      "id": 49331220,
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "domain": "librarian.net",
+      "points": 257,
       "comments": 156,
-      "author": "ropbear",
-      "time": 1786917223,
-      "title_zh": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲"
+      "author": "ColinWright",
+      "time": 1786975676,
+      "title_zh": "如何禁用或避免侵入性人工智能"
+    },
+    {
+      "id": 49323686,
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "domain": "reuters.com",
+      "points": 244,
+      "comments": 151,
+      "author": "root-parent",
+      "time": 1786914430,
+      "title_zh": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额"
+    },
+    {
+      "id": 49325789,
+      "title": "On AI regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "domain": "twitter.com",
+      "points": 235,
+      "comments": 498,
+      "author": "jacquesm",
+      "time": 1786931996,
+      "title_zh": "关于人工智能监管和消息传递"
+    },
+    {
+      "id": 49334991,
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "domain": "arxiv.org",
+      "points": 162,
+      "comments": 36,
+      "author": "linggen",
+      "time": 1786989299,
+      "title_zh": "Rust 中的 GPU 卸载：便携、安全且快速"
+    },
+    {
+      "id": 49332564,
+      "title": "Anthropic's War on open source AI",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "domain": "twitter.com",
+      "points": 134,
+      "comments": 57,
+      "author": "bilsbie",
+      "time": 1786980274,
+      "title_zh": "Anthropic 对开源人工智能的战争"
+    },
+    {
+      "id": 49337602,
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "domain": "openrouter.ai",
+      "points": 121,
+      "comments": 53,
+      "author": "Topfi",
+      "time": 1787000598,
+      "title_zh": "GPT-5.6 Sol 定价降低 50%"
     }
   ],
   "media": [
     {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "source": "TechCrunch",
-      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
-      "time": 1786913824,
-      "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "title_zh": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter"
+      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "time": 1787010986,
+      "snippet": "The model maker added $18 billion in annualized revenue in two months.",
+      "title_zh": "Anthropic的年化收入飙升至$65B"
     },
     {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "source": "TechCrunch",
-      "published": "Sun, 16 Aug 2026 20:32:01 +0000",
-      "time": 1786912321,
-      "snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "title_zh": "为什么人们不相信马克·扎克伯格的人工智能未来"
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "time": 1787002025,
+      "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "title_zh": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队"
     },
     {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "source": "TechCrunch",
-      "published": "Sun, 16 Aug 2026 16:53:51 +0000",
-      "time": 1786899231,
-      "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "title_zh": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”"
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 17 Aug 2026 19:16:09 +0000",
+      "time": 1786994169,
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its",
+      "title_zh": "Flock 的防守者缺少什么"
     },
     {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "source": "Ars Technica",
+      "published": "Mon, 17 Aug 2026 18:13:47 +0000",
+      "time": 1786990427,
+      "snippet": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
+      "title_zh": "隐藏的 Airtag 揭示亚马逊正在扔掉善本来训练人工智能"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "source": "TechCrunch",
-      "published": "Sat, 15 Aug 2026 21:29:19 +0000",
-      "time": 1786829359,
-      "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "title_zh": "女子声称她的继父使用 Grok 将童年照片变成露骨图像"
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "time": 1786984724,
+      "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "title_zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "time": 1786983312,
+      "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "title_zh": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud"
+    },
+    {
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "source": "Ars Technica",
+      "published": "Mon, 17 Aug 2026 14:22:54 +0000",
+      "time": 1786976574,
+      "snippet": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+      "title_zh": "Nvidia 披露了 SpaceX 价值 210 亿美元的股份"
+    },
+    {
+      "title": "What happens when a kid’s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+      "time": 1786957200,
+      "snippet": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dr",
+      "title_zh": "当孩子的机器人最好的朋友去世时会发生什么？"
     },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -181,15 +217,6 @@
       "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司"
     },
     {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "source": "Ars Technica",
-      "published": "Fri, 14 Aug 2026 14:27:14 +0000",
-      "time": 1786717634,
-      "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战"
-    },
-    {
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
       "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "source": "MIT Tech Review",
@@ -197,33 +224,6 @@
       "time": 1786628470,
       "snippet": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing ba",
       "title_zh": "Flock 正在收紧规则，以应对日益增长的监控强烈反对"
-    },
-    {
-      "title": "How kids feel about AI, in their own words",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Tech Review",
-      "published": "Thu, 13 Aug 2026 09:00:00 +0000",
-      "time": 1786611600,
-      "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millenni",
-      "title_zh": "孩子们如何看待人工智能，用他们自己的话说"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Tech Review",
-      "published": "Wed, 12 Aug 2026 16:51:57 +0000",
-      "time": 1786553517,
-      "snippet": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potenti",
-      "title_zh": "使用可信数据扩展人工智能代理"
-    },
-    {
-      "title": "AI professors are negotiating the new realities of academic research",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 10 Aug 2026 20:00:00 +0000",
-      "time": 1786392000,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San ",
-      "title_zh": "人工智能教授正在讨论学术研究的新现实"
     }
   ]
 }

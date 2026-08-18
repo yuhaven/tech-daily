@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:59:25+00:00",
+  "generated_at": "2026-08-18T01:55:13+00:00",
   "showhn": [
     {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
@@ -55,7 +55,7 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
-      "points": 532,
+      "points": 533,
       "comments": 183,
       "author": "HenryNdubuaku",
       "time": "2026-08-10T17:22:07Z",
@@ -157,8 +157,8 @@
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "domain": "pcworld.com",
-      "points": 1712,
-      "comments": 693,
+      "points": 1732,
+      "comments": 710,
       "author": "DemiGuru",
       "time": "2026-08-14T19:03:20Z",
       "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
@@ -204,6 +204,16 @@
       "title_zh": "手写对大脑有好处"
     },
     {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "domain": "huggingface.co",
+      "points": 1423,
+      "comments": 789,
+      "author": "erdaltoprak",
+      "time": "2026-08-14T15:00:00Z",
+      "title_zh": "骐文3.8 27B"
+    },
+    {
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "domain": "seangoedecke.com",
@@ -212,16 +222,6 @@
       "author": "MaxMussio",
       "time": "2026-08-03T21:13:53Z",
       "title_zh": "法学硕士奖励专业知识"
-    },
-    {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "domain": "huggingface.co",
-      "points": 1410,
-      "comments": 783,
-      "author": "erdaltoprak",
-      "time": "2026-08-14T15:00:00Z",
-      "title_zh": "骐文3.8 27B"
     },
     {
       "title": "Kimi-K3 on HuggingFace",
