@@ -1,157 +1,202 @@
 {
-  "generated_at": "2026-08-18T01:55:12+00:00",
+  "generated_at": "2026-08-19T01:57:11+00:00",
   "hn": [
-    {
-      "id": 49324087,
-      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "domain": "daringfireball.net",
-      "points": 765,
-      "comments": 674,
-      "author": "ropbear",
-      "time": 1786917223,
-      "title_zh": "Anthropic在《克劳德》中的“水印”文本掺假是对写作的歪曲"
-    },
-    {
-      "id": 49319556,
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "domain": "platform.claude.com",
-      "points": 740,
-      "comments": 281,
-      "author": "tosh",
-      "time": 1786884501,
-      "title_zh": "克劳德：系统提示"
-    },
     {
       "id": 49336573,
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 596,
-      "comments": 373,
+      "points": 1061,
+      "comments": 666,
       "author": "mooreds",
       "time": 1786996035,
       "title_zh": "AI;DR（AI；未读）"
     },
     {
-      "id": 49320611,
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "domain": "vectoral.com",
-      "points": 323,
-      "comments": 128,
-      "author": "mlenhard",
-      "time": 1786891495,
-      "title_zh": "人工智能信用转售经济"
+      "id": 49348751,
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "domain": "support.claude.com",
+      "points": 261,
+      "comments": 230,
+      "author": "tyre",
+      "time": 1787072535,
+      "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销"
     },
     {
-      "id": 49331423,
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "domain": "wiz.io",
-      "points": 317,
-      "comments": 125,
-      "author": "galnagli",
-      "time": 1786976318,
-      "title_zh": "AI 生成的 GitHub Copilot “Autofix” 允许 Snowflake 的 Jira 受到损害"
+      "id": 49351330,
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "domain": "onethousandmeans.com",
+      "points": 217,
+      "comments": 228,
+      "author": "alexeigannon",
+      "time": 1787081429,
+      "title_zh": "挪威应该收购 OpenAI"
     },
     {
-      "id": 49329575,
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "domain": "blog.roboflow.com",
-      "points": 302,
-      "comments": 152,
-      "author": "plurby",
-      "time": 1786968582,
-      "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型"
-    },
-    {
-      "id": 49331220,
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "domain": "librarian.net",
-      "points": 257,
-      "comments": 156,
-      "author": "ColinWright",
-      "time": 1786975676,
-      "title_zh": "如何禁用或避免侵入性人工智能"
-    },
-    {
-      "id": 49323686,
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "domain": "reuters.com",
-      "points": 244,
-      "comments": 151,
-      "author": "root-parent",
-      "time": 1786914430,
-      "title_zh": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额"
-    },
-    {
-      "id": 49325789,
-      "title": "On AI regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "id": 49344643,
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
       "domain": "twitter.com",
-      "points": 235,
-      "comments": 498,
-      "author": "jacquesm",
-      "time": 1786931996,
-      "title_zh": "关于人工智能监管和消息传递"
+      "points": 153,
+      "comments": 64,
+      "author": "porridgeraisin",
+      "time": 1787055778,
+      "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序"
     },
     {
-      "id": 49334991,
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/abs/2608.13759",
-      "domain": "arxiv.org",
-      "points": 162,
-      "comments": 36,
-      "author": "linggen",
-      "time": 1786989299,
-      "title_zh": "Rust 中的 GPU 卸载：便携、安全且快速"
+      "id": 49352806,
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "domain": "cdn.kuber.studio",
+      "points": 112,
+      "comments": 75,
+      "author": "amrrs",
+      "time": 1787087661,
+      "title_zh": "Claude Code 教 macOS 本机打印到 HP Laser 1008a"
     },
     {
-      "id": 49332564,
-      "title": "Anthropic's War on open source AI",
-      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "id": 49353339,
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "domain": "fx.sh",
+      "points": 76,
+      "comments": 48,
+      "author": "handfuloflight",
+      "time": 1787090421,
+      "title_zh": "fx ：小型、开放、本机编码代理。"
+    },
+    {
+      "id": 49348136,
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io",
+      "domain": "machine0.io",
+      "points": 61,
+      "comments": 37,
+      "author": "bwm",
+      "time": 1787070402,
+      "title_zh": "启动 HN: machine0 (YC S26) – 从 CLI 启动持久 CPU 和 GPU 虚拟机"
+    },
+    {
+      "id": 49353432,
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "domain": "linear.app",
+      "points": 42,
+      "comments": 19,
+      "author": "giuliomagnifico",
+      "time": 1787090887,
+      "title_zh": "软件团队中的人工智能使用模式"
+    },
+    {
+      "id": 49305969,
+      "title": "Baking a Model: A Metaphor for LLM Training",
+      "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+      "domain": "newsletter.kentbeck.com",
+      "points": 31,
+      "comments": 5,
+      "author": "KentBeck",
+      "time": 1786751205,
+      "title_zh": "烘焙模型：LLM 培训的比喻"
+    },
+    {
+      "id": 49352930,
+      "title": "OpenAI pauses frontier model training",
+      "url": "https://twitter.com/sama/status/2089787807611195475",
       "domain": "twitter.com",
-      "points": 134,
-      "comments": 57,
-      "author": "bilsbie",
-      "time": 1786980274,
-      "title_zh": "Anthropic 对开源人工智能的战争"
+      "points": 24,
+      "comments": 3,
+      "author": "vinyl7",
+      "time": 1787088275,
+      "title_zh": "OpenAI 暂停前沿模型训练"
     },
     {
-      "id": 49337602,
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "domain": "openrouter.ai",
-      "points": 121,
-      "comments": 53,
-      "author": "Topfi",
-      "time": 1787000598,
-      "title_zh": "GPT-5.6 Sol 定价降低 50%"
+      "id": 49347015,
+      "title": "AI won't solve the work-theater problem",
+      "url": "https://think-twice.me/?p=102",
+      "domain": "think-twice.me",
+      "points": 22,
+      "comments": 3,
+      "author": "zug_zug",
+      "time": 1787066489,
+      "title_zh": "人工智能无法解决工作场所问题"
+    },
+    {
+      "id": 49353484,
+      "title": "GPT-5.6 Sol: 70% off in Devin",
+      "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
+      "domain": "devin.ai",
+      "points": 16,
+      "comments": 0,
+      "author": "mirzap",
+      "time": 1787091134,
+      "title_zh": "GPT-5.6 Sol：德温 70% 折扣"
     }
   ],
   "media": [
     {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "source": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
-      "time": 1787010986,
-      "snippet": "The model maker added $18 billion in annualized revenue in two months.",
-      "title_zh": "Anthropic的年化收入飙升至$65B"
+      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "time": 1787091265,
+      "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "title_zh": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台"
     },
     {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "source": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "time": 1787002025,
-      "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "title_zh": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队"
+      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "time": 1787076000,
+      "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process",
+      "title_zh": "Hugging Face 泄露后 OpenAI 制定了新的保障措施"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch",
+      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "time": 1787073718,
+      "snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "title_zh": "Etched 估值一个月内翻倍至 $21B"
+    },
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TechCrunch",
+      "published": "Tue, 18 Aug 2026 16:19:10 +0000",
+      "time": 1787069950,
+      "snippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "title_zh": "为什么苹果配备摄像头的 AirPods 可能不是消费者担心的“变态 Pod”"
+    },
+    {
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "source": "Ars Technica",
+      "published": "Tue, 18 Aug 2026 13:00:04 +0000",
+      "time": 1787058004,
+      "snippet": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+      "title_zh": "微软副驾驶揭示了导致其被黑客攻击的秘密输入"
+    },
+    {
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 18 Aug 2026 10:06:43 +0000",
+      "time": 1787047603,
+      "snippet": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI re",
+      "title_zh": "我们仍然不知道人们如何真正使用人工智能"
+    },
+    {
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "time": 1787043600,
+      "snippet": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for t",
+      "title_zh": "人工智能的递归自我完善可能不会来得那么快"
     },
     {
       "title": "What Flock’s defenders are missing",
@@ -159,7 +204,7 @@
       "source": "MIT Tech Review",
       "published": "Mon, 17 Aug 2026 19:16:09 +0000",
       "time": 1786994169,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known fo",
       "title_zh": "Flock 的防守者缺少什么"
     },
     {
@@ -172,33 +217,6 @@
       "title_zh": "隐藏的 Airtag 揭示亚马逊正在扔掉善本来训练人工智能"
     },
     {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "source": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "time": 1786984724,
-      "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "title_zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能"
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "time": 1786983312,
-      "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "title_zh": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud"
-    },
-    {
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "source": "Ars Technica",
-      "published": "Mon, 17 Aug 2026 14:22:54 +0000",
-      "time": 1786976574,
-      "snippet": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "title_zh": "Nvidia 披露了 SpaceX 价值 210 亿美元的股份"
-    },
-    {
       "title": "What happens when a kid’s robot best friend dies?",
       "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "source": "MIT Tech Review",
@@ -206,24 +224,6 @@
       "time": 1786957200,
       "snippet": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dr",
       "title_zh": "当孩子的机器人最好的朋友去世时会发生什么？"
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "source": "Ars Technica",
-      "published": "Fri, 14 Aug 2026 17:26:53 +0000",
-      "time": 1786728413,
-      "snippet": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司"
-    },
-    {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "MIT Tech Review",
-      "published": "Thu, 13 Aug 2026 13:41:10 +0000",
-      "time": 1786628470,
-      "snippet": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing ba",
-      "title_zh": "Flock 正在收紧规则，以应对日益增长的监控强烈反对"
     }
   ]
 }

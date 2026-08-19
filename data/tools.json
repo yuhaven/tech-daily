@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-08-18T01:55:13+00:00",
+  "generated_at": "2026-08-19T01:57:12+00:00",
   "showhn": [
-    {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "domain": "news.ycombinator.com",
-      "points": 2935,
-      "comments": 360,
-      "author": "section33",
-      "time": "2026-07-19T14:41:16Z",
-      "title_zh": "Show HN：我用价值 1,600 美元的 ESP32 更换了价值 12 万美元的保龄球中心系统"
-    },
     {
       "title": "Show HN: Elevators",
       "url": "https://john.fun/elevators",
@@ -66,7 +56,7 @@
       "url": "https://news.ycombinator.com/item?id=49026810",
       "domain": "news.ycombinator.com",
       "points": 484,
-      "comments": 229,
+      "comments": 228,
       "author": "adam_rida",
       "time": "2026-07-23T19:26:01Z",
       "title_zh": "显示 HN：Echo – 使用开放权重模型以 1/3 成本获得寓言级结果"
@@ -76,7 +66,7 @@
       "url": "https://blackhole.plav.in",
       "domain": "blackhole.plav.in",
       "points": 477,
-      "comments": 194,
+      "comments": 193,
       "author": "aplavin",
       "time": "2026-07-23T13:29:24Z",
       "title_zh": "Show HN：可以放在房间里的物理精确黑洞"
@@ -116,23 +106,23 @@
       "url": "https://photosynthesis.camera",
       "domain": "photosynthesis.camera",
       "points": 328,
-      "comments": 304,
+      "comments": 305,
       "author": "sajomes",
       "time": "2026-08-08T22:47:10Z",
       "title_zh": "Show HN：iPhone 应用程序同时拍摄 2 个镜头的图像，融合成 1 张照片"
+    },
+    {
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "domain": "woxi.ad-si.com",
+      "points": 314,
+      "comments": 46,
+      "author": "adius",
+      "time": "2026-08-12T10:06:29Z",
+      "title_zh": "Show HN：Woxi - 开源 Mathematica / Wolfram 语言重新实现"
     }
   ],
   "hot": [
-    {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "domain": "news.ycombinator.com",
-      "points": 2935,
-      "comments": 360,
-      "author": "section33",
-      "time": "2026-07-19T14:41:16Z",
-      "title_zh": "Show HN：我用价值 1,600 美元的 ESP32 更换了价值 12 万美元的保龄球中心系统"
-    },
     {
       "title": "Don't be a meat proxy",
       "url": "https://gruhn.me/blog/2026-08-03/",
@@ -157,8 +147,8 @@
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "domain": "pcworld.com",
-      "points": 1732,
-      "comments": 710,
+      "points": 1746,
+      "comments": 713,
       "author": "DemiGuru",
       "time": "2026-08-14T19:03:20Z",
       "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
@@ -188,7 +178,7 @@
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "domain": "openai.com",
       "points": 1632,
-      "comments": 1158,
+      "comments": 1157,
       "author": "mfiguiere",
       "time": "2026-07-21T20:09:52Z",
       "title_zh": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件"
@@ -198,7 +188,7 @@
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "domain": "nealstephenson.substack.com",
       "points": 1491,
-      "comments": 670,
+      "comments": 669,
       "author": "dwwoelfel",
       "time": "2026-07-23T14:24:43Z",
       "title_zh": "手写对大脑有好处"
@@ -207,8 +197,8 @@
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "domain": "huggingface.co",
-      "points": 1423,
-      "comments": 789,
+      "points": 1428,
+      "comments": 791,
       "author": "erdaltoprak",
       "time": "2026-08-14T15:00:00Z",
       "title_zh": "骐文3.8 27B"
@@ -242,6 +232,16 @@
       "author": "eecc",
       "time": "2026-07-26T22:21:41Z",
       "title_zh": "美国公民在机场搜查期间擦拭 GrapheneOS 手机后被指控"
+    },
+    {
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "domain": "werd.io",
+      "points": 1243,
+      "comments": 932,
+      "author": "benwerd",
+      "time": "2026-07-20T14:21:47Z",
+      "title_zh": "中国的开放权重人工智能战略正在获胜"
     }
   ]
 }
