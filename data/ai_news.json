@@ -1,184 +1,184 @@
 {
-  "generated_at": "2026-08-19T01:57:11+00:00",
+  "generated_at": "2026-08-20T01:56:05+00:00",
   "hn": [
     {
-      "id": 49336573,
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "domain": "rickmanelius.com",
-      "points": 1061,
-      "comments": 666,
-      "author": "mooreds",
-      "time": 1786996035,
-      "title_zh": "AI;DR（AI；未读）"
+      "id": 49344643,
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "domain": "twitter.com",
+      "points": 311,
+      "comments": 218,
+      "author": "porridgeraisin",
+      "time": 1787055778,
+      "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序"
     },
     {
       "id": 49348751,
       "title": "Claude Code May–August 2026 weekly limits promotion",
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
       "domain": "support.claude.com",
-      "points": 261,
-      "comments": 230,
+      "points": 292,
+      "comments": 259,
       "author": "tyre",
       "time": 1787072535,
       "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销"
-    },
-    {
-      "id": 49351330,
-      "title": "Norway should buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "domain": "onethousandmeans.com",
-      "points": 217,
-      "comments": 228,
-      "author": "alexeigannon",
-      "time": 1787081429,
-      "title_zh": "挪威应该收购 OpenAI"
-    },
-    {
-      "id": 49344643,
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "domain": "twitter.com",
-      "points": 153,
-      "comments": 64,
-      "author": "porridgeraisin",
-      "time": 1787055778,
-      "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序"
-    },
-    {
-      "id": 49352806,
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "domain": "cdn.kuber.studio",
-      "points": 112,
-      "comments": 75,
-      "author": "amrrs",
-      "time": 1787087661,
-      "title_zh": "Claude Code 教 macOS 本机打印到 HP Laser 1008a"
-    },
-    {
-      "id": 49353339,
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "domain": "fx.sh",
-      "points": 76,
-      "comments": 48,
-      "author": "handfuloflight",
-      "time": 1787090421,
-      "title_zh": "fx ：小型、开放、本机编码代理。"
-    },
-    {
-      "id": 49348136,
-      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-      "url": "https://machine0.io",
-      "domain": "machine0.io",
-      "points": 61,
-      "comments": 37,
-      "author": "bwm",
-      "time": 1787070402,
-      "title_zh": "启动 HN: machine0 (YC S26) – 从 CLI 启动持久 CPU 和 GPU 虚拟机"
     },
     {
       "id": 49353432,
       "title": "AI usage patterns in software teams",
       "url": "https://linear.app/data",
       "domain": "linear.app",
-      "points": 42,
-      "comments": 19,
+      "points": 178,
+      "comments": 111,
       "author": "giuliomagnifico",
       "time": 1787090887,
       "title_zh": "软件团队中的人工智能使用模式"
     },
     {
-      "id": 49305969,
-      "title": "Baking a Model: A Metaphor for LLM Training",
-      "url": "https://newsletter.kentbeck.com/p/baking-a-model",
-      "domain": "newsletter.kentbeck.com",
-      "points": 31,
-      "comments": 5,
-      "author": "KentBeck",
-      "time": 1786751205,
-      "title_zh": "烘焙模型：LLM 培训的比喻"
+      "id": 49353339,
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "domain": "fx.sh",
+      "points": 177,
+      "comments": 87,
+      "author": "handfuloflight",
+      "time": 1787090421,
+      "title_zh": "fx ：小型、开放、本机编码代理。"
     },
     {
-      "id": 49352930,
-      "title": "OpenAI pauses frontier model training",
-      "url": "https://twitter.com/sama/status/2089787807611195475",
-      "domain": "twitter.com",
-      "points": 24,
+      "id": 49367350,
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "domain": "github.com",
+      "points": 134,
+      "comments": 77,
+      "author": "fg137",
+      "time": 1787174390,
+      "title_zh": "功能请求：支持 AGENTS.md"
+    },
+    {
+      "id": 49362728,
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "domain": "arxiv.org",
+      "points": 120,
+      "comments": 126,
+      "author": "jonbaer",
+      "time": 1787152465,
+      "title_zh": "人工智能时代的数学"
+    },
+    {
+      "id": 49347477,
+      "title": "MicroGPT-C in pure C hits 10M TPS on Apple M5",
+      "url": "https://github.com/vixhal-baraiya/microgpt-c",
+      "domain": "github.com",
+      "points": 120,
+      "comments": 41,
+      "author": "dhorthy",
+      "time": 1787068006,
+      "title_zh": "纯 C 语言中的 MicroGPT-C 在 Apple M5 上达到 1000 万 TPS"
+    },
+    {
+      "id": 49348136,
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io",
+      "domain": "machine0.io",
+      "points": 80,
+      "comments": 43,
+      "author": "bwm",
+      "time": 1787070402,
+      "title_zh": "启动 HN: machine0 (YC S26) – 从 CLI 启动持久 CPU 和 GPU 虚拟机"
+    },
+    {
+      "id": 49363710,
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "url": "https://github.com/onecli/onecli",
+      "domain": "github.com",
+      "points": 52,
+      "comments": 16,
+      "author": "guyb3",
+      "time": 1787156942,
+      "title_zh": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具"
+    },
+    {
+      "id": 49364223,
+      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+      "url": "https://demo.frugaltokens.com/",
+      "domain": "demo.frugaltokens.com",
+      "points": 27,
+      "comments": 6,
+      "author": "dpc94",
+      "time": 1787159255,
+      "title_zh": "Show HN：节俭代币 – 探索跨编码代理的成本和使用情况"
+    },
+    {
+      "id": 49321111,
+      "title": "If your agent commits a crime, who is responsible?",
+      "url": "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
+      "domain": "signalbloom.ai",
+      "points": 26,
+      "comments": 83,
+      "author": "GodelNumbering",
+      "time": 1786895183,
+      "title_zh": "如果你的代理人犯罪，谁负责？"
+    },
+    {
+      "id": 49367836,
+      "title": "Collaborative Human Agent Protocol (CHAP)",
+      "url": "https://github.com/BrightbeamAI/chap",
+      "domain": "github.com",
+      "points": 19,
       "comments": 3,
-      "author": "vinyl7",
-      "time": 1787088275,
-      "title_zh": "OpenAI 暂停前沿模型训练"
-    },
-    {
-      "id": 49347015,
-      "title": "AI won't solve the work-theater problem",
-      "url": "https://think-twice.me/?p=102",
-      "domain": "think-twice.me",
-      "points": 22,
-      "comments": 3,
-      "author": "zug_zug",
-      "time": 1787066489,
-      "title_zh": "人工智能无法解决工作场所问题"
-    },
-    {
-      "id": 49353484,
-      "title": "GPT-5.6 Sol: 70% off in Devin",
-      "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
-      "domain": "devin.ai",
-      "points": 16,
-      "comments": 0,
-      "author": "mirzap",
-      "time": 1787091134,
-      "title_zh": "GPT-5.6 Sol：德温 70% 折扣"
+      "author": "arsalanshahid",
+      "time": 1787177356,
+      "title_zh": "协作人工代理协议 (CHAP)"
     }
   ],
   "media": [
     {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
       "source": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "time": 1787091265,
-      "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "title_zh": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台"
+      "published": "Wed, 19 Aug 2026 23:32:00 +0000",
+      "time": 1787182320,
+      "snippet": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real an",
+      "title_zh": "Stripe 收购 OpenRouter 并不是因为它的“奇点”"
     },
     {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
       "source": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "time": 1787076000,
-      "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process",
-      "title_zh": "Hugging Face 泄露后 OpenAI 制定了新的保障措施"
+      "published": "Wed, 19 Aug 2026 22:10:46 +0000",
+      "time": 1787177446,
+      "snippet": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "title_zh": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic"
     },
     {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
       "source": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "time": 1787073718,
-      "snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "title_zh": "Etched 估值一个月内翻倍至 $21B"
+      "published": "Wed, 19 Aug 2026 21:51:23 +0000",
+      "time": 1787176283,
+      "snippet": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "title_zh": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道"
     },
     {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
       "source": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 16:19:10 +0000",
-      "time": 1787069950,
-      "snippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "title_zh": "为什么苹果配备摄像头的 AirPods 可能不是消费者担心的“变态 Pod”"
+      "published": "Wed, 19 Aug 2026 19:11:40 +0000",
+      "time": 1787166700,
+      "snippet": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance",
+      "title_zh": "人工智能现在应该赢得人们的支持——但事实并非如此"
     },
     {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "source": "Ars Technica",
-      "published": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "time": 1787058004,
-      "snippet": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "title_zh": "微软副驾驶揭示了导致其被黑客攻击的秘密输入"
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat",
+      "published": "Wed, 19 Aug 2026 14:18:12 GMT",
+      "time": 1787149092,
+      "snippet": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Res",
+      "title_zh": "VentureBeat 任命 Rob Strechay 为其首位首席分析师，扩大其企业人工智能研究力度"
     },
     {
       "title": "We still don’t know how people are really using AI",
@@ -208,15 +208,6 @@
       "title_zh": "Flock 的防守者缺少什么"
     },
     {
-      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-      "source": "Ars Technica",
-      "published": "Mon, 17 Aug 2026 18:13:47 +0000",
-      "time": 1786990427,
-      "snippet": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
-      "title_zh": "隐藏的 Airtag 揭示亚马逊正在扔掉善本来训练人工智能"
-    },
-    {
       "title": "What happens when a kid’s robot best friend dies?",
       "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "source": "MIT Tech Review",
@@ -224,6 +215,15 @@
       "time": 1786957200,
       "snippet": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dr",
       "title_zh": "当孩子的机器人最好的朋友去世时会发生什么？"
+    },
+    {
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat",
+      "published": "Tue, 19 May 2026 17:45:00 GMT",
+      "time": 1779212700,
+      "snippet": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list",
+      "title_zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
     }
   ]
 }

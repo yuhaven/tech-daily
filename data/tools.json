@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:57:12+00:00",
+  "generated_at": "2026-08-20T01:56:06+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -46,7 +46,7 @@
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
       "points": 533,
-      "comments": 183,
+      "comments": 184,
       "author": "HenryNdubuaku",
       "time": "2026-08-10T17:22:07Z",
       "title_zh": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人"
@@ -147,8 +147,8 @@
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "domain": "pcworld.com",
-      "points": 1746,
-      "comments": 713,
+      "points": 1751,
+      "comments": 714,
       "author": "DemiGuru",
       "time": "2026-08-14T19:03:20Z",
       "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
@@ -184,6 +184,16 @@
       "title_zh": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件"
     },
     {
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "domain": "openlogi.org",
+      "points": 1512,
+      "comments": 404,
+      "author": "amatheus",
+      "time": "2026-08-19T01:58:28Z",
+      "title_zh": "开放逻辑"
+    },
+    {
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "domain": "nealstephenson.substack.com",
@@ -197,7 +207,7 @@
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "domain": "huggingface.co",
-      "points": 1428,
+      "points": 1432,
       "comments": 791,
       "author": "erdaltoprak",
       "time": "2026-08-14T15:00:00Z",
@@ -224,24 +234,14 @@
       "title_zh": "HuggingFace 上的 Kimi-K3"
     },
     {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "domain": "techspot.com",
-      "points": 1340,
-      "comments": 1120,
-      "author": "eecc",
-      "time": "2026-07-26T22:21:41Z",
-      "title_zh": "美国公民在机场搜查期间擦拭 GrapheneOS 手机后被指控"
-    },
-    {
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "domain": "werd.io",
-      "points": 1243,
-      "comments": 932,
-      "author": "benwerd",
-      "time": "2026-07-20T14:21:47Z",
-      "title_zh": "中国的开放权重人工智能战略正在获胜"
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "domain": "seths.blog",
+      "points": 1347,
+      "comments": 681,
+      "author": "herbertl",
+      "time": "2026-08-18T13:22:38Z",
+      "title_zh": "亚马逊税"
     }
   ]
 }
