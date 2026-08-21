@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:56:06+00:00",
+  "generated_at": "2026-08-21T02:02:46+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -45,11 +45,21 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
-      "points": 533,
-      "comments": 184,
+      "points": 534,
+      "comments": 185,
       "author": "HenryNdubuaku",
       "time": "2026-08-10T17:22:07Z",
       "title_zh": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人"
+    },
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "domain": "simedw.com",
+      "points": 505,
+      "comments": 106,
+      "author": "simedw",
+      "time": "2026-08-20T12:04:38Z",
+      "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
     },
     {
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
@@ -110,16 +120,6 @@
       "author": "sajomes",
       "time": "2026-08-08T22:47:10Z",
       "title_zh": "Show HN：iPhone 应用程序同时拍摄 2 个镜头的图像，融合成 1 张照片"
-    },
-    {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "url": "https://woxi.ad-si.com",
-      "domain": "woxi.ad-si.com",
-      "points": 314,
-      "comments": 46,
-      "author": "adius",
-      "time": "2026-08-12T10:06:29Z",
-      "title_zh": "Show HN：Woxi - 开源 Mathematica / Wolfram 语言重新实现"
     }
   ],
   "hot": [
@@ -147,7 +147,7 @@
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "domain": "pcworld.com",
-      "points": 1751,
+      "points": 1759,
       "comments": 714,
       "author": "DemiGuru",
       "time": "2026-08-14T19:03:20Z",
@@ -174,21 +174,11 @@
       "title_zh": "纪念我的妻子 Elise Cawley，感谢她度过了 36 年的美好时光"
     },
     {
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "domain": "openai.com",
-      "points": 1632,
-      "comments": 1157,
-      "author": "mfiguiere",
-      "time": "2026-07-21T20:09:52Z",
-      "title_zh": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件"
-    },
-    {
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
       "domain": "openlogi.org",
-      "points": 1512,
-      "comments": 404,
+      "points": 1605,
+      "comments": 425,
       "author": "amatheus",
       "time": "2026-08-19T01:58:28Z",
       "title_zh": "开放逻辑"
@@ -207,8 +197,8 @@
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "domain": "huggingface.co",
-      "points": 1432,
-      "comments": 791,
+      "points": 1436,
+      "comments": 792,
       "author": "erdaltoprak",
       "time": "2026-08-14T15:00:00Z",
       "title_zh": "骐文3.8 27B"
@@ -224,6 +214,16 @@
       "title_zh": "法学硕士奖励专业知识"
     },
     {
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "domain": "seths.blog",
+      "points": 1387,
+      "comments": 692,
+      "author": "herbertl",
+      "time": "2026-08-18T13:22:38Z",
+      "title_zh": "亚马逊税"
+    },
+    {
       "title": "Kimi-K3 on HuggingFace",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
       "domain": "huggingface.co",
@@ -234,14 +234,14 @@
       "title_zh": "HuggingFace 上的 Kimi-K3"
     },
     {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "domain": "seths.blog",
-      "points": 1347,
-      "comments": 681,
-      "author": "herbertl",
-      "time": "2026-08-18T13:22:38Z",
-      "title_zh": "亚马逊税"
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "domain": "techspot.com",
+      "points": 1340,
+      "comments": 1120,
+      "author": "eecc",
+      "time": "2026-07-26T22:21:41Z",
+      "title_zh": "美国公民在机场搜查期间擦拭 GrapheneOS 手机后被指控"
     }
   ]
 }

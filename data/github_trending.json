@@ -1,114 +1,114 @@
 {
-  "generated_at": "2026-08-20T01:56:01+00:00",
+  "generated_at": "2026-08-21T02:02:39+00:00",
   "data": {
     "daily": [
       {
-        "full_name": "harry0703/MoneyPrinterTurbo",
-        "url": "/harry0703/MoneyPrinterTurbo",
-        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "language": "Python",
-        "stars_today": 2221,
-        "stars_total": 110837,
-        "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
-      },
-      {
-        "full_name": "volcengine/OpenViking",
-        "url": "/volcengine/OpenViking",
-        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-        "language": "Python",
-        "stars_today": 804,
-        "stars_total": 30245,
-        "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
-      },
-      {
-        "full_name": "chaitanyagiri/munder-difflin",
-        "url": "/chaitanyagiri/munder-difflin",
-        "description": "local multi-agent harness",
-        "language": "TypeScript",
-        "stars_today": 795,
-        "stars_total": 2713,
-        "description_zh": "本地多智能体利用"
-      },
-      {
-        "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
-        "url": "/mukul975/Anthropic-Cybersecurity-Skills",
-        "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-        "language": "Python",
-        "stars_today": 766,
-        "stars_total": 29868,
-        "description_zh": "AI 代理的 817 项结构化网络安全技能 · 映射到 6 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 和 MITRE F3（打击欺诈） · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 29 个安全域 · Apache 2.0"
-      },
-      {
-        "full_name": "nautechsystems/nautilus_trader",
-        "url": "/nautechsystems/nautilus_trader",
-        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-        "language": "Rust",
-        "stars_today": 80,
-        "stars_total": 26458,
-        "description_zh": "具有确定性事件驱动架构的生产级 Rust 原生交易引擎"
+        "full_name": "modular/modular",
+        "url": "/modular/modular",
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "stars_today": 268,
+        "stars_total": 27989,
+        "description_zh": "模块化平台（包括 MAX 和 Mojo）"
       },
       {
         "full_name": "mattpocock/skills",
         "url": "/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
-        "stars_today": 1894,
-        "stars_total": 223893,
+        "stars_today": 2192,
+        "stars_total": 226669,
         "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+      },
+      {
+        "full_name": "AprilNEA/OpenLogi",
+        "url": "/AprilNEA/OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "stars_today": 1545,
+        "stars_total": 11945,
+        "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
       },
       {
         "full_name": "obra/superpowers",
         "url": "/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
-        "stars_today": 557,
-        "stars_total": 274306,
+        "stars_today": 727,
+        "stars_total": 274977,
         "description_zh": "有效的代理技能框架和软件开发方法。"
       },
       {
-        "full_name": "jundot/omlx",
-        "url": "/jundot/omlx",
-        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-        "language": "Python",
-        "stars_today": 472,
-        "stars_total": 19852,
-        "description_zh": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
+        "full_name": "cursor/plugins",
+        "url": "/cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars_today": 449,
+        "stars_total": 4104,
+        "description_zh": "光标插件规范和官方插件"
       },
       {
         "full_name": "santifer/career-ops",
         "url": "/santifer/career-ops",
         "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
         "language": "JavaScript",
-        "stars_today": 198,
-        "stars_total": 65824,
+        "stars_today": 816,
+        "stars_total": 66734,
         "description_zh": "开源 AI 职位搜索：扫描职位门户，使用结构化 A-F 评分标准将列表评估为 1.0-5.0 分，定制您的简历，跟踪应用程序 — 在您的 AI 编码 CLI 中本地运行（Claude Code、Codex、OpenCode、Antigravity...）"
       },
       {
-        "full_name": "immich-app/immich",
-        "url": "/immich-app/immich",
-        "description": "High performance self-hosted photo and video management solution.",
-        "language": "TypeScript",
-        "stars_today": 128,
-        "stars_total": 111893,
-        "description_zh": "高性能自托管照片和视频管理解决方案。"
-      },
-      {
-        "full_name": "amadeusprotocol/node",
-        "url": "/amadeusprotocol/node",
-        "description": "",
+        "full_name": "akitaonrails/ai-memory",
+        "url": "/akitaonrails/ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "language": "Rust",
-        "stars_today": 1397,
-        "stars_total": 4574,
-        "description_zh": null
+        "stars_today": 332,
+        "stars_total": 3642,
+        "description_zh": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
       },
       {
-        "full_name": "marceloprates/prettymaps",
-        "url": "/marceloprates/prettymaps",
-        "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "url": "/harry0703/MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "language": "Python",
-        "stars_today": 63,
-        "stars_total": 13158,
-        "description_zh": "从 OpenStreetMap 数据绘制漂亮的地图！使用 osmnx +matplotlib + shapely 构建"
+        "stars_today": 2761,
+        "stars_total": 113018,
+        "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+      },
+      {
+        "full_name": "agent-substrate/substrate",
+        "url": "/agent-substrate/substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "stars_today": 22,
+        "stars_total": 1410,
+        "description_zh": "Agent Substrate：核心系统"
+      },
+      {
+        "full_name": "chaitanyagiri/munder-difflin",
+        "url": "/chaitanyagiri/munder-difflin",
+        "description": "local multi-agent harness",
+        "language": "TypeScript",
+        "stars_today": 507,
+        "stars_total": 3141,
+        "description_zh": "本地多智能体利用"
+      },
+      {
+        "full_name": "PostHog/posthog",
+        "url": "/PostHog/posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "stars_today": 60,
+        "stars_total": 38019,
+        "description_zh": "🦔 PostHog 是构建自动驾驶产品的领先平台。我们的开发工具——人工智能可观测性、分析、会话重放、标记、实验、错误跟踪、日志等——捕获代理诊断问题、发现机会和发布修复所需的所有上下文。从 Slack、Web、桌面或 MCP 掌控一切。"
+      },
+      {
+        "full_name": "mahlernim/google-timeline-visualizer",
+        "url": "/mahlernim/google-timeline-visualizer",
+        "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+        "language": "Kotlin",
+        "stars_today": 657,
+        "stars_total": 1617,
+        "description_zh": "使用您的 Google 位置记录（时间轴）数据可视化您这一年的旅行情况"
       }
     ],
     "weekly": [
@@ -117,17 +117,35 @@
         "url": "/cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "language": "HTML",
-        "stars_today": 14397,
-        "stars_total": 23418,
+        "stars_today": 11325,
+        "stars_total": 24342,
         "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
+      },
+      {
+        "full_name": "volcengine/OpenViking",
+        "url": "/volcengine/OpenViking",
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "stars_today": 2444,
+        "stars_total": 31059,
+        "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
+      },
+      {
+        "full_name": "basecamp/omarchy",
+        "url": "/basecamp/omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars_today": 2395,
+        "stars_total": 27064,
+        "description_zh": "美丽、现代、有主见的 Linux"
       },
       {
         "full_name": "cactus-compute/needle",
         "url": "/cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "language": "Python",
-        "stars_today": 3838,
-        "stars_total": 7835,
+        "stars_today": 3409,
+        "stars_total": 8137,
         "description_zh": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
       },
       {
@@ -135,90 +153,72 @@
         "url": "/semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "language": "Python",
-        "stars_today": 4005,
-        "stars_total": 9545,
+        "stars_today": 3674,
+        "stars_total": 9844,
         "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
       },
       {
-        "full_name": "megadose/holehe",
-        "url": "/megadose/holehe",
-        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-        "language": "Python",
-        "stars_today": 1704,
-        "stars_total": 13745,
-        "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
-      },
-      {
-        "full_name": "basecamp/omarchy",
-        "url": "/basecamp/omarchy",
-        "description": "Beautiful, Modern & Opinionated Linux",
-        "language": "Shell",
-        "stars_today": 2208,
-        "stars_total": 26788,
-        "description_zh": "美丽、现代、有主见的 Linux"
-      },
-      {
-        "full_name": "volcengine/OpenViking",
-        "url": "/volcengine/OpenViking",
-        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-        "language": "Python",
-        "stars_today": 1659,
-        "stars_total": 30245,
-        "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
-      },
-      {
-        "full_name": "macro-inc/macro",
-        "url": "/macro-inc/macro",
-        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "full_name": "NVIDIA-NeMo/Switchyard",
+        "url": "/NVIDIA-NeMo/Switchyard",
+        "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
         "language": "Rust",
-        "stars_today": 2557,
-        "stars_total": 3782,
-        "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
+        "stars_today": 932,
+        "stars_total": 1977,
+        "description_zh": "Switchyard 允许 LLM 应用程序跨模型和提供商路由流量，同时保留本机 OpenAI 和 Anthropic API 兼容性 - 实现灵活的模型选择、基准测试和成本/性能优化。"
       },
       {
-        "full_name": "unslothai/unsloth",
-        "url": "/unslothai/unsloth",
-        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-        "language": "Python",
-        "stars_today": 3338,
-        "stars_total": 73877,
-        "description_zh": "用于运行和训练 LLM 和扩散模型的本地 UI，包括 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 等。"
+        "full_name": "modular/modular",
+        "url": "/modular/modular",
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "stars_today": 744,
+        "stars_total": 27989,
+        "description_zh": "模块化平台（包括 MAX 和 Mojo）"
       },
       {
         "full_name": "harry0703/MoneyPrinterTurbo",
         "url": "/harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "language": "Python",
-        "stars_today": 7380,
-        "stars_total": 110837,
+        "stars_today": 9712,
+        "stars_total": 113018,
         "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
-      },
-      {
-        "full_name": "lightningpixel/modly",
-        "url": "/lightningpixel/modly",
-        "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-        "language": "TypeScript",
-        "stars_today": 1797,
-        "stars_total": 6914,
-        "description_zh": "用于从图像生成 3D 模型或使用本地 AI 进行提示的桌面应用程序 — 完全在您的 GPU 上运行"
       },
       {
         "full_name": "public-apis/public-apis",
         "url": "/public-apis/public-apis",
         "description": "A collective list of free APIs",
         "language": "Python",
-        "stars_today": 10183,
-        "stars_total": 466115,
+        "stars_today": 11259,
+        "stars_total": 467271,
         "description_zh": "免费 API 集合列表"
       },
       {
-        "full_name": "AlexsJones/llmfit",
-        "url": "/AlexsJones/llmfit",
-        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "full_name": "megadose/holehe",
+        "url": "/megadose/holehe",
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "language": "Python",
+        "stars_today": 1632,
+        "stars_total": 13836,
+        "description_zh": "holehe 允许您检查邮件是否在 Twitter、Instagram 等不同网站上使用，并且会通过忘记密码功能检索网站上的信息。"
+      },
+      {
+        "full_name": "AprilNEA/OpenLogi",
+        "url": "/AprilNEA/OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "language": "Rust",
-        "stars_today": 1545,
-        "stars_total": 33068,
-        "description_zh": "数百个模型和提供商。一个命令即可查找您的硬件上运行的内容。"
+        "stars_today": 2674,
+        "stars_total": 11945,
+        "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      },
+      {
+        "full_name": "lightningpixel/modly",
+        "url": "/lightningpixel/modly",
+        "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+        "language": "TypeScript",
+        "stars_today": 1855,
+        "stars_total": 7040,
+        "description_zh": "用于从图像生成 3D 模型或使用本地 AI 进行提示的桌面应用程序 — 完全在您的 GPU 上运行"
       }
     ],
     "monthly": [
@@ -227,8 +227,8 @@
         "url": "/block/buzz",
         "description": "A hive mind communication platform",
         "language": "Rust",
-        "stars_today": 28450,
-        "stars_total": 28680,
+        "stars_today": 28701,
+        "stars_total": 28926,
         "description_zh": "蜂巢思维交流平台"
       },
       {
@@ -236,8 +236,8 @@
         "url": "/permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "language": "Swift",
-        "stars_today": 9639,
-        "stars_total": 35653,
+        "stars_today": 9710,
+        "stars_total": 35711,
         "description_zh": "蓝牙网状聊天、IRC 氛围"
       },
       {
@@ -245,53 +245,53 @@
         "url": "/ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "language": "Python",
-        "stars_today": 20624,
-        "stars_total": 22336,
+        "stars_today": 18443,
+        "stars_total": 22684,
         "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
       },
       {
-        "full_name": "diegosouzapw/OmniRoute",
-        "url": "/diegosouzapw/OmniRoute",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
-        "language": "TypeScript",
-        "stars_today": 31584,
-        "stars_total": 51273,
-        "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、340 个提供商（90 多个免费）、1200 多个模型 — Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 450 多名贡献者构建"
+        "full_name": "citrolabs/ego-lite",
+        "url": "/citrolabs/ego-lite",
+        "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "language": "JavaScript",
+        "stars_today": 11627,
+        "stars_total": 12271,
+        "description_zh": "AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。"
       },
       {
         "full_name": "TencentCloud/TencentDB-Agent-Memory",
         "url": "/TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
         "language": "TypeScript",
-        "stars_today": 14200,
-        "stars_total": 23237,
+        "stars_today": 14407,
+        "stars_total": 23489,
         "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
+      },
+      {
+        "full_name": "diegosouzapw/OmniRoute",
+        "url": "/diegosouzapw/OmniRoute",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+        "language": "TypeScript",
+        "stars_today": 31270,
+        "stars_total": 52003,
+        "description_zh": "永远不要停止编码。免费 MIT AI 网关：一个端点、340 个提供商（90 多个免费）、1200 多个模型 — Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。适用于 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。配额感知自动回退、RTK+Caveman 压缩可节省 15-95% 的令牌、MCP/A2A、桌面/PWA。由 450 多名贡献者构建"
       },
       {
         "full_name": "zhaoxuya520/reverse-skill",
         "url": "/zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "language": "PowerShell",
-        "stars_today": 18446,
-        "stars_total": 26767,
+        "stars_today": 18662,
+        "stars_total": 27032,
         "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-      },
-      {
-        "full_name": "koala73/worldmonitor",
-        "url": "/koala73/worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "language": "TypeScript",
-        "stars_today": 21531,
-        "stars_total": 83235,
-        "description_zh": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
       },
       {
         "full_name": "pingdotgg/t3code",
         "url": "/pingdotgg/t3code",
         "description": "",
         "language": "TypeScript",
-        "stars_today": 5456,
-        "stars_total": 19592,
+        "stars_today": 5646,
+        "stars_total": 19783,
         "description_zh": null
       },
       {
@@ -299,8 +299,8 @@
         "url": "/microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "language": "Jupyter Notebook",
-        "stars_today": 13404,
-        "stars_total": 65695,
+        "stars_today": 13592,
+        "stars_total": 65928,
         "description_zh": "12 周，24 节课，全民人工智能！"
       },
       {
@@ -308,27 +308,27 @@
         "url": "/virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": "Python",
-        "stars_today": 14356,
-        "stars_total": 23139,
+        "stars_today": 14598,
+        "stars_total": 23427,
         "description_zh": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
-      },
-      {
-        "full_name": "1jehuang/jcode",
-        "url": "/1jehuang/jcode",
-        "description": "The most RAM efficient harness",
-        "language": "Rust",
-        "stars_today": 9437,
-        "stars_total": 18022,
-        "description_zh": "RAM 效率最高的线束"
       },
       {
         "full_name": "mattpocock/skills",
         "url": "/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
-        "stars_today": 46905,
-        "stars_total": 223893,
+        "stars_today": 47717,
+        "stars_total": 226669,
         "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+      },
+      {
+        "full_name": "1jehuang/jcode",
+        "url": "/1jehuang/jcode",
+        "description": "The most RAM efficient harness",
+        "language": "Rust",
+        "stars_today": 8972,
+        "stars_total": 18113,
+        "description_zh": "RAM 效率最高的线束"
       }
     ]
   }
