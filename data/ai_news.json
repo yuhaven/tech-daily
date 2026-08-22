@@ -1,175 +1,184 @@
 {
-  "generated_at": "2026-08-21T02:02:44+00:00",
+  "generated_at": "2026-08-22T01:55:06+00:00",
   "hn": [
     {
-      "id": 49371857,
-      "title": "Don't paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "domain": "dontpastetheai.com",
-      "points": 989,
-      "comments": 541,
-      "author": "pjerem",
-      "time": 1787214044,
-      "title_zh": "请不要粘贴AI"
-    },
-    {
-      "id": 49367350,
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "domain": "github.com",
-      "points": 355,
-      "comments": 216,
-      "author": "fg137",
-      "time": 1787174390,
-      "title_zh": "功能请求：支持 AGENTS.md"
-    },
-    {
-      "id": 49344643,
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "domain": "twitter.com",
-      "points": 338,
-      "comments": 223,
-      "author": "porridgeraisin",
-      "time": 1787055778,
-      "title_zh": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序"
+      "id": 49383026,
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "domain": "annas-archive.gl",
+      "points": 535,
+      "comments": 838,
+      "author": "Cider9986",
+      "time": 1787279867,
+      "title_zh": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍"
     },
     {
       "id": 49378768,
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
-      "points": 224,
-      "comments": 127,
+      "points": 361,
+      "comments": 206,
       "author": "danielvaughn",
       "time": 1787252736,
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
     },
     {
-      "id": 49375996,
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
+      "id": 49386699,
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "domain": "cymerys.com",
+      "points": 269,
+      "comments": 282,
+      "author": "rcymerys",
+      "time": 1787312885,
+      "title_zh": "我变得人工智能盲了"
+    },
+    {
+      "id": 49357530,
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "domain": "economist.com",
+      "points": 235,
+      "comments": 290,
+      "author": "dash2",
+      "time": 1787120011,
+      "title_zh": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究"
+    },
+    {
+      "id": 49388752,
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
       "domain": "github.com",
-      "points": 193,
-      "comments": 203,
-      "author": "Bluestein",
-      "time": 1787239562,
-      "title_zh": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出"
+      "points": 204,
+      "comments": 144,
+      "author": "aakil",
+      "time": 1787322712,
+      "title_zh": "克劳德：让克劳德停止像 BuzzFeed 文章一样说话"
     },
     {
       "id": 49375719,
       "title": "Anti-AI fonts are useless and harmful",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "domain": "blog.yaros.ae",
-      "points": 117,
-      "comments": 80,
+      "points": 204,
+      "comments": 161,
       "author": "speckx",
       "time": 1787238413,
       "title_zh": "抗AI字体无用且有害"
     },
     {
-      "id": 49382041,
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "domain": "mathstodon.xyz",
+      "id": 49390308,
+      "title": "What happens when a GPU reads memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "domain": "blog.doubleword.ai",
       "points": 100,
-      "comments": 82,
-      "author": "u1hcw9nx",
-      "time": 1787271312,
-      "title_zh": "在欧盟，版权不保护人工智能生成的内容"
+      "comments": 18,
+      "author": "ibobev",
+      "time": 1787329002,
+      "title_zh": "当 GPU 读取内存时会发生什么"
     },
     {
-      "id": 49374772,
-      "title": "Hacking with Claude on a $27 smart watch",
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "domain": "mikekasberg.com",
-      "points": 86,
-      "comments": 46,
+      "id": 49393051,
+      "title": "Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "domain": "allaboutcoding.ghinda.com",
+      "points": 81,
+      "comments": 84,
       "author": "speckx",
-      "time": 1787234889,
-      "title_zh": "与 Claude 一起在 27 美元的智能手表上进行黑客攻击"
+      "time": 1787341908,
+      "title_zh": "快速印象：比 Claude 使用 Codex 多的一周"
     },
     {
-      "id": 49363710,
-      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "url": "https://github.com/onecli/onecli",
+      "id": 49392331,
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "domain": "claude.com",
+      "points": 44,
+      "comments": 49,
+      "author": "garo-pro",
+      "time": 1787338108,
+      "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者"
+    },
+    {
+      "id": 49394827,
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "domain": "ozbrain.com",
+      "points": 38,
+      "comments": 12,
+      "author": "dariusmonsef",
+      "time": 1787353746,
+      "title_zh": "显示 HN：OzBrain，代理和团队之间的知识共享大脑"
+    },
+    {
+      "id": 49390739,
+      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "url": "https://github.com/proliferate-ai/proliferate",
       "domain": "github.com",
-      "points": 85,
-      "comments": 25,
-      "author": "guyb3",
-      "time": 1787156942,
-      "title_zh": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具"
+      "points": 37,
+      "comments": 15,
+      "author": "pablo24602",
+      "time": 1787330835,
+      "title_zh": "Show HN：Proliferate - 适用于任何编码代理的开源、自托管 Codex"
     },
     {
-      "id": 49373269,
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "domain": "franciscotrindade.me",
-      "points": 78,
-      "comments": 137,
-      "author": "franciscomt",
-      "time": 1787226140,
-      "title_zh": "人工智能并没有消除初级工程师的价值，反而增加了它"
-    },
-    {
-      "id": 49377155,
-      "title": "AI at Home Part 2: Multi-GPU Drifting",
-      "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-      "domain": "jdagostino.github.io",
-      "points": 21,
-      "comments": 1,
-      "author": "timmmmmmay",
-      "time": 1787244835,
-      "title_zh": "家庭人工智能第 2 部分：多 GPU 漂移"
-    },
-    {
-      "id": 49379261,
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures/",
-      "domain": "openai.com",
-      "points": 17,
-      "comments": 2,
-      "author": "logickkk1",
-      "time": 1787255209,
-      "title_zh": "介绍人工智能期货"
+      "id": 49331391,
+      "title": "Does whispering to agents in docs help?",
+      "url": "https://passo.uno/if-you-are-an-agent-read-this/",
+      "domain": "passo.uno",
+      "points": 27,
+      "comments": 9,
+      "author": "theletterf",
+      "time": 1786976201,
+      "title_zh": "在文档中向代理耳语有帮助吗？"
     }
   ],
   "media": [
     {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch",
-      "published": "Fri, 21 Aug 2026 00:13:44 +0000",
-      "time": 1787271224,
-      "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "title_zh": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元"
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "time": 1787353645,
+      "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restrict",
+      "title_zh": "Anthropic 的 Opus 4.6 是一台色情机器"
     },
     {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "source": "TechCrunch",
-      "published": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "time": 1787265397,
-      "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending",
-      "title_zh": "新数据表明，OpenAI 正在赢得商业用户的青睐"
+      "published": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "time": 1787351858,
+      "snippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "title_zh": "Nvidia 与数据中心开发商 Cloverleaf 合作"
     },
     {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "source": "TechCrunch",
-      "published": "Thu, 20 Aug 2026 22:09:51 +0000",
-      "time": 1787263791,
-      "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "title_zh": "ChatGPT 现在可以使用新的 Apple Messages 插件为您发送短信"
+      "published": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "time": 1787341419,
+      "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "title_zh": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型"
     },
     {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "source": "TechCrunch",
-      "published": "Thu, 20 Aug 2026 20:53:13 +0000",
-      "time": 1787259193,
-      "snippet": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "title_zh": "好吧，我们真的可以用尿液来冷却数据中心吗？"
+      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "time": 1787320800,
+      "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothin",
+      "title_zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？"
+    },
+    {
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "source": "Ars Technica",
+      "published": "Fri, 21 Aug 2026 11:00:53 +0000",
+      "time": 1787310053,
+      "snippet": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+      "title_zh": "随着 Meta AI 眼镜的需求激增，令人毛骨悚然的录音越来越难以避免"
     },
     {
       "title": "Debates over AI consciousness are a trap",
@@ -215,15 +224,6 @@
       "time": 1787043600,
       "snippet": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for t",
       "title_zh": "人工智能的递归自我完善可能不会来得那么快"
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat",
-      "published": "Tue, 19 May 2026 17:45:00 GMT",
-      "time": 1779212700,
-      "snippet": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list",
-      "title_zh": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。"
     }
   ]
 }
