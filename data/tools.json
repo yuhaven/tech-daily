@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:55:06+00:00",
+  "generated_at": "2026-08-23T02:06:28+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -35,8 +35,8 @@
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "domain": "simedw.com",
-      "points": 577,
-      "comments": 113,
+      "points": 588,
+      "comments": 117,
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
@@ -45,31 +45,11 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
-      "points": 535,
+      "points": 536,
       "comments": 185,
       "author": "HenryNdubuaku",
       "time": "2026-08-10T17:22:07Z",
       "title_zh": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人"
-    },
-    {
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "domain": "news.ycombinator.com",
-      "points": 484,
-      "comments": 228,
-      "author": "adam_rida",
-      "time": "2026-07-23T19:26:01Z",
-      "title_zh": "显示 HN：Echo – 使用开放权重模型以 1/3 成本获得寓言级结果"
-    },
-    {
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "domain": "blackhole.plav.in",
-      "points": 477,
-      "comments": 193,
-      "author": "aplavin",
-      "time": "2026-07-23T13:29:24Z",
-      "title_zh": "Show HN：可以放在房间里的物理精确黑洞"
     },
     {
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
@@ -85,8 +65,8 @@
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
-      "points": 361,
-      "comments": 206,
+      "points": 378,
+      "comments": 209,
       "author": "danielvaughn",
       "time": "2026-08-20T19:05:36Z",
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
@@ -120,6 +100,26 @@
       "author": "sajomes",
       "time": "2026-08-08T22:47:10Z",
       "title_zh": "Show HN：iPhone 应用程序同时拍摄 2 个镜头的图像，融合成 1 张照片"
+    },
+    {
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "domain": "woxi.ad-si.com",
+      "points": 314,
+      "comments": 46,
+      "author": "adius",
+      "time": "2026-08-12T10:06:29Z",
+      "title_zh": "Show HN: Woxi -开源Mathematica/Wolfram语言再实现"
+    },
+    {
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "domain": "github.com",
+      "points": 312,
+      "comments": 141,
+      "author": "leonickson",
+      "time": "2026-08-03T16:54:15Z",
+      "title_zh": "Show HN ：在Mac上运行4.3 GB RAM的80B Qwen ，在iPhone上运行35B"
     }
   ],
   "hot": [
@@ -147,8 +147,8 @@
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "domain": "pcworld.com",
-      "points": 1762,
-      "comments": 715,
+      "points": 1763,
+      "comments": 718,
       "author": "DemiGuru",
       "time": "2026-08-14T19:03:20Z",
       "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
@@ -164,6 +164,16 @@
       "title_zh": "显示 HN：电梯"
     },
     {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "domain": "blog.curiousquail.com",
+      "points": 1666,
+      "comments": 389,
+      "author": "speckx",
+      "time": "2026-08-20T20:07:26Z",
+      "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
+    },
+    {
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
       "domain": "writings.stephenwolfram.com",
@@ -174,34 +184,14 @@
       "title_zh": "纪念我的妻子 Elise Cawley，感谢她度过了 36 年的美好时光"
     },
     {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "domain": "blog.curiousquail.com",
-      "points": 1619,
-      "comments": 374,
-      "author": "speckx",
-      "time": "2026-08-20T20:07:26Z",
-      "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
-    },
-    {
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
       "domain": "openlogi.org",
-      "points": 1615,
-      "comments": 425,
+      "points": 1621,
+      "comments": 430,
       "author": "amatheus",
       "time": "2026-08-19T01:58:28Z",
       "title_zh": "开放逻辑"
-    },
-    {
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "domain": "nealstephenson.substack.com",
-      "points": 1491,
-      "comments": 669,
-      "author": "dwwoelfel",
-      "time": "2026-07-23T14:24:43Z",
-      "title_zh": "手写对大脑有好处"
     },
     {
       "title": "Qwen 3.8 27B",
@@ -227,8 +217,8 @@
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "domain": "seths.blog",
-      "points": 1396,
-      "comments": 697,
+      "points": 1401,
+      "comments": 698,
       "author": "herbertl",
       "time": "2026-08-18T13:22:38Z",
       "title_zh": "亚马逊税"
@@ -242,6 +232,16 @@
       "author": "nateb2022",
       "time": "2026-07-27T06:18:10Z",
       "title_zh": "HuggingFace 上的 Kimi-K3"
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "domain": "techspot.com",
+      "points": 1340,
+      "comments": 1120,
+      "author": "eecc",
+      "time": "2026-07-26T22:21:41Z",
+      "title_zh": "在机场搜索期间，美国公民在GrapheneOS手机擦拭后被收费"
     }
   ]
 }
