@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:06:28+00:00",
+  "generated_at": "2026-08-24T02:02:31+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -35,7 +35,7 @@
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "domain": "simedw.com",
-      "points": 588,
+      "points": 589,
       "comments": 117,
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
@@ -45,7 +45,7 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
-      "points": 536,
+      "points": 537,
       "comments": 185,
       "author": "HenryNdubuaku",
       "time": "2026-08-10T17:22:07Z",
@@ -65,7 +65,7 @@
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
-      "points": 378,
+      "points": 379,
       "comments": 209,
       "author": "danielvaughn",
       "time": "2026-08-20T19:05:36Z",
@@ -134,16 +134,6 @@
       "title_zh": "不要成为肉类代理"
     },
     {
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "domain": "anthropic.com",
-      "points": 1778,
-      "comments": 1335,
-      "author": "alvis",
-      "time": "2026-07-24T16:57:41Z",
-      "title_zh": "近距离工作5"
-    },
-    {
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "domain": "pcworld.com",
@@ -167,8 +157,8 @@
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "domain": "blog.curiousquail.com",
-      "points": 1666,
-      "comments": 389,
+      "points": 1671,
+      "comments": 390,
       "author": "speckx",
       "time": "2026-08-20T20:07:26Z",
       "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
@@ -187,8 +177,8 @@
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
       "domain": "openlogi.org",
-      "points": 1621,
-      "comments": 430,
+      "points": 1624,
+      "comments": 429,
       "author": "amatheus",
       "time": "2026-08-19T01:58:28Z",
       "title_zh": "开放逻辑"
@@ -217,8 +207,8 @@
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "domain": "seths.blog",
-      "points": 1401,
-      "comments": 698,
+      "points": 1404,
+      "comments": 699,
       "author": "herbertl",
       "time": "2026-08-18T13:22:38Z",
       "title_zh": "亚马逊税"
@@ -242,6 +232,16 @@
       "author": "eecc",
       "time": "2026-07-26T22:21:41Z",
       "title_zh": "在机场搜索期间，美国公民在GrapheneOS手机擦拭后被收费"
+    },
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "domain": "kagi.com",
+      "points": 1252,
+      "comments": 394,
+      "author": "speckx",
+      "time": "2026-08-21T13:56:37Z",
+      "title_zh": "Kagi添加了从搜索结果中删除付费墙链接的设置"
     }
   ]
 }
