@@ -1,184 +1,220 @@
 {
-  "generated_at": "2026-08-24T02:02:29+00:00",
+  "generated_at": "2026-08-25T01:57:35+00:00",
   "hn": [
-    {
-      "id": 49383026,
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "domain": "annas-archive.gl",
-      "points": 629,
-      "comments": 901,
-      "author": "Cider9986",
-      "time": 1787279867,
-      "title_zh": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍"
-    },
-    {
-      "id": 49409073,
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "domain": "ericpardee.github.io",
-      "points": 618,
-      "comments": 268,
-      "author": "dr_pardee",
-      "time": 1787494989,
-      "title_zh": "我花了$ 266和四个AI模型来拥有我的平板电脑。GLM-5.3在一天内完成"
-    },
-    {
-      "id": 49402232,
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "domain": "forum.level1techs.com",
-      "points": 475,
-      "comments": 197,
-      "author": "felineflock",
-      "time": 1787422456,
-      "title_zh": "为什么您当地的法学硕士会觉得自己比现在更愚蠢"
-    },
-    {
-      "id": 49398152,
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "domain": "munderdiffl.in",
-      "points": 303,
-      "comments": 143,
-      "author": "simonpure",
-      "time": 1787392154,
-      "title_zh": "Munder Difflin –代理利用来运行您的克隆办公室"
-    },
-    {
-      "id": 49393051,
-      "title": "A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "domain": "allaboutcoding.ghinda.com",
-      "points": 235,
-      "comments": 271,
-      "author": "speckx",
-      "time": 1787341908,
-      "title_zh": "比Claude更多地使用Codex的一周"
-    },
     {
       "id": 49411102,
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 229,
-      "comments": 193,
+      "points": 766,
+      "comments": 676,
       "author": "naves",
       "time": 1787508997,
       "title_zh": "随着廉价工具的蓬勃发展， Anthropic最好的人工智能模型难以吸引用户"
     },
     {
-      "id": 49387959,
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "domain": "reuters.com",
-      "points": 205,
-      "comments": 117,
-      "author": "olalonde",
-      "time": 1787319813,
-      "title_zh": "德克萨斯州一名学生如何揭发流氓人工智能黑客攻击企图"
+      "id": 49421554,
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "domain": "larsfaye.com",
+      "points": 465,
+      "comments": 461,
+      "author": "larsfaye",
+      "time": 1787586753,
+      "title_zh": "编码专业知识将因对人工智能的依赖而崩溃"
     },
     {
       "id": 49410932,
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "domain": "fabiensanglard.net",
-      "points": 168,
-      "comments": 82,
+      "points": 394,
+      "comments": 172,
       "author": "ibobev",
       "time": 1787507992,
       "title_zh": "My agent.md提高LLM辅助代码质量"
     },
     {
-      "id": 49404380,
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "domain": "primeintellect.ai",
-      "points": 136,
-      "comments": 35,
-      "author": "stared",
-      "time": 1787436867,
-      "title_zh": "NanoGPT Speedrun Frontier"
+      "id": 49413561,
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "domain": "pantel.is",
+      "points": 342,
+      "comments": 69,
+      "author": "pantelisk",
+      "time": 1787527097,
+      "title_zh": "我建立了一个低延迟的AI伴侣，可以和我一起玩Skyrim"
     },
     {
-      "id": 49376197,
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "domain": "lambda-symbolics.com",
-      "points": 125,
-      "comments": 58,
-      "author": "vismit2000",
-      "time": 1787240457,
-      "title_zh": "Autolith ：具有实时运行时的编程代理"
+      "id": 49421074,
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "domain": "developers.openai.com",
+      "points": 297,
+      "comments": 269,
+      "author": "tosh",
+      "time": 1787584963,
+      "title_zh": "OpenAI ： GPT 5.6 Sol降价（至少到11月21日）"
     },
     {
       "id": 49405657,
       "title": "AI Chip Architectures",
       "url": "https://www.jepeake.com/ai-chip-architectures",
       "domain": "jepeake.com",
-      "points": 50,
-      "comments": 12,
+      "points": 144,
+      "comments": 45,
       "author": "Finbarr",
       "time": 1787451910,
       "title_zh": "AI芯片架构"
     },
     {
-      "id": 49411024,
-      "title": "AI and Infrastructure Engineering",
-      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-      "domain": "omegion.dev",
-      "points": 44,
+      "id": 49415852,
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "domain": "github.com",
+      "points": 118,
+      "comments": 27,
+      "author": "thiagolima",
+      "time": 1787552731,
+      "title_zh": "OCR It –从LLM的不可复制文档中提取文本"
+    },
+    {
+      "id": 49424387,
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "domain": "boydkane.com",
+      "points": 94,
+      "comments": 50,
+      "author": "zdw",
+      "time": 1787598186,
+      "title_zh": "LLM可以通过利用推理引擎来控制其主机"
+    },
+    {
+      "id": 49412909,
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "domain": "github.com",
+      "points": 90,
+      "comments": 19,
+      "author": "porridgeraisin",
+      "time": 1787521277,
+      "title_zh": "在纯CMake中实现GPT-2"
+    },
+    {
+      "id": 49418163,
+      "title": "Agent Is Not the Model",
+      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+      "domain": "code.joejag.com",
+      "points": 63,
+      "comments": 34,
+      "author": "joejag",
+      "time": 1787570440,
+      "title_zh": "经纪人不是典范"
+    },
+    {
+      "id": 49425800,
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "domain": "blog.archive.org",
+      "points": 55,
       "comments": 12,
-      "author": "0megion",
-      "time": 1787508541,
-      "title_zh": "人工智能和基础设施工程"
+      "author": "signor_bosco",
+      "time": 1787605298,
+      "title_zh": "复古人工智能：在它变得尴尬之前"
+    },
+    {
+      "id": 49423077,
+      "title": "Agent Lightning v1.0",
+      "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+      "domain": "github.com",
+      "points": 46,
+      "comments": 3,
+      "author": "qainsights",
+      "time": 1787592202,
+      "title_zh": "Agent Lightning v1.0"
     }
   ],
   "media": [
     {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
       "source": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 20:01:36 +0000",
-      "time": 1787515296,
-      "snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "title_zh": "新的“隐形模式” Ox Alpha背后是谁？"
+      "published": "Tue, 25 Aug 2026 00:23:12 +0000",
+      "time": 1787617392,
+      "snippet": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "title_zh": "情境意识，几乎崩溃的明星AI对冲基金，现在正在接受美国证券交易委员会的调查"
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 19:14:08 +0000",
-      "time": 1787512448,
-      "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "title_zh": "Linkdaze的智能日历旨在管理家庭，而不仅仅是跟踪时间表"
-    },
-    {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "source": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 15:30:00 +0000",
-      "time": 1787499000,
-      "snippet": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "title_zh": "Flock首席执行官呼吁“妥协” ，因为监控公司面临越来越大的反弹"
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "time": 1787497200,
-      "snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illega",
-      "title_zh": "在受版权保护的书籍上训练人工智能模型是否合法？这很复杂"
-    },
-    {
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
       "source": "Ars Technica",
-      "published": "Fri, 21 Aug 2026 11:00:53 +0000",
-      "time": 1787310053,
-      "snippet": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-      "title_zh": "随着 Meta AI 眼镜的需求激增，令人毛骨悚然的录音越来越难以避免"
+      "published": "Mon, 24 Aug 2026 21:45:53 +0000",
+      "time": 1787607953,
+      "snippet": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "title_zh": "斯坦福大学的研究发现，人工智能对入门级工作的打击最大"
+    },
+    {
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "source": "Ars Technica",
+      "published": "Mon, 24 Aug 2026 21:32:16 +0000",
+      "time": 1787607136,
+      "snippet": "Solid-state transformers could also benefit EV charging and someday households.",
+      "title_zh": "数据中心成为新电力变压器技术的“杀手级应用”"
+    },
+    {
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "source": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 21:24:17 +0000",
+      "time": 1787606657,
+      "snippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "title_zh": "特朗普在轰动一时的IPO两周后购买了SpaceX股票"
+    },
+    {
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 19:54:19 +0000",
+      "time": 1787601259,
+      "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+      "title_zh": "Replit首席执行官兼联合创始人Amjad Masad加入TechCrunch Disrupt 2026的颠覆阶段"
+    },
+    {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 18:03:55 +0000",
+      "time": 1787594635,
+      "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-",
+      "title_zh": "Instinct强大的人工智能助手正在引发隐私和安全问题"
+    },
+    {
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "source": "Ars Technica",
+      "published": "Mon, 24 Aug 2026 16:41:45 +0000",
+      "time": 1787589705,
+      "snippet": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+      "title_zh": "英伟达高级经理涉嫌向中国走私人工智能服务器的Supermicro计划"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "time": 1787581219,
+      "snippet": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbo",
+      "title_zh": "如何鼓励在课堂上更智能地使用人工智能"
+    },
+    {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "time": 1787562000,
+      "snippet": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human la",
+      "title_zh": "孩子们比我们更了解人工智能，我们仍然不知道为什么"
     },
     {
       "title": "Debates over AI consciousness are a trap",
@@ -188,42 +224,6 @@
       "time": 1787240559,
       "snippet": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominen",
       "title_zh": "关于人工智能意识的争论是一个陷阱"
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Tech Review",
-      "published": "Thu, 20 Aug 2026 09:47:22 +0000",
-      "time": 1787219242,
-      "snippet": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multipl",
-      "title_zh": "通过市场模型释放隐藏的收入流"
-    },
-    {
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "source": "VentureBeat",
-      "published": "Wed, 19 Aug 2026 14:18:12 GMT",
-      "time": 1787149092,
-      "snippet": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Res",
-      "title_zh": "VentureBeat 任命 Rob Strechay 为其首位首席分析师，扩大其企业人工智能研究力度"
-    },
-    {
-      "title": "We still don’t know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 18 Aug 2026 10:06:43 +0000",
-      "time": 1787047603,
-      "snippet": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI re",
-      "title_zh": "我们仍然不知道人们如何真正使用人工智能"
-    },
-    {
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "time": 1787043600,
-      "snippet": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for t",
-      "title_zh": "人工智能的递归自我完善可能不会来得那么快"
     }
   ]
 }

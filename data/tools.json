@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:02:31+00:00",
+  "generated_at": "2026-08-25T01:57:37+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -35,8 +35,8 @@
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "domain": "simedw.com",
-      "points": 589,
-      "comments": 117,
+      "points": 595,
+      "comments": 118,
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
@@ -65,8 +65,8 @@
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
-      "points": 379,
-      "comments": 209,
+      "points": 383,
+      "comments": 210,
       "author": "danielvaughn",
       "time": "2026-08-20T19:05:36Z",
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
@@ -137,11 +137,21 @@
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "domain": "pcworld.com",
-      "points": 1763,
+      "points": 1764,
       "comments": 718,
       "author": "DemiGuru",
       "time": "2026-08-14T19:03:20Z",
       "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "domain": "blog.curiousquail.com",
+      "points": 1687,
+      "comments": 396,
+      "author": "speckx",
+      "time": "2026-08-20T20:07:26Z",
+      "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
     },
     {
       "title": "Show HN: Elevators",
@@ -152,16 +162,6 @@
       "author": "Jrh0203",
       "time": "2026-07-31T15:17:28Z",
       "title_zh": "显示 HN：电梯"
-    },
-    {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "domain": "blog.curiousquail.com",
-      "points": 1671,
-      "comments": 390,
-      "author": "speckx",
-      "time": "2026-08-20T20:07:26Z",
-      "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
     },
     {
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -177,8 +177,8 @@
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
       "domain": "openlogi.org",
-      "points": 1624,
-      "comments": 429,
+      "points": 1633,
+      "comments": 431,
       "author": "amatheus",
       "time": "2026-08-19T01:58:28Z",
       "title_zh": "开放逻辑"
@@ -187,7 +187,7 @@
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "domain": "huggingface.co",
-      "points": 1437,
+      "points": 1438,
       "comments": 792,
       "author": "erdaltoprak",
       "time": "2026-08-14T15:00:00Z",
@@ -207,8 +207,8 @@
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "domain": "seths.blog",
-      "points": 1404,
-      "comments": 699,
+      "points": 1409,
+      "comments": 701,
       "author": "herbertl",
       "time": "2026-08-18T13:22:38Z",
       "title_zh": "亚马逊税"
@@ -224,6 +224,16 @@
       "title_zh": "HuggingFace 上的 Kimi-K3"
     },
     {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "domain": "schlarp.com",
+      "points": 1360,
+      "comments": 336,
+      "author": "schlarpc",
+      "time": "2026-08-23T22:41:04Z",
+      "title_zh": "我拥有的一切，拥有的"
+    },
+    {
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",
       "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "domain": "techspot.com",
@@ -232,16 +242,6 @@
       "author": "eecc",
       "time": "2026-07-26T22:21:41Z",
       "title_zh": "在机场搜索期间，美国公民在GrapheneOS手机擦拭后被收费"
-    },
-    {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "domain": "kagi.com",
-      "points": 1252,
-      "comments": 394,
-      "author": "speckx",
-      "time": "2026-08-21T13:56:37Z",
-      "title_zh": "Kagi添加了从搜索结果中删除付费墙链接的设置"
     }
   ]
 }
