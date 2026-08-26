@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:57:37+00:00",
+  "generated_at": "2026-08-26T02:05:18+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -35,7 +35,7 @@
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "domain": "simedw.com",
-      "points": 595,
+      "points": 597,
       "comments": 118,
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
@@ -65,7 +65,7 @@
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
-      "points": 383,
+      "points": 384,
       "comments": 210,
       "author": "danielvaughn",
       "time": "2026-08-20T19:05:36Z",
@@ -95,7 +95,7 @@
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
       "domain": "photosynthesis.camera",
-      "points": 328,
+      "points": 329,
       "comments": 305,
       "author": "sajomes",
       "time": "2026-08-08T22:47:10Z",
@@ -147,8 +147,8 @@
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "domain": "blog.curiousquail.com",
-      "points": 1687,
-      "comments": 396,
+      "points": 1696,
+      "comments": 398,
       "author": "speckx",
       "time": "2026-08-20T20:07:26Z",
       "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
@@ -177,11 +177,21 @@
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
       "domain": "openlogi.org",
-      "points": 1633,
+      "points": 1634,
       "comments": 431,
       "author": "amatheus",
       "time": "2026-08-19T01:58:28Z",
       "title_zh": "开放逻辑"
+    },
+    {
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "domain": "lectronz.com",
+      "points": 1600,
+      "comments": 998,
+      "author": "l-one-lone",
+      "time": "2026-08-24T13:05:25Z",
+      "title_zh": "欧洲如何杀死创业者和微型企业家"
     },
     {
       "title": "Qwen 3.8 27B",
@@ -204,11 +214,21 @@
       "title_zh": "法学硕士奖励专业知识"
     },
     {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "domain": "schlarp.com",
+      "points": 1416,
+      "comments": 347,
+      "author": "schlarpc",
+      "time": "2026-08-23T22:41:04Z",
+      "title_zh": "我拥有的一切，拥有的"
+    },
+    {
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "domain": "seths.blog",
-      "points": 1409,
-      "comments": 701,
+      "points": 1410,
+      "comments": 702,
       "author": "herbertl",
       "time": "2026-08-18T13:22:38Z",
       "title_zh": "亚马逊税"
@@ -222,26 +242,6 @@
       "author": "nateb2022",
       "time": "2026-07-27T06:18:10Z",
       "title_zh": "HuggingFace 上的 Kimi-K3"
-    },
-    {
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "domain": "schlarp.com",
-      "points": 1360,
-      "comments": 336,
-      "author": "schlarpc",
-      "time": "2026-08-23T22:41:04Z",
-      "title_zh": "我拥有的一切，拥有的"
-    },
-    {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "domain": "techspot.com",
-      "points": 1340,
-      "comments": 1120,
-      "author": "eecc",
-      "time": "2026-07-26T22:21:41Z",
-      "title_zh": "在机场搜索期间，美国公民在GrapheneOS手机擦拭后被收费"
     }
   ]
 }

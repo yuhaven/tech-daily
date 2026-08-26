@@ -1,46 +1,24 @@
 {
-  "generated_at": "2026-08-25T01:57:35+00:00",
+  "generated_at": "2026-08-26T02:05:12+00:00",
   "hn": [
     {
       "id": 49411102,
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 766,
-      "comments": 676,
+      "points": 808,
+      "comments": 698,
       "author": "naves",
       "time": 1787508997,
       "title_zh": "随着廉价工具的蓬勃发展， Anthropic最好的人工智能模型难以吸引用户"
-    },
-    {
-      "id": 49421554,
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "domain": "larsfaye.com",
-      "points": 465,
-      "comments": 461,
-      "author": "larsfaye",
-      "time": 1787586753,
-      "title_zh": "编码专业知识将因对人工智能的依赖而崩溃"
-    },
-    {
-      "id": 49410932,
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "domain": "fabiensanglard.net",
-      "points": 394,
-      "comments": 172,
-      "author": "ibobev",
-      "time": 1787507992,
-      "title_zh": "My agent.md提高LLM辅助代码质量"
     },
     {
       "id": 49413561,
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
       "domain": "pantel.is",
-      "points": 342,
-      "comments": 69,
+      "points": 388,
+      "comments": 76,
       "author": "pantelisk",
       "time": 1787527097,
       "title_zh": "我建立了一个低延迟的AI伴侣，可以和我一起玩Skyrim"
@@ -50,99 +28,175 @@
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
       "domain": "developers.openai.com",
-      "points": 297,
-      "comments": 269,
+      "points": 334,
+      "comments": 335,
       "author": "tosh",
       "time": 1787584963,
       "title_zh": "OpenAI ： GPT 5.6 Sol降价（至少到11月21日）"
     },
     {
-      "id": 49405657,
-      "title": "AI Chip Architectures",
-      "url": "https://www.jepeake.com/ai-chip-architectures",
-      "domain": "jepeake.com",
-      "points": 144,
-      "comments": 45,
-      "author": "Finbarr",
-      "time": 1787451910,
-      "title_zh": "AI芯片架构"
+      "id": 49434378,
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "domain": "newsletter.semianalysis.com",
+      "points": 333,
+      "comments": 232,
+      "author": "bmulholland",
+      "time": 1787666762,
+      "title_zh": "OpenAI Jalapeño ：比Nvidia Blackwell更好"
     },
     {
-      "id": 49415852,
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "domain": "github.com",
-      "points": 118,
-      "comments": 27,
-      "author": "thiagolima",
-      "time": 1787552731,
-      "title_zh": "OCR It –从LLM的不可复制文档中提取文本"
+      "id": 49435728,
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "domain": "blog.coredump.cx",
+      "points": 248,
+      "comments": 298,
+      "author": "surprisetalk",
+      "time": 1787671421,
+      "title_zh": "HN中有多少是AI ？"
+    },
+    {
+      "id": 49411800,
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "domain": "surya.website",
+      "points": 195,
+      "comments": 22,
+      "author": "Tiberium",
+      "time": 1787513969,
+      "title_zh": "训练AI用代码绘画"
     },
     {
       "id": 49424387,
       "title": "LLMs could control their host machines by exploiting inference engines",
       "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
       "domain": "boydkane.com",
-      "points": 94,
-      "comments": 50,
+      "points": 188,
+      "comments": 96,
       "author": "zdw",
       "time": 1787598186,
       "title_zh": "LLM可以通过利用推理引擎来控制其主机"
     },
     {
-      "id": 49412909,
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "domain": "github.com",
-      "points": 90,
-      "comments": 19,
-      "author": "porridgeraisin",
-      "time": 1787521277,
-      "title_zh": "在纯CMake中实现GPT-2"
-    },
-    {
-      "id": 49418163,
-      "title": "Agent Is Not the Model",
-      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-      "domain": "code.joejag.com",
-      "points": 63,
-      "comments": 34,
-      "author": "joejag",
-      "time": 1787570440,
-      "title_zh": "经纪人不是典范"
+      "id": 49405657,
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "domain": "jepeake.com",
+      "points": 157,
+      "comments": 46,
+      "author": "Finbarr",
+      "time": 1787451910,
+      "title_zh": "AI芯片架构"
     },
     {
       "id": 49425800,
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
       "domain": "blog.archive.org",
-      "points": 55,
-      "comments": 12,
+      "points": 153,
+      "comments": 29,
       "author": "signor_bosco",
       "time": 1787605298,
       "title_zh": "复古人工智能：在它变得尴尬之前"
     },
     {
-      "id": 49423077,
-      "title": "Agent Lightning v1.0",
-      "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+      "id": 49415852,
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
       "domain": "github.com",
-      "points": 46,
-      "comments": 3,
-      "author": "qainsights",
-      "time": 1787592202,
-      "title_zh": "Agent Lightning v1.0"
+      "points": 139,
+      "comments": 36,
+      "author": "thiagolima",
+      "time": 1787552731,
+      "title_zh": "OCR It –从LLM的不可复制文档中提取文本"
+    },
+    {
+      "id": 49428882,
+      "title": "Headlong: A microharness for persistent agents",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "domain": "laude.org",
+      "points": 119,
+      "comments": 53,
+      "author": "lbw1215",
+      "time": 1787630059,
+      "title_zh": "Headlong ：持久性药物的微束缚"
+    },
+    {
+      "id": 49435675,
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "domain": "github.com",
+      "points": 105,
+      "comments": 23,
+      "author": "petruspennanen",
+      "time": 1787671220,
+      "title_zh": "Show HN ：我用Qwen制作了一个覆盆子，我的本地汽车AI"
     }
   ],
   "media": [
     {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
       "source": "TechCrunch",
-      "published": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "time": 1787617392,
-      "snippet": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "title_zh": "情境意识，几乎崩溃的明星AI对冲基金，现在正在接受美国证券交易委员会的调查"
+      "published": "Wed, 26 Aug 2026 00:40:59 +0000",
+      "time": 1787704859,
+      "snippet": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "title_zh": "消息人士称，机器人初创公司Generalist的估值达到$ 3B"
+    },
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "TechCrunch",
+      "published": "Wed, 26 Aug 2026 00:06:20 +0000",
+      "time": 1787702780,
+      "snippet": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in c",
+      "title_zh": "随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管"
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "TechCrunch",
+      "published": "Tue, 25 Aug 2026 19:03:47 +0000",
+      "time": 1787684627,
+      "snippet": "The company's new fundraising total now stands at $232 million.",
+      "title_zh": "图像生成器Stable Diffusion的制造商Stability AI筹集了7600万美元的新资金"
+    },
+    {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch",
+      "published": "Tue, 25 Aug 2026 17:50:33 +0000",
+      "time": 1787680233,
+      "snippet": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "title_zh": "Claude Cowork终于记得您在聊天中告诉应用程序的内容"
+    },
+    {
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "source": "Ars Technica",
+      "published": "Tue, 25 Aug 2026 15:10:03 +0000",
+      "time": 1787670603,
+      "snippet": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+      "title_zh": "人工智能不会取代放射科医生，但它将极大地改变他们的工作"
+    },
+    {
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "source": "Ars Technica",
+      "published": "Tue, 25 Aug 2026 13:00:11 +0000",
+      "time": 1787662811,
+      "snippet": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+      "title_zh": "Apple的新台式计算机专为本地AI开发而设计"
+    },
+    {
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 25 Aug 2026 09:00:00 +0000",
+      "time": 1787648400,
+      "snippet": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology int",
+      "title_zh": "我在上海的一个机器人“狂欢节”上度过了一天。这就是我所看到的。"
     },
     {
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -159,44 +213,8 @@
       "source": "Ars Technica",
       "published": "Mon, 24 Aug 2026 21:32:16 +0000",
       "time": 1787607136,
-      "snippet": "Solid-state transformers could also benefit EV charging and someday households.",
+      "snippet": "Solid-state transformers could also benefit EV charging and, someday, households.",
       "title_zh": "数据中心成为新电力变压器技术的“杀手级应用”"
-    },
-    {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "source": "TechCrunch",
-      "published": "Mon, 24 Aug 2026 21:24:17 +0000",
-      "time": 1787606657,
-      "snippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "title_zh": "特朗普在轰动一时的IPO两周后购买了SpaceX股票"
-    },
-    {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published": "Mon, 24 Aug 2026 19:54:19 +0000",
-      "time": 1787601259,
-      "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-      "title_zh": "Replit首席执行官兼联合创始人Amjad Masad加入TechCrunch Disrupt 2026的颠覆阶段"
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "TechCrunch",
-      "published": "Mon, 24 Aug 2026 18:03:55 +0000",
-      "time": 1787594635,
-      "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-",
-      "title_zh": "Instinct强大的人工智能助手正在引发隐私和安全问题"
-    },
-    {
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "source": "Ars Technica",
-      "published": "Mon, 24 Aug 2026 16:41:45 +0000",
-      "time": 1787589705,
-      "snippet": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-      "title_zh": "英伟达高级经理涉嫌向中国走私人工智能服务器的Supermicro计划"
     },
     {
       "title": "How to encourage smarter AI use in the classroom",
@@ -206,24 +224,6 @@
       "time": 1787581219,
       "snippet": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbo",
       "title_zh": "如何鼓励在课堂上更智能地使用人工智能"
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
-      "time": 1787562000,
-      "snippet": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human la",
-      "title_zh": "孩子们比我们更了解人工智能，我们仍然不知道为什么"
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Tech Review",
-      "published": "Thu, 20 Aug 2026 15:42:39 +0000",
-      "time": 1787240559,
-      "snippet": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominen",
-      "title_zh": "关于人工智能意识的争论是一个陷阱"
     }
   ]
 }
