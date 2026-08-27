@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T02:05:18+00:00",
+  "generated_at": "2026-08-27T10:02:29+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -35,7 +35,7 @@
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "domain": "simedw.com",
-      "points": 597,
+      "points": 598,
       "comments": 118,
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
@@ -147,8 +147,8 @@
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "domain": "blog.curiousquail.com",
-      "points": 1696,
-      "comments": 398,
+      "points": 1697,
+      "comments": 400,
       "author": "speckx",
       "time": "2026-08-20T20:07:26Z",
       "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
@@ -177,8 +177,8 @@
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
       "domain": "openlogi.org",
-      "points": 1634,
-      "comments": 431,
+      "points": 1635,
+      "comments": 432,
       "author": "amatheus",
       "time": "2026-08-19T01:58:28Z",
       "title_zh": "开放逻辑"
@@ -187,21 +187,41 @@
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "domain": "lectronz.com",
-      "points": 1600,
-      "comments": 998,
+      "points": 1625,
+      "comments": 1025,
       "author": "l-one-lone",
       "time": "2026-08-24T13:05:25Z",
       "title_zh": "欧洲如何杀死创业者和微型企业家"
+    },
+    {
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "domain": "theguardian.com",
+      "points": 1568,
+      "comments": 241,
+      "author": "helsinkiandrew",
+      "time": "2026-08-25T18:02:22Z",
+      "title_zh": "多莉·帕顿去世"
     },
     {
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "domain": "huggingface.co",
       "points": 1438,
-      "comments": 792,
+      "comments": 793,
       "author": "erdaltoprak",
       "time": "2026-08-14T15:00:00Z",
       "title_zh": "骐文3.8 27B"
+    },
+    {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "domain": "schlarp.com",
+      "points": 1432,
+      "comments": 348,
+      "author": "schlarpc",
+      "time": "2026-08-23T22:41:04Z",
+      "title_zh": "我拥有的一切，拥有的"
     },
     {
       "title": "LLMs reward expertise",
@@ -214,34 +234,14 @@
       "title_zh": "法学硕士奖励专业知识"
     },
     {
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "domain": "schlarp.com",
-      "points": 1416,
-      "comments": 347,
-      "author": "schlarpc",
-      "time": "2026-08-23T22:41:04Z",
-      "title_zh": "我拥有的一切，拥有的"
-    },
-    {
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "domain": "seths.blog",
-      "points": 1410,
+      "points": 1411,
       "comments": 702,
       "author": "herbertl",
       "time": "2026-08-18T13:22:38Z",
       "title_zh": "亚马逊税"
-    },
-    {
-      "title": "Kimi-K3 on HuggingFace",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "domain": "huggingface.co",
-      "points": 1382,
-      "comments": 544,
-      "author": "nateb2022",
-      "time": "2026-07-27T06:18:10Z",
-      "title_zh": "HuggingFace 上的 Kimi-K3"
     }
   ]
 }
