@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T10:02:29+00:00",
+  "generated_at": "2026-08-28T11:33:51+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -42,6 +42,16 @@
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
     },
     {
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "domain": "louisabraham.github.io",
+      "points": 548,
+      "comments": 263,
+      "author": "Labo333",
+      "time": "2026-08-27T08:59:49Z",
+      "title_zh": "Show HN ： Claude的承重词汇"
+    },
+    {
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
@@ -50,16 +60,6 @@
       "author": "HenryNdubuaku",
       "time": "2026-08-10T17:22:07Z",
       "title_zh": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人"
-    },
-    {
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "domain": "github.com",
-      "points": 433,
-      "comments": 126,
-      "author": "twalichiewicz",
-      "time": "2026-07-28T22:09:06Z",
-      "title_zh": "显示 HN：我厌倦了为每个 HN 链接打开 2 个选项卡，所以我制作了一个用户脚本"
     },
     {
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
@@ -124,6 +124,16 @@
   ],
   "hot": [
     {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "domain": "businessinsider.com",
+      "points": 1903,
+      "comments": 882,
+      "author": "mfiguiere",
+      "time": "2026-08-27T01:12:55Z",
+      "title_zh": "英伟达同意以130亿美元收购Hugging Face"
+    },
+    {
       "title": "Don't be a meat proxy",
       "url": "https://gruhn.me/blog/2026-08-03/",
       "domain": "gruhn.me",
@@ -137,7 +147,7 @@
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "domain": "pcworld.com",
-      "points": 1764,
+      "points": 1765,
       "comments": 718,
       "author": "DemiGuru",
       "time": "2026-08-14T19:03:20Z",
@@ -187,8 +197,8 @@
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "domain": "lectronz.com",
-      "points": 1625,
-      "comments": 1025,
+      "points": 1631,
+      "comments": 1028,
       "author": "l-one-lone",
       "time": "2026-08-24T13:05:25Z",
       "title_zh": "欧洲如何杀死创业者和微型企业家"
@@ -197,11 +207,21 @@
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
       "domain": "theguardian.com",
-      "points": 1568,
-      "comments": 241,
+      "points": 1588,
+      "comments": 246,
       "author": "helsinkiandrew",
       "time": "2026-08-25T18:02:22Z",
       "title_zh": "多莉·帕顿去世"
+    },
+    {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "domain": "schlarp.com",
+      "points": 1440,
+      "comments": 349,
+      "author": "schlarpc",
+      "time": "2026-08-23T22:41:04Z",
+      "title_zh": "我拥有的一切，拥有的"
     },
     {
       "title": "Qwen 3.8 27B",
@@ -214,16 +234,6 @@
       "title_zh": "骐文3.8 27B"
     },
     {
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "domain": "schlarp.com",
-      "points": 1432,
-      "comments": 348,
-      "author": "schlarpc",
-      "time": "2026-08-23T22:41:04Z",
-      "title_zh": "我拥有的一切，拥有的"
-    },
-    {
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "domain": "seangoedecke.com",
@@ -232,16 +242,6 @@
       "author": "MaxMussio",
       "time": "2026-08-03T21:13:53Z",
       "title_zh": "法学硕士奖励专业知识"
-    },
-    {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "domain": "seths.blog",
-      "points": 1411,
-      "comments": 702,
-      "author": "herbertl",
-      "time": "2026-08-18T13:22:38Z",
-      "title_zh": "亚马逊税"
     }
   ]
 }
