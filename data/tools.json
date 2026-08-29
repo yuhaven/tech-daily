@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:33:51+00:00",
+  "generated_at": "2026-08-29T07:11:48+00:00",
   "showhn": [
     {
       "title": "Show HN: Elevators",
@@ -12,14 +12,14 @@
       "title_zh": "显示 HN：电梯"
     },
     {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "domain": "github.com",
-      "points": 919,
-      "comments": 345,
-      "author": "gitpusher42",
-      "time": "2026-07-29T15:05:43Z",
-      "title_zh": "显示 HN：在任何 M 系列 Mac 上运行 Gemma 4 26B、2 GB RAM 的开源引擎"
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "domain": "louisabraham.github.io",
+      "points": 656,
+      "comments": 317,
+      "author": "Labo333",
+      "time": "2026-08-27T08:59:49Z",
+      "title_zh": "Show HN ： Claude的承重词汇"
     },
     {
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
@@ -40,16 +40,6 @@
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
-    },
-    {
-      "title": "Show HN: The load-bearing vocabulary of Claude",
-      "url": "https://louisabraham.github.io/load-bearing/",
-      "domain": "louisabraham.github.io",
-      "points": 548,
-      "comments": 263,
-      "author": "Labo333",
-      "time": "2026-08-27T08:59:49Z",
-      "title_zh": "Show HN ： Claude的承重词汇"
     },
     {
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
@@ -120,6 +110,16 @@
       "author": "leonickson",
       "time": "2026-08-03T16:54:15Z",
       "title_zh": "Show HN ：在Mac上运行4.3 GB RAM的80B Qwen ，在iPhone上运行35B"
+    },
+    {
+      "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+      "url": "https://electronicmaterialsoffice.com/",
+      "domain": "electronicmaterialsoffice.com",
+      "points": 306,
+      "comments": 245,
+      "author": "aemerson_",
+      "time": "2026-08-06T14:26:14Z",
+      "title_zh": "Show HN：我花了两年时间设计机械妙控键盘"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1903,
-      "comments": 882,
+      "points": 1953,
+      "comments": 898,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"
@@ -157,8 +157,8 @@
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "domain": "blog.curiousquail.com",
-      "points": 1697,
-      "comments": 400,
+      "points": 1698,
+      "comments": 402,
       "author": "speckx",
       "time": "2026-08-20T20:07:26Z",
       "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
@@ -184,31 +184,31 @@
       "title_zh": "纪念我的妻子 Elise Cawley，感谢她度过了 36 年的美好时光"
     },
     {
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "domain": "openlogi.org",
-      "points": 1635,
-      "comments": 432,
-      "author": "amatheus",
-      "time": "2026-08-19T01:58:28Z",
-      "title_zh": "开放逻辑"
-    },
-    {
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "domain": "lectronz.com",
-      "points": 1631,
-      "comments": 1028,
+      "points": 1638,
+      "comments": 1029,
       "author": "l-one-lone",
       "time": "2026-08-24T13:05:25Z",
       "title_zh": "欧洲如何杀死创业者和微型企业家"
     },
     {
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "domain": "openlogi.org",
+      "points": 1635,
+      "comments": 430,
+      "author": "amatheus",
+      "time": "2026-08-19T01:58:28Z",
+      "title_zh": "开放逻辑"
+    },
+    {
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
       "domain": "theguardian.com",
-      "points": 1588,
-      "comments": 246,
+      "points": 1599,
+      "comments": 248,
       "author": "helsinkiandrew",
       "time": "2026-08-25T18:02:22Z",
       "title_zh": "多莉·帕顿去世"
@@ -217,7 +217,7 @@
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "domain": "schlarp.com",
-      "points": 1440,
+      "points": 1444,
       "comments": 349,
       "author": "schlarpc",
       "time": "2026-08-23T22:41:04Z",
