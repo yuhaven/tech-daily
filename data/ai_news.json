@@ -1,35 +1,24 @@
 {
-  "generated_at": "2026-08-29T07:11:46+00:00",
+  "generated_at": "2026-08-30T05:33:40+00:00",
   "hn": [
     {
       "id": 49458161,
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1953,
-      "comments": 898,
+      "points": 1967,
+      "comments": 905,
       "author": "mfiguiere",
       "time": 1787793175,
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"
-    },
-    {
-      "id": 49458418,
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "domain": "github.com",
-      "points": 1010,
-      "comments": 703,
-      "author": "GrumpySciGuy",
-      "time": 1787795182,
-      "title_zh": "首席执行官解雇了开发人员，为人工智能腾出空间。开发人员创建开源AI首席执行官"
     },
     {
       "id": 49461817,
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 656,
-      "comments": 317,
+      "points": 679,
+      "comments": 321,
       "author": "Labo333",
       "time": 1787821189,
       "title_zh": "Show HN ： Claude的承重词汇"
@@ -39,102 +28,140 @@
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "domain": "nytimes.com",
-      "points": 570,
-      "comments": 413,
+      "points": 615,
+      "comments": 422,
       "author": "jbegley",
       "time": 1787882618,
       "title_zh": "法官裁定特朗普政府将 Anthropic 列入黑名单是非法的"
-    },
-    {
-      "id": 49445727,
-      "title": "RAG Is Simpler Than You Think",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "domain": "lighthousenewsletter.com",
-      "points": 501,
-      "comments": 211,
-      "author": "j0selit0",
-      "time": 1787733557,
-      "title_zh": "抹布比你想象的要简单"
     },
     {
       "id": 49475079,
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "domain": "blog.luanti.org",
-      "points": 479,
-      "comments": 145,
+      "points": 517,
+      "comments": 151,
       "author": "miniBill",
       "time": 1787898837,
       "title_zh": "由于毫无根据的 AI 版权声明，Luanti 从 Google Play 下架"
     },
     {
-      "id": 49468818,
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "domain": "blog.google",
-      "points": 355,
-      "comments": 123,
-      "author": "k9294",
-      "time": 1787853822,
-      "title_zh": "Gemini-3.5-转录"
+      "id": 49489982,
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "domain": "lwn.net",
+      "points": 476,
+      "comments": 444,
+      "author": "pluc",
+      "time": 1788012130,
+      "title_zh": "Debian 投票允许“负责任地使用生成式人工智能”"
     },
     {
-      "id": 49447057,
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "domain": "gatesnotes.com",
-      "points": 346,
-      "comments": 611,
-      "author": "nanna",
-      "time": 1787743434,
-      "title_zh": "动荡的人工智能时代已经到来"
+      "id": 49491568,
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "domain": "newsletter.eng-leadership.com",
+      "points": 321,
+      "comments": 73,
+      "author": "gpi",
+      "time": 1788023987,
+      "title_zh": "良好的文化是最大的生产力黑客，而不是人工智能"
     },
     {
-      "id": 49467922,
-      "title": "Gemini Omni 1.1 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "domain": "blog.google",
-      "points": 296,
-      "comments": 225,
-      "author": "saretup",
-      "time": 1787850392,
-      "title_zh": "Gemini Omni 1.1闪光灯"
+      "id": 49485416,
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "domain": "pwning.systems",
+      "points": 283,
+      "comments": 76,
+      "author": "matt_d",
+      "time": 1787959665,
+      "title_zh": "我不小心把LLM记忆变成了程序分析"
     },
     {
-      "id": 49464314,
-      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "url": "https://aiandeducation.mit.edu/report/",
-      "domain": "aiandeducation.mit.edu",
-      "points": 140,
-      "comments": 82,
-      "author": "pbui",
-      "time": 1787836065,
-      "title_zh": "麻省理工学院人工智能在教学、学习和研究培训中的应用特设委员会"
+      "id": 49486081,
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "domain": "github.com",
+      "points": 215,
+      "comments": 59,
+      "author": "thclpr",
+      "time": 1787966653,
+      "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器"
+    },
+    {
+      "id": 49481455,
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "domain": "arxiv.org",
+      "points": 117,
+      "comments": 40,
+      "author": "stephenchung",
+      "time": 1787936472,
+      "title_zh": "开放世界多智能体环境中的自主数学发现"
     },
     {
       "id": 49472820,
       "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
       "url": "https://www.terminal-bench-science.ai/announcement",
       "domain": "terminal-bench-science.ai",
-      "points": 115,
-      "comments": 35,
+      "points": 116,
+      "comments": 36,
       "author": "matt_d",
       "time": 1787875611,
       "title_zh": "终端科学：评估科学研究工作流程中的人工智能代理"
     },
     {
-      "id": 49458875,
-      "title": "Humanity has the debate about AI consciousness backwards",
-      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-      "domain": "economist.com",
-      "points": 115,
-      "comments": 359,
-      "author": "semiquaver",
-      "time": 1787798227,
-      "title_zh": "人类关于人工智能意识的争论倒退了"
+      "id": 49492584,
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "domain": "coldtake.dev",
+      "points": 70,
+      "comments": 14,
+      "author": "AlarQ",
+      "time": 1788031708,
+      "title_zh": "域驱动代理"
+    },
+    {
+      "id": 49484925,
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "domain": "groverlab.org",
+      "points": 59,
+      "comments": 25,
+      "author": "wgrover",
+      "time": 1787955507,
+      "title_zh": "利用人工智能识别假冒化妆品"
     }
   ],
   "media": [
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch",
+      "published": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "time": 1788028919,
+      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "title_zh": "索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的盗窃知识产权活动”"
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch",
+      "published": "Sat, 29 Aug 2026 17:36:47 +0000",
+      "time": 1788025007,
+      "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discover",
+      "title_zh": "“我们每年不会进行 30 次投注”：Vijay Pande 在 a16z 投入 40 亿美元后谈小额投注"
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch",
+      "published": "Sat, 29 Aug 2026 13:00:00 +0000",
+      "time": 1788008400,
+      "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "title_zh": "Nvidia 的 AI 优势正在超越 GPU"
+    },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -143,24 +170,6 @@
       "time": 1787948651,
       "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
       "title_zh": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片"
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch",
-      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "time": 1787945438,
-      "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "title_zh": "一位人类研究人员刚刚让我们了解了自我改进的人工智能"
-    },
-    {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch",
-      "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "time": 1787941180,
-      "snippet": "There's a lot of capital pouring into the business of giving models away.",
-      "title_zh": "开放式人工智能公司是硅谷最热门的收购目标"
     },
     {
       "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
@@ -179,15 +188,6 @@
       "time": 1787931744,
       "snippet": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
       "title_zh": "Meta 使人工智能眼镜稍微不那么令人毛骨悚然，限制了未经同意的记录"
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch",
-      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "time": 1787921172,
-      "snippet": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washing",
-      "title_zh": "Anthropic 首次在法庭上战胜五角大楼的供应链风险标签"
     },
     {
       "title": "Anthropic's new hardware standard lets AI agents control the physical world",
