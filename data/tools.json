@@ -1,22 +1,12 @@
 {
-  "generated_at": "2026-08-30T05:33:40+00:00",
+  "generated_at": "2026-08-31T05:49:29+00:00",
   "showhn": [
-    {
-      "title": "Show HN: Elevators",
-      "url": "https://john.fun/elevators",
-      "domain": "john.fun",
-      "points": 1680,
-      "comments": 415,
-      "author": "Jrh0203",
-      "time": "2026-07-31T15:17:28Z",
-      "title_zh": "显示 HN：电梯"
-    },
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 679,
-      "comments": 321,
+      "points": 694,
+      "comments": 326,
       "author": "Labo333",
       "time": "2026-08-27T08:59:49Z",
       "title_zh": "Show HN ： Claude的承重词汇"
@@ -120,6 +110,16 @@
       "author": "aemerson_",
       "time": "2026-08-06T14:26:14Z",
       "title_zh": "Show HN：我花了两年时间设计机械妙控键盘"
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "domain": "everycube.alen.is",
+      "points": 295,
+      "comments": 123,
+      "author": "Alen123",
+      "time": "2026-08-10T23:16:25Z",
+      "title_zh": "显示HN ：滚动浏览所有43252003274489856000魔方状态"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1967,
-      "comments": 905,
+      "points": 1972,
+      "comments": 910,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"
@@ -157,21 +157,11 @@
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "domain": "blog.curiousquail.com",
-      "points": 1698,
-      "comments": 402,
+      "points": 1700,
+      "comments": 403,
       "author": "speckx",
       "time": "2026-08-20T20:07:26Z",
       "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
-    },
-    {
-      "title": "Show HN: Elevators",
-      "url": "https://john.fun/elevators",
-      "domain": "john.fun",
-      "points": 1680,
-      "comments": 415,
-      "author": "Jrh0203",
-      "time": "2026-07-31T15:17:28Z",
-      "title_zh": "显示 HN：电梯"
     },
     {
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -187,8 +177,8 @@
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "domain": "lectronz.com",
-      "points": 1639,
-      "comments": 1029,
+      "points": 1644,
+      "comments": 1030,
       "author": "l-one-lone",
       "time": "2026-08-24T13:05:25Z",
       "title_zh": "欧洲如何杀死创业者和微型企业家"
@@ -207,7 +197,7 @@
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
       "domain": "theguardian.com",
-      "points": 1600,
+      "points": 1602,
       "comments": 248,
       "author": "helsinkiandrew",
       "time": "2026-08-25T18:02:22Z",
@@ -217,8 +207,8 @@
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "domain": "schlarp.com",
-      "points": 1445,
-      "comments": 348,
+      "points": 1449,
+      "comments": 349,
       "author": "schlarpc",
       "time": "2026-08-23T22:41:04Z",
       "title_zh": "我拥有的一切，拥有的"
@@ -242,6 +232,16 @@
       "author": "MaxMussio",
       "time": "2026-08-03T21:13:53Z",
       "title_zh": "法学硕士奖励专业知识"
+    },
+    {
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "domain": "seths.blog",
+      "points": 1415,
+      "comments": 705,
+      "author": "herbertl",
+      "time": "2026-08-18T13:22:38Z",
+      "title_zh": "亚马逊税"
     }
   ]
 }
