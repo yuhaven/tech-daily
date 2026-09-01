@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T05:49:29+00:00",
+  "generated_at": "2026-09-01T05:21:47+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 694,
+      "points": 699,
       "comments": 326,
       "author": "Labo333",
       "time": "2026-08-27T08:59:49Z",
@@ -62,16 +62,6 @@
       "title_zh": "显示 HN：Isopolis – SF 的等距像素图"
     },
     {
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "domain": "github.com",
-      "points": 338,
-      "comments": 115,
-      "author": "tomilan",
-      "time": "2026-08-02T02:07:09Z",
-      "title_zh": "Show HN：我是一名 15 岁的工程师，这是我建造的摆线齿轮箱"
-    },
-    {
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
       "domain": "photosynthesis.camera",
@@ -120,6 +110,16 @@
       "author": "Alen123",
       "time": "2026-08-10T23:16:25Z",
       "title_zh": "显示HN ：滚动浏览所有43252003274489856000魔方状态"
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "domain": "github.com",
+      "points": 255,
+      "comments": 64,
+      "author": "vlad_kalinkin",
+      "time": "2026-08-02T16:26:40Z",
+      "title_zh": "Show HN：Kakehashi – 在 Linux ARM 上运行 macOS 二进制文件的实验用户空间"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1972,
-      "comments": 910,
+      "points": 1979,
+      "comments": 917,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"
@@ -157,11 +157,21 @@
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "domain": "blog.curiousquail.com",
-      "points": 1700,
+      "points": 1701,
       "comments": 403,
       "author": "speckx",
       "time": "2026-08-20T20:07:26Z",
       "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
+    },
+    {
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "domain": "lectronz.com",
+      "points": 1645,
+      "comments": 1030,
+      "author": "l-one-lone",
+      "time": "2026-08-24T13:05:25Z",
+      "title_zh": "欧洲如何杀死创业者和微型企业家"
     },
     {
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -172,16 +182,6 @@
       "author": "jdcampolargo",
       "time": "2026-08-04T18:51:38Z",
       "title_zh": "纪念我的妻子 Elise Cawley，感谢她度过了 36 年的美好时光"
-    },
-    {
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "domain": "lectronz.com",
-      "points": 1644,
-      "comments": 1030,
-      "author": "l-one-lone",
-      "time": "2026-08-24T13:05:25Z",
-      "title_zh": "欧洲如何杀死创业者和微型企业家"
     },
     {
       "title": "OpenLogi",
@@ -198,7 +198,7 @@
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
       "domain": "theguardian.com",
       "points": 1602,
-      "comments": 248,
+      "comments": 249,
       "author": "helsinkiandrew",
       "time": "2026-08-25T18:02:22Z",
       "title_zh": "多莉·帕顿去世"
@@ -207,7 +207,7 @@
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "domain": "schlarp.com",
-      "points": 1449,
+      "points": 1450,
       "comments": 349,
       "author": "schlarpc",
       "time": "2026-08-23T22:41:04Z",

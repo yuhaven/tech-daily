@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T05:49:14+00:00",
+  "generated_at": "2026-09-01T05:21:43+00:00",
   "data": {
     "daily": [
       {
@@ -7,118 +7,127 @@
         "url": "/THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "language": "TypeScript",
-        "stars_today": 1370,
-        "stars_total": 24777,
+        "stars_today": 2824,
+        "stars_total": 27781,
         "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
-      },
-      {
-        "full_name": "K-Dense-AI/scientific-agent-skills",
-        "url": "/K-Dense-AI/scientific-agent-skills",
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "language": "Python",
-        "stars_today": 1114,
-        "stars_total": 39713,
-        "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
-      },
-      {
-        "full_name": "Lakr233/vphone-cli",
-        "url": "/Lakr233/vphone-cli",
-        "description": "",
-        "language": "Swift",
-        "stars_today": 361,
-        "stars_total": 9792,
-        "description_zh": null
       },
       {
         "full_name": "tt-a1i/archify",
         "url": "/tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "language": "JavaScript",
-        "stars_today": 3722,
-        "stars_total": 35663,
+        "stars_today": 3991,
+        "stars_total": 39590,
         "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
-        "full_name": "p-e-w/heretic",
-        "url": "/p-e-w/heretic",
-        "description": "Fully automatic censorship removal for language models",
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "url": "/K-Dense-AI/scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
         "language": "Python",
-        "stars_today": 369,
-        "stars_total": 29287,
-        "description_zh": "全自动消除语言模型审查"
+        "stars_today": 1980,
+        "stars_total": 40937,
+        "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
       },
       {
-        "full_name": "unclecode/crawl4ai",
-        "url": "/unclecode/crawl4ai",
-        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-        "language": "Python",
-        "stars_today": 221,
-        "stars_total": 80371,
-        "description_zh": "🚀🤖 Crawl4AI ：开源LLM友好的网络爬虫和爬虫。不要害羞，在这里加入： https://discord.gg/jP8KfhDhyN"
-      },
-      {
-        "full_name": "mvanhorn/last30days-skill",
-        "url": "/mvanhorn/last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "stars_today": 230,
-        "stars_total": 60621,
-        "description_zh": "人工智能代理技能，研究Reddit、X、YouTube、HN、Polymarket和网络上的任何主题，然后合成基础摘要"
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "url": "/k1tbyte/Wand-Enhancer",
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "language": "C#",
+        "stars_today": 582,
+        "stars_total": 23462,
+        "description_zh": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
       },
       {
         "full_name": "majd/ipatool",
         "url": "/majd/ipatool",
         "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
         "language": "Go",
-        "stars_today": 58,
-        "stars_total": 10301,
+        "stars_today": 373,
+        "stars_total": 10611,
         "description_zh": "命令行工具，允许从App Store搜索和下载iOS、iPadOS、tvOS和visionOS的应用程序包（称为ipa文件）。"
       },
       {
-        "full_name": "punkpeye/awesome-mcp-servers",
-        "url": "/punkpeye/awesome-mcp-servers",
-        "description": "A collection of MCP servers.",
-        "language": null,
-        "stars_today": 96,
-        "stars_total": 93454,
-        "description_zh": "MCP服务器的集合。"
+        "full_name": "jingyaogong/minimind",
+        "url": "/jingyaogong/minimind",
+        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "language": "Python",
+        "stars_today": 495,
+        "stars_total": 56373,
+        "description_zh": "🧠 只需 2 小时从头开始训练 64M 参数的 LLM！"
+      },
+      {
+        "full_name": "Osmantic/ODS",
+        "url": "/Osmantic/ODS",
+        "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+        "language": "Python",
+        "stars_today": 77,
+        "stars_total": 5614,
+        "description_zh": "将您的 PC、Mac 或 Linux 机器变成 AI 服务器。 LLM 推理、聊天 UI、语音、代理、工作流程、RAG 和图像生成。"
       },
       {
         "full_name": "checkstyle/checkstyle",
         "url": "/checkstyle/checkstyle",
         "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
         "language": "Java",
-        "stars_today": 115,
-        "stars_total": 9246,
+        "stars_today": 198,
+        "stars_total": 9449,
         "description_zh": "Checkstyle是一种开发工具，用于帮助程序员编写符合编码标准的Java代码。默认情况下，它支持Google Java样式指南和Sun代码约定，但具有高度可配置性。可以使用ANT任务和命令行程序调用它。"
       },
       {
-        "full_name": "NationalSecurityAgency/ghidra",
-        "url": "/NationalSecurityAgency/ghidra",
-        "description": "Ghidra is a software reverse engineering (SRE) framework",
-        "language": "Java",
-        "stars_today": 198,
-        "stars_total": 74011,
-        "description_zh": "Ghidra是一个软件逆向工程（ SRE ）框架"
+        "full_name": "zhaoxuya520/reverse-skill",
+        "url": "/zhaoxuya520/reverse-skill",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "language": "PowerShell",
+        "stars_today": 1401,
+        "stars_total": 33343,
+        "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
       },
       {
-        "full_name": "pollen-robotics/microduck_rl",
-        "url": "/pollen-robotics/microduck_rl",
-        "description": "RL training environments for Microduck (mjlab)",
+        "full_name": "affaan-m/ECC",
+        "url": "/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars_today": 512,
+        "stars_total": 245358,
+        "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
+      },
+      {
+        "full_name": "kaifcodec/user-scanner",
+        "url": "/kaifcodec/user-scanner",
+        "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
         "language": "Python",
-        "stars_today": 168,
-        "stars_total": 882,
-        "description_zh": "Microduck (mjlab)的RL培训环境"
+        "stars_today": 93,
+        "stars_total": 4364,
+        "description_zh": "🕵️‍♂️（二合一）电子邮件和用户名 OSINT 套件，可仅从单个电子邮件/用户名中进行深度数据提取。分析 465 个以上主动维护的扫描向量（175 个以上电子邮件/290 个以上用户名），以进行安全研究、调查和数字足迹。"
+      },
+      {
+        "full_name": "every-app/open-seo",
+        "url": "/every-app/open-seo",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "stars_today": 610,
+        "stars_total": 15849,
+        "description_zh": "Semrush 和 Ahrefs 的开源替代品"
       }
     ],
     "weekly": [
+      {
+        "full_name": "tt-a1i/archify",
+        "url": "/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "stars_today": 22095,
+        "stars_total": 39590,
+        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
+      },
       {
         "full_name": "freestylefly/awesome-gpt-image-2",
         "url": "/freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "language": "JavaScript",
-        "stars_today": 13413,
-        "stars_total": 25878,
+        "stars_today": 11711,
+        "stars_total": 26535,
         "description_zh": "代码提示| GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出技能，持续更新中"
       },
       {
@@ -126,99 +135,90 @@
         "url": "/anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "language": "Python",
-        "stars_today": 2162,
-        "stars_total": 2933,
+        "stars_today": 1846,
+        "stars_total": 3071,
         "description_zh": "Claude Cowork和Claude Code的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。"
-      },
-      {
-        "full_name": "tt-a1i/archify",
-        "url": "/tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "JavaScript",
-        "stars_today": 18103,
-        "stars_total": 35665,
-        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
         "full_name": "omacom/omarchy",
         "url": "/omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "language": "Shell",
-        "stars_today": 6692,
-        "stars_total": 35668,
+        "stars_today": 6382,
+        "stars_total": 36331,
         "description_zh": "美丽、现代、有主见的 Linux"
       },
       {
-        "full_name": "apache/maka",
-        "url": "/apache/maka",
-        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "full_name": "THU-MAIC/OpenMAIC",
+        "url": "/THU-MAIC/OpenMAIC",
+        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "language": "TypeScript",
-        "stars_today": 1973,
-        "stars_total": 4236,
-        "description_zh": "Apache Maka （孵化）是本地首个AI代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件被记录为仅追加日志。"
-      },
-      {
-        "full_name": "tashfeenahmed/freellmapi",
-        "url": "/tashfeenahmed/freellmapi",
-        "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "language": "TypeScript",
-        "stars_today": 3037,
-        "stars_total": 22976,
-        "description_zh": "每月74亿个代币。34个免费LLM提供商。635个免费模型端点。全部在一个/v1端点后面，加上任何与OpenAI兼容的自定义端点。智能路由、自动故障转移、加密密钥。仅限个人实验。"
+        "stars_today": 5014,
+        "stars_total": 27781,
+        "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
       },
       {
         "full_name": "MadsLorentzen/ai-job-search",
         "url": "/MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "language": "Python",
-        "stars_today": 5348,
-        "stars_total": 38646,
+        "stars_today": 5463,
+        "stars_total": 39247,
         "description_zh": "在您的机器上运行的作业搜索。基于Claude Code构建的人工智能求职框架：评估帖子、定制简历、撰写求职信、准备面试。分叉并拥有它。"
       },
       {
-        "full_name": "anthropics/claude-plugins-official",
-        "url": "/anthropics/claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars_today": 1940,
-        "stars_total": 35641,
-        "description_zh": "由Anthropic管理的高质量Claude Code插件的官方目录。"
-      },
-      {
-        "full_name": "AprilNEA/OpenLogi",
-        "url": "/AprilNEA/OpenLogi",
-        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "language": "Rust",
-        "stars_today": 3406,
-        "stars_total": 17954,
-        "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
-      },
-      {
-        "full_name": "rohitg00/ai-engineering-from-scratch",
-        "url": "/rohitg00/ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars_today": 3720,
-        "stars_total": 51367,
-        "description_zh": "学习它。建造它。寄给别人。"
-      },
-      {
-        "full_name": "cursor/plugins",
-        "url": "/cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
+        "full_name": "apache/maka",
+        "url": "/apache/maka",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
         "language": "TypeScript",
-        "stars_today": 1503,
-        "stars_total": 6299,
-        "description_zh": "光标插件规范和官方插件"
+        "stars_today": 1697,
+        "stars_total": 4359,
+        "description_zh": "Apache Maka （孵化）是本地首个AI代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件被记录为仅追加日志。"
       },
       {
         "full_name": "K-Dense-AI/scientific-agent-skills",
         "url": "/K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
         "language": "Python",
-        "stars_today": 4309,
-        "stars_total": 39712,
+        "stars_today": 6248,
+        "stars_total": 40937,
         "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
+      },
+      {
+        "full_name": "tashfeenahmed/freellmapi",
+        "url": "/tashfeenahmed/freellmapi",
+        "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "language": "TypeScript",
+        "stars_today": 3640,
+        "stars_total": 23388,
+        "description_zh": "每月74亿个代币。34个免费LLM提供商。635个免费模型端点。全部在一个/v1端点后面，加上任何与OpenAI兼容的自定义端点。智能路由、自动故障转移、加密密钥。仅限个人实验。"
+      },
+      {
+        "full_name": "anthropics/claude-plugins-official",
+        "url": "/anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars_today": 2024,
+        "stars_total": 35754,
+        "description_zh": "由Anthropic管理的高质量Claude Code插件的官方目录。"
+      },
+      {
+        "full_name": "rohitg00/ai-engineering-from-scratch",
+        "url": "/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars_today": 3735,
+        "stars_total": 51653,
+        "description_zh": "学习它。建造它。寄给别人。"
+      },
+      {
+        "full_name": "asciimoo/hister",
+        "url": "/asciimoo/hister",
+        "description": "Your own search engine",
+        "language": "Go",
+        "stars_today": 936,
+        "stars_total": 3474,
+        "description_zh": "您自己的搜索引擎"
       }
     ],
     "monthly": [
@@ -227,26 +227,17 @@
         "url": "/omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "language": "Shell",
-        "stars_today": 11259,
-        "stars_total": 35668,
+        "stars_today": 12040,
+        "stars_total": 36331,
         "description_zh": "美丽、现代、有主见的 Linux"
-      },
-      {
-        "full_name": "firecrawl/pdf-inspector",
-        "url": "/firecrawl/pdf-inspector",
-        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-        "language": "Rust",
-        "stars_today": 15341,
-        "stars_total": 17057,
-        "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描的PDF和基于文本的PDF ，以实现智能路由决策。"
       },
       {
         "full_name": "freestylefly/awesome-gpt-image-2",
         "url": "/freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "language": "JavaScript",
-        "stars_today": 16908,
-        "stars_total": 25878,
+        "stars_today": 17692,
+        "stars_total": 26535,
         "description_zh": "代码提示| GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出技能，持续更新中"
       },
       {
@@ -254,8 +245,8 @@
         "url": "/TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
         "language": "TypeScript",
-        "stars_today": 15913,
-        "stars_total": 25309,
+        "stars_today": 15760,
+        "stars_total": 25465,
         "description_zh": "TangentDB Agent Memory 是 AI Agent 的团队级内存中心，将对话、文档和代码转化为四种可重用的内存资产（聊天内存、技能、LLM-Wiki、代码图），并在代理和框架之间进行管理、共享和配备。"
       },
       {
@@ -263,26 +254,35 @@
         "url": "/anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "language": "Python",
-        "stars_today": 2543,
-        "stars_total": 2933,
+        "stars_today": 2749,
+        "stars_total": 3071,
         "description_zh": "Claude Cowork和Claude Code的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。"
       },
       {
-        "full_name": "zhaoxuya520/reverse-skill",
-        "url": "/zhaoxuya520/reverse-skill",
-        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-        "language": "PowerShell",
-        "stars_today": 21984,
-        "stars_total": 32265,
-        "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+        "full_name": "firecrawl/pdf-inspector",
+        "url": "/firecrawl/pdf-inspector",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "language": "Rust",
+        "stars_today": 15596,
+        "stars_total": 17479,
+        "description_zh": "用于PDF检查、分类和文本提取的快速Rust库。智能检测扫描的PDF和基于文本的PDF ，以实现智能路由决策。"
+      },
+      {
+        "full_name": "tt-a1i/archify",
+        "url": "/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "stars_today": 29539,
+        "stars_total": 39590,
+        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
         "full_name": "cactus-compute/needle",
         "url": "/cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "language": "Python",
-        "stars_today": 6450,
-        "stars_total": 9802,
+        "stars_today": 6577,
+        "stars_total": 9909,
         "description_zh": "14MB基础型号，适用于微型设备；手机、可穿戴设备、智能家居和机器人。"
       },
       {
@@ -290,8 +290,8 @@
         "url": "/volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "language": "Python",
-        "stars_today": 6903,
-        "stars_total": 34540,
+        "stars_today": 7099,
+        "stars_total": 34776,
         "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
       },
       {
@@ -299,35 +299,35 @@
         "url": "/AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "language": "Rust",
-        "stars_today": 9946,
-        "stars_total": 17954,
+        "stars_today": 10223,
+        "stars_total": 18217,
         "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      },
+      {
+        "full_name": "zhaoxuya520/reverse-skill",
+        "url": "/zhaoxuya520/reverse-skill",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "language": "PowerShell",
+        "stars_today": 22876,
+        "stars_total": 33343,
+        "description_zh": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
       },
       {
         "full_name": "apache/maka",
         "url": "/apache/maka",
         "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
         "language": "TypeScript",
-        "stars_today": 3257,
-        "stars_total": 4236,
+        "stars_today": 3378,
+        "stars_total": 4359,
         "description_zh": "Apache Maka （孵化）是本地首个AI代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件被记录为仅追加日志。"
-      },
-      {
-        "full_name": "tt-a1i/archify",
-        "url": "/tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "JavaScript",
-        "stars_today": 25275,
-        "stars_total": 35665,
-        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
         "full_name": "modular/modular",
         "url": "/modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "language": "Mojo",
-        "stars_today": 2825,
-        "stars_total": 29386,
+        "stars_today": 2868,
+        "stars_total": 29415,
         "description_zh": "模块化平台（包括 MAX 和 Mojo）"
       }
     ]
