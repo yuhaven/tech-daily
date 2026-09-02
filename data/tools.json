@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T05:21:47+00:00",
+  "generated_at": "2026-09-02T04:47:35+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 699,
+      "points": 700,
       "comments": 326,
       "author": "Labo333",
       "time": "2026-08-27T08:59:49Z",
@@ -50,16 +50,6 @@
       "author": "danielvaughn",
       "time": "2026-08-20T19:05:36Z",
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
-    },
-    {
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "url": "https://sf.isopolis.city/",
-      "domain": "sf.isopolis.city",
-      "points": 350,
-      "comments": 81,
-      "author": "nuwandavek",
-      "time": "2026-08-03T00:46:38Z",
-      "title_zh": "显示 HN：Isopolis – SF 的等距像素图"
     },
     {
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
@@ -112,14 +102,24 @@
       "title_zh": "显示HN ：滚动浏览所有43252003274489856000魔方状态"
     },
     {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
-      "domain": "github.com",
-      "points": 255,
-      "comments": 64,
-      "author": "vlad_kalinkin",
-      "time": "2026-08-02T16:26:40Z",
-      "title_zh": "Show HN：Kakehashi – 在 Linux ARM 上运行 macOS 二进制文件的实验用户空间"
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "domain": "laser.consti.de",
+      "points": 249,
+      "comments": 60,
+      "author": "con",
+      "time": "2026-08-29T12:28:11Z",
+      "title_zh": "Show HN：激光涂鸦"
+    },
+    {
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "domain": "baselashraf81.github.io",
+      "points": 243,
+      "comments": 103,
+      "author": "BaselAshraf81",
+      "time": "2026-08-10T16:53:31Z",
+      "title_zh": "Show HN: Eigendrum - 绘制任何形状并听听它的鼓声"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1979,
-      "comments": 917,
+      "points": 1981,
+      "comments": 922,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"
@@ -157,7 +157,7 @@
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "domain": "blog.curiousquail.com",
-      "points": 1701,
+      "points": 1702,
       "comments": 403,
       "author": "speckx",
       "time": "2026-08-20T20:07:26Z",
@@ -207,8 +207,8 @@
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "domain": "schlarp.com",
-      "points": 1450,
-      "comments": 349,
+      "points": 1451,
+      "comments": 350,
       "author": "schlarpc",
       "time": "2026-08-23T22:41:04Z",
       "title_zh": "我拥有的一切，拥有的"
