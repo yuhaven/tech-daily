@@ -1,25 +1,15 @@
 {
-  "generated_at": "2026-09-03T04:44:45+00:00",
+  "generated_at": "2026-09-04T04:46:33+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 701,
+      "points": 703,
       "comments": 326,
       "author": "Labo333",
       "time": "2026-08-27T08:59:49Z",
       "title_zh": "Show HN ： Claude的承重词汇"
-    },
-    {
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "domain": "toneyalexander.github.io",
-      "points": 627,
-      "comments": 99,
-      "author": "automatoney",
-      "time": "2026-08-04T15:16:22Z",
-      "title_zh": "Show HN：简单的算法和色彩空间来生成多样化的肤色"
     },
     {
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
@@ -95,8 +85,8 @@
       "title": "Show HN: Laser Graffiti",
       "url": "https://laser.consti.de",
       "domain": "laser.consti.de",
-      "points": 251,
-      "comments": 60,
+      "points": 252,
+      "comments": 61,
       "author": "con",
       "time": "2026-08-29T12:28:11Z",
       "title_zh": "Show HN：激光涂鸦"
@@ -120,6 +110,16 @@
       "author": "ssx360",
       "time": "2026-08-24T13:17:11Z",
       "title_zh": "Show HN：一个 HTML 文件中的技术机器，具有可验证的渲染"
+    },
+    {
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "domain": "github.com",
+      "points": 230,
+      "comments": 58,
+      "author": "elyosh",
+      "time": "2026-08-27T22:10:47Z",
+      "title_zh": "Show HN：OpenTIE 和 OpenXWA，Tie Fighter 和 X-Wing Alliance 的现代移植"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1981,
-      "comments": 923,
+      "points": 1982,
+      "comments": 925,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"
@@ -147,7 +147,7 @@
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "domain": "blog.curiousquail.com",
-      "points": 1703,
+      "points": 1704,
       "comments": 404,
       "author": "speckx",
       "time": "2026-08-20T20:07:26Z",
@@ -157,21 +157,11 @@
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "domain": "lectronz.com",
-      "points": 1646,
+      "points": 1647,
       "comments": 1031,
       "author": "l-one-lone",
       "time": "2026-08-24T13:05:25Z",
       "title_zh": "欧洲如何杀死创业者和微型企业家"
-    },
-    {
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "domain": "writings.stephenwolfram.com",
-      "points": 1645,
-      "comments": 95,
-      "author": "jdcampolargo",
-      "time": "2026-08-04T18:51:38Z",
-      "title_zh": "纪念我的妻子 Elise Cawley，感谢她度过了 36 年的美好时光"
     },
     {
       "title": "OpenLogi",
@@ -192,6 +182,26 @@
       "author": "helsinkiandrew",
       "time": "2026-08-25T18:02:22Z",
       "title_zh": "多莉·帕顿去世"
+    },
+    {
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "domain": "neil.fraser.name",
+      "points": 1525,
+      "comments": 406,
+      "author": "pavel_lishin",
+      "time": "2026-09-03T14:54:39Z",
+      "title_zh": ".name 终止"
+    },
+    {
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "domain": "openai.com",
+      "points": 1501,
+      "comments": 1265,
+      "author": "kibae",
+      "time": "2026-09-03T18:41:05Z",
+      "title_zh": "GPT-6 阿斯特拉"
     },
     {
       "title": "Everything I own, owned",
@@ -227,21 +237,11 @@
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "domain": "anthropic.com",
-      "points": 1382,
-      "comments": 1340,
+      "points": 1404,
+      "comments": 1372,
       "author": "denysvitali",
       "time": "2026-09-01T17:53:53Z",
       "title_zh": "克劳德寓言5.1和克劳德神话5.1"
-    },
-    {
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "domain": "people.kernel.org",
-      "points": 1369,
-      "comments": 706,
-      "author": "zdw",
-      "time": "2026-08-29T17:49:01Z",
-      "title_zh": "令人毛骨悚然的爬虫"
     }
   ]
 }
