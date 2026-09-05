@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T04:46:33+00:00",
+  "generated_at": "2026-09-05T04:41:23+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 703,
+      "points": 706,
       "comments": 326,
       "author": "Labo333",
       "time": "2026-08-27T08:59:49Z",
@@ -16,7 +16,7 @@
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "domain": "simedw.com",
       "points": 598,
-      "comments": 118,
+      "comments": 117,
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
@@ -36,7 +36,7 @@
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
       "points": 384,
-      "comments": 210,
+      "comments": 209,
       "author": "danielvaughn",
       "time": "2026-08-20T19:05:36Z",
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
@@ -82,10 +82,20 @@
       "title_zh": "显示HN ：滚动浏览所有43252003274489856000魔方状态"
     },
     {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "domain": "opentrailpaper.com",
+      "points": 256,
+      "comments": 90,
+      "author": "stingrae",
+      "time": "2026-09-04T17:18:08Z",
+      "title_zh": "Show HN：开源电子墨水自行车计算机"
+    },
+    {
       "title": "Show HN: Laser Graffiti",
       "url": "https://laser.consti.de",
       "domain": "laser.consti.de",
-      "points": 252,
+      "points": 253,
       "comments": 61,
       "author": "con",
       "time": "2026-08-29T12:28:11Z",
@@ -110,24 +120,34 @@
       "author": "ssx360",
       "time": "2026-08-24T13:17:11Z",
       "title_zh": "Show HN：一个 HTML 文件中的技术机器，具有可验证的渲染"
-    },
-    {
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "url": "https://github.com/elyosh/OpenTIE/",
-      "domain": "github.com",
-      "points": 230,
-      "comments": 58,
-      "author": "elyosh",
-      "time": "2026-08-27T22:10:47Z",
-      "title_zh": "Show HN：OpenTIE 和 OpenXWA，Tie Fighter 和 X-Wing Alliance 的现代移植"
     }
   ],
   "hot": [
     {
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "domain": "openai.com",
+      "points": 2163,
+      "comments": 1982,
+      "author": "kibae",
+      "time": "2026-09-03T18:41:05Z",
+      "title_zh": "GPT-6 阿斯特拉"
+    },
+    {
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "domain": "neil.fraser.name",
+      "points": 2154,
+      "comments": 530,
+      "author": "pavel_lishin",
+      "time": "2026-09-03T14:54:39Z",
+      "title_zh": ".name 终止"
+    },
+    {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1982,
+      "points": 1985,
       "comments": 925,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
@@ -158,7 +178,7 @@
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "domain": "lectronz.com",
       "points": 1647,
-      "comments": 1031,
+      "comments": 1032,
       "author": "l-one-lone",
       "time": "2026-08-24T13:05:25Z",
       "title_zh": "欧洲如何杀死创业者和微型企业家"
@@ -184,31 +204,21 @@
       "title_zh": "多莉·帕顿去世"
     },
     {
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "domain": "neil.fraser.name",
-      "points": 1525,
-      "comments": 406,
-      "author": "pavel_lishin",
-      "time": "2026-09-03T14:54:39Z",
-      "title_zh": ".name 终止"
-    },
-    {
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "domain": "openai.com",
-      "points": 1501,
-      "comments": 1265,
-      "author": "kibae",
-      "time": "2026-09-03T18:41:05Z",
-      "title_zh": "GPT-6 阿斯特拉"
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "domain": "collusion.wiki",
+      "points": 1563,
+      "comments": 1240,
+      "author": "moultano",
+      "time": "2026-09-04T11:54:53Z",
+      "title_zh": "发现新的 OpenAI 代理留言板"
     },
     {
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "domain": "schlarp.com",
       "points": 1453,
-      "comments": 350,
+      "comments": 351,
       "author": "schlarpc",
       "time": "2026-08-23T22:41:04Z",
       "title_zh": "我拥有的一切，拥有的"
@@ -232,16 +242,6 @@
       "author": "herbertl",
       "time": "2026-08-18T13:22:38Z",
       "title_zh": "亚马逊税"
-    },
-    {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "domain": "anthropic.com",
-      "points": 1404,
-      "comments": 1372,
-      "author": "denysvitali",
-      "time": "2026-09-01T17:53:53Z",
-      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
     }
   ]
 }

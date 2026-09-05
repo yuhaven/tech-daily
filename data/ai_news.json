@@ -1,211 +1,220 @@
 {
-  "generated_at": "2026-09-04T04:46:32+00:00",
+  "generated_at": "2026-09-05T04:41:22+00:00",
   "hn": [
     {
       "id": 49554643,
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 1501,
-      "comments": 1265,
+      "points": 2163,
+      "comments": 1982,
       "author": "kibae",
       "time": 1788460865,
       "title_zh": "GPT-6 阿斯特拉"
     },
     {
-      "id": 49525378,
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "domain": "anthropic.com",
-      "points": 1404,
-      "comments": 1372,
-      "author": "denysvitali",
-      "time": 1788285233,
-      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
+      "id": 49563355,
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "domain": "collusion.wiki",
+      "points": 1563,
+      "comments": 1240,
+      "author": "moultano",
+      "time": 1788522893,
+      "title_zh": "发现新的 OpenAI 代理留言板"
     },
     {
       "id": 49537553,
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "domain": "blog.google",
-      "points": 1143,
-      "comments": 655,
+      "points": 1154,
+      "comments": 662,
       "author": "bratao",
       "time": 1788361960,
       "title_zh": "Gemini 3.8 Flash 和 3.8 Flash Cyber"
-    },
-    {
-      "id": 49536375,
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "domain": "trellner.com",
-      "points": 503,
-      "comments": 248,
-      "author": "jakobgreenfeld",
-      "time": 1788357599,
-      "title_zh": "三个网站制作了 215,128 个人工智能“最佳软件”页面。困惑引用了他们"
-    },
-    {
-      "id": 49551096,
-      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "url": "https://news.ycombinator.com/item?id=49551096",
-      "domain": "news.ycombinator.com",
-      "points": 354,
-      "comments": 531,
-      "author": "halcdev",
-      "time": 1788448021,
-      "title_zh": "问 HN：为什么 OpenAI、Claude 和 Grok 同时宕机？"
-    },
-    {
-      "id": 49548952,
-      "title": "Nvidia to acquire Hugging Face",
-      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "domain": "cnbc.com",
-      "points": 304,
-      "comments": 97,
-      "author": "tosh",
-      "time": 1788437433,
-      "title_zh": "英伟达将收购 Hugging Face"
-    },
-    {
-      "id": 49554273,
-      "title": "OpenAI begins rolling out GPT-6 Astra",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "domain": "cnbc.com",
-      "points": 253,
-      "comments": 235,
-      "author": "maskil",
-      "time": 1788459502,
-      "title_zh": "OpenAI 开始推出 GPT-6 Astra"
     },
     {
       "id": 49544762,
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "domain": "kedglobal.com",
-      "points": 232,
-      "comments": 67,
+      "points": 459,
+      "comments": 179,
       "author": "gmays",
       "time": 1788397882,
       "title_zh": "围棋大师 Shin 以两子让分击败 AI KataGo"
+    },
+    {
+      "id": 49551096,
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "domain": "news.ycombinator.com",
+      "points": 393,
+      "comments": 682,
+      "author": "halcdev",
+      "time": 1788448021,
+      "title_zh": "问 HN：为什么 OpenAI、Claude 和 Grok 同时宕机？"
+    },
+    {
+      "id": 49563386,
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "domain": "productrise.app",
+      "points": 373,
+      "comments": 72,
+      "author": "DeepLogin",
+      "time": 1788523155,
+      "title_zh": "谷歌AI模式显示相同产品比传统搜索贵21.6%"
     },
     {
       "id": 49550375,
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "domain": "babyloniantwins.com",
-      "points": 229,
-      "comments": 68,
+      "points": 367,
+      "comments": 130,
       "author": "rabahs",
       "time": 1788445698,
       "title_zh": "将我 1993 年的 Amiga 游戏移植到 Godot，并由法学硕士阅读 68000 程序集"
     },
     {
-      "id": 49534132,
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "domain": "multiversecomputing.com",
-      "points": 190,
-      "comments": 128,
-      "author": "amunozo",
-      "time": 1788343361,
-      "title_zh": "Quasar 438B：欧洲领先的人工智能模型"
+      "id": 49548952,
+      "title": "Nvidia to acquire Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "domain": "cnbc.com",
+      "points": 324,
+      "comments": 106,
+      "author": "tosh",
+      "time": 1788437433,
+      "title_zh": "英伟达将收购 Hugging Face"
     },
     {
-      "id": 49555691,
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "domain": "arcprize.org",
-      "points": 185,
-      "comments": 118,
-      "author": "vignesh_warar",
-      "time": 1788464700,
-      "title_zh": "ARC-AGI-3 上的 OpenAI GPT-6 Astra"
+      "id": 49557206,
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "domain": "armature.tech",
+      "points": 290,
+      "comments": 147,
+      "author": "screm",
+      "time": 1788470434,
+      "title_zh": "Claude、Codex 和 Cursor 选择哪些工具？我们测量了 17k 次运行来找出答案"
     },
     {
-      "id": 49536411,
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "domain": "github.com",
-      "points": 142,
-      "comments": 24,
-      "author": "saikatsg",
-      "time": 1788357755,
-      "title_zh": "WebLLM：高性能浏览器内LLM推理引擎"
+      "id": 49566137,
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "domain": "nytimes.com",
+      "points": 279,
+      "comments": 257,
+      "author": "aaraujo002",
+      "time": 1788536025,
+      "title_zh": "美国企业界对开源人工智能着迷"
+    },
+    {
+      "id": 49569366,
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "domain": "eebench.org",
+      "points": 202,
+      "comments": 127,
+      "author": "iopapa",
+      "time": 1788551309,
+      "title_zh": "AI还能设计电路板吗？"
+    },
+    {
+      "id": 49570545,
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "domain": "openrouter.ai",
+      "points": 160,
+      "comments": 83,
+      "author": "Topfi",
+      "time": 1788557959,
+      "title_zh": "OpenRouter 上的 GPT-6 Astra"
     }
   ],
   "media": [
     {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch",
-      "published": "Fri, 04 Sep 2026 04:21:03 +0000",
-      "time": 1788495663,
-      "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "title_zh": "那些令人倒胃口的人工智能生成菜单背后的同一性问题"
+      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "time": 1788564974,
+      "snippet": "The round is being raised just months after the robot data startup exited from stealth.",
+      "title_zh": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元"
     },
     {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "source": "TechCrunch",
-      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
-      "time": 1788482922,
-      "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "title_zh": "据报道 Crusoe 以 30B 美元的估值筹集了 3B 美元"
+      "published": "Fri, 04 Sep 2026 23:15:11 +0000",
+      "time": 1788563711,
+      "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their ow",
+      "title_zh": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们"
     },
     {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "source": "Ars Technica",
+      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
+      "time": 1788560256,
+      "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "title_zh": "OpenAI 代理在公共 wiki 上讨论了逃离沙箱的方法"
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "source": "TechCrunch",
-      "published": "Thu, 03 Sep 2026 19:36:29 +0000",
-      "time": 1788464189,
-      "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "title_zh": "据报道，Accel 正在洽谈领投 Thinking Machines 的 10 亿美元融资，估值为 400 亿美元"
+      "published": "Fri, 04 Sep 2026 21:12:11 +0000",
+      "time": 1788556331,
+      "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "title_zh": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资"
     },
     {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "time": 1788547159,
+      "snippet": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assist",
+      "title_zh": "构建人工智能时代的内存和存储"
+    },
+    {
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "source": "Ars Technica",
+      "published": "Fri, 04 Sep 2026 17:18:12 +0000",
+      "time": 1788542292,
+      "snippet": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+      "title_zh": "曾经流行的攻击 AI 的 ASCII 走私现在受到垃圾邮件发送者的欢迎"
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
       "source": "TechCrunch",
-      "published": "Thu, 03 Sep 2026 18:37:57 +0000",
-      "time": 1788460677,
-      "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "title_zh": "Abliteration.ai 正在通过拆除人工智能护栏来做生意"
+      "published": "Fri, 04 Sep 2026 17:18:00 +0000",
+      "time": 1788542280,
+      "snippet": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first m",
+      "title_zh": "苹果的约翰·特努斯时代会是什么样子？"
     },
     {
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
       "source": "Ars Technica",
-      "published": "Thu, 03 Sep 2026 18:10:19 +0000",
-      "time": 1788459019,
-      "snippet": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-      "title_zh": "四大人工智能模型遭遇罕见的重叠停机"
+      "published": "Fri, 04 Sep 2026 16:22:18 +0000",
+      "time": 1788538938,
+      "snippet": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+      "title_zh": "Anthropic 2万亿美元的首次公开募股让强大的外部受托人成为人们关注的焦点"
     },
     {
-      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "source": "Ars Technica",
-      "published": "Thu, 03 Sep 2026 13:34:13 +0000",
-      "time": 1788442453,
-      "snippet": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-      "title_zh": "英伟达斥资 130 亿美元收购 AI GitHub Hugging Face"
-    },
-    {
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "source": "Ars Technica",
-      "published": "Wed, 02 Sep 2026 18:13:54 +0000",
-      "time": 1788372834,
-      "snippet": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-      "title_zh": "Google 发布 Gemini 3.8 Flash，这是六周内的第三款 Flash 型号"
-    },
-    {
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "source": "Ars Technica",
-      "published": "Wed, 02 Sep 2026 17:58:33 +0000",
-      "time": 1788371913,
-      "snippet": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-      "title_zh": "特朗普可能被迫透露联邦政府用于人工智能安全测试的秘密规则"
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "time": 1788513919,
+      "snippet": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a n",
+      "title_zh": "来自乌克兰无人机的数据正在推动新的狂野西部市场"
     },
     {
       "title": "Facilitating AI integration with simplicity at scale",
@@ -215,15 +224,6 @@
       "time": 1788357600,
       "snippet": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and",
       "title_zh": "大规模简化 AI 集成"
-    },
-    {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 31 Aug 2026 18:00:00 +0000",
-      "time": 1788199200,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last mo",
-      "title_zh": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题"
     }
   ]
 }

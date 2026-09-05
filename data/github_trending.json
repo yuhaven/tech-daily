@@ -1,114 +1,114 @@
 {
-  "generated_at": "2026-09-04T04:46:29+00:00",
+  "generated_at": "2026-09-05T04:41:17+00:00",
   "data": {
     "daily": [
-      {
-        "full_name": "fmtlib/fmt",
-        "url": "/fmtlib/fmt",
-        "description": "A modern formatting library",
-        "language": "C++",
-        "stars_today": 963,
-        "stars_total": 25186,
-        "description_zh": "现代格式库"
-      },
       {
         "full_name": "mattpocock/skills",
         "url": "/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
-        "stars_today": 1601,
-        "stars_total": 247848,
+        "stars_today": 2758,
+        "stars_total": 250668,
         "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
-      },
-      {
-        "full_name": "NousResearch/hermes-agent",
-        "url": "/NousResearch/hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars_today": 774,
-        "stars_total": 240968,
-        "description_zh": "与您共同成长的代理商"
       },
       {
         "full_name": "DietrichGebert/ponytail",
         "url": "/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "language": "JavaScript",
-        "stars_today": 2128,
-        "stars_total": 123724,
+        "stars_today": 1679,
+        "stars_total": 126393,
         "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
       },
       {
-        "full_name": "anthropics/skills",
-        "url": "/anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "stars_today": 281,
-        "stars_total": 173745,
-        "description_zh": "代理技能的公共存储库"
+        "full_name": "fmtlib/fmt",
+        "url": "/fmtlib/fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "stars_today": 688,
+        "stars_total": 25490,
+        "description_zh": "现代格式库"
       },
       {
         "full_name": "affaan-m/ECC",
         "url": "/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "stars_today": 751,
-        "stars_total": 247363,
+        "stars_today": 1135,
+        "stars_total": 248642,
         "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
       },
       {
-        "full_name": "JuliusBrussee/caveman",
-        "url": "/JuliusBrussee/caveman",
-        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "language": "Go",
-        "stars_today": 543,
-        "stars_total": 103182,
-        "description_zh": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
+        "full_name": "anthropics/skills",
+        "url": "/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars_today": 511,
+        "stars_total": 174193,
+        "description_zh": "代理技能的公共存储库"
       },
       {
         "full_name": "blader/humanizer",
         "url": "/blader/humanizer",
         "description": "Agent skill that removes signs of AI-generated writing from text",
         "language": "Python",
-        "stars_today": 1208,
-        "stars_total": 41693,
+        "stars_today": 1130,
+        "stars_total": 42841,
         "description_zh": "代理技能可消除文本中人工智能生成的书写痕迹"
       },
       {
-        "full_name": "google-research/timesfm",
-        "url": "/google-research/timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "full_name": "NousResearch/hermes-agent",
+        "url": "/NousResearch/hermes-agent",
+        "description": "The agent that grows with you",
         "language": "Python",
-        "stars_today": 1618,
-        "stars_total": 30760,
-        "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+        "stars_today": 720,
+        "stars_total": 241579,
+        "description_zh": "与您共同成长的代理商"
       },
       {
-        "full_name": "averygan/reclip",
-        "url": "/averygan/reclip",
-        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-        "language": "HTML",
-        "stars_today": 88,
-        "stars_total": 8474,
-        "description_zh": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+        "full_name": "JuliusBrussee/caveman",
+        "url": "/JuliusBrussee/caveman",
+        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "Go",
+        "stars_today": 501,
+        "stars_total": 103624,
+        "description_zh": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
+      },
+      {
+        "full_name": "magnitudedev/magnitude",
+        "url": "/magnitudedev/magnitude",
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+        "language": "TypeScript",
+        "stars_today": 391,
+        "stars_total": 2591,
+        "description_zh": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
+      },
+      {
+        "full_name": "bikini/exploitarium",
+        "url": "/bikini/exploitarium",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "language": "Python",
+        "stars_today": 74,
+        "stars_total": 4548,
+        "description_zh": "公开利用 PoC 和漏洞研究文章的单一档案。当我发布这些内容时，还没有任何报道。请随意自行举报，如果发出了 lulz，则将获得 CVE 的荣誉。请不要滥用这些。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
       },
       {
         "full_name": "bannedbook/fanqiang",
         "url": "/bannedbook/fanqiang",
         "description": "翻墙-科学上网",
         "language": "Kotlin",
-        "stars_today": 522,
-        "stars_total": 52355,
+        "stars_today": 730,
+        "stars_total": 52847,
         "description_zh": "翻墙-科学上网"
       },
       {
-        "full_name": "addyosmani/agent-skills",
-        "url": "/addyosmani/agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars_today": 264,
-        "stars_total": 92087,
-        "description_zh": "AI 编码代理的生产级工程技能。"
+        "full_name": "debpalash/VoiceStudio",
+        "url": "/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars_today": 1345,
+        "stars_total": 18198,
+        "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
       }
     ],
     "weekly": [
@@ -117,154 +117,154 @@
         "url": "/tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "language": "JavaScript",
-        "stars_today": 24227,
-        "stars_total": 46279,
+        "stars_today": 21896,
+        "stars_total": 48320,
         "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
-      },
-      {
-        "full_name": "bilawalsidhu/gods-eye-view",
-        "url": "/bilawalsidhu/gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars_today": 10485,
-        "stars_total": 17036,
-        "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
       },
       {
         "full_name": "THU-MAIC/OpenMAIC",
         "url": "/THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "language": "TypeScript",
-        "stars_today": 10023,
-        "stars_total": 31141,
+        "stars_today": 10274,
+        "stars_total": 31571,
         "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
       },
       {
-        "full_name": "JetBrains/go-modern-guidelines",
-        "url": "/JetBrains/go-modern-guidelines",
-        "description": "Help AI coding agents write modern Go",
-        "language": "Go",
-        "stars_today": 1213,
-        "stars_total": 3124,
-        "description_zh": "帮助 AI 编码代理编写现代 Go"
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "url": "/bilawalsidhu/gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars_today": 7314,
+        "stars_total": 17594,
+        "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
       },
       {
         "full_name": "Gitlawb/openclaude",
         "url": "/Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "language": "TypeScript",
-        "stars_today": 1389,
-        "stars_total": 32398,
+        "stars_today": 1679,
+        "stars_total": 32598,
         "description_zh": "跑到任何地方。使用任何东西"
-      },
-      {
-        "full_name": "K-Dense-AI/scientific-agent-skills",
-        "url": "/K-Dense-AI/scientific-agent-skills",
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "language": "Python",
-        "stars_today": 7370,
-        "stars_total": 42439,
-        "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
-      },
-      {
-        "full_name": "jingyaogong/minimind",
-        "url": "/jingyaogong/minimind",
-        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "language": "Python",
-        "stars_today": 3122,
-        "stars_total": 58300,
-        "description_zh": "🧠 只需 2 小时从头开始训练 64M 参数的 LLM！"
-      },
-      {
-        "full_name": "every-app/open-seo",
-        "url": "/every-app/open-seo",
-        "description": "Open source alternative to Semrush and Ahrefs",
-        "language": "TypeScript",
-        "stars_today": 2941,
-        "stars_total": 16714,
-        "description_zh": "Semrush 和 Ahrefs 的开源替代品"
-      },
-      {
-        "full_name": "omacom/omarchy",
-        "url": "/omacom/omarchy",
-        "description": "Beautiful, Modern & Opinionated Linux",
-        "language": "Shell",
-        "stars_today": 5296,
-        "stars_total": 37783,
-        "description_zh": "美丽、现代、有主见的 Linux"
       },
       {
         "full_name": "google-research/timesfm",
         "url": "/google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "language": "Python",
-        "stars_today": 2324,
-        "stars_total": 30760,
+        "stars_today": 2653,
+        "stars_total": 31105,
         "description_zh": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+      },
+      {
+        "full_name": "jingyaogong/minimind",
+        "url": "/jingyaogong/minimind",
+        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "language": "Python",
+        "stars_today": 3390,
+        "stars_total": 58576,
+        "description_zh": "🧠 只需 2 小时从头开始训练 64M 参数的 LLM！"
+      },
+      {
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "url": "/K-Dense-AI/scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "stars_today": 6898,
+        "stars_total": 42683,
+        "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
+      },
+      {
+        "full_name": "Lakr233/vphone-cli",
+        "url": "/Lakr233/vphone-cli",
+        "description": "",
+        "language": "Swift",
+        "stars_today": 1982,
+        "stars_total": 10549,
+        "description_zh": null
+      },
+      {
+        "full_name": "fmtlib/fmt",
+        "url": "/fmtlib/fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "stars_today": 1671,
+        "stars_total": 25490,
+        "description_zh": "现代格式库"
+      },
+      {
+        "full_name": "every-app/open-seo",
+        "url": "/every-app/open-seo",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "stars_today": 2950,
+        "stars_total": 17060,
+        "description_zh": "Semrush 和 Ahrefs 的开源替代品"
       },
       {
         "full_name": "p-e-w/heretic",
         "url": "/p-e-w/heretic",
         "description": "Fully automatic censorship removal for language models",
         "language": "Python",
-        "stars_today": 2146,
-        "stars_total": 30340,
+        "stars_today": 2065,
+        "stars_total": 30476,
         "description_zh": "全自动消除语言模型审查"
       },
       {
-        "full_name": "freestylefly/awesome-gpt-image-2",
-        "url": "/freestylefly/awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-        "language": "JavaScript",
-        "stars_today": 5425,
-        "stars_total": 27808,
-        "description_zh": "代码提示| GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出技能，持续更新中"
+        "full_name": "colinhacks/zod",
+        "url": "/colinhacks/zod",
+        "description": "TypeScript-first schema validation with static type inference",
+        "language": "TypeScript",
+        "stars_today": 297,
+        "stars_total": 43839,
+        "description_zh": "使用静态类型推断进行 TypeScript 优先模式验证"
       }
     ],
     "monthly": [
+      {
+        "full_name": "cathrynlavery/diagram-design",
+        "url": "/cathrynlavery/diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars_today": 27843,
+        "stars_total": 31063,
+        "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
+      },
       {
         "full_name": "omacom/omarchy",
         "url": "/omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "language": "Shell",
-        "stars_today": 13597,
-        "stars_total": 37783,
+        "stars_today": 13961,
+        "stars_total": 38080,
         "description_zh": "美丽、现代、有主见的 Linux"
+      },
+      {
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "url": "/PrimeIntellect-ai/prime-agent",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "language": "TypeScript",
+        "stars_today": 19927,
+        "stars_total": 19880,
+        "description_zh": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
       },
       {
         "full_name": "semantica-agi/semantica",
         "url": "/semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "language": "Python",
-        "stars_today": 10058,
-        "stars_total": 11889,
+        "stars_today": 10154,
+        "stars_total": 12018,
         "description_zh": "用于上下文和负责任的人工智能系统的图本机基础设施"
-      },
-      {
-        "full_name": "cursor/plugins",
-        "url": "/cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars_today": 4258,
-        "stars_total": 6796,
-        "description_zh": "光标插件规范和官方插件"
-      },
-      {
-        "full_name": "cloudflare/cloudflare-os",
-        "url": "/cloudflare/cloudflare-os",
-        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-        "language": "TypeScript",
-        "stars_today": 9562,
-        "stars_total": 9583,
-        "description_zh": "基于 Cloudflare Workers 构建的代理工作区，用于根据公司的环境和系统创建文档、构建应用程序以及运行代理。"
       },
       {
         "full_name": "tt-a1i/archify",
         "url": "/tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "language": "JavaScript",
-        "stars_today": 36689,
-        "stars_total": 46279,
+        "stars_today": 38699,
+        "stars_total": 48321,
         "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
@@ -272,8 +272,8 @@
         "url": "/anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "language": "Python",
-        "stars_today": 3067,
-        "stars_total": 3365,
+        "stars_today": 3126,
+        "stars_total": 3426,
         "description_zh": "Claude Cowork和Claude Code的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。"
       },
       {
@@ -281,8 +281,8 @@
         "url": "/AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "language": "Rust",
-        "stars_today": 10662,
-        "stars_total": 18965,
+        "stars_today": 11070,
+        "stars_total": 19355,
         "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
       },
       {
@@ -290,45 +290,45 @@
         "url": "/volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "language": "Python",
-        "stars_today": 7659,
-        "stars_total": 35387,
+        "stars_today": 7710,
+        "stars_total": 35547,
         "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
-      },
-      {
-        "full_name": "freestylefly/awesome-gpt-image-2",
-        "url": "/freestylefly/awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-        "language": "JavaScript",
-        "stars_today": 19065,
-        "stars_total": 27808,
-        "description_zh": "代码提示| GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出技能，持续更新中"
       },
       {
         "full_name": "vitali87/code-graph-rag",
         "url": "/vitali87/code-graph-rag",
         "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
         "language": "Python",
-        "stars_today": 2456,
-        "stars_total": 4949,
+        "stars_today": 2480,
+        "stars_total": 4972,
         "description_zh": "适合您的单一存储库的终极 RAG。借助人工智能和知识图的力量查询、理解和编辑多语言代码库"
+      },
+      {
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "url": "/freestylefly/awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "language": "JavaScript",
+        "stars_today": 19360,
+        "stars_total": 28058,
+        "description_zh": "代码提示| GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出技能，持续更新中"
       },
       {
         "full_name": "xai-org/x-algorithm",
         "url": "/xai-org/x-algorithm",
         "description": "Algorithm powering the For You feed on X",
         "language": "Rust",
-        "stars_today": 5828,
-        "stars_total": 32604,
+        "stars_today": 5878,
+        "stars_total": 32665,
         "description_zh": "为 X 上的 For You feed 提供支持的算法"
       },
       {
-        "full_name": "THU-MAIC/OpenMAIC",
-        "url": "/THU-MAIC/OpenMAIC",
-        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+        "full_name": "cloudflare/cloudflare-os",
+        "url": "/cloudflare/cloudflare-os",
+        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
         "language": "TypeScript",
-        "stars_today": 10599,
-        "stars_total": 31141,
-        "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
+        "stars_today": 9642,
+        "stars_total": 9654,
+        "description_zh": "基于 Cloudflare Workers 构建的代理工作区，用于根据公司的环境和系统创建文档、构建应用程序以及运行代理。"
       }
     ]
   }
