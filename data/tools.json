@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T04:41:23+00:00",
+  "generated_at": "2026-09-06T04:50:58+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
@@ -32,6 +32,16 @@
       "title_zh": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人"
     },
     {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "domain": "opentrailpaper.com",
+      "points": 390,
+      "comments": 118,
+      "author": "stingrae",
+      "time": "2026-09-04T17:18:08Z",
+      "title_zh": "Show HN：开源电子墨水自行车计算机"
+    },
+    {
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "domain": "danielvaughn.dev",
@@ -62,16 +72,6 @@
       "title_zh": "Show HN: Woxi -开源Mathematica/Wolfram语言再实现"
     },
     {
-      "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
-      "url": "https://electronicmaterialsoffice.com/",
-      "domain": "electronicmaterialsoffice.com",
-      "points": 306,
-      "comments": 245,
-      "author": "aemerson_",
-      "time": "2026-08-06T14:26:14Z",
-      "title_zh": "Show HN：我花了两年时间设计机械妙控键盘"
-    },
-    {
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
       "domain": "everycube.alen.is",
@@ -80,16 +80,6 @@
       "author": "Alen123",
       "time": "2026-08-10T23:16:25Z",
       "title_zh": "显示HN ：滚动浏览所有43252003274489856000魔方状态"
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "url": "https://opentrailpaper.com",
-      "domain": "opentrailpaper.com",
-      "points": 256,
-      "comments": 90,
-      "author": "stingrae",
-      "time": "2026-09-04T17:18:08Z",
-      "title_zh": "Show HN：开源电子墨水自行车计算机"
     },
     {
       "title": "Show HN: Laser Graffiti",
@@ -120,6 +110,16 @@
       "author": "ssx360",
       "time": "2026-08-24T13:17:11Z",
       "title_zh": "Show HN：一个 HTML 文件中的技术机器，具有可验证的渲染"
+    },
+    {
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "domain": "github.com",
+      "points": 237,
+      "comments": 116,
+      "author": "carloslfu",
+      "time": "2026-09-01T16:42:46Z",
+      "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2163,
-      "comments": 1982,
+      "points": 2222,
+      "comments": 2043,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -137,17 +137,27 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
-      "points": 2154,
-      "comments": 530,
+      "points": 2198,
+      "comments": 536,
       "author": "pavel_lishin",
       "time": "2026-09-03T14:54:39Z",
       "title_zh": ".name 终止"
     },
     {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "domain": "collusion.wiki",
+      "points": 2150,
+      "comments": 1529,
+      "author": "moultano",
+      "time": "2026-09-04T11:54:53Z",
+      "title_zh": "发现新的 OpenAI 代理留言板"
+    },
+    {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1985,
+      "points": 1986,
       "comments": 925,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
@@ -202,16 +212,6 @@
       "author": "helsinkiandrew",
       "time": "2026-08-25T18:02:22Z",
       "title_zh": "多莉·帕顿去世"
-    },
-    {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "domain": "collusion.wiki",
-      "points": 1563,
-      "comments": 1240,
-      "author": "moultano",
-      "time": "2026-09-04T11:54:53Z",
-      "title_zh": "发现新的 OpenAI 代理留言板"
     },
     {
       "title": "Everything I own, owned",
