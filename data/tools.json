@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T04:50:58+00:00",
+  "generated_at": "2026-09-07T04:57:12+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 706,
+      "points": 708,
       "comments": 326,
       "author": "Labo333",
       "time": "2026-08-27T08:59:49Z",
@@ -35,8 +35,8 @@
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "domain": "opentrailpaper.com",
-      "points": 390,
-      "comments": 118,
+      "points": 408,
+      "comments": 130,
       "author": "stingrae",
       "time": "2026-09-04T17:18:08Z",
       "title_zh": "Show HN：开源电子墨水自行车计算机"
@@ -115,8 +115,8 @@
       "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
       "url": "https://github.com/carloslfu/slotstream",
       "domain": "github.com",
-      "points": 237,
-      "comments": 116,
+      "points": 239,
+      "comments": 118,
       "author": "carloslfu",
       "time": "2026-09-01T16:42:46Z",
       "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
@@ -124,11 +124,21 @@
   ],
   "hot": [
     {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "domain": "collusion.wiki",
+      "points": 2271,
+      "comments": 1579,
+      "author": "moultano",
+      "time": "2026-09-04T11:54:53Z",
+      "title_zh": "发现新的 OpenAI 代理留言板"
+    },
+    {
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2222,
-      "comments": 2043,
+      "points": 2248,
+      "comments": 2060,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -137,27 +147,17 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
-      "points": 2198,
-      "comments": 536,
+      "points": 2216,
+      "comments": 538,
       "author": "pavel_lishin",
       "time": "2026-09-03T14:54:39Z",
       "title_zh": ".name 终止"
     },
     {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "domain": "collusion.wiki",
-      "points": 2150,
-      "comments": 1529,
-      "author": "moultano",
-      "time": "2026-09-04T11:54:53Z",
-      "title_zh": "发现新的 OpenAI 代理留言板"
-    },
-    {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1986,
+      "points": 1987,
       "comments": 925,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
@@ -188,7 +188,7 @@
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "domain": "lectronz.com",
       "points": 1647,
-      "comments": 1032,
+      "comments": 1033,
       "author": "l-one-lone",
       "time": "2026-08-24T13:05:25Z",
       "title_zh": "欧洲如何杀死创业者和微型企业家"
@@ -234,14 +234,14 @@
       "title_zh": "骐文3.8 27B"
     },
     {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "domain": "seths.blog",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "domain": "anthropic.com",
       "points": 1415,
-      "comments": 705,
-      "author": "herbertl",
-      "time": "2026-08-18T13:22:38Z",
-      "title_zh": "亚马逊税"
+      "comments": 1392,
+      "author": "denysvitali",
+      "time": "2026-09-01T17:53:53Z",
+      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
     }
   ]
 }
