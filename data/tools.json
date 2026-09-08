@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T04:57:12+00:00",
+  "generated_at": "2026-09-08T04:53:15+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 708,
+      "points": 709,
       "comments": 326,
       "author": "Labo333",
       "time": "2026-08-27T08:59:49Z",
@@ -35,8 +35,8 @@
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "domain": "opentrailpaper.com",
-      "points": 408,
-      "comments": 130,
+      "points": 417,
+      "comments": 132,
       "author": "stingrae",
       "time": "2026-09-04T17:18:08Z",
       "title_zh": "Show HN：开源电子墨水自行车计算机"
@@ -50,16 +50,6 @@
       "author": "danielvaughn",
       "time": "2026-08-20T19:05:36Z",
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
-    },
-    {
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "url": "https://photosynthesis.camera",
-      "domain": "photosynthesis.camera",
-      "points": 329,
-      "comments": 305,
-      "author": "sajomes",
-      "time": "2026-08-08T22:47:10Z",
-      "title_zh": "Show HN：iPhone 应用程序同时拍摄 2 个镜头的图像，融合成 1 张照片"
     },
     {
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
@@ -120,6 +110,16 @@
       "author": "carloslfu",
       "time": "2026-09-01T16:42:46Z",
       "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
+    },
+    {
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "domain": "wilsonharper.net",
+      "points": 231,
+      "comments": 30,
+      "author": "WilsonHarper",
+      "time": "2026-08-28T13:48:12Z",
+      "title_zh": "Show HN：带有 MCU 的 NFC 能量收集 PCB 名片"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2271,
-      "comments": 1579,
+      "points": 2288,
+      "comments": 1591,
       "author": "moultano",
       "time": "2026-09-04T11:54:53Z",
       "title_zh": "发现新的 OpenAI 代理留言板"
@@ -137,8 +137,8 @@
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2248,
-      "comments": 2060,
+      "points": 2266,
+      "comments": 2069,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -147,8 +147,8 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
-      "points": 2216,
-      "comments": 538,
+      "points": 2221,
+      "comments": 543,
       "author": "pavel_lishin",
       "time": "2026-09-03T14:54:39Z",
       "title_zh": ".name 终止"

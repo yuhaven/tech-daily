@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-07T04:57:10+00:00",
+  "generated_at": "2026-09-08T04:53:14+00:00",
   "hn": [
     {
       "id": 49563355,
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2271,
-      "comments": 1579,
+      "points": 2288,
+      "comments": 1591,
       "author": "moultano",
       "time": 1788522893,
       "title_zh": "发现新的 OpenAI 代理留言板"
@@ -17,8 +17,8 @@
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2248,
-      "comments": 2060,
+      "points": 2266,
+      "comments": 2069,
       "author": "kibae",
       "time": 1788460865,
       "title_zh": "GPT-6 阿斯特拉"
@@ -28,113 +28,131 @@
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "domain": "bcantrill.dtrace.org",
-      "points": 604,
-      "comments": 392,
+      "points": 717,
+      "comments": 433,
       "author": "cyb0rg0",
       "time": 1788695803,
       "title_zh": "当您使用法学硕士来撰写帖子时，您的智力飞翔就会开放（2025）"
-    },
-    {
-      "id": 49574167,
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "domain": "sylvainkalache.com",
-      "points": 408,
-      "comments": 340,
-      "author": "sylvainkalache",
-      "time": 1788594770,
-      "title_zh": "人工智能处理事件，工程师与系统失去联系"
-    },
-    {
-      "id": 49570545,
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "domain": "openrouter.ai",
-      "points": 318,
-      "comments": 232,
-      "author": "Topfi",
-      "time": 1788557959,
-      "title_zh": "OpenRouter 上的 GPT-6 Astra"
-    },
-    {
-      "id": 49582582,
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "domain": "openai.robocurve.org",
-      "points": 231,
-      "comments": 184,
-      "author": "Anon84",
-      "time": 1788659565,
-      "title_zh": "机器人手臂上的 GPT-6 Astra"
-    },
-    {
-      "id": 49582656,
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "domain": "ben-evans.com",
-      "points": 150,
-      "comments": 65,
-      "author": "firexcy",
-      "time": 1788660766,
-      "title_zh": "人工智能、工具和转型"
     },
     {
       "id": 49587217,
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "domain": "openai.com",
-      "points": 136,
-      "comments": 89,
+      "points": 209,
+      "comments": 180,
       "author": "iamsyr",
       "time": 1788707324,
       "title_zh": "研究加速：OpenAI 内部的观点"
+    },
+    {
+      "id": 49582656,
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "domain": "ben-evans.com",
+      "points": 155,
+      "comments": 76,
+      "author": "firexcy",
+      "time": 1788660766,
+      "title_zh": "人工智能、工具和转型"
     },
     {
       "id": 49590595,
       "title": "Harnessing the Universal Geometry of Embeddings",
       "url": "https://arxiv.org/abs/2505.12540",
       "domain": "arxiv.org",
-      "points": 59,
-      "comments": 19,
+      "points": 117,
+      "comments": 39,
       "author": "ur-whale",
       "time": 1788726680,
       "title_zh": "利用嵌入的通用几何形状"
     },
     {
-      "id": 49591782,
-      "title": "GOP issues stark warning to AI companies",
-      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "domain": "axios.com",
-      "points": 22,
-      "comments": 15,
-      "author": "cdrnsf",
-      "time": 1788735580,
-      "title_zh": "共和党向人工智能公司发出严厉警告"
+      "id": 49594008,
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://github.com/timgordontg/engrim",
+      "domain": "github.com",
+      "points": 85,
+      "comments": 50,
+      "author": "timgordontg",
+      "time": 1788756576,
+      "title_zh": "Show HN：Engrim – 用于 AI CLI 的通用、本地优先的 SQLite 内存引擎"
     },
     {
-      "id": 49592508,
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-      "domain": "rocm.blogs.amd.com",
-      "points": 11,
-      "comments": 0,
-      "author": "metrofun",
-      "time": 1788741961,
-      "title_zh": "ROCm 10.0：开放计算的十年，专为代理人工智能时代而构建"
+      "id": 49596610,
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "domain": "economist.com",
+      "points": 73,
+      "comments": 116,
+      "author": "MrBuddyCasino",
+      "time": 1788777512,
+      "title_zh": "人工智能技术对就业的初步影响看起来是积极的"
     },
     {
-      "id": 49592035,
-      "title": "Pivot to AI safety, I beg you",
-      "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
-      "domain": "ceselder.substack.com",
-      "points": 11,
-      "comments": 9,
-      "author": "doitLP",
-      "time": 1788737824,
-      "title_zh": "求求你，以人工智能安全为中心"
+      "id": 49601810,
+      "title": "AI Cold Showers",
+      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+      "domain": "allan.reyes.sh",
+      "points": 73,
+      "comments": 12,
+      "author": "mooreds",
+      "time": 1788807939,
+      "title_zh": "人工智能冷水淋浴"
+    },
+    {
+      "id": 49593842,
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "domain": "github.com",
+      "points": 56,
+      "comments": 14,
+      "author": "aggrrrh",
+      "time": 1788754708,
+      "title_zh": "Coop – 用于运行 Claude 代码和 Codex 的隔离虚拟机环境"
+    },
+    {
+      "id": 49602258,
+      "title": "El Yayster – a resident LLM that inhabits Emacs",
+      "url": "https://github.com/yayster/yayster.el",
+      "domain": "github.com",
+      "points": 35,
+      "comments": 6,
+      "author": "dTal",
+      "time": 1788810621,
+      "title_zh": "El Yayster – 居住在 Emacs 中的法学硕士"
+    },
+    {
+      "id": 49605246,
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "domain": "danluu.com",
+      "points": 23,
+      "comments": 2,
+      "author": "vinhnx",
+      "time": 1788836296,
+      "title_zh": "代理使用测试/验证技术的情况如何？"
     }
   ],
   "media": [
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "published": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "time": 1788809040,
+      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "title_zh": "不透明循环以及您可能应该知道的其他人工智能术语"
+    },
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "source": "Ars Technica",
+      "published": "Mon, 07 Sep 2026 11:00:03 +0000",
+      "time": 1788778803,
+      "snippet": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "title_zh": "价值 32 亿美元的人工智能数据中心背后的复杂企业网络"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -161,15 +179,6 @@
       "time": 1788648595,
       "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
       "title_zh": "《西雅图时报》和《新闻日报》是最新起诉 OpenAI 和微软的出版物"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch",
-      "published": "Sat, 05 Sep 2026 19:35:24 +0000",
-      "time": 1788636924,
-      "snippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "title_zh": "使用 Google Gemini 进行规划后徒步旅行者获救"
     },
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -215,15 +224,6 @@
       "time": 1788513919,
       "snippet": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a n",
       "title_zh": "来自乌克兰无人机的数据正在推动新的狂野西部市场"
-    },
-    {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Tech Review",
-      "published": "Wed, 02 Sep 2026 14:00:00 +0000",
-      "time": 1788357600,
-      "snippet": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and",
-      "title_zh": "大规模简化 AI 集成"
     }
   ]
 }
