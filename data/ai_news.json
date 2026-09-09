@@ -1,148 +1,211 @@
 {
-  "generated_at": "2026-09-08T04:53:14+00:00",
+  "generated_at": "2026-09-09T04:54:37+00:00",
   "hn": [
     {
-      "id": 49563355,
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "domain": "collusion.wiki",
-      "points": 2288,
-      "comments": 1591,
-      "author": "moultano",
-      "time": 1788522893,
-      "title_zh": "发现新的 OpenAI 代理留言板"
+      "id": 49605767,
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "domain": "mistral.ai",
+      "points": 814,
+      "comments": 570,
+      "author": "kuberwastaken",
+      "time": 1788843983,
+      "title_zh": "Mistral 筹集 €3B"
     },
     {
-      "id": 49554643,
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
+      "id": 49610538,
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "domain": "manualdousuario.net",
+      "points": 658,
+      "comments": 219,
+      "author": "rpgbr",
+      "time": 1788876357,
+      "title_zh": "LibreOffice 宣称不具备人工智能功能，打破下载记录"
+    },
+    {
+      "id": 49615537,
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "domain": "ai.meta.com",
+      "points": 393,
+      "comments": 413,
+      "author": "yks",
+      "time": 1788895500,
+      "title_zh": "Muse – Meta 的个人人工智能代理"
+    },
+    {
+      "id": 49610631,
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "domain": "github.com",
+      "points": 366,
+      "comments": 274,
+      "author": "domhudson",
+      "time": 1788876806,
+      "title_zh": "我患有注意力缺陷多动症：一种阻止编码代理埋葬答案的技能"
+    },
+    {
+      "id": 49614720,
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
       "domain": "openai.com",
-      "points": 2266,
-      "comments": 2069,
-      "author": "kibae",
-      "time": 1788460865,
-      "title_zh": "GPT-6 阿斯特拉"
+      "points": 291,
+      "comments": 374,
+      "author": "vertigoruntime",
+      "time": 1788892671,
+      "title_zh": "ChatGPT 图像 2.5"
     },
     {
-      "id": 49585644,
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "domain": "bcantrill.dtrace.org",
-      "points": 717,
-      "comments": 433,
-      "author": "cyb0rg0",
-      "time": 1788695803,
-      "title_zh": "当您使用法学硕士来撰写帖子时，您的智力飞翔就会开放（2025）"
+      "id": 49616968,
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "points": 254,
+      "comments": 182,
+      "author": "_alternator_",
+      "time": 1788901252,
+      "title_zh": "陶：人工智能不可再生地挖掘开放数学问题"
     },
     {
-      "id": 49587217,
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "domain": "openai.com",
-      "points": 209,
-      "comments": 180,
-      "author": "iamsyr",
-      "time": 1788707324,
-      "title_zh": "研究加速：OpenAI 内部的观点"
-    },
-    {
-      "id": 49582656,
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "domain": "ben-evans.com",
-      "points": 155,
-      "comments": 76,
-      "author": "firexcy",
-      "time": 1788660766,
-      "title_zh": "人工智能、工具和转型"
-    },
-    {
-      "id": 49590595,
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "url": "https://arxiv.org/abs/2505.12540",
-      "domain": "arxiv.org",
-      "points": 117,
-      "comments": 39,
-      "author": "ur-whale",
-      "time": 1788726680,
-      "title_zh": "利用嵌入的通用几何形状"
-    },
-    {
-      "id": 49594008,
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "url": "https://github.com/timgordontg/engrim",
-      "domain": "github.com",
-      "points": 85,
-      "comments": 50,
-      "author": "timgordontg",
-      "time": 1788756576,
-      "title_zh": "Show HN：Engrim – 用于 AI CLI 的通用、本地优先的 SQLite 内存引擎"
-    },
-    {
-      "id": 49596610,
-      "title": "Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "domain": "economist.com",
-      "points": 73,
-      "comments": 116,
-      "author": "MrBuddyCasino",
-      "time": 1788777512,
-      "title_zh": "人工智能技术对就业的初步影响看起来是积极的"
-    },
-    {
-      "id": 49601810,
-      "title": "AI Cold Showers",
-      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
-      "domain": "allan.reyes.sh",
-      "points": 73,
-      "comments": 12,
-      "author": "mooreds",
-      "time": 1788807939,
-      "title_zh": "人工智能冷水淋浴"
-    },
-    {
-      "id": 49593842,
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://github.com/trailofbits/coop",
-      "domain": "github.com",
-      "points": 56,
-      "comments": 14,
-      "author": "aggrrrh",
-      "time": 1788754708,
-      "title_zh": "Coop – 用于运行 Claude 代码和 Codex 的隔离虚拟机环境"
-    },
-    {
-      "id": 49602258,
-      "title": "El Yayster – a resident LLM that inhabits Emacs",
-      "url": "https://github.com/yayster/yayster.el",
-      "domain": "github.com",
-      "points": 35,
-      "comments": 6,
-      "author": "dTal",
-      "time": 1788810621,
-      "title_zh": "El Yayster – 居住在 Emacs 中的法学硕士"
+      "id": 49619227,
+      "title": "I resigned from Anthropic today",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "domain": "twitter.com",
+      "points": 223,
+      "comments": 277,
+      "author": "yurivish",
+      "time": 1788914440,
+      "title_zh": "我今天从 Anthropic 辞职了"
     },
     {
       "id": 49605246,
       "title": "How well do agents use test/verification techniques?",
       "url": "https://danluu.com/agentic-testing/",
       "domain": "danluu.com",
-      "points": 23,
-      "comments": 2,
+      "points": 177,
+      "comments": 64,
       "author": "vinhnx",
       "time": 1788836296,
       "title_zh": "代理使用测试/验证技术的情况如何？"
+    },
+    {
+      "id": 49613068,
+      "title": "Show HN: LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "domain": "ishamf.dev",
+      "points": 146,
+      "comments": 23,
+      "author": "ifz",
+      "time": 1788886781,
+      "title_zh": "显示 HN：LLM 注意力可视化"
+    },
+    {
+      "id": 49617581,
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "domain": "openreview.net",
+      "points": 123,
+      "comments": 60,
+      "author": "paimapi",
+      "time": 1788904058,
+      "title_zh": "大型语言模型通过适应性探索形成新的社会偏见"
+    },
+    {
+      "id": 49605822,
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "domain": "github.com",
+      "points": 114,
+      "comments": 76,
+      "author": "fittingopposite",
+      "time": 1788844823,
+      "title_zh": "多代理LLM金融交易框架"
+    },
+    {
+      "id": 49596610,
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "domain": "economist.com",
+      "points": 93,
+      "comments": 151,
+      "author": "MrBuddyCasino",
+      "time": 1788777512,
+      "title_zh": "人工智能技术对就业的初步影响看起来是积极的"
     }
   ],
   "media": [
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 09 Sep 2026 03:10:08 +0000",
+      "time": 1788923408,
+      "snippet": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some ",
+      "title_zh": "OpenAI 的最新争议告诉我们数学的未来"
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "source": "TechCrunch",
-      "published": "Mon, 07 Sep 2026 19:24:00 +0000",
-      "time": 1788809040,
-      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "title_zh": "不透明循环以及您可能应该知道的其他人工智能术语"
+      "published": "Tue, 08 Sep 2026 21:10:27 +0000",
+      "time": 1788901827,
+      "snippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "title_zh": "黑客正在从订阅者那里窃取克劳德代币"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch",
+      "published": "Tue, 08 Sep 2026 21:04:06 +0000",
+      "time": 1788901446,
+      "snippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "title_zh": "Cognition 估值达到 48B 美元，表明投资者相信人工智能编码远非赢家通吃的市场"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch",
+      "published": "Tue, 08 Sep 2026 19:00:00 +0000",
+      "time": 1788894000,
+      "snippet": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of wh",
+      "title_zh": "Meta 首次推出 Muse AI 代理。消费者会信任它吗？"
+    },
+    {
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "source": "Ars Technica",
+      "published": "Tue, 08 Sep 2026 18:43:09 +0000",
+      "time": 1788892989,
+      "snippet": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "title_zh": "“这是男人实际使用的人工智能”：元广告推送的应用程序裸体真实青少年"
+    },
+    {
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "source": "Ars Technica",
+      "published": "Tue, 08 Sep 2026 18:00:56 +0000",
+      "time": 1788890456,
+      "snippet": "Like traditional weather models, it benefits from an expanded set of inputs.",
+      "title_zh": "谷歌人工智能天气模型更新提高预测准确性"
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "source": "TechCrunch",
+      "published": "Tue, 08 Sep 2026 17:32:15 +0000",
+      "time": 1788888735,
+      "snippet": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "title_zh": "纽约大学数学家表示，OpenAI 在影响职业生涯的数学问题上进行了肮脏的斗争"
+    },
+    {
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 08 Sep 2026 10:34:00 +0000",
+      "time": 1788863640,
+      "snippet": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I ",
+      "title_zh": "这位人工智能企业家正在开发能够提前计划意外情况的代理"
     },
     {
       "title": "The complex corporate web behind a $3.2 billion AI data center",
@@ -154,42 +217,6 @@
       "title_zh": "价值 32 亿美元的人工智能数据中心背后的复杂企业网络"
     },
     {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch",
-      "published": "Sun, 06 Sep 2026 20:47:37 +0000",
-      "time": 1788727657,
-      "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "title_zh": "出版商和代理商对人择和解提出索赔，作者予以反击"
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch",
-      "published": "Sun, 06 Sep 2026 16:45:00 +0000",
-      "time": 1788713100,
-      "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "title_zh": "Travis Kalanick 的 Atoms 可能会进军机器人出租车业务"
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch",
-      "published": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "time": 1788648595,
-      "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "title_zh": "《西雅图时报》和《新闻日报》是最新起诉 OpenAI 和微软的出版物"
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica",
-      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "time": 1788560256,
-      "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "title_zh": "OpenAI 代理在公共 wiki 上讨论了逃离沙箱的方法"
-    },
-    {
       "title": "Architecting memory and storage in the AI era",
       "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "source": "MIT Tech Review",
@@ -197,33 +224,6 @@
       "time": 1788547159,
       "snippet": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assist",
       "title_zh": "构建人工智能时代的内存和存储"
-    },
-    {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "source": "Ars Technica",
-      "published": "Fri, 04 Sep 2026 17:18:12 +0000",
-      "time": 1788542292,
-      "snippet": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "title_zh": "曾经流行的攻击 AI 的 ASCII 走私现在受到垃圾邮件发送者的欢迎"
-    },
-    {
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "source": "Ars Technica",
-      "published": "Fri, 04 Sep 2026 16:22:18 +0000",
-      "time": 1788538938,
-      "snippet": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "title_zh": "Anthropic 2万亿美元的首次公开募股让强大的外部受托人成为人们关注的焦点"
-    },
-    {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Tech Review",
-      "published": "Fri, 04 Sep 2026 09:25:19 +0000",
-      "time": 1788513919,
-      "snippet": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a n",
-      "title_zh": "来自乌克兰无人机的数据正在推动新的狂野西部市场"
     }
   ]
 }

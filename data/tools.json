@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T04:53:15+00:00",
+  "generated_at": "2026-09-09T04:54:39+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
       "domain": "louisabraham.github.io",
-      "points": 709,
+      "points": 710,
       "comments": 326,
       "author": "Labo333",
       "time": "2026-08-27T08:59:49Z",
@@ -35,7 +35,7 @@
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "domain": "opentrailpaper.com",
-      "points": 417,
+      "points": 419,
       "comments": 132,
       "author": "stingrae",
       "time": "2026-09-04T17:18:08Z",
@@ -112,14 +112,14 @@
       "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
     },
     {
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "domain": "wilsonharper.net",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "domain": "github.com",
       "points": 231,
-      "comments": 30,
-      "author": "WilsonHarper",
-      "time": "2026-08-28T13:48:12Z",
-      "title_zh": "Show HN：带有 MCU 的 NFC 能量收集 PCB 名片"
+      "comments": 58,
+      "author": "elyosh",
+      "time": "2026-08-27T22:10:47Z",
+      "title_zh": "Show HN：OpenTIE 和 OpenXWA，Tie Fighter 和 X-Wing Alliance 的现代移植"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2288,
-      "comments": 1591,
+      "points": 2293,
+      "comments": 1596,
       "author": "moultano",
       "time": "2026-09-04T11:54:53Z",
       "title_zh": "发现新的 OpenAI 代理留言板"
@@ -137,8 +137,8 @@
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2266,
-      "comments": 2069,
+      "points": 2271,
+      "comments": 2075,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -147,8 +147,8 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
-      "points": 2221,
-      "comments": 543,
+      "points": 2223,
+      "comments": 546,
       "author": "pavel_lishin",
       "time": "2026-09-03T14:54:39Z",
       "title_zh": ".name 终止"
@@ -157,7 +157,7 @@
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
-      "points": 1987,
+      "points": 1988,
       "comments": 925,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
@@ -234,14 +234,14 @@
       "title_zh": "骐文3.8 27B"
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "domain": "anthropic.com",
-      "points": 1415,
-      "comments": 1392,
-      "author": "denysvitali",
-      "time": "2026-09-01T17:53:53Z",
-      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "domain": "cims.nyu.edu",
+      "points": 1436,
+      "comments": 607,
+      "author": "procedurecall",
+      "time": "2026-09-08T05:42:28Z",
+      "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
     }
   ]
 }
