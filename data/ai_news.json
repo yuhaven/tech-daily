@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-09-09T04:54:37+00:00",
+  "generated_at": "2026-09-10T04:56:29+00:00",
   "hn": [
+    {
+      "id": 49623754,
+      "title": "Claude, change the “Add to Cart” button to blue",
+      "url": "https://opusfived.dev/",
+      "domain": "opusfived.dev",
+      "points": 1072,
+      "comments": 415,
+      "author": "matthieu_bl",
+      "time": 1788946786,
+      "title_zh": "克劳德，将“添加到购物车”按钮更改为蓝色"
+    },
     {
       "id": 49605767,
       "title": "Mistral raises €3B",
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
       "domain": "mistral.ai",
-      "points": 814,
-      "comments": 570,
+      "points": 841,
+      "comments": 593,
       "author": "kuberwastaken",
       "time": 1788843983,
       "title_zh": "Mistral 筹集 €3B"
-    },
-    {
-      "id": 49610538,
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "domain": "manualdousuario.net",
-      "points": 658,
-      "comments": 219,
-      "author": "rpgbr",
-      "time": 1788876357,
-      "title_zh": "LibreOffice 宣称不具备人工智能功能，打破下载记录"
     },
     {
       "id": 49615537,
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
-      "points": 393,
-      "comments": 413,
+      "points": 639,
+      "comments": 711,
       "author": "yks",
       "time": 1788895500,
       "title_zh": "Muse – Meta 的个人人工智能代理"
@@ -39,102 +39,174 @@
       "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "url": "https://github.com/ayghri/i-have-adhd",
       "domain": "github.com",
-      "points": 366,
-      "comments": 274,
+      "points": 527,
+      "comments": 365,
       "author": "domhudson",
       "time": 1788876806,
       "title_zh": "我患有注意力缺陷多动症：一种阻止编码代理埋葬答案的技能"
-    },
-    {
-      "id": 49614720,
-      "title": "ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "domain": "openai.com",
-      "points": 291,
-      "comments": 374,
-      "author": "vertigoruntime",
-      "time": 1788892671,
-      "title_zh": "ChatGPT 图像 2.5"
     },
     {
       "id": 49616968,
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 254,
-      "comments": 182,
+      "points": 471,
+      "comments": 403,
       "author": "_alternator_",
       "time": 1788901252,
       "title_zh": "陶：人工智能不可再生地挖掘开放数学问题"
     },
     {
-      "id": 49619227,
-      "title": "I resigned from Anthropic today",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-      "domain": "twitter.com",
-      "points": 223,
-      "comments": 277,
-      "author": "yurivish",
-      "time": 1788914440,
-      "title_zh": "我今天从 Anthropic 辞职了"
+      "id": 49614720,
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "domain": "openai.com",
+      "points": 378,
+      "comments": 442,
+      "author": "vertigoruntime",
+      "time": 1788892671,
+      "title_zh": "ChatGPT 图像 2.5"
     },
     {
-      "id": 49605246,
-      "title": "How well do agents use test/verification techniques?",
-      "url": "https://danluu.com/agentic-testing/",
-      "domain": "danluu.com",
-      "points": 177,
-      "comments": 64,
-      "author": "vinhnx",
-      "time": 1788836296,
-      "title_zh": "代理使用测试/验证技术的情况如何？"
+      "id": 49627370,
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "domain": "magazine.sebastianraschka.com",
+      "points": 376,
+      "comments": 131,
+      "author": "ModelForge",
+      "time": 1788964667,
+      "title_zh": "GPT-6 Astra、环形变压器和隐藏推理"
+    },
+    {
+      "id": 49624163,
+      "title": "How An AI math breakthrough ignited a controversy",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "domain": "science.org",
+      "points": 213,
+      "comments": 228,
+      "author": "pseudolus",
+      "time": 1788949541,
+      "title_zh": "人工智能数学突破如何引发争议"
+    },
+    {
+      "id": 49630026,
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "domain": "gist.github.com",
+      "points": 195,
+      "comments": 77,
+      "author": "wsxiaoys",
+      "time": 1788974668,
+      "title_zh": "Qwen 3.8 遵循 GPT-5.5 Pro 推理预填充"
     },
     {
       "id": 49613068,
       "title": "Show HN: LLM Attention Visualization",
       "url": "https://ishamf.dev/p/llm-attention-visualizer/",
       "domain": "ishamf.dev",
-      "points": 146,
-      "comments": 23,
+      "points": 164,
+      "comments": 25,
       "author": "ifz",
       "time": 1788886781,
       "title_zh": "显示 HN：LLM 注意力可视化"
     },
     {
-      "id": 49617581,
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "domain": "openreview.net",
-      "points": 123,
-      "comments": 60,
-      "author": "paimapi",
-      "time": 1788904058,
-      "title_zh": "大型语言模型通过适应性探索形成新的社会偏见"
+      "id": 49622561,
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "domain": "openai.com",
+      "points": 145,
+      "comments": 107,
+      "author": "theanonymousone",
+      "time": 1788938566,
+      "title_zh": "GPT‑5.6 Sol 如何帮助运行量子计算实验"
     },
     {
-      "id": 49605822,
-      "title": "Multi-Agents LLM Financial Trading Framework",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "domain": "github.com",
-      "points": 114,
-      "comments": 76,
-      "author": "fittingopposite",
-      "time": 1788844823,
-      "title_zh": "多代理LLM金融交易框架"
-    },
-    {
-      "id": 49596610,
-      "title": "Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "domain": "economist.com",
-      "points": 93,
-      "comments": 151,
-      "author": "MrBuddyCasino",
-      "time": 1788777512,
-      "title_zh": "人工智能技术对就业的初步影响看起来是积极的"
+      "id": 49591112,
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "domain": "direct.mit.edu",
+      "points": 76,
+      "comments": 46,
+      "author": "neehao",
+      "time": 1788729863,
+      "title_zh": "人工智能的微观经济学（2025）"
     }
   ],
   "media": [
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch",
+      "published": "Thu, 10 Sep 2026 00:00:37 +0000",
+      "time": 1788998437,
+      "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "title_zh": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资"
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch",
+      "published": "Wed, 09 Sep 2026 22:25:22 +0000",
+      "time": 1788992722,
+      "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "title_zh": "OpenAI 董事会增加了一位杰出的 AI 毁灭者"
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch",
+      "published": "Wed, 09 Sep 2026 21:43:34 +0000",
+      "time": 1788990214,
+      "snippet": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "title_zh": "马萨诸塞州通过新的清洁能源规则打击数据中心"
+    },
+    {
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch",
+      "published": "Wed, 09 Sep 2026 20:24:48 +0000",
+      "time": 1788985488,
+      "snippet": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and ",
+      "title_zh": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念"
+    },
+    {
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "source": "Ars Technica",
+      "published": "Wed, 09 Sep 2026 20:06:28 +0000",
+      "time": 1788984388,
+      "snippet": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+      "title_zh": "六家中国人工智能公司被指控大肆抄袭美国前沿模型"
+    },
+    {
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica",
+      "published": "Wed, 09 Sep 2026 16:59:40 +0000",
+      "time": 1788973180,
+      "snippet": "\"We really do earnestly believe AI could kill all humans!\"",
+      "title_zh": "人类研究人员退出时发出警告：自我改进的人工智能可能“杀死我们所有人”"
+    },
+    {
+      "title": "Google's AI genome system evaluates every possible one-base change",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+      "source": "Ars Technica",
+      "published": "Wed, 09 Sep 2026 16:34:18 +0000",
+      "time": 1788971658,
+      "snippet": "Most one-base changes to the human genome do nothing, but a few are significant.",
+      "title_zh": "谷歌的人工智能基因组系统评估每一个可能的单碱基变化"
+    },
+    {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "source": "Ars Technica",
+      "published": "Wed, 09 Sep 2026 11:00:10 +0000",
+      "time": 1788951610,
+      "snippet": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+      "title_zh": "Man 告诉 ChatGPT，他感到了幻觉。 ChatGPT 坚称他是耶稣。"
+    },
     {
       "title": "What OpenAI’s latest controversy tells us about the future of math",
       "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
@@ -145,60 +217,6 @@
       "title_zh": "OpenAI 的最新争议告诉我们数学的未来"
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch",
-      "published": "Tue, 08 Sep 2026 21:10:27 +0000",
-      "time": 1788901827,
-      "snippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "title_zh": "黑客正在从订阅者那里窃取克劳德代币"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch",
-      "published": "Tue, 08 Sep 2026 21:04:06 +0000",
-      "time": 1788901446,
-      "snippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "title_zh": "Cognition 估值达到 48B 美元，表明投资者相信人工智能编码远非赢家通吃的市场"
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch",
-      "published": "Tue, 08 Sep 2026 19:00:00 +0000",
-      "time": 1788894000,
-      "snippet": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of wh",
-      "title_zh": "Meta 首次推出 Muse AI 代理。消费者会信任它吗？"
-    },
-    {
-      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-      "source": "Ars Technica",
-      "published": "Tue, 08 Sep 2026 18:43:09 +0000",
-      "time": 1788892989,
-      "snippet": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
-      "title_zh": "“这是男人实际使用的人工智能”：元广告推送的应用程序裸体真实青少年"
-    },
-    {
-      "title": "Update to Google’s AI weather model improves forecast accuracy",
-      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-      "source": "Ars Technica",
-      "published": "Tue, 08 Sep 2026 18:00:56 +0000",
-      "time": 1788890456,
-      "snippet": "Like traditional weather models, it benefits from an expanded set of inputs.",
-      "title_zh": "谷歌人工智能天气模型更新提高预测准确性"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch",
-      "published": "Tue, 08 Sep 2026 17:32:15 +0000",
-      "time": 1788888735,
-      "snippet": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "title_zh": "纽约大学数学家表示，OpenAI 在影响职业生涯的数学问题上进行了肮脏的斗争"
-    },
-    {
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "source": "MIT Tech Review",
@@ -206,24 +224,6 @@
       "time": 1788863640,
       "snippet": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I ",
       "title_zh": "这位人工智能企业家正在开发能够提前计划意外情况的代理"
-    },
-    {
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "source": "Ars Technica",
-      "published": "Mon, 07 Sep 2026 11:00:03 +0000",
-      "time": 1788778803,
-      "snippet": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "title_zh": "价值 32 亿美元的人工智能数据中心背后的复杂企业网络"
-    },
-    {
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT Tech Review",
-      "published": "Fri, 04 Sep 2026 18:39:19 +0000",
-      "time": 1788547159,
-      "snippet": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assist",
-      "title_zh": "构建人工智能时代的内存和存储"
     }
   ]
 }

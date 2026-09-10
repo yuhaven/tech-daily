@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T04:54:39+00:00",
+  "generated_at": "2026-09-10T04:56:30+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
@@ -20,16 +20,6 @@
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
-    },
-    {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "domain": "cactuscompute.com",
-      "points": 537,
-      "comments": 185,
-      "author": "HenryNdubuaku",
-      "time": "2026-08-10T17:22:07Z",
-      "title_zh": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人"
     },
     {
       "title": "Show HN: Open-Source eInk Bike Computer",
@@ -62,16 +52,6 @@
       "title_zh": "Show HN: Woxi -开源Mathematica/Wolfram语言再实现"
     },
     {
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "url": "https://everycube.alen.is/",
-      "domain": "everycube.alen.is",
-      "points": 295,
-      "comments": 123,
-      "author": "Alen123",
-      "time": "2026-08-10T23:16:25Z",
-      "title_zh": "显示HN ：滚动浏览所有43252003274489856000魔方状态"
-    },
-    {
       "title": "Show HN: Laser Graffiti",
       "url": "https://laser.consti.de",
       "domain": "laser.consti.de",
@@ -82,14 +62,24 @@
       "title_zh": "Show HN：激光涂鸦"
     },
     {
-      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-      "url": "https://baselashraf81.github.io/eigendrum/",
-      "domain": "baselashraf81.github.io",
-      "points": 243,
-      "comments": 103,
-      "author": "BaselAshraf81",
-      "time": "2026-08-10T16:53:31Z",
-      "title_zh": "Show HN: Eigendrum - 绘制任何形状并听听它的鼓声"
+      "title": "Show HN: Copperhead – Cursor for circuit boards",
+      "url": "https://copperhead.sh/",
+      "domain": "copperhead.sh",
+      "points": 242,
+      "comments": 113,
+      "author": "animeshchouhan",
+      "time": "2026-09-08T13:26:45Z",
+      "title_zh": "显示 HN：Copperhead – 电路板光标"
+    },
+    {
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "domain": "github.com",
+      "points": 240,
+      "comments": 118,
+      "author": "carloslfu",
+      "time": "2026-09-01T16:42:46Z",
+      "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
     },
     {
       "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
@@ -102,16 +92,6 @@
       "title_zh": "Show HN：一个 HTML 文件中的技术机器，具有可验证的渲染"
     },
     {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "domain": "github.com",
-      "points": 239,
-      "comments": 118,
-      "author": "carloslfu",
-      "time": "2026-09-01T16:42:46Z",
-      "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
-    },
-    {
       "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
       "url": "https://github.com/elyosh/OpenTIE/",
       "domain": "github.com",
@@ -120,6 +100,26 @@
       "author": "elyosh",
       "time": "2026-08-27T22:10:47Z",
       "title_zh": "Show HN：OpenTIE 和 OpenXWA，Tie Fighter 和 X-Wing Alliance 的现代移植"
+    },
+    {
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "domain": "wilsonharper.net",
+      "points": 231,
+      "comments": 30,
+      "author": "WilsonHarper",
+      "time": "2026-08-28T13:48:12Z",
+      "title_zh": "Show HN：带有 MCU 的 NFC 能量收集 PCB 名片"
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "domain": "github.com",
+      "points": 225,
+      "comments": 45,
+      "author": "gioscarab",
+      "time": "2026-09-04T09:03:00Z",
+      "title_zh": "Show HN: TERMy – 不使用法学硕士的快速终端助手"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2293,
-      "comments": 1596,
+      "points": 2298,
+      "comments": 1599,
       "author": "moultano",
       "time": "2026-09-04T11:54:53Z",
       "title_zh": "发现新的 OpenAI 代理留言板"
@@ -137,8 +137,8 @@
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2271,
-      "comments": 2075,
+      "points": 2274,
+      "comments": 2077,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -147,11 +147,21 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
-      "points": 2223,
+      "points": 2226,
       "comments": 546,
       "author": "pavel_lishin",
       "time": "2026-09-03T14:54:39Z",
       "title_zh": ".name 终止"
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "domain": "cims.nyu.edu",
+      "points": 1998,
+      "comments": 815,
+      "author": "procedurecall",
+      "time": "2026-09-08T05:42:28Z",
+      "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
     },
     {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
@@ -232,16 +242,6 @@
       "author": "erdaltoprak",
       "time": "2026-08-14T15:00:00Z",
       "title_zh": "骐文3.8 27B"
-    },
-    {
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "domain": "cims.nyu.edu",
-      "points": 1436,
-      "comments": 607,
-      "author": "procedurecall",
-      "time": "2026-09-08T05:42:28Z",
-      "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
     }
   ]
 }
