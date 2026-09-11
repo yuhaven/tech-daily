@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T04:56:30+00:00",
+  "generated_at": "2026-09-11T04:53:14+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
@@ -22,10 +22,20 @@
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
     },
     {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "domain": "rivendell.dmitrybrant.com",
+      "points": 574,
+      "comments": 259,
+      "author": "dmitrybrant",
+      "time": "2026-09-10T01:58:00Z",
+      "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
+    },
+    {
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "domain": "opentrailpaper.com",
-      "points": 419,
+      "points": 421,
       "comments": 132,
       "author": "stingrae",
       "time": "2026-09-04T17:18:08Z",
@@ -65,8 +75,8 @@
       "title": "Show HN: Copperhead – Cursor for circuit boards",
       "url": "https://copperhead.sh/",
       "domain": "copperhead.sh",
-      "points": 242,
-      "comments": 113,
+      "points": 245,
+      "comments": 114,
       "author": "animeshchouhan",
       "time": "2026-09-08T13:26:45Z",
       "title_zh": "显示 HN：Copperhead – 电路板光标"
@@ -110,16 +120,6 @@
       "author": "WilsonHarper",
       "time": "2026-08-28T13:48:12Z",
       "title_zh": "Show HN：带有 MCU 的 NFC 能量收集 PCB 名片"
-    },
-    {
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "domain": "github.com",
-      "points": 225,
-      "comments": 45,
-      "author": "gioscarab",
-      "time": "2026-09-04T09:03:00Z",
-      "title_zh": "Show HN: TERMy – 不使用法学硕士的快速终端助手"
     }
   ],
   "hot": [
@@ -128,7 +128,7 @@
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
       "points": 2298,
-      "comments": 1599,
+      "comments": 1602,
       "author": "moultano",
       "time": "2026-09-04T11:54:53Z",
       "title_zh": "发现新的 OpenAI 代理留言板"
@@ -137,8 +137,8 @@
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2274,
-      "comments": 2077,
+      "points": 2277,
+      "comments": 2078,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -147,8 +147,8 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
-      "points": 2226,
-      "comments": 546,
+      "points": 2228,
+      "comments": 547,
       "author": "pavel_lishin",
       "time": "2026-09-03T14:54:39Z",
       "title_zh": ".name 终止"
@@ -157,8 +157,8 @@
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "domain": "cims.nyu.edu",
-      "points": 1998,
-      "comments": 815,
+      "points": 2030,
+      "comments": 820,
       "author": "procedurecall",
       "time": "2026-09-08T05:42:28Z",
       "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
@@ -168,7 +168,7 @@
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
       "points": 1988,
-      "comments": 925,
+      "comments": 926,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"

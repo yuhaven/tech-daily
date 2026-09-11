@@ -1,175 +1,184 @@
 {
-  "generated_at": "2026-09-10T04:56:29+00:00",
+  "generated_at": "2026-09-11T04:53:14+00:00",
   "hn": [
     {
-      "id": 49623754,
-      "title": "Claude, change the “Add to Cart” button to blue",
-      "url": "https://opusfived.dev/",
-      "domain": "opusfived.dev",
-      "points": 1072,
-      "comments": 415,
-      "author": "matthieu_bl",
-      "time": 1788946786,
-      "title_zh": "克劳德，将“添加到购物车”按钮更改为蓝色"
-    },
-    {
-      "id": 49605767,
-      "title": "Mistral raises €3B",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "domain": "mistral.ai",
-      "points": 841,
-      "comments": 593,
-      "author": "kuberwastaken",
-      "time": 1788843983,
-      "title_zh": "Mistral 筹集 €3B"
+      "id": 49639408,
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "domain": "mathstodon.xyz",
+      "points": 758,
+      "comments": 693,
+      "author": "pred_",
+      "time": 1789022983,
+      "title_zh": "更多关于研究人员是否可以信任 OpenAI 未发表的数学的问题"
     },
     {
       "id": 49615537,
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
       "domain": "ai.meta.com",
-      "points": 639,
-      "comments": 711,
+      "points": 652,
+      "comments": 734,
       "author": "yks",
       "time": 1788895500,
       "title_zh": "Muse – Meta 的个人人工智能代理"
-    },
-    {
-      "id": 49610631,
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "domain": "github.com",
-      "points": 527,
-      "comments": 365,
-      "author": "domhudson",
-      "time": 1788876806,
-      "title_zh": "我患有注意力缺陷多动症：一种阻止编码代理埋葬答案的技能"
-    },
-    {
-      "id": 49616968,
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "points": 471,
-      "comments": 403,
-      "author": "_alternator_",
-      "time": 1788901252,
-      "title_zh": "陶：人工智能不可再生地挖掘开放数学问题"
-    },
-    {
-      "id": 49614720,
-      "title": "ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "domain": "openai.com",
-      "points": 378,
-      "comments": 442,
-      "author": "vertigoruntime",
-      "time": 1788892671,
-      "title_zh": "ChatGPT 图像 2.5"
     },
     {
       "id": 49627370,
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "domain": "magazine.sebastianraschka.com",
-      "points": 376,
-      "comments": 131,
+      "points": 507,
+      "comments": 161,
       "author": "ModelForge",
       "time": 1788964667,
       "title_zh": "GPT-6 Astra、环形变压器和隐藏推理"
     },
     {
-      "id": 49624163,
-      "title": "How An AI math breakthrough ignited a controversy",
-      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "domain": "science.org",
-      "points": 213,
-      "comments": 228,
-      "author": "pseudolus",
-      "time": 1788949541,
-      "title_zh": "人工智能数学突破如何引发争议"
+      "id": 49643556,
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "domain": "news.ycombinator.com",
+      "points": 442,
+      "comments": 178,
+      "author": "jacquesm",
+      "time": 1789047593,
+      "title_zh": "告诉 HN：OpenAI 不断重新启用“允许训练”设置"
+    },
+    {
+      "id": 49645443,
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "domain": "cognition.com",
+      "points": 380,
+      "comments": 160,
+      "author": "seelos",
+      "time": 1789054187,
+      "title_zh": "Cognition 推出新的 SWE-2 模型，与 Fable 5.1 和 GPT-Astra 相媲美"
     },
     {
       "id": 49630026,
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
       "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
       "domain": "gist.github.com",
-      "points": 195,
-      "comments": 77,
+      "points": 233,
+      "comments": 93,
       "author": "wsxiaoys",
       "time": 1788974668,
       "title_zh": "Qwen 3.8 遵循 GPT-5.5 Pro 推理预填充"
     },
     {
-      "id": 49613068,
-      "title": "Show HN: LLM Attention Visualization",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "domain": "ishamf.dev",
-      "points": 164,
-      "comments": 25,
-      "author": "ifz",
-      "time": 1788886781,
-      "title_zh": "显示 HN：LLM 注意力可视化"
+      "id": 49649213,
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "domain": "developers.openai.com",
+      "points": 186,
+      "comments": 118,
+      "author": "aquir",
+      "time": 1789069402,
+      "title_zh": "OpenAI 代理 API"
     },
     {
-      "id": 49622561,
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "domain": "openai.com",
-      "points": 145,
-      "comments": 107,
-      "author": "theanonymousone",
-      "time": 1788938566,
-      "title_zh": "GPT‑5.6 Sol 如何帮助运行量子计算实验"
+      "id": 49650326,
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "domain": "johndcook.com",
+      "points": 150,
+      "comments": 155,
+      "author": "ibobev",
+      "time": 1789075379,
+      "title_zh": "OpenAI 的 Navier-Stokes 版本包含 Lean 4 正式证明"
     },
     {
-      "id": 49591112,
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-      "domain": "direct.mit.edu",
-      "points": 76,
-      "comments": 46,
-      "author": "neehao",
-      "time": 1788729863,
-      "title_zh": "人工智能的微观经济学（2025）"
+      "id": 49637435,
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "domain": "hugovergnes.github.io",
+      "points": 111,
+      "comments": 19,
+      "author": "Anon84",
+      "time": 1789005851,
+      "title_zh": "将 3.8B LLM 培训至 0.384 CORE，仅需 998 美元"
+    },
+    {
+      "id": 49647300,
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "domain": "anthropic.com",
+      "points": 103,
+      "comments": 176,
+      "author": "garo-pro",
+      "time": 1789061022,
+      "title_zh": "检测和打击 AI 滥用：2026 年 9 月"
+    },
+    {
+      "id": 49644179,
+      "title": "AI Is Breaking This Thing We Call Trust",
+      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+      "domain": "terriblesoftware.org",
+      "points": 71,
+      "comments": 23,
+      "author": "matheusml",
+      "time": 1789050080,
+      "title_zh": "人工智能正在打破我们称之为信任的东西"
+    },
+    {
+      "id": 49651372,
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "domain": "system76.com",
+      "points": 67,
+      "comments": 41,
+      "author": "jonifico",
+      "time": 1789081806,
+      "title_zh": "Thelio Mira AI Linux 工作站：192 GB GPU 内存"
     }
   ],
   "media": [
     {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "source": "TechCrunch",
-      "published": "Thu, 10 Sep 2026 00:00:37 +0000",
-      "time": 1788998437,
-      "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "title_zh": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资"
+      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "time": 1789077119,
+      "snippet": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "title_zh": "黄仁勋解释为何 Nvidia 明年将实现惊人的 70% 增长"
     },
     {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
-      "published": "Wed, 09 Sep 2026 22:25:22 +0000",
-      "time": 1788992722,
-      "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "title_zh": "OpenAI 董事会增加了一位杰出的 AI 毁灭者"
+      "published": "Thu, 10 Sep 2026 21:35:00 +0000",
+      "time": 1789076100,
+      "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "title_zh": "马克·沃尔伯格 (Mark Wahlberg) 即将参加 TechCrunch Disrupt 2026，他想谈论你的工作，而不是他的"
     },
     {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
       "source": "TechCrunch",
-      "published": "Wed, 09 Sep 2026 21:43:34 +0000",
-      "time": 1788990214,
-      "snippet": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "title_zh": "马萨诸塞州通过新的清洁能源规则打击数据中心"
+      "published": "Thu, 10 Sep 2026 20:59:51 +0000",
+      "time": 1789073991,
+      "snippet": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "title_zh": "由于 Astra 需求，OpenAI 暂停 Pro 订阅"
     },
     {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
       "source": "TechCrunch",
-      "published": "Wed, 09 Sep 2026 20:24:48 +0000",
-      "time": 1788985488,
-      "snippet": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and ",
-      "title_zh": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念"
+      "published": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "time": 1789073850,
+      "snippet": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space h",
+      "title_zh": "Anthropic 详细介绍了阿里巴巴、Moonshot AI 和 DeepSeek 的蒸馏活动"
+    },
+    {
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Tech Review",
+      "published": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "time": 1789038000,
+      "snippet": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in se",
+      "title_zh": "为人工智能提供动力是一个架构问题"
     },
     {
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
@@ -179,33 +188,6 @@
       "time": 1788984388,
       "snippet": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
       "title_zh": "六家中国人工智能公司被指控大肆抄袭美国前沿模型"
-    },
-    {
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-      "source": "Ars Technica",
-      "published": "Wed, 09 Sep 2026 16:59:40 +0000",
-      "time": 1788973180,
-      "snippet": "\"We really do earnestly believe AI could kill all humans!\"",
-      "title_zh": "人类研究人员退出时发出警告：自我改进的人工智能可能“杀死我们所有人”"
-    },
-    {
-      "title": "Google's AI genome system evaluates every possible one-base change",
-      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-      "source": "Ars Technica",
-      "published": "Wed, 09 Sep 2026 16:34:18 +0000",
-      "time": 1788971658,
-      "snippet": "Most one-base changes to the human genome do nothing, but a few are significant.",
-      "title_zh": "谷歌的人工智能基因组系统评估每一个可能的单碱基变化"
-    },
-    {
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "source": "Ars Technica",
-      "published": "Wed, 09 Sep 2026 11:00:10 +0000",
-      "time": 1788951610,
-      "snippet": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-      "title_zh": "Man 告诉 ChatGPT，他感到了幻觉。 ChatGPT 坚称他是耶稣。"
     },
     {
       "title": "What OpenAI’s latest controversy tells us about the future of math",
@@ -224,6 +206,24 @@
       "time": 1788863640,
       "snippet": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I ",
       "title_zh": "这位人工智能企业家正在开发能够提前计划意外情况的代理"
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "time": 1788547159,
+      "snippet": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assist",
+      "title_zh": "构建人工智能时代的内存和存储"
+    },
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat",
+      "published": "Thu, 27 Aug 2026 14:01:00 GMT",
+      "time": 1787839260,
+      "snippet": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don&#x27;t deploy a s",
+      "title_zh": "企业人工智能的真正风险不是自主代理。这就是他们之间的复杂性。"
     }
   ]
 }
