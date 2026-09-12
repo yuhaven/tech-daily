@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:53:14+00:00",
+  "generated_at": "2026-09-12T04:46:17+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
@@ -12,6 +12,16 @@
       "title_zh": "Show HN ： Claude的承重词汇"
     },
     {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "domain": "rivendell.dmitrybrant.com",
+      "points": 606,
+      "comments": 277,
+      "author": "dmitrybrant",
+      "time": "2026-09-10T01:58:00Z",
+      "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
+    },
+    {
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "domain": "simedw.com",
@@ -22,21 +32,11 @@
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
     },
     {
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
-      "domain": "rivendell.dmitrybrant.com",
-      "points": 574,
-      "comments": 259,
-      "author": "dmitrybrant",
-      "time": "2026-09-10T01:58:00Z",
-      "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
-    },
-    {
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "domain": "opentrailpaper.com",
       "points": 421,
-      "comments": 132,
+      "comments": 133,
       "author": "stingrae",
       "time": "2026-09-04T17:18:08Z",
       "title_zh": "Show HN：开源电子墨水自行车计算机"
@@ -52,16 +52,6 @@
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
     },
     {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "url": "https://woxi.ad-si.com",
-      "domain": "woxi.ad-si.com",
-      "points": 314,
-      "comments": 46,
-      "author": "adius",
-      "time": "2026-08-12T10:06:29Z",
-      "title_zh": "Show HN: Woxi -开源Mathematica/Wolfram语言再实现"
-    },
-    {
       "title": "Show HN: Laser Graffiti",
       "url": "https://laser.consti.de",
       "domain": "laser.consti.de",
@@ -75,8 +65,8 @@
       "title": "Show HN: Copperhead – Cursor for circuit boards",
       "url": "https://copperhead.sh/",
       "domain": "copperhead.sh",
-      "points": 245,
-      "comments": 114,
+      "points": 248,
+      "comments": 115,
       "author": "animeshchouhan",
       "time": "2026-09-08T13:26:45Z",
       "title_zh": "显示 HN：Copperhead – 电路板光标"
@@ -120,6 +110,16 @@
       "author": "WilsonHarper",
       "time": "2026-08-28T13:48:12Z",
       "title_zh": "Show HN：带有 MCU 的 NFC 能量收集 PCB 名片"
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "domain": "github.com",
+      "points": 225,
+      "comments": 45,
+      "author": "gioscarab",
+      "time": "2026-09-04T09:03:00Z",
+      "title_zh": "显示HN ： TERMy –不使用LLM的快速终端助手"
     }
   ],
   "hot": [
@@ -128,7 +128,7 @@
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
       "points": 2298,
-      "comments": 1602,
+      "comments": 1603,
       "author": "moultano",
       "time": "2026-09-04T11:54:53Z",
       "title_zh": "发现新的 OpenAI 代理留言板"
@@ -137,8 +137,8 @@
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2277,
-      "comments": 2078,
+      "points": 2278,
+      "comments": 2079,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -147,7 +147,7 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
-      "points": 2228,
+      "points": 2229,
       "comments": 547,
       "author": "pavel_lishin",
       "time": "2026-09-03T14:54:39Z",
@@ -157,8 +157,8 @@
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "domain": "cims.nyu.edu",
-      "points": 2030,
-      "comments": 820,
+      "points": 2037,
+      "comments": 826,
       "author": "procedurecall",
       "time": "2026-09-08T05:42:28Z",
       "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
@@ -224,6 +224,16 @@
       "title_zh": "多莉·帕顿去世"
     },
     {
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "domain": "apple.com",
+      "points": 1468,
+      "comments": 2517,
+      "author": "thecosmicfrog",
+      "time": "2026-09-09T18:15:43Z",
+      "title_zh": "iPhone Duo"
+    },
+    {
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "domain": "schlarp.com",
@@ -232,16 +242,6 @@
       "author": "schlarpc",
       "time": "2026-08-23T22:41:04Z",
       "title_zh": "我拥有的一切，拥有的"
-    },
-    {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "domain": "huggingface.co",
-      "points": 1438,
-      "comments": 793,
-      "author": "erdaltoprak",
-      "time": "2026-08-14T15:00:00Z",
-      "title_zh": "骐文3.8 27B"
     }
   ]
 }
