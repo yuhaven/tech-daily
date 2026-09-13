@@ -1,114 +1,114 @@
 {
-  "generated_at": "2026-09-12T04:45:56+00:00",
+  "generated_at": "2026-09-13T05:00:25+00:00",
   "data": {
     "daily": [
-      {
-        "full_name": "ayghri/i-have-adhd",
-        "url": "/ayghri/i-have-adhd",
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "language": "Python",
-        "stars_today": 3463,
-        "stars_total": 42200,
-        "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
-      },
       {
         "full_name": "bilawalsidhu/gods-eye-view",
         "url": "/bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "language": "JavaScript",
-        "stars_today": 3680,
-        "stars_total": 27374,
+        "stars_today": 2265,
+        "stars_total": 30283,
         "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-      },
-      {
-        "full_name": "nab138/iloader",
-        "url": "/nab138/iloader",
-        "description": "User friendly sideloader",
-        "language": "TypeScript",
-        "stars_today": 50,
-        "stars_total": 2941,
-        "description_zh": "用户友好的旁加载器"
       },
       {
         "full_name": "melgarafael/DeskcommCRM",
         "url": "/melgarafael/DeskcommCRM",
         "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
         "language": "TypeScript",
-        "stars_today": 152,
-        "stars_total": 1428,
+        "stars_today": 504,
+        "stars_total": 1877,
         "description_zh": "开源AI销售操作系统—使用本地AI代理+ WhatsApp (WAHA)的自托管CRM。对于任何通过聊天销售的企业， Kommo、Octadesk和Intercom的替代方案都是开放的。MCP就绪、多租户、LGPD。"
       },
       {
-        "full_name": "vastsa/PI-Desktop",
-        "url": "/vastsa/PI-Desktop",
-        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "full_name": "asgeirtj/system_prompts_leaks",
+        "url": "/asgeirtj/system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+        "language": "JavaScript",
+        "stars_today": 217,
+        "stars_total": 65531,
+        "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5.1、Opus 5、Claude Design、Claude Code。 OpenAI - ChatGPT GPT-6-Astra，法典。 Google - Gemini 3.8 Flash、3.1 Pro、反重力。 xAI - Grok、Grok Bot、Cursor、Kimi 等等！定期更新。"
+      },
+      {
+        "full_name": "nab138/iloader",
+        "url": "/nab138/iloader",
+        "description": "User friendly sideloader",
         "language": "TypeScript",
-        "stars_today": 552,
-        "stars_total": 2840,
-        "description_zh": "本地优先AI编码代理桌面： Electron + Rust host core + pi Agent Harness +用户可安装插件"
+        "stars_today": 209,
+        "stars_total": 3119,
+        "description_zh": "用户友好的旁加载器"
       },
       {
-        "full_name": "armory3d/armorpaint",
-        "url": "/armory3d/armorpaint",
-        "description": "Graphics Creation Tools",
-        "language": "C",
-        "stars_today": 350,
-        "stars_total": 4763,
-        "description_zh": "图形创建工具"
-      },
-      {
-        "full_name": "alsk1992/CloddsBot",
-        "url": "/alsk1992/CloddsBot",
-        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "language": "TypeScript",
-        "stars_today": 626,
-        "stars_total": 2216,
-        "description_zh": "开源人工智能交易代理，在 1000 多个市场中自主运营 - Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX、5 个 EVM 链。扫描边缘，立即执行，在您睡觉时管理风险。用于机器对机器支付的代理商务协议。自托管。建立在克劳德."
-      },
-      {
-        "full_name": "nashsu/llm_wiki",
-        "url": "/nashsu/llm_wiki",
-        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-        "language": "TypeScript",
-        "stars_today": 647,
-        "stars_total": 18818,
-        "description_zh": "LLM Wiki是一个跨平台的桌面应用程序，可自动将您的文档转换为有组织的、相互关联的知识库。LLM不是传统的RAG （每次从头开始检索和应答） ，而是从源代码中增量构建和维护持久的Wiki。"
-      },
-      {
-        "full_name": "obra/superpowers",
-        "url": "/obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars_today": 729,
-        "stars_total": 285444,
-        "description_zh": "有效的代理技能框架和软件开发方法。"
-      },
-      {
-        "full_name": "Sonarr/Sonarr",
-        "url": "/Sonarr/Sonarr",
-        "description": "Smart PVR for newsgroup and bittorrent users.",
-        "language": "C#",
-        "stars_today": 191,
-        "stars_total": 15769,
-        "description_zh": "面向新闻组和BitTorrent用户的智能PVR。"
+        "full_name": "Flowseal/zapret-discord-youtube",
+        "url": "/Flowseal/zapret-discord-youtube",
+        "description": "",
+        "language": "Batchfile",
+        "stars_today": 65,
+        "stars_total": 33219,
+        "description_zh": null
       },
       {
         "full_name": "jihe520/MathModelAgent",
         "url": "/jihe520/MathModelAgent",
         "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
         "language": "Python",
-        "stars_today": 129,
-        "stars_total": 4904,
+        "stars_today": 262,
+        "stars_total": 5179,
         "description_zh": "🤖📐专为数学建模设计的 Agent & skills自动完成数学建模 ，专为生成一份完整的可以直接提交的论文。数学建模设计的代理，自动完成数学模型并生成完整的论文供提交。"
+      },
+      {
+        "full_name": "Sonarr/Sonarr",
+        "url": "/Sonarr/Sonarr",
+        "description": "Smart PVR for newsgroup and bittorrent users.",
+        "language": "C#",
+        "stars_today": 227,
+        "stars_total": 15960,
+        "description_zh": "面向新闻组和BitTorrent用户的智能PVR。"
+      },
+      {
+        "full_name": "alsk1992/CloddsBot",
+        "url": "/alsk1992/CloddsBot",
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "language": "TypeScript",
+        "stars_today": 376,
+        "stars_total": 2555,
+        "description_zh": "开源人工智能交易代理，在 1000 多个市场中自主运营 - Polymarket、Kalshi、Binance、Hyperliquid、Solana DEX、5 个 EVM 链。扫描边缘，立即执行，在您睡觉时管理风险。用于机器对机器支付的代理商务协议。自托管。建立在克劳德."
+      },
+      {
+        "full_name": "yuliskov/SmartTube",
+        "url": "/yuliskov/SmartTube",
+        "description": "Browse media content with your own rules on Android TV",
+        "language": "Java",
+        "stars_today": 136,
+        "stars_total": 33246,
+        "description_zh": "在 Android TV 上按照您自己的规则浏览媒体内容"
+      },
+      {
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "url": "/Shubhamsaboo/awesome-llm-apps",
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "language": "Python",
+        "stars_today": 230,
+        "stars_total": 137703,
+        "description_zh": "100 多个 AI 代理、代理技能和 RAG 应用程序 - 免费且开源。"
       },
       {
         "full_name": "p1neappleXpress/OpenFlux",
         "url": "/p1neappleXpress/OpenFlux",
         "description": "Network stack research tool. TCP tunnel with pluggable transports.",
         "language": "Go",
-        "stars_today": 198,
-        "stars_total": 1192,
+        "stars_today": 355,
+        "stars_total": 1424,
         "description_zh": "网络堆栈研究工具。具有可插拔传输的TCP隧道。"
+      },
+      {
+        "full_name": "armory3d/armorpaint",
+        "url": "/armory3d/armorpaint",
+        "description": "Graphics Creation Tools",
+        "language": "C",
+        "stars_today": 237,
+        "stars_total": 4935,
+        "description_zh": "图形创建工具"
       }
     ],
     "weekly": [
@@ -117,8 +117,8 @@
         "url": "/ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "language": "Python",
-        "stars_today": 13164,
-        "stars_total": 42201,
+        "stars_today": 15924,
+        "stars_total": 43560,
         "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
       },
       {
@@ -126,80 +126,62 @@
         "url": "/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "stars_today": 8714,
-        "stars_total": 256609,
+        "stars_today": 8086,
+        "stars_total": 257209,
         "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
-      },
-      {
-        "full_name": "DietrichGebert/ponytail",
-        "url": "/DietrichGebert/ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "language": "JavaScript",
-        "stars_today": 11054,
-        "stars_total": 135938,
-        "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
-      },
-      {
-        "full_name": "humanlayer/skills",
-        "url": "/humanlayer/skills",
-        "description": "",
-        "language": "TypeScript",
-        "stars_today": 1637,
-        "stars_total": 3801,
-        "description_zh": null
       },
       {
         "full_name": "openai/plugins",
         "url": "/openai/plugins",
         "description": "OpenAI Plugins",
         "language": "JavaScript",
-        "stars_today": 1063,
-        "stars_total": 6466,
+        "stars_today": 1120,
+        "stars_total": 6556,
         "description_zh": "OpenAI 插件"
       },
       {
-        "full_name": "tt-a1i/archify",
-        "url": "/tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "full_name": "DietrichGebert/ponytail",
+        "url": "/DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "language": "JavaScript",
-        "stars_today": 11006,
-        "stars_total": 58739,
-        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
+        "stars_today": 9272,
+        "stars_total": 136750,
+        "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
       },
       {
         "full_name": "mksglu/context-mode",
         "url": "/mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "language": "TypeScript",
-        "stars_today": 1810,
-        "stars_total": 22234,
+        "stars_today": 1936,
+        "stars_total": 22413,
         "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
       },
       {
-        "full_name": "mattpocock/skills",
-        "url": "/mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars_today": 10571,
-        "stars_total": 259907,
-        "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "url": "/bilawalsidhu/gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars_today": 10510,
+        "stars_total": 30283,
+        "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
       },
       {
-        "full_name": "blader/humanizer",
-        "url": "/blader/humanizer",
-        "description": "Agent skill that removes signs of AI-generated writing from text",
-        "language": "Python",
-        "stars_today": 4649,
-        "stars_total": 47004,
-        "description_zh": "代理技能可消除文本中人工智能生成的书写痕迹"
+        "full_name": "tt-a1i/archify",
+        "url": "/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "stars_today": 10442,
+        "stars_total": 59865,
+        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
         "full_name": "openai/skills",
         "url": "/openai/skills",
         "description": "Skills Catalog for Codex",
         "language": "Python",
-        "stars_today": 1532,
-        "stars_total": 26944,
+        "stars_today": 1579,
+        "stars_total": 27033,
         "description_zh": "法典技能目录"
       },
       {
@@ -207,18 +189,36 @@
         "url": "/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
-        "stars_today": 5100,
-        "stars_total": 49054,
+        "stars_today": 5124,
+        "stars_total": 49254,
         "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
+      },
+      {
+        "full_name": "humanlayer/skills",
+        "url": "/humanlayer/skills",
+        "description": "",
+        "language": "TypeScript",
+        "stars_today": 1380,
+        "stars_total": 3921,
+        "description_zh": null
       },
       {
         "full_name": "cathrynlavery/diagram-design",
         "url": "/cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "language": "HTML",
-        "stars_today": 7776,
-        "stars_total": 38550,
+        "stars_today": 7409,
+        "stars_total": 38929,
         "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
+      },
+      {
+        "full_name": "blader/humanizer",
+        "url": "/blader/humanizer",
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "language": "Python",
+        "stars_today": 4069,
+        "stars_total": 47392,
+        "description_zh": "代理技能可消除文本中人工智能生成的书写痕迹"
       }
     ],
     "monthly": [
@@ -227,8 +227,8 @@
         "url": "/omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "language": "Shell",
-        "stars_today": 16125,
-        "stars_total": 40378,
+        "stars_today": 16303,
+        "stars_total": 40634,
         "description_zh": "美丽、现代、有主见的 Linux"
       },
       {
@@ -236,8 +236,8 @@
         "url": "/tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "language": "JavaScript",
-        "stars_today": 47287,
-        "stars_total": 58739,
+        "stars_today": 48036,
+        "stars_total": 59865,
         "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
@@ -245,53 +245,44 @@
         "url": "/anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "language": "Python",
-        "stars_today": 3515,
-        "stars_total": 3820,
+        "stars_today": 3563,
+        "stars_total": 3882,
         "description_zh": "Claude Cowork和Claude Code的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。"
-      },
-      {
-        "full_name": "cordiverse/cordis",
-        "url": "/cordiverse/cordis",
-        "description": "Meta-Framework of Spatiotemporal Composability",
-        "language": "TypeScript",
-        "stars_today": 8277,
-        "stars_total": 8382,
-        "description_zh": "时空可组合性元框架"
       },
       {
         "full_name": "cursor/plugins",
         "url": "/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_today": 4892,
-        "stars_total": 7471,
+        "stars_today": 4933,
+        "stars_total": 7559,
         "description_zh": "光标插件规范和官方插件"
-      },
-      {
-        "full_name": "cathrynlavery/diagram-design",
-        "url": "/cathrynlavery/diagram-design",
-        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars_today": 32734,
-        "stars_total": 38550,
-        "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
       },
       {
         "full_name": "AprilNEA/OpenLogi",
         "url": "/AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "language": "Rust",
-        "stars_today": 12372,
-        "stars_total": 20710,
+        "stars_today": 12456,
+        "stars_total": 20833,
         "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      },
+      {
+        "full_name": "cathrynlavery/diagram-design",
+        "url": "/cathrynlavery/diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars_today": 30533,
+        "stars_total": 38929,
+        "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
       },
       {
         "full_name": "volcengine/OpenViking",
         "url": "/volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "language": "Python",
-        "stars_today": 8596,
-        "stars_total": 36735,
+        "stars_today": 8682,
+        "stars_total": 36871,
         "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
       },
       {
@@ -299,8 +290,8 @@
         "url": "/freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
         "language": "JavaScript",
-        "stars_today": 21657,
-        "stars_total": 31378,
+        "stars_today": 21779,
+        "stars_total": 31532,
         "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
       },
       {
@@ -308,27 +299,36 @@
         "url": "/THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "language": "TypeScript",
-        "stars_today": 15320,
-        "stars_total": 35945,
+        "stars_today": 15605,
+        "stars_total": 36254,
         "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
       },
       {
-        "full_name": "xai-org/x-algorithm",
-        "url": "/xai-org/x-algorithm",
-        "description": "Algorithm powering the For You feed on X",
-        "language": "Rust",
-        "stars_today": 6300,
-        "stars_total": 33149,
-        "description_zh": "为 X 上的 For You feed 提供支持的算法"
+        "full_name": "cordiverse/cordis",
+        "url": "/cordiverse/cordis",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "language": "TypeScript",
+        "stars_today": 8305,
+        "stars_total": 8416,
+        "description_zh": "时空可组合性元框架"
       },
       {
         "full_name": "vorssaint/vorssaint-utils",
         "url": "/vorssaint/vorssaint-utils",
         "description": "Free and open-source macOS menu bar toolkit.",
         "language": "Swift",
-        "stars_today": 13312,
-        "stars_total": 18384,
+        "stars_today": 13434,
+        "stars_total": 18580,
         "description_zh": "免费开源的macOS菜单栏工具包。"
+      },
+      {
+        "full_name": "ayghri/i-have-adhd",
+        "url": "/ayghri/i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "stars_today": 23327,
+        "stars_total": 43560,
+        "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
       }
     ]
   }

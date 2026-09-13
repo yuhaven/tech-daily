@@ -1,140 +1,158 @@
 {
-  "generated_at": "2026-09-12T04:46:14+00:00",
+  "generated_at": "2026-09-13T05:00:29+00:00",
   "hn": [
-    {
-      "id": 49639408,
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "domain": "mathstodon.xyz",
-      "points": 857,
-      "comments": 805,
-      "author": "pred_",
-      "time": 1789022983,
-      "title_zh": "更多关于研究人员是否可以信任 OpenAI 未发表的数学的问题"
-    },
     {
       "id": 49662371,
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
-      "points": 770,
-      "comments": 761,
+      "points": 1184,
+      "comments": 1163,
       "author": "meredydd",
       "time": 1789148712,
       "title_zh": "人工智能在数学中的偏差"
-    },
-    {
-      "id": 49656225,
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "domain": "support.claude.com",
-      "points": 604,
-      "comments": 617,
-      "author": "Muhammad523",
-      "time": 1789123680,
-      "title_zh": "CLAUDE仅适用于18岁以上的人士"
     },
     {
       "id": 49666735,
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
       "domain": "rubyhack.ai",
-      "points": 495,
-      "comments": 289,
+      "points": 928,
+      "comments": 577,
       "author": "chao-",
       "time": 1789168662,
       "title_zh": "OpenAI特工对RubyGems进行了未公开的攻击"
     },
     {
-      "id": 49649213,
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "domain": "developers.openai.com",
-      "points": 338,
-      "comments": 178,
-      "author": "aquir",
-      "time": 1789069402,
-      "title_zh": "OpenAI 代理 API"
+      "id": 49673098,
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "domain": "economist.com",
+      "points": 428,
+      "comments": 296,
+      "author": "tolugenius",
+      "time": 1789225707,
+      "title_zh": "Nvidia是人工智能的中央银行"
     },
     {
-      "id": 49660783,
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news/",
-      "domain": "unslop.news",
-      "points": 179,
-      "comments": 77,
-      "author": "otherayden",
-      "time": 1789142930,
-      "title_zh": "Show HN ：没有人工智能的黑客新闻"
+      "id": 49678683,
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "domain": "xeiaso.net",
+      "points": 287,
+      "comments": 160,
+      "author": "xena",
+      "time": 1789259444,
+      "title_zh": "除了我之外，每个人都应该放慢人工智能的发展速度"
     },
     {
-      "id": 49659647,
-      "title": "Show HN: Hacker News, without AI",
-      "url": "https://hcker.news/?ai=exclude",
-      "domain": "hcker.news",
-      "points": 178,
-      "comments": 84,
-      "author": "postalcoder",
-      "time": 1789138879,
-      "title_zh": "Show HN ：没有人工智能的黑客新闻"
-    },
-    {
-      "id": 49647300,
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "domain": "anthropic.com",
+      "id": 49676820,
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "domain": "withspecific.com",
       "points": 173,
-      "comments": 235,
-      "author": "garo-pro",
-      "time": 1789061022,
-      "title_zh": "检测和打击 AI 滥用：2026 年 9 月"
+      "comments": 95,
+      "author": "theanonymousone",
+      "time": 1789244748,
+      "title_zh": "Real-SWE：在私人、现实世界、企业代码库上对人工智能模型进行基准测试"
     },
     {
-      "id": 49644179,
-      "title": "AI Is Breaking This Thing We Call Trust",
-      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-      "domain": "terriblesoftware.org",
-      "points": 114,
-      "comments": 61,
-      "author": "matheusml",
-      "time": 1789050080,
-      "title_zh": "人工智能正在打破我们称之为信任的东西"
-    },
-    {
-      "id": 49660482,
-      "title": "Hacker News with reduced priority for AI driven content",
-      "url": "https://sprinklz.io/public/pdwt4dve5uai",
-      "domain": "sprinklz.io",
-      "points": 112,
+      "id": 49671159,
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "domain": "tedium.co",
+      "points": 111,
       "comments": 54,
-      "author": "sammy0910",
-      "time": 1789141969,
-      "title_zh": "对人工智能驱动内容优先级较低的黑客新闻"
+      "author": "ColinWright",
+      "time": 1789211618,
+      "title_zh": "最糟糕的垃圾邮件：iLands AI 代理的喧嚣"
     },
     {
-      "id": 49665711,
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "domain": "dwarkesh.com",
-      "points": 75,
-      "comments": 62,
-      "author": "artninja1988",
-      "time": 1789162529,
-      "title_zh": "人工智能研究人员争论我们离递归自我提升有多近"
+      "id": 49672365,
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "domain": "transformer-circuits.pub",
+      "points": 92,
+      "comments": 17,
+      "author": "Bluestein",
+      "time": 1789221418,
+      "title_zh": "变压器电路的数学框架 (2021)"
     },
     {
-      "id": 49615922,
-      "title": "What happens when a GPU writes memory",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-      "domain": "blog.doubleword.ai",
-      "points": 71,
-      "comments": 1,
-      "author": "ibobev",
-      "time": 1788896819,
-      "title_zh": "GPU写入内存时会发生什么"
+      "id": 49676849,
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "domain": "techcrunch.com",
+      "points": 76,
+      "comments": 61,
+      "author": "humanlion87",
+      "time": 1789244909,
+      "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”"
+    },
+    {
+      "id": 49678969,
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "domain": "yoshuabengio.org",
+      "points": 43,
+      "comments": 46,
+      "author": "jonifico",
+      "time": 1789262551,
+      "title_zh": "为什么人工智能代理会撒谎、欺骗和协调？"
+    },
+    {
+      "id": 49678783,
+      "title": "Align AI and Mathematics–To Something Else",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "domain": "liorpachter.wordpress.com",
+      "points": 30,
+      "comments": 19,
+      "author": "nitrogenpuddle",
+      "time": 1789260468,
+      "title_zh": "将人工智能和数学结合到其他方面"
+    },
+    {
+      "id": 49678435,
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "domain": "agentsdock.net",
+      "points": 26,
+      "comments": 10,
+      "author": "ZihuiGeorgia",
+      "time": 1789256758,
+      "title_zh": "AgentsDock：专为代理人工智能研究而设计的 IDE"
+    },
+    {
+      "id": 49679685,
+      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+      "domain": "venturebeat.com",
+      "points": 8,
+      "comments": 5,
+      "author": "pseudolus",
+      "time": 1789269932,
+      "title_zh": "Anthropic 首席执行官表示 AI 群体可能会在 6-12 个月内“接管互联网”"
     }
   ],
   "media": [
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch",
+      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "time": 1789244356,
+      "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch",
+      "published": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "time": 1789241684,
+      "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "title_zh": "Anthropic首席执行官概述了减缓人工智能发展的计划"
+    },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -154,31 +172,13 @@
       "title_zh": "Y Combinator的Garry Tan希望美国开放式人工智能实验室也能“提炼”前沿模型"
     },
     {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "time": 1789160256,
-      "snippet": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "title_zh": "OpenAI与数学家的不和只会升级"
-    },
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "time": 1789158798,
-      "snippet": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "title_zh": "距离在TechCrunch Disrupt 2026上预订展位还有一周时间"
-    },
-    {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Tech Review",
       "published": "Fri, 11 Sep 2026 20:05:06 +0000",
       "time": 1789157106,
       "snippet": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering a",
-      "title_zh": "圆桌会议：人工智能的末日危机"
+      "title_zh": "圆桌会议：人工智能真的会杀死我们所有人吗？"
     },
     {
       "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",

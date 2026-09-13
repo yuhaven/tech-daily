@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:46:17+00:00",
+  "generated_at": "2026-09-13T05:00:31+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
@@ -15,8 +15,8 @@
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "domain": "rivendell.dmitrybrant.com",
-      "points": 606,
-      "comments": 277,
+      "points": 617,
+      "comments": 282,
       "author": "dmitrybrant",
       "time": "2026-09-10T01:58:00Z",
       "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
@@ -35,7 +35,7 @@
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "domain": "opentrailpaper.com",
-      "points": 421,
+      "points": 422,
       "comments": 133,
       "author": "stingrae",
       "time": "2026-09-04T17:18:08Z",
@@ -52,6 +52,16 @@
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
     },
     {
+      "title": "Show HN: Bodily Oddities",
+      "url": "https://vester.si/bodily-oddities/",
+      "domain": "vester.si",
+      "points": 321,
+      "comments": 199,
+      "author": "vesterde",
+      "time": "2026-09-10T20:33:11Z",
+      "title_zh": "显示 HN：身体异常"
+    },
+    {
       "title": "Show HN: Laser Graffiti",
       "url": "https://laser.consti.de",
       "domain": "laser.consti.de",
@@ -65,7 +75,7 @@
       "title": "Show HN: Copperhead – Cursor for circuit boards",
       "url": "https://copperhead.sh/",
       "domain": "copperhead.sh",
-      "points": 248,
+      "points": 249,
       "comments": 115,
       "author": "animeshchouhan",
       "time": "2026-09-08T13:26:45Z",
@@ -110,16 +120,6 @@
       "author": "WilsonHarper",
       "time": "2026-08-28T13:48:12Z",
       "title_zh": "Show HN：带有 MCU 的 NFC 能量收集 PCB 名片"
-    },
-    {
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "domain": "github.com",
-      "points": 225,
-      "comments": 45,
-      "author": "gioscarab",
-      "time": "2026-09-04T09:03:00Z",
-      "title_zh": "显示HN ： TERMy –不使用LLM的快速终端助手"
     }
   ],
   "hot": [
@@ -127,7 +127,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2298,
+      "points": 2299,
       "comments": 1603,
       "author": "moultano",
       "time": "2026-09-04T11:54:53Z",
@@ -137,7 +137,7 @@
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
-      "points": 2278,
+      "points": 2279,
       "comments": 2079,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
@@ -147,7 +147,7 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
-      "points": 2229,
+      "points": 2230,
       "comments": 547,
       "author": "pavel_lishin",
       "time": "2026-09-03T14:54:39Z",
@@ -157,8 +157,8 @@
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "domain": "cims.nyu.edu",
-      "points": 2037,
-      "comments": 826,
+      "points": 2044,
+      "comments": 828,
       "author": "procedurecall",
       "time": "2026-09-08T05:42:28Z",
       "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
@@ -227,8 +227,8 @@
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
       "domain": "apple.com",
-      "points": 1468,
-      "comments": 2517,
+      "points": 1475,
+      "comments": 2525,
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
