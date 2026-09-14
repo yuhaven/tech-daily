@@ -1,140 +1,158 @@
 {
-  "generated_at": "2026-09-13T05:00:29+00:00",
+  "generated_at": "2026-09-14T05:10:12+00:00",
   "hn": [
     {
       "id": 49662371,
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
-      "points": 1184,
-      "comments": 1163,
+      "points": 1224,
+      "comments": 1201,
       "author": "meredydd",
       "time": 1789148712,
       "title_zh": "人工智能在数学中的偏差"
-    },
-    {
-      "id": 49666735,
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "domain": "rubyhack.ai",
-      "points": 928,
-      "comments": 577,
-      "author": "chao-",
-      "time": 1789168662,
-      "title_zh": "OpenAI特工对RubyGems进行了未公开的攻击"
-    },
-    {
-      "id": 49673098,
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "domain": "economist.com",
-      "points": 428,
-      "comments": 296,
-      "author": "tolugenius",
-      "time": 1789225707,
-      "title_zh": "Nvidia是人工智能的中央银行"
     },
     {
       "id": 49678683,
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "domain": "xeiaso.net",
-      "points": 287,
-      "comments": 160,
+      "points": 757,
+      "comments": 439,
       "author": "xena",
       "time": 1789259444,
       "title_zh": "除了我之外，每个人都应该放慢人工智能的发展速度"
-    },
-    {
-      "id": 49676820,
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "domain": "withspecific.com",
-      "points": 173,
-      "comments": 95,
-      "author": "theanonymousone",
-      "time": 1789244748,
-      "title_zh": "Real-SWE：在私人、现实世界、企业代码库上对人工智能模型进行基准测试"
-    },
-    {
-      "id": 49671159,
-      "title": "The worst spam emails: iLands AI agent hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "domain": "tedium.co",
-      "points": 111,
-      "comments": 54,
-      "author": "ColinWright",
-      "time": 1789211618,
-      "title_zh": "最糟糕的垃圾邮件：iLands AI 代理的喧嚣"
-    },
-    {
-      "id": 49672365,
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "domain": "transformer-circuits.pub",
-      "points": 92,
-      "comments": 17,
-      "author": "Bluestein",
-      "time": 1789221418,
-      "title_zh": "变压器电路的数学框架 (2021)"
-    },
-    {
-      "id": 49676849,
-      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "domain": "techcrunch.com",
-      "points": 76,
-      "comments": 61,
-      "author": "humanlion87",
-      "time": 1789244909,
-      "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”"
     },
     {
       "id": 49678969,
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
-      "points": 43,
-      "comments": 46,
+      "points": 606,
+      "comments": 665,
       "author": "jonifico",
       "time": 1789262551,
       "title_zh": "为什么人工智能代理会撒谎、欺骗和协调？"
     },
     {
-      "id": 49678783,
-      "title": "Align AI and Mathematics–To Something Else",
-      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
-      "domain": "liorpachter.wordpress.com",
-      "points": 30,
-      "comments": 19,
-      "author": "nitrogenpuddle",
-      "time": 1789260468,
-      "title_zh": "将人工智能和数学结合到其他方面"
+      "id": 49673098,
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "domain": "economist.com",
+      "points": 564,
+      "comments": 391,
+      "author": "tolugenius",
+      "time": 1789225707,
+      "title_zh": "Nvidia是人工智能的中央银行"
     },
     {
-      "id": 49678435,
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "domain": "agentsdock.net",
-      "points": 26,
-      "comments": 10,
-      "author": "ZihuiGeorgia",
-      "time": 1789256758,
-      "title_zh": "AgentsDock：专为代理人工智能研究而设计的 IDE"
+      "id": 49685253,
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "domain": "techcrunch.com",
+      "points": 375,
+      "comments": 211,
+      "author": "TheJCDenton",
+      "time": 1789314278,
+      "title_zh": "Garry Tan也希望美国开放式人工智能实验室“提炼”前沿模型"
     },
     {
-      "id": 49679685,
-      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
-      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-      "domain": "venturebeat.com",
-      "points": 8,
-      "comments": 5,
-      "author": "pseudolus",
-      "time": 1789269932,
-      "title_zh": "Anthropic 首席执行官表示 AI 群体可能会在 6-12 个月内“接管互联网”"
+      "id": 49685991,
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "domain": "twitter.com",
+      "points": 288,
+      "comments": 209,
+      "author": "kolanos",
+      "time": 1789318353,
+      "title_zh": "大卫·萨克斯： OpenAI和人类不需要监管来加快前沿模型的步伐"
+    },
+    {
+      "id": 49676820,
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "domain": "withspecific.com",
+      "points": 269,
+      "comments": 149,
+      "author": "theanonymousone",
+      "time": 1789244748,
+      "title_zh": "Real-SWE：在私人、现实世界、企业代码库上对人工智能模型进行基准测试"
+    },
+    {
+      "id": 49653311,
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "domain": "aprilnea.me",
+      "points": 72,
+      "comments": 16,
+      "author": "rzk",
+      "time": 1789098342,
+      "title_zh": "Claude Web的MicroVM逆向工程：揭开Anthropic的隐藏空间"
+    },
+    {
+      "id": 49687869,
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "domain": "singjupost.com",
+      "points": 71,
+      "comments": 90,
+      "author": "andsoitis",
+      "time": 1789328466,
+      "title_zh": "Jaron Lanier的《There Is No AI （ It's Just People ）》"
+    },
+    {
+      "id": 49687334,
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "domain": "technologyreview.com",
+      "points": 68,
+      "comments": 69,
+      "author": "dgellow",
+      "time": 1789325384,
+      "title_zh": "毕竟，人工智能递归自我提升可能不会来得那么快"
+    },
+    {
+      "id": 49689706,
+      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+      "url": "https://openai.com/index/better-language-models/",
+      "domain": "openai.com",
+      "points": 66,
+      "comments": 31,
+      "author": "Jimmc414",
+      "time": 1789341077,
+      "title_zh": "出于对恶意应用的担忧， GPT2不会发布（ 2019 ）"
+    },
+    {
+      "id": 49690260,
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "domain": "interconnects.ai",
+      "points": 60,
+      "comments": 6,
+      "author": "simonpure",
+      "time": 1789345371,
+      "title_zh": "开源人工智能和开放模型阅读清单"
     }
   ],
   "media": [
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch",
+      "published": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "time": 1789328415,
+      "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "title_zh": "人工智能行业最新的厄运警告背后是什么？"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch",
+      "published": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "time": 1789317000,
+      "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s econ",
+      "title_zh": "奥巴马敦促民主党为人工智能保障措施制定“明确计划”"
+    },
     {
       "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
       "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
@@ -152,24 +170,6 @@
       "time": 1789241684,
       "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "title_zh": "Anthropic首席执行官概述了减缓人工智能发展的计划"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "time": 1789167497,
-      "snippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "title_zh": "在急于获取机器人训练数据之际， Mecka AI对红杉领导的交易的估值接近5亿美元"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "time": 1789160387,
-      "snippet": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options t",
-      "title_zh": "Y Combinator的Garry Tan希望美国开放式人工智能实验室也能“提炼”前沿模型"
     },
     {
       "title": "Roundtables: Could AI really kill us all?",

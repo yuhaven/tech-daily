@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:00:31+00:00",
+  "generated_at": "2026-09-14T05:10:14+00:00",
   "showhn": [
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
@@ -15,8 +15,8 @@
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "domain": "rivendell.dmitrybrant.com",
-      "points": 617,
-      "comments": 282,
+      "points": 623,
+      "comments": 283,
       "author": "dmitrybrant",
       "time": "2026-09-10T01:58:00Z",
       "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
@@ -35,7 +35,7 @@
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "domain": "opentrailpaper.com",
-      "points": 422,
+      "points": 423,
       "comments": 133,
       "author": "stingrae",
       "time": "2026-09-04T17:18:08Z",
@@ -55,8 +55,8 @@
       "title": "Show HN: Bodily Oddities",
       "url": "https://vester.si/bodily-oddities/",
       "domain": "vester.si",
-      "points": 321,
-      "comments": 199,
+      "points": 335,
+      "comments": 211,
       "author": "vesterde",
       "time": "2026-09-10T20:33:11Z",
       "title_zh": "显示 HN：身体异常"
@@ -75,7 +75,7 @@
       "title": "Show HN: Copperhead – Cursor for circuit boards",
       "url": "https://copperhead.sh/",
       "domain": "copperhead.sh",
-      "points": 249,
+      "points": 250,
       "comments": 115,
       "author": "animeshchouhan",
       "time": "2026-09-08T13:26:45Z",
@@ -157,8 +157,8 @@
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "domain": "cims.nyu.edu",
-      "points": 2044,
-      "comments": 828,
+      "points": 2046,
+      "comments": 829,
       "author": "procedurecall",
       "time": "2026-09-08T05:42:28Z",
       "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
@@ -168,20 +168,10 @@
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "domain": "businessinsider.com",
       "points": 1988,
-      "comments": 926,
+      "comments": 925,
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"
-    },
-    {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "domain": "pcworld.com",
-      "points": 1765,
-      "comments": 718,
-      "author": "DemiGuru",
-      "time": "2026-08-14T19:03:20Z",
-      "title_zh": "Firefox 现在是最后一个仍然支持 uBlock Origin 的主要浏览器"
     },
     {
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
@@ -227,8 +217,8 @@
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
       "domain": "apple.com",
-      "points": 1475,
-      "comments": 2525,
+      "points": 1479,
+      "comments": 2532,
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
@@ -242,6 +232,16 @@
       "author": "schlarpc",
       "time": "2026-08-23T22:41:04Z",
       "title_zh": "我拥有的一切，拥有的"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "domain": "anthropic.com",
+      "points": 1419,
+      "comments": 1395,
+      "author": "denysvitali",
+      "time": "2026-09-01T17:53:53Z",
+      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
     }
   ]
 }
