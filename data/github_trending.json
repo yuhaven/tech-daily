@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:10:00+00:00",
+  "generated_at": "2026-09-15T05:03:59+00:00",
   "data": {
     "daily": [
       {
@@ -7,108 +7,108 @@
         "url": "/JustVugg/colibri",
         "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "language": "C",
-        "stars_today": 868,
-        "stars_total": 30224,
+        "stars_today": 2173,
+        "stars_total": 32403,
         "description_zh": "在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。 🐦"
       },
       {
-        "full_name": "ever-co/ever-gauzy",
-        "url": "/ever-co/ever-gauzy",
-        "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-        "language": "TypeScript",
-        "stars_today": 191,
-        "stars_total": 5321,
-        "description_zh": "Ever ® Gauzy™ -开放式业务管理平台（ ERP/CRM/HRM/ATS/PM ） - https://gauzy.co"
-      },
-      {
-        "full_name": "bilawalsidhu/gods-eye-view",
-        "url": "/bilawalsidhu/gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars_today": 2680,
-        "stars_total": 32284,
-        "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-      },
-      {
-        "full_name": "tech-leads-club/agent-skills",
-        "url": "/tech-leads-club/agent-skills",
-        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-        "language": "TypeScript",
-        "stars_today": 265,
-        "stars_total": 5768,
-        "description_zh": "专业AI编码代理的安全、经过验证的技能注册表。绝对自信地扩展Antigravity、Claude Code、Cursor、Copilot等。"
-      },
-      {
-        "full_name": "melgarafael/DeskcommCRM",
-        "url": "/melgarafael/DeskcommCRM",
-        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-        "language": "TypeScript",
-        "stars_today": 432,
-        "stars_total": 2307,
-        "description_zh": "开源AI销售操作系统—使用本地AI代理+ WhatsApp (WAHA)的自托管CRM。对于任何通过聊天销售的企业， Kommo、Octadesk和Intercom的替代方案都是开放的。MCP就绪、多租户、LGPD。"
-      },
-      {
-        "full_name": "calesthio/OpenMontage",
-        "url": "/calesthio/OpenMontage",
-        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-        "language": "Python",
-        "stars_today": 380,
-        "stars_total": 58641,
-        "description_zh": "全球首个开源代理视频制作系统。12个制作管道、100多个工具、700多个代理技能和生产知识文件。将您的AI编码助手变成一个完整的视频制作工作室。"
-      },
-      {
-        "full_name": "asgeirtj/system_prompts_leaks",
-        "url": "/asgeirtj/system_prompts_leaks",
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-        "language": "JavaScript",
-        "stars_today": 706,
-        "stars_total": 66209,
-        "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5.1、Opus 5、Claude Design、Claude Code。 OpenAI - ChatGPT GPT-6-Astra，法典。 Google - Gemini 3.8 Flash、3.1 Pro、反重力。 xAI - Grok、Grok Bot、Cursor、Kimi 等等！定期更新。"
-      },
-      {
-        "full_name": "vxcontrol/pentagi",
-        "url": "/vxcontrol/pentagi",
-        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "full_name": "alibaba/open-code-review",
+        "url": "/alibaba/open-code-review",
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
-        "stars_today": 590,
-        "stars_total": 24100,
-        "description_zh": "完全自主的AI Agents系统，能够执行复杂的渗透测试任务"
+        "stars_today": 1571,
+        "stars_total": 26238,
+        "description_zh": "快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
       },
       {
         "full_name": "multimodal-art-projection/YuE",
         "url": "/multimodal-art-projection/YuE",
         "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
         "language": "Python",
-        "stars_today": 487,
-        "stars_total": 7876,
+        "stars_today": 559,
+        "stars_total": 8559,
         "description_zh": "YuE2 ：具有象征性规划、零封面和代理音乐编辑的前沿音乐生成。"
-      },
-      {
-        "full_name": "yuliskov/SmartTube",
-        "url": "/yuliskov/SmartTube",
-        "description": "Browse media content with your own rules on Android TV",
-        "language": "Java",
-        "stars_today": 233,
-        "stars_total": 33499,
-        "description_zh": "在 Android TV 上按照您自己的规则浏览媒体内容"
-      },
-      {
-        "full_name": "alphaXiv/OpenResearch",
-        "url": "/alphaXiv/OpenResearch",
-        "description": "Turn your coding agents into research agents",
-        "language": "Rust",
-        "stars_today": 289,
-        "stars_total": 2203,
-        "description_zh": "将您的编码代理转变为研究代理"
       },
       {
         "full_name": "debpalash/VoiceStudio",
         "url": "/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_today": 2632,
-        "stars_total": 27334,
+        "stars_today": 2776,
+        "stars_total": 29631,
         "description_zh": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。"
+      },
+      {
+        "full_name": "666ghj/MiroFish",
+        "url": "/666ghj/MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "stars_today": 560,
+        "stars_total": 73361,
+        "description_zh": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+      },
+      {
+        "full_name": "Panniantong/Agent-Reach",
+        "url": "/Panniantong/Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars_today": 651,
+        "stars_total": 81535,
+        "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      },
+      {
+        "full_name": "asgeirtj/system_prompts_leaks",
+        "url": "/asgeirtj/system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+        "language": "JavaScript",
+        "stars_today": 764,
+        "stars_total": 66930,
+        "description_zh": "从 Anthropic 中提取的系统提示 - Claude Fable 5.1、Opus 5、Claude Design、Claude Code。 OpenAI - ChatGPT GPT-6-Astra，法典。 Google - Gemini 3.8 Flash、3.1 Pro、反重力。 xAI - Grok、Grok Bot、Cursor、Kimi 等等！定期更新。"
+      },
+      {
+        "full_name": "rlaope/oh-my-hermes",
+        "url": "/rlaope/oh-my-hermes",
+        "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+        "language": "Python",
+        "stars_today": 77,
+        "stars_total": 2179,
+        "description_zh": "Hermes Agent 的多合一插件 ⚚ 编码智能、长期记忆系统和模型优化的工作流程包"
+      },
+      {
+        "full_name": "localsend/localsend",
+        "url": "/localsend/localsend",
+        "description": "An open-source cross-platform alternative to AirDrop",
+        "language": "Dart",
+        "stars_today": 251,
+        "stars_total": 91438,
+        "description_zh": "AirDrop 的开源跨平台替代品"
+      },
+      {
+        "full_name": "dani-garcia/vaultwarden",
+        "url": "/dani-garcia/vaultwarden",
+        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+        "language": "Rust",
+        "stars_today": 115,
+        "stars_total": 67588,
+        "description_zh": "用 Rust 编写的非官方 Bitwarden 兼容服务器，以前称为 bitwarden_rs"
+      },
+      {
+        "full_name": "TauricResearch/TradingAgents",
+        "url": "/TauricResearch/TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars_today": 745,
+        "stars_total": 106300,
+        "description_zh": "TradingAgents：多代理LLM金融交易框架"
+      },
+      {
+        "full_name": "ruvnet/RuView",
+        "url": "/ruvnet/RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars_today": 383,
+        "stars_total": 93955,
+        "description_zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
       }
     ],
     "weekly": [
@@ -117,17 +117,26 @@
         "url": "/ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "language": "Python",
-        "stars_today": 16740,
-        "stars_total": 44572,
+        "stars_today": 17658,
+        "stars_total": 45599,
         "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
+      },
+      {
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "url": "/bilawalsidhu/gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars_today": 14403,
+        "stars_total": 33819,
+        "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
       },
       {
         "full_name": "affaan-m/ECC",
         "url": "/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "stars_today": 7264,
-        "stars_total": 257863,
+        "stars_today": 6085,
+        "stars_total": 258500,
         "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
       },
       {
@@ -135,44 +144,44 @@
         "url": "/openai/plugins",
         "description": "OpenAI Plugins",
         "language": "JavaScript",
-        "stars_today": 1181,
-        "stars_total": 6636,
+        "stars_today": 1233,
+        "stars_total": 6722,
         "description_zh": "OpenAI 插件"
-      },
-      {
-        "full_name": "bilawalsidhu/gods-eye-view",
-        "url": "/bilawalsidhu/gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars_today": 12931,
-        "stars_total": 32285,
-        "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-      },
-      {
-        "full_name": "mksglu/context-mode",
-        "url": "/mksglu/context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars_today": 2102,
-        "stars_total": 22687,
-        "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
       },
       {
         "full_name": "DietrichGebert/ponytail",
         "url": "/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "language": "JavaScript",
-        "stars_today": 8444,
-        "stars_total": 137538,
+        "stars_today": 7722,
+        "stars_total": 138628,
         "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
+      },
+      {
+        "full_name": "mksglu/context-mode",
+        "url": "/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars_today": 2241,
+        "stars_total": 22917,
+        "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
+      },
+      {
+        "full_name": "heygen-com/hyperframes",
+        "url": "/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_today": 5052,
+        "stars_total": 50108,
+        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
       },
       {
         "full_name": "tt-a1i/archify",
         "url": "/tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "language": "JavaScript",
-        "stars_today": 10132,
-        "stars_total": 61109,
+        "stars_today": 9868,
+        "stars_total": 62546,
         "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
@@ -180,26 +189,17 @@
         "url": "/openai/skills",
         "description": "Skills Catalog for Codex",
         "language": "Python",
-        "stars_today": 1622,
-        "stars_total": 27118,
+        "stars_today": 1350,
+        "stars_total": 27210,
         "description_zh": "法典技能目录"
-      },
-      {
-        "full_name": "heygen-com/hyperframes",
-        "url": "/heygen-com/hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "language": "TypeScript",
-        "stars_today": 5146,
-        "stars_total": 49703,
-        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
       },
       {
         "full_name": "microsoft/markitdown",
         "url": "/microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
-        "stars_today": 5191,
-        "stars_total": 183688,
+        "stars_today": 4604,
+        "stars_total": 184078,
         "description_zh": "用于将文件和Office文档转换为Markdown的Python工具。"
       },
       {
@@ -207,18 +207,18 @@
         "url": "/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
-        "stars_today": 4068,
-        "stars_total": 286291,
+        "stars_today": 4124,
+        "stars_total": 286786,
         "description_zh": "有效的代理技能框架和软件开发方法。"
       },
       {
-        "full_name": "coreyhaines31/marketingskills",
-        "url": "/coreyhaines31/marketingskills",
-        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "language": "JavaScript",
-        "stars_today": 2678,
-        "stars_total": 50044,
-        "description_zh": "Claude Code和人工智能代理的营销技能。CRO、文案撰写、搜索引擎优化、分析和增长工程。"
+        "full_name": "blader/humanizer",
+        "url": "/blader/humanizer",
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "language": "Python",
+        "stars_today": 3201,
+        "stars_total": 48225,
+        "description_zh": "代理技能可消除文本中人工智能生成的书写痕迹"
       }
     ],
     "monthly": [
@@ -227,8 +227,8 @@
         "url": "/omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "language": "Shell",
-        "stars_today": 16489,
-        "stars_total": 40905,
+        "stars_today": 16712,
+        "stars_total": 41117,
         "description_zh": "美丽、现代、有主见的 Linux"
       },
       {
@@ -236,8 +236,8 @@
         "url": "/tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "language": "JavaScript",
-        "stars_today": 48808,
-        "stars_total": 61109,
+        "stars_today": 49900,
+        "stars_total": 62546,
         "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
@@ -245,8 +245,8 @@
         "url": "/anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "language": "Python",
-        "stars_today": 3635,
-        "stars_total": 3955,
+        "stars_today": 3715,
+        "stars_total": 4043,
         "description_zh": "Claude Cowork和Claude Code的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。"
       },
       {
@@ -254,8 +254,8 @@
         "url": "/AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "language": "Rust",
-        "stars_today": 12557,
-        "stars_total": 20969,
+        "stars_today": 12695,
+        "stars_total": 21108,
         "description_zh": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
       },
       {
@@ -263,8 +263,8 @@
         "url": "/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_today": 4967,
-        "stars_total": 7636,
+        "stars_today": 5026,
+        "stars_total": 7765,
         "description_zh": "光标插件规范和官方插件"
       },
       {
@@ -272,35 +272,35 @@
         "url": "/volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "language": "Python",
-        "stars_today": 8745,
-        "stars_total": 37072,
+        "stars_today": 8921,
+        "stars_total": 37306,
         "description_zh": "人工智能代理的自我进化上下文数据库。统一代理记忆、知识 RAG 和技能。"
-      },
-      {
-        "full_name": "cathrynlavery/diagram-design",
-        "url": "/cathrynlavery/diagram-design",
-        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars_today": 26213,
-        "stars_total": 39346,
-        "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
       },
       {
         "full_name": "freestylefly/awesome-gpt-image-2",
         "url": "/freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
         "language": "JavaScript",
-        "stars_today": 21897,
-        "stars_total": 31708,
+        "stars_today": 22081,
+        "stars_total": 31941,
         "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
+      },
+      {
+        "full_name": "cathrynlavery/diagram-design",
+        "url": "/cathrynlavery/diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars_today": 23268,
+        "stars_total": 39915,
+        "description_zh": "Claude Code、Codex 和 Pi 的 38 种编辑图表类型。独立的 HTML + SVG。没有阴影。没有美人鱼污水。"
       },
       {
         "full_name": "THU-MAIC/OpenMAIC",
         "url": "/THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "language": "TypeScript",
-        "stars_today": 15888,
-        "stars_total": 36559,
+        "stars_today": 16207,
+        "stars_total": 36902,
         "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
       },
       {
@@ -308,8 +308,8 @@
         "url": "/ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "language": "Python",
-        "stars_today": 24025,
-        "stars_total": 44572,
+        "stars_today": 24963,
+        "stars_total": 45599,
         "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
       },
       {
@@ -317,18 +317,18 @@
         "url": "/vorssaint/vorssaint-utils",
         "description": "Free and open-source macOS menu bar toolkit.",
         "language": "Swift",
-        "stars_today": 13520,
-        "stars_total": 18804,
+        "stars_today": 13706,
+        "stars_total": 19049,
         "description_zh": "免费开源的macOS菜单栏工具包。"
       },
       {
-        "full_name": "modular/modular",
-        "url": "/modular/modular",
-        "description": "The Modular Platform (includes MAX & Mojo)",
-        "language": "Mojo",
-        "stars_today": 3049,
-        "stars_total": 29732,
-        "description_zh": "模块化平台（包括MAX和Mojo ）"
+        "full_name": "debpalash/VoiceStudio",
+        "url": "/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars_today": 18692,
+        "stars_total": 29631,
+        "description_zh": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。"
       }
     ]
   }
