@@ -1,157 +1,202 @@
 {
-  "generated_at": "2026-09-15T05:04:03+00:00",
+  "generated_at": "2026-09-16T04:59:32+00:00",
   "hn": [
     {
-      "id": 49678969,
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "domain": "yoshuabengio.org",
-      "points": 647,
-      "comments": 684,
-      "author": "jonifico",
-      "time": 1789262551,
-      "title_zh": "为什么人工智能代理会撒谎、欺骗和协调？"
+      "id": 49704132,
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://www.effort.news/irregular",
+      "domain": "effort.news",
+      "points": 546,
+      "comments": 186,
+      "author": "yusufozkan",
+      "time": 1789420501,
+      "title_zh": "一家公司是 OpenAI、Anthropic 和 Meta 黑客丑闻的幕后黑手"
     },
     {
       "id": 49695876,
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
       "domain": "tenderlovemaking.com",
-      "points": 411,
-      "comments": 335,
+      "points": 507,
+      "comments": 415,
       "author": "gregnavis",
       "time": 1789389657,
       "title_zh": "OpenAI 机器人知道 RubyGems 缓存漏洞"
-    },
-    {
-      "id": 49685253,
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "domain": "techcrunch.com",
-      "points": 408,
-      "comments": 234,
-      "author": "TheJCDenton",
-      "time": 1789314278,
-      "title_zh": "Garry Tan也希望美国开放式人工智能实验室“提炼”前沿模型"
     },
     {
       "id": 49700477,
       "title": "Pion, an agent designed to run any company autonomously",
       "url": "https://andonlabs.com/blog/why-we-built-pion",
       "domain": "andonlabs.com",
-      "points": 336,
-      "comments": 377,
+      "points": 483,
+      "comments": 589,
       "author": "lukaspetersson",
       "time": 1789406166,
       "title_zh": "Pion，旨在自主运营任何公司的代理"
     },
     {
-      "id": 49695409,
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "domain": "macrumors.com",
-      "points": 221,
-      "comments": 155,
-      "author": "tosh",
-      "time": 1789387292,
-      "title_zh": "Apple 的 Siri AI 可以替换为 Claude、ChatGPT、代码显示"
+      "id": 49715947,
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "domain": "blog.google",
+      "points": 355,
+      "comments": 229,
+      "author": "leumon",
+      "time": 1789493898,
+      "title_zh": "双子座3.8直播和3.8直播延伸思考"
     },
     {
-      "id": 49690260,
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "domain": "interconnects.ai",
-      "points": 153,
+      "id": 49717638,
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "domain": "codyho.dev",
+      "points": 213,
+      "comments": 131,
+      "author": "ADevWithAnIdea",
+      "time": 1789500603,
+      "title_zh": "在一个月内为 M4 Mac Mini 构建 Linux GPU 驱动程序"
+    },
+    {
+      "id": 49697477,
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "domain": "nathannaveen.dev",
+      "points": 150,
       "comments": 29,
-      "author": "simonpure",
-      "time": 1789345371,
-      "title_zh": "开源人工智能和开放模型阅读清单"
+      "author": "nathannaveen",
+      "time": 1789396163,
+      "title_zh": "通过 Memoization（非 AI Gen）将 eBPF CPU 成本降低约 90%"
     },
     {
-      "id": 49693384,
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
-      "domain": "github.com",
-      "points": 134,
-      "comments": 31,
-      "author": "anuj0456",
-      "time": 1789372519,
-      "title_zh": "OpenArch – 现代 LLM 架构的 PyTorch 实现"
-    },
-    {
-      "id": 49703003,
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "domain": "entelligence.ai",
-      "points": 132,
-      "comments": 123,
-      "author": "theanonymousone",
-      "time": 1789415780,
-      "title_zh": "GPT-5.6 Luna 与 GPT-6 Astra：1.20 美元的型号是否足以进行代码审查？"
+      "id": 49716241,
+      "title": "Hugging Face is billing OpenAI $100M for hacking it",
+      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+      "domain": "thenextweb.com",
+      "points": 140,
+      "comments": 46,
+      "author": "cwwc",
+      "time": 1789494970,
+      "title_zh": "Hugging Face 向 OpenAI 收取 1 亿美元的黑客攻击费用"
     },
     {
       "id": 49697014,
       "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
       "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
       "domain": "patrickmccanna.net",
-      "points": 125,
-      "comments": 68,
+      "points": 139,
+      "comments": 75,
       "author": "0o_MrPatrick_o0",
       "time": 1789394349,
       "title_zh": "将 35kb 预提示从 Opus 迁移到自托管 Ollama 时遇到的问题注意事项"
     },
     {
-      "id": 49699373,
-      "title": "Claude is a Contrarian",
-      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-      "domain": "medium.com",
-      "points": 117,
-      "comments": 143,
-      "author": "rdsubhas",
-      "time": 1789402464,
-      "title_zh": "克劳德是个逆向者"
+      "id": 49713024,
+      "title": "The Inference Hardware Revolution of 2026",
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "domain": "spectrum.ieee.org",
+      "points": 127,
+      "comments": 13,
+      "author": "vinhnx",
+      "time": 1789482248,
+      "title_zh": "2026 年推理硬件革命"
     },
     {
-      "id": 49694596,
-      "title": "Big AI sets out its terms for regulatory capture",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-      "domain": "theregister.com",
-      "points": 117,
-      "comments": 67,
-      "author": "joebuckwilliams",
-      "time": 1789381708,
-      "title_zh": "大人工智能制定了监管捕获条款"
+      "id": 49710015,
+      "title": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "domain": "tintotint.eu",
+      "points": 127,
+      "comments": 169,
+      "author": "_ZeD_",
+      "time": 1789465668,
+      "title_zh": "LLM 生成了多少 F-Droid？"
     },
     {
-      "id": 49699648,
-      "title": "Why don't machine learning research agents overfit?",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "domain": "amazon.science",
-      "points": 115,
-      "comments": 65,
-      "author": "Betelbuddy",
-      "time": 1789403543,
-      "title_zh": "为什么机器学习研究代理不会过度拟合？"
+      "id": 49711240,
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "domain": "techcrunch.com",
+      "points": 125,
+      "comments": 97,
+      "author": "myth_drannon",
+      "time": 1789473691,
+      "title_zh": "OpenAI 以 3 亿美元收购智能手机摄像头制造商 Glass Imaging"
+    },
+    {
+      "id": 49697094,
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "domain": "spectrum.ieee.org",
+      "points": 111,
+      "comments": 48,
+      "author": "rbanffy",
+      "time": 1789394693,
+      "title_zh": "对抗性时尚对人工智能圆形监狱发表声明"
     }
   ],
   "media": [
     {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "source": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 01:50:48 +0000",
-      "time": 1789437048,
-      "snippet": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
-      "title_zh": "黄仁勋接了特朗普的电话，还展示了一些其他东西"
+      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "time": 1789518039,
+      "snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "title_zh": "Nvidia 的 Jensen Huang 表示，我们不需要人工智能监管——把安全留给我们"
     },
     {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "source": "TechCrunch",
-      "published": "Mon, 14 Sep 2026 21:51:02 +0000",
-      "time": 1789422662,
-      "snippet": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "title_zh": "英伟达首席执行官黄仁勋告诉特朗普“我们不会让[人工智能放缓]发生”"
+      "published": "Tue, 15 Sep 2026 21:47:38 +0000",
+      "time": 1789508858,
+      "snippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil",
+      "title_zh": "人工智能数据中心的繁荣与因大工业而伤痕累累的城市发生碰撞"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch",
+      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "time": 1789503173,
+      "snippet": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "title_zh": "Meta 现在让 AI 代理处理 WhatsApp Business 设置中的无聊部分"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "published": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "time": 1789498800,
+      "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "title_zh": "人工智能墓地：未成功的项目和初创公司的清单"
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 15 Sep 2026 17:47:51 +0000",
+      "time": 1789494471,
+      "snippet": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they ri",
+      "title_zh": "圆桌会议：人工智能真的会杀死我们所有人吗？"
+    },
+    {
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "source": "Ars Technica",
+      "published": "Tue, 15 Sep 2026 12:00:41 +0000",
+      "time": 1789473641,
+      "snippet": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+      "title_zh": "独家：购买前沿人工智能模型可以以 5 倍的成本获得 4 个月的领先优势"
+    },
+    {
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 15 Sep 2026 10:00:00 +0000",
+      "time": 1789466400,
+      "snippet": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long ",
+      "title_zh": "人工智能的万亿美元赌博有何利害关系"
     },
     {
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -161,15 +206,6 @@
       "time": 1789419872,
       "snippet": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
       "title_zh": "人工智能机器人“Timmy”、“Ren”和“Jackie”正在社交媒体上泛滥成灾"
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TechCrunch",
-      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "time": 1789418654,
-      "snippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "title_zh": "报告称 OpenAI 以 3 亿美元收购智能手机摄像头制造商 Glass Imaging"
     },
     {
       "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
@@ -188,42 +224,6 @@
       "time": 1789414122,
       "snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
       "title_zh": "Apple 发布 iOS 27、macOS Golden Gate 27，具有 Siri AI 和 Liquid Glass 改进"
-    },
-    {
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "source": "Ars Technica",
-      "published": "Mon, 14 Sep 2026 19:06:13 +0000",
-      "time": 1789412773,
-      "snippet": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-      "title_zh": "人工智能领导者希望在多年的鲁莽速度之后踩刹车"
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 14 Sep 2026 17:54:22 +0000",
-      "time": 1789408462,
-      "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted ",
-      "title_zh": "人工智能行业已经发生了悲惨的转变。现在怎么办？"
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "source": "TechCrunch",
-      "published": "Mon, 14 Sep 2026 17:10:30 +0000",
-      "time": 1789405830,
-      "snippet": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "title_zh": "在 iOS 27 中，我实际上再次使用 Siri"
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "time": 1789401600,
-      "snippet": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the fir",
-      "title_zh": "人工智能特工揭发了作弊的同事"
     }
   ]
 }

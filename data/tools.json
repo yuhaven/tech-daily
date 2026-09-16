@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-15T05:04:03+00:00",
+  "generated_at": "2026-09-16T04:59:34+00:00",
   "showhn": [
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "domain": "github.com",
+      "points": 1439,
+      "comments": 188,
+      "author": "arnemunthekaas",
+      "time": "2026-09-15T12:31:10Z",
+      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
+    },
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
@@ -15,8 +25,8 @@
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "domain": "rivendell.dmitrybrant.com",
-      "points": 627,
-      "comments": 287,
+      "points": 628,
+      "comments": 289,
       "author": "dmitrybrant",
       "time": "2026-09-10T01:58:00Z",
       "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
@@ -56,10 +66,20 @@
       "url": "https://vester.si/bodily-oddities/",
       "domain": "vester.si",
       "points": 340,
-      "comments": 214,
+      "comments": 215,
       "author": "vesterde",
       "time": "2026-09-10T20:33:11Z",
       "title_zh": "显示 HN：身体异常"
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "domain": "withcapsule.app",
+      "points": 308,
+      "comments": 121,
+      "author": "bashtian",
+      "time": "2026-09-15T13:31:40Z",
+      "title_zh": "Show HN：Capsule – 将数据保存到 SQLite 的单文件 Web 应用程序"
     },
     {
       "title": "Show HN: Laser Graffiti",
@@ -100,26 +120,6 @@
       "author": "ssx360",
       "time": "2026-08-24T13:17:11Z",
       "title_zh": "Show HN：一个 HTML 文件中的技术机器，具有可验证的渲染"
-    },
-    {
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "url": "https://github.com/elyosh/OpenTIE/",
-      "domain": "github.com",
-      "points": 231,
-      "comments": 58,
-      "author": "elyosh",
-      "time": "2026-08-27T22:10:47Z",
-      "title_zh": "Show HN：OpenTIE 和 OpenXWA，Tie Fighter 和 X-Wing Alliance 的现代移植"
-    },
-    {
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "domain": "wilsonharper.net",
-      "points": 231,
-      "comments": 30,
-      "author": "WilsonHarper",
-      "time": "2026-08-28T13:48:12Z",
-      "title_zh": "Show HN：带有 MCU 的 NFC 能量收集 PCB 名片"
     }
   ],
   "hot": [
@@ -127,7 +127,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2299,
+      "points": 2300,
       "comments": 1603,
       "author": "moultano",
       "time": "2026-09-04T11:54:53Z",
@@ -138,7 +138,7 @@
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
       "points": 2279,
-      "comments": 2079,
+      "comments": 2080,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -217,8 +217,8 @@
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
       "domain": "apple.com",
-      "points": 1481,
-      "comments": 2540,
+      "points": 1482,
+      "comments": 2542,
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
@@ -234,14 +234,14 @@
       "title_zh": "我拥有的一切，拥有的"
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "domain": "anthropic.com",
-      "points": 1419,
-      "comments": 1395,
-      "author": "denysvitali",
-      "time": "2026-09-01T17:53:53Z",
-      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "domain": "github.com",
+      "points": 1439,
+      "comments": 188,
+      "author": "arnemunthekaas",
+      "time": "2026-09-15T12:31:10Z",
+      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
     }
   ]
 }
