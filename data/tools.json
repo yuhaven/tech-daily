@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T04:59:34+00:00",
+  "generated_at": "2026-09-17T05:02:14+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 1439,
-      "comments": 188,
+      "points": 2120,
+      "comments": 240,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
       "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
@@ -25,8 +25,8 @@
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "domain": "rivendell.dmitrybrant.com",
-      "points": 628,
-      "comments": 289,
+      "points": 629,
+      "comments": 290,
       "author": "dmitrybrant",
       "time": "2026-09-10T01:58:00Z",
       "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
@@ -40,6 +40,16 @@
       "author": "simedw",
       "time": "2026-08-20T12:04:38Z",
       "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
+    },
+    {
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
+      "domain": "inflightsimulator.com",
+      "points": 423,
+      "comments": 202,
+      "author": "rkotcher",
+      "time": "2026-09-14T09:08:56Z",
+      "title_zh": "Show HN：我做了一个飞行模拟器，只不过你只是一个乘客"
     },
     {
       "title": "Show HN: Open-Source eInk Bike Computer",
@@ -62,24 +72,24 @@
       "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
     },
     {
-      "title": "Show HN: Bodily Oddities",
-      "url": "https://vester.si/bodily-oddities/",
-      "domain": "vester.si",
-      "points": 340,
-      "comments": 215,
-      "author": "vesterde",
-      "time": "2026-09-10T20:33:11Z",
-      "title_zh": "显示 HN：身体异常"
-    },
-    {
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "url": "https://withcapsule.app/",
       "domain": "withcapsule.app",
-      "points": 308,
-      "comments": 121,
+      "points": 367,
+      "comments": 156,
       "author": "bashtian",
       "time": "2026-09-15T13:31:40Z",
       "title_zh": "Show HN：Capsule – 将数据保存到 SQLite 的单文件 Web 应用程序"
+    },
+    {
+      "title": "Show HN: Bodily Oddities",
+      "url": "https://vester.si/bodily-oddities/",
+      "domain": "vester.si",
+      "points": 341,
+      "comments": 216,
+      "author": "vesterde",
+      "time": "2026-09-10T20:33:11Z",
+      "title_zh": "显示 HN：身体异常"
     },
     {
       "title": "Show HN: Laser Graffiti",
@@ -110,16 +120,6 @@
       "author": "carloslfu",
       "time": "2026-09-01T16:42:46Z",
       "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
-    },
-    {
-      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "domain": "ssx360.github.io",
-      "points": 240,
-      "comments": 48,
-      "author": "ssx360",
-      "time": "2026-08-24T13:17:11Z",
-      "title_zh": "Show HN：一个 HTML 文件中的技术机器，具有可验证的渲染"
     }
   ],
   "hot": [
@@ -154,10 +154,20 @@
       "title_zh": ".name 终止"
     },
     {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "domain": "github.com",
+      "points": 2120,
+      "comments": 240,
+      "author": "arnemunthekaas",
+      "time": "2026-09-15T12:31:10Z",
+      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
+    },
+    {
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "domain": "cims.nyu.edu",
-      "points": 2050,
+      "points": 2051,
       "comments": 829,
       "author": "procedurecall",
       "time": "2026-09-08T05:42:28Z",
@@ -172,6 +182,16 @@
       "author": "mfiguiere",
       "time": "2026-08-27T01:12:55Z",
       "title_zh": "英伟达同意以130亿美元收购Hugging Face"
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "domain": "typesafe.ai",
+      "points": 1805,
+      "comments": 475,
+      "author": "albelfio",
+      "time": "2026-09-15T19:25:03Z",
+      "title_zh": "系统一模型和 Jev 简介"
     },
     {
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
@@ -222,26 +242,6 @@
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
-    },
-    {
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "domain": "schlarp.com",
-      "points": 1453,
-      "comments": 351,
-      "author": "schlarpc",
-      "time": "2026-08-23T22:41:04Z",
-      "title_zh": "我拥有的一切，拥有的"
-    },
-    {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
-      "domain": "github.com",
-      "points": 1439,
-      "comments": 188,
-      "author": "arnemunthekaas",
-      "time": "2026-09-15T12:31:10Z",
-      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
     }
   ]
 }

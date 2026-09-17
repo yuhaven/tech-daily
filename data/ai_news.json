@@ -1,175 +1,193 @@
 {
-  "generated_at": "2026-09-16T04:59:32+00:00",
+  "generated_at": "2026-09-17T05:02:13+00:00",
   "hn": [
     {
       "id": 49704132,
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://www.effort.news/irregular",
       "domain": "effort.news",
-      "points": 546,
-      "comments": 186,
+      "points": 672,
+      "comments": 237,
       "author": "yusufozkan",
       "time": 1789420501,
       "title_zh": "一家公司是 OpenAI、Anthropic 和 Meta 黑客丑闻的幕后黑手"
     },
     {
-      "id": 49695876,
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "domain": "tenderlovemaking.com",
-      "points": 507,
-      "comments": 415,
-      "author": "gregnavis",
-      "time": 1789389657,
-      "title_zh": "OpenAI 机器人知道 RubyGems 缓存漏洞"
-    },
-    {
-      "id": 49700477,
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "domain": "andonlabs.com",
-      "points": 483,
-      "comments": 589,
-      "author": "lukaspetersson",
-      "time": 1789406166,
-      "title_zh": "Pion，旨在自主运营任何公司的代理"
+      "id": 49723408,
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "domain": "mistral.ai",
+      "points": 548,
+      "comments": 188,
+      "author": "vertigoruntime",
+      "time": 1789546137,
+      "title_zh": "Mistral X Mozilla：私密、多语言 AI ​​浏览"
     },
     {
       "id": 49715947,
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "domain": "blog.google",
-      "points": 355,
-      "comments": 229,
+      "points": 482,
+      "comments": 322,
       "author": "leumon",
       "time": 1789493898,
       "title_zh": "双子座3.8直播和3.8直播延伸思考"
     },
     {
-      "id": 49717638,
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "url": "https://codyho.dev/blog/gpu-driver/",
-      "domain": "codyho.dev",
-      "points": 213,
-      "comments": 131,
-      "author": "ADevWithAnIdea",
-      "time": 1789500603,
-      "title_zh": "在一个月内为 M4 Mac Mini 构建 Linux GPU 驱动程序"
+      "id": 49724881,
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "domain": "developer.nvidia.com",
+      "points": 464,
+      "comments": 164,
+      "author": "nonmaskable",
+      "time": 1789557353,
+      "title_zh": "Nvidia 宣布使用 Rust 进行原生 GPU 编程"
     },
     {
-      "id": 49697477,
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "domain": "nathannaveen.dev",
-      "points": 150,
-      "comments": 29,
-      "author": "nathannaveen",
-      "time": 1789396163,
-      "title_zh": "通过 Memoization（非 AI Gen）将 eBPF CPU 成本降低约 90%"
+      "id": 49729412,
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "domain": "claude.com",
+      "points": 211,
+      "comments": 217,
+      "author": "vertigoruntime",
+      "time": 1789575985,
+      "title_zh": "克劳德 协作和聊天现已合而为一 克劳德"
     },
     {
-      "id": 49716241,
-      "title": "Hugging Face is billing OpenAI $100M for hacking it",
-      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-      "domain": "thenextweb.com",
-      "points": 140,
-      "comments": 46,
-      "author": "cwwc",
-      "time": 1789494970,
-      "title_zh": "Hugging Face 向 OpenAI 收取 1 亿美元的黑客攻击费用"
+      "id": 49694035,
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "url": "https://arxiv.org/abs/2511.07885",
+      "domain": "arxiv.org",
+      "points": 161,
+      "comments": 61,
+      "author": "pythonic_hell",
+      "time": 1789377399,
+      "title_zh": "每瓦智能：衡量本地人工智能的智能效率"
     },
     {
-      "id": 49697014,
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "domain": "patrickmccanna.net",
-      "points": 139,
-      "comments": 75,
-      "author": "0o_MrPatrick_o0",
-      "time": 1789394349,
-      "title_zh": "将 35kb 预提示从 Opus 迁移到自托管 Ollama 时遇到的问题注意事项"
+      "id": 49727659,
+      "title": "The DeepMind Institute",
+      "url": "https://institute.deepmind.com/",
+      "domain": "institute.deepmind.com",
+      "points": 158,
+      "comments": 55,
+      "author": "vertigoruntime",
+      "time": 1789569131,
+      "title_zh": "DeepMind 研究所"
     },
     {
       "id": 49713024,
       "title": "The Inference Hardware Revolution of 2026",
       "url": "https://spectrum.ieee.org/inference-hardware-revolution",
       "domain": "spectrum.ieee.org",
-      "points": 127,
-      "comments": 13,
+      "points": 158,
+      "comments": 21,
       "author": "vinhnx",
       "time": 1789482248,
       "title_zh": "2026 年推理硬件革命"
     },
     {
-      "id": 49710015,
-      "title": "How much of F-Droid is LLM generated?",
-      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "domain": "tintotint.eu",
-      "points": 127,
-      "comments": 169,
-      "author": "_ZeD_",
-      "time": 1789465668,
-      "title_zh": "LLM 生成了多少 F-Droid？"
+      "id": 49713999,
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "domain": "formas.ai",
+      "points": 113,
+      "comments": 79,
+      "author": "eustoria",
+      "time": 1789486005,
+      "title_zh": "Cartesian – 用于设计的 AI 3D 建模"
     },
     {
-      "id": 49711240,
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "domain": "techcrunch.com",
-      "points": 125,
-      "comments": 97,
-      "author": "myth_drannon",
-      "time": 1789473691,
-      "title_zh": "OpenAI 以 3 亿美元收购智能手机摄像头制造商 Glass Imaging"
+      "id": 49734264,
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "domain": "openspec.dev",
+      "points": 102,
+      "comments": 40,
+      "author": "etoxin",
+      "time": 1789599999,
+      "title_zh": "OpenSpec – 轻量级且可配置的 AI 规范框架"
     },
     {
-      "id": 49697094,
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "url": "https://spectrum.ieee.org/adversarial-fashion",
-      "domain": "spectrum.ieee.org",
-      "points": 111,
-      "comments": 48,
-      "author": "rbanffy",
-      "time": 1789394693,
-      "title_zh": "对抗性时尚对人工智能圆形监狱发表声明"
+      "id": 49733726,
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
+      "domain": "harnesstax.github.io",
+      "points": 77,
+      "comments": 22,
+      "author": "matt_d",
+      "time": 1789596613,
+      "title_zh": "HarnessTax：Harness 对编码代理有多重要？"
+    },
+    {
+      "id": 49731395,
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+      "domain": "businessinsider.com",
+      "points": 73,
+      "comments": 255,
+      "author": "TMWNN",
+      "time": 1789585182,
+      "title_zh": "一家咖啡店老板使用人工智能制作了菜单海报。然后愤怒的DM来了"
     }
   ],
   "media": [
     {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
       "source": "TechCrunch",
-      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
-      "time": 1789518039,
-      "snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "title_zh": "Nvidia 的 Jensen Huang 表示，我们不需要人工智能监管——把安全留给我们"
+      "published": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "time": 1789621200,
+      "snippet": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "title_zh": "总部位于冰岛的 Treble 为其语音模拟平台融​​资 1800 万美元"
     },
     {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 21:47:38 +0000",
-      "time": 1789508858,
-      "snippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil",
-      "title_zh": "人工智能数据中心的繁荣与因大工业而伤痕累累的城市发生碰撞"
+      "published": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "time": 1789615800,
+      "snippet": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed",
+      "title_zh": "您初创公司的下一个队友可能是 AI 代理：Gusto、Insight Partners 和 Leland 在 TechCrunch Disrupt 2026 上解释了这一变化"
     },
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
       "source": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "time": 1789503173,
-      "snippet": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "title_zh": "Meta 现在让 AI 代理处理 WhatsApp Business 设置中的无聊部分"
+      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "time": 1789606729,
+      "snippet": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "title_zh": "Snap 试图再次为其售价 2,200 美元的智能眼镜辩护"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "source": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 19:00:00 +0000",
-      "time": 1789498800,
-      "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "title_zh": "人工智能墓地：未成功的项目和初创公司的清单"
+      "published": "Wed, 16 Sep 2026 23:43:09 +0000",
+      "time": 1789602189,
+      "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the tech",
+      "title_zh": "戈尔表示真正的人工智能风险不是数据中心"
+    },
+    {
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "source": "Ars Technica",
+      "published": "Wed, 16 Sep 2026 22:02:46 +0000",
+      "time": 1789596166,
+      "snippet": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "title_zh": "据报道，苹果正在为人工智能打造配备 M 系列 Ultra 芯片的服务器"
+    },
+    {
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 16 Sep 2026 12:47:34 +0000",
+      "time": 1789562854,
+      "snippet": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms ru",
+      "title_zh": "为人工智能奠定材料基础"
     },
     {
       "title": "Roundtables: Could AI really kill us all?",
@@ -181,15 +199,6 @@
       "title_zh": "圆桌会议：人工智能真的会杀死我们所有人吗？"
     },
     {
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "source": "Ars Technica",
-      "published": "Tue, 15 Sep 2026 12:00:41 +0000",
-      "time": 1789473641,
-      "snippet": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "title_zh": "独家：购买前沿人工智能模型可以以 5 倍的成本获得 4 个月的领先优势"
-    },
-    {
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "source": "MIT Tech Review",
@@ -199,31 +208,22 @@
       "title_zh": "人工智能的万亿美元赌博有何利害关系"
     },
     {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "source": "Ars Technica",
-      "published": "Mon, 14 Sep 2026 21:04:32 +0000",
-      "time": 1789419872,
-      "snippet": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "title_zh": "人工智能机器人“Timmy”、“Ren”和“Jackie”正在社交媒体上泛滥成灾"
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 14 Sep 2026 17:54:22 +0000",
+      "time": 1789408462,
+      "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, po",
+      "title_zh": "人工智能行业已经发生了悲惨的转变。现在怎么办？"
     },
     {
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "source": "Ars Technica",
-      "published": "Mon, 14 Sep 2026 19:45:13 +0000",
-      "time": 1789415113,
-      "snippet": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-      "title_zh": "苹果找到出路后，OpenAI 陷入与马斯克反垄断诉讼的斗争"
-    },
-    {
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-      "source": "Ars Technica",
-      "published": "Mon, 14 Sep 2026 19:28:42 +0000",
-      "time": 1789414122,
-      "snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
-      "title_zh": "Apple 发布 iOS 27、macOS Golden Gate 27，具有 Siri AI 和 Liquid Glass 改进"
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat",
+      "published": "Thu, 27 Aug 2026 14:01:00 GMT",
+      "time": 1787839260,
+      "snippet": "Presented by Gravitee Read more",
+      "title_zh": "企业人工智能的真正风险不是自主代理。这就是他们之间的复杂性。"
     }
   ]
 }
