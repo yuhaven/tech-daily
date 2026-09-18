@@ -1,184 +1,211 @@
 {
-  "generated_at": "2026-09-17T05:02:13+00:00",
+  "generated_at": "2026-09-18T04:54:48+00:00",
   "hn": [
-    {
-      "id": 49704132,
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://www.effort.news/irregular",
-      "domain": "effort.news",
-      "points": 672,
-      "comments": 237,
-      "author": "yusufozkan",
-      "time": 1789420501,
-      "title_zh": "一家公司是 OpenAI、Anthropic 和 Meta 黑客丑闻的幕后黑手"
-    },
-    {
-      "id": 49723408,
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "domain": "mistral.ai",
-      "points": 548,
-      "comments": 188,
-      "author": "vertigoruntime",
-      "time": 1789546137,
-      "title_zh": "Mistral X Mozilla：私密、多语言 AI ​​浏览"
-    },
-    {
-      "id": 49715947,
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "domain": "blog.google",
-      "points": 482,
-      "comments": 322,
-      "author": "leumon",
-      "time": 1789493898,
-      "title_zh": "双子座3.8直播和3.8直播延伸思考"
-    },
     {
       "id": 49724881,
       "title": "Nvidia announces native GPU programming in Rust",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
       "domain": "developer.nvidia.com",
-      "points": 464,
-      "comments": 164,
+      "points": 933,
+      "comments": 389,
       "author": "nonmaskable",
       "time": 1789557353,
       "title_zh": "Nvidia 宣布使用 Rust 进行原生 GPU 编程"
     },
     {
-      "id": 49729412,
-      "title": "Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "domain": "claude.com",
-      "points": 211,
-      "comments": 217,
-      "author": "vertigoruntime",
-      "time": 1789575985,
-      "title_zh": "克劳德 协作和聊天现已合而为一 克劳德"
+      "id": 49737922,
+      "title": "How GLM built its own inference infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "domain": "z.ai",
+      "points": 384,
+      "comments": 265,
+      "author": "whiteros_e",
+      "time": 1789633629,
+      "title_zh": "GLM 如何构建自己的推理基础设施"
     },
     {
-      "id": 49694035,
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "domain": "arxiv.org",
-      "points": 161,
-      "comments": 61,
-      "author": "pythonic_hell",
-      "time": 1789377399,
-      "title_zh": "每瓦智能：衡量本地人工智能的智能效率"
+      "id": 49746163,
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "domain": "bend-lang.com",
+      "points": 365,
+      "comments": 185,
+      "author": "nicolas-siplis",
+      "time": 1789677373,
+      "title_zh": "Bend – 一种在 CPU 和 GPU 上通过证明阻止 AI 错误的语言"
     },
     {
-      "id": 49727659,
-      "title": "The DeepMind Institute",
-      "url": "https://institute.deepmind.com/",
-      "domain": "institute.deepmind.com",
-      "points": 158,
-      "comments": 55,
-      "author": "vertigoruntime",
-      "time": 1789569131,
-      "title_zh": "DeepMind 研究所"
-    },
-    {
-      "id": 49713024,
-      "title": "The Inference Hardware Revolution of 2026",
-      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "domain": "spectrum.ieee.org",
-      "points": 158,
-      "comments": 21,
-      "author": "vinhnx",
-      "time": 1789482248,
-      "title_zh": "2026 年推理硬件革命"
-    },
-    {
-      "id": 49713999,
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "url": "https://www.formas.ai/cartesian",
-      "domain": "formas.ai",
-      "points": 113,
-      "comments": 79,
-      "author": "eustoria",
-      "time": 1789486005,
-      "title_zh": "Cartesian – 用于设计的 AI 3D 建模"
+      "id": 49740105,
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "domain": "mysetup.ai",
+      "points": 204,
+      "comments": 114,
+      "author": "steveybrown",
+      "time": 1789650104,
+      "title_zh": "Show HN：分享您的 AI 设置，向他人学习"
     },
     {
       "id": 49734264,
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
       "url": "https://openspec.dev/",
       "domain": "openspec.dev",
-      "points": 102,
-      "comments": 40,
+      "points": 192,
+      "comments": 96,
       "author": "etoxin",
       "time": 1789599999,
       "title_zh": "OpenSpec – 轻量级且可配置的 AI 规范框架"
     },
     {
-      "id": 49733726,
-      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-      "url": "https://harnesstax.github.io/",
-      "domain": "harnesstax.github.io",
-      "points": 77,
-      "comments": 22,
-      "author": "matt_d",
-      "time": 1789596613,
-      "title_zh": "HarnessTax：Harness 对编码代理有多重要？"
+      "id": 49727659,
+      "title": "The DeepMind Institute",
+      "url": "https://institute.deepmind.com/",
+      "domain": "institute.deepmind.com",
+      "points": 180,
+      "comments": 71,
+      "author": "vertigoruntime",
+      "time": 1789569131,
+      "title_zh": "DeepMind 研究所"
     },
     {
-      "id": 49731395,
-      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
-      "domain": "businessinsider.com",
-      "points": 73,
-      "comments": 255,
-      "author": "TMWNN",
-      "time": 1789585182,
-      "title_zh": "一家咖啡店老板使用人工智能制作了菜单海报。然后愤怒的DM来了"
+      "id": 49746654,
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "domain": "iankduncan.com",
+      "points": 173,
+      "comments": 178,
+      "author": "Anon84",
+      "time": 1789679752,
+      "title_zh": "性、人工智能和启示录"
+    },
+    {
+      "id": 49749656,
+      "title": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "domain": "hacktron.ai",
+      "points": 122,
+      "comments": 33,
+      "author": "Handy-Man",
+      "time": 1789699644,
+      "title_zh": "黑客 OpenAI"
+    },
+    {
+      "id": 49742021,
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+      "domain": "economist.com",
+      "points": 115,
+      "comments": 96,
+      "author": "ddp26",
+      "time": 1789658010,
+      "title_zh": "人工智能现在击败了一些最优秀的人类预测者"
+    },
+    {
+      "id": 49736662,
+      "title": "OpenAI models secretly generate instructions to ignore constraints",
+      "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "domain": "alignment.openai.com",
+      "points": 102,
+      "comments": 27,
+      "author": "theahura",
+      "time": 1789622021,
+      "title_zh": "OpenAI 模型秘密生成指令以忽略约束"
+    },
+    {
+      "id": 49735180,
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "domain": "nytimes.com",
+      "points": 96,
+      "comments": 92,
+      "author": "jbegley",
+      "time": 1789606933,
+      "title_zh": "OpenAI 披露了六起“有关”人工智能的新事件行为"
+    },
+    {
+      "id": 49742437,
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "domain": "minimallysufficient.com",
+      "points": 95,
+      "comments": 19,
+      "author": "minsufficient",
+      "time": 1789659617,
+      "title_zh": "LLM分类是特征工程"
     }
   ],
   "media": [
     {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "source": "TechCrunch",
-      "published": "Thu, 17 Sep 2026 05:00:00 +0000",
-      "time": 1789621200,
-      "snippet": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-      "title_zh": "总部位于冰岛的 Treble 为其语音模拟平台融​​资 1800 万美元"
+      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
+      "time": 1789687552,
+      "snippet": "The round values the data center giant at $30.9 billion.",
+      "title_zh": "Crusoe 筹集了 3.9B 美元用于建设大型数据中心和小型模块化“人工智能工厂”"
     },
     {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
       "source": "TechCrunch",
-      "published": "Thu, 17 Sep 2026 03:30:00 +0000",
-      "time": 1789615800,
-      "snippet": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed",
-      "title_zh": "您初创公司的下一个队友可能是 AI 代理：Gusto、Insight Partners 和 Leland 在 TechCrunch Disrupt 2026 上解释了这一变化"
+      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "time": 1789687277,
+      "snippet": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will ",
+      "title_zh": "谷歌 DeepMind 成立研究所以扩大 AGI 争论"
     },
     {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
       "source": "TechCrunch",
-      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
-      "time": 1789606729,
-      "snippet": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "title_zh": "Snap 试图再次为其售价 2,200 美元的智能眼镜辩护"
+      "published": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "time": 1789684449,
+      "snippet": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "title_zh": "PrismML 希望其小型法学硕士能够改变我们使用人工智能的方式"
     },
     {
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
       "source": "TechCrunch",
-      "published": "Wed, 16 Sep 2026 23:43:09 +0000",
-      "time": 1789602189,
-      "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the tech",
-      "title_zh": "戈尔表示真正的人工智能风险不是数据中心"
+      "published": "Thu, 17 Sep 2026 22:14:59 +0000",
+      "time": 1789683299,
+      "snippet": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "title_zh": "美国联邦航空管理局 (FAA) 计划修复空中交通？价值 8.75 亿美元的人工智能"
     },
     {
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
       "source": "Ars Technica",
-      "published": "Wed, 16 Sep 2026 22:02:46 +0000",
-      "time": 1789596166,
-      "snippet": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-      "title_zh": "据报道，苹果正在为人工智能打造配备 M 系列 Ultra 芯片的服务器"
+      "published": "Thu, 17 Sep 2026 22:12:58 +0000",
+      "time": 1789683178,
+      "snippet": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "title_zh": "小型人工智能模型让无人机自主识别和攻击战场目标"
+    },
+    {
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "source": "Ars Technica",
+      "published": "Thu, 17 Sep 2026 20:24:34 +0000",
+      "time": 1789676674,
+      "snippet": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "title_zh": "谷歌宣布推出新的实验性“CC”家庭人工智能代理"
+    },
+    {
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "source": "Ars Technica",
+      "published": "Thu, 17 Sep 2026 20:10:41 +0000",
+      "time": 1789675841,
+      "snippet": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "title_zh": "微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃”"
+    },
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica",
+      "published": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "time": 1789669993,
+      "snippet": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "title_zh": "使用人工智能水印时，法学硕士对有害提示的反应不同"
     },
     {
       "title": "Building the materials foundation for AI",
@@ -197,33 +224,6 @@
       "time": 1789494471,
       "snippet": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they ri",
       "title_zh": "圆桌会议：人工智能真的会杀死我们所有人吗？"
-    },
-    {
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 15 Sep 2026 10:00:00 +0000",
-      "time": 1789466400,
-      "snippet": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long ",
-      "title_zh": "人工智能的万亿美元赌博有何利害关系"
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 14 Sep 2026 17:54:22 +0000",
-      "time": 1789408462,
-      "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, po",
-      "title_zh": "人工智能行业已经发生了悲惨的转变。现在怎么办？"
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "source": "VentureBeat",
-      "published": "Thu, 27 Aug 2026 14:01:00 GMT",
-      "time": 1787839260,
-      "snippet": "Presented by Gravitee Read more",
-      "title_zh": "企业人工智能的真正风险不是自主代理。这就是他们之间的复杂性。"
     }
   ]
 }

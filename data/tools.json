@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-17T05:02:14+00:00",
+  "generated_at": "2026-09-18T04:54:49+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 2120,
-      "comments": 240,
+      "points": 2276,
+      "comments": 256,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
       "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
@@ -25,7 +25,7 @@
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "domain": "rivendell.dmitrybrant.com",
-      "points": 629,
+      "points": 630,
       "comments": 290,
       "author": "dmitrybrant",
       "time": "2026-09-10T01:58:00Z",
@@ -45,8 +45,8 @@
       "title": "Show HN: I made a flight simulator, except you're just a passenger",
       "url": "https://inflightsimulator.com",
       "domain": "inflightsimulator.com",
-      "points": 423,
-      "comments": 202,
+      "points": 438,
+      "comments": 205,
       "author": "rkotcher",
       "time": "2026-09-14T09:08:56Z",
       "title_zh": "Show HN：我做了一个飞行模拟器，只不过你只是一个乘客"
@@ -55,8 +55,8 @@
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "domain": "opentrailpaper.com",
-      "points": 423,
-      "comments": 133,
+      "points": 424,
+      "comments": 134,
       "author": "stingrae",
       "time": "2026-09-04T17:18:08Z",
       "title_zh": "Show HN：开源电子墨水自行车计算机"
@@ -75,8 +75,8 @@
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "url": "https://withcapsule.app/",
       "domain": "withcapsule.app",
-      "points": 367,
-      "comments": 156,
+      "points": 376,
+      "comments": 163,
       "author": "bashtian",
       "time": "2026-09-15T13:31:40Z",
       "title_zh": "Show HN：Capsule – 将数据保存到 SQLite 的单文件 Web 应用程序"
@@ -127,7 +127,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2300,
+      "points": 2301,
       "comments": 1603,
       "author": "moultano",
       "time": "2026-09-04T11:54:53Z",
@@ -144,6 +144,16 @@
       "title_zh": "GPT-6 阿斯特拉"
     },
     {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "domain": "github.com",
+      "points": 2276,
+      "comments": 256,
+      "author": "arnemunthekaas",
+      "time": "2026-09-15T12:31:10Z",
+      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
+    },
+    {
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "domain": "neil.fraser.name",
@@ -154,21 +164,11 @@
       "title_zh": ".name 终止"
     },
     {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
-      "domain": "github.com",
-      "points": 2120,
-      "comments": 240,
-      "author": "arnemunthekaas",
-      "time": "2026-09-15T12:31:10Z",
-      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
-    },
-    {
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "domain": "cims.nyu.edu",
-      "points": 2051,
-      "comments": 829,
+      "points": 2052,
+      "comments": 827,
       "author": "procedurecall",
       "time": "2026-09-08T05:42:28Z",
       "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
@@ -187,8 +187,8 @@
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "domain": "typesafe.ai",
-      "points": 1805,
-      "comments": 475,
+      "points": 1863,
+      "comments": 491,
       "author": "albelfio",
       "time": "2026-09-15T19:25:03Z",
       "title_zh": "系统一模型和 Jev 简介"
@@ -214,16 +214,6 @@
       "title_zh": "欧洲如何杀死创业者和微型企业家"
     },
     {
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "domain": "openlogi.org",
-      "points": 1635,
-      "comments": 430,
-      "author": "amatheus",
-      "time": "2026-08-19T01:58:28Z",
-      "title_zh": "开放逻辑"
-    },
-    {
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
       "domain": "theguardian.com",
@@ -242,6 +232,16 @@
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
+    },
+    {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "domain": "schlarp.com",
+      "points": 1453,
+      "comments": 351,
+      "author": "schlarpc",
+      "time": "2026-08-23T22:41:04Z",
+      "title_zh": "我拥有的一切，拥有的一切"
     }
   ]
 }
