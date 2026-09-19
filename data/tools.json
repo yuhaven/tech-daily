@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T04:54:49+00:00",
+  "generated_at": "2026-09-19T04:46:34+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 2276,
-      "comments": 256,
+      "points": 2322,
+      "comments": 255,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
       "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
@@ -45,7 +45,7 @@
       "title": "Show HN: I made a flight simulator, except you're just a passenger",
       "url": "https://inflightsimulator.com",
       "domain": "inflightsimulator.com",
-      "points": 438,
+      "points": 442,
       "comments": 205,
       "author": "rkotcher",
       "time": "2026-09-14T09:08:56Z",
@@ -75,8 +75,8 @@
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "url": "https://withcapsule.app/",
       "domain": "withcapsule.app",
-      "points": 376,
-      "comments": 163,
+      "points": 377,
+      "comments": 166,
       "author": "bashtian",
       "time": "2026-09-15T13:31:40Z",
       "title_zh": "Show HN：Capsule – 将数据保存到 SQLite 的单文件 Web 应用程序"
@@ -124,6 +124,16 @@
   ],
   "hot": [
     {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "domain": "github.com",
+      "points": 2322,
+      "comments": 255,
+      "author": "arnemunthekaas",
+      "time": "2026-09-15T12:31:10Z",
+      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
+    },
+    {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
@@ -138,20 +148,10 @@
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
       "points": 2279,
-      "comments": 2080,
+      "comments": 2081,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
-    },
-    {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
-      "domain": "github.com",
-      "points": 2276,
-      "comments": 256,
-      "author": "arnemunthekaas",
-      "time": "2026-09-15T12:31:10Z",
-      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
     },
     {
       "title": ".name Termination",
@@ -167,7 +167,7 @@
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "domain": "cims.nyu.edu",
-      "points": 2052,
+      "points": 2053,
       "comments": 827,
       "author": "procedurecall",
       "time": "2026-09-08T05:42:28Z",
@@ -187,8 +187,8 @@
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "domain": "typesafe.ai",
-      "points": 1863,
-      "comments": 491,
+      "points": 1893,
+      "comments": 496,
       "author": "albelfio",
       "time": "2026-09-15T19:25:03Z",
       "title_zh": "系统一模型和 Jev 简介"
