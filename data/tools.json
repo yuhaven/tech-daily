@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-19T04:46:34+00:00",
+  "generated_at": "2026-09-20T05:03:41+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 2322,
-      "comments": 255,
+      "points": 2356,
+      "comments": 259,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
       "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
@@ -32,20 +32,10 @@
       "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "domain": "simedw.com",
-      "points": 598,
-      "comments": 117,
-      "author": "simedw",
-      "time": "2026-08-20T12:04:38Z",
-      "title_zh": "Show HN：我训练了一个 125M 的模型来在设备上自动完成钢琴"
-    },
-    {
       "title": "Show HN: I made a flight simulator, except you're just a passenger",
       "url": "https://inflightsimulator.com",
       "domain": "inflightsimulator.com",
-      "points": 442,
+      "points": 444,
       "comments": 205,
       "author": "rkotcher",
       "time": "2026-09-14T09:08:56Z",
@@ -62,21 +52,11 @@
       "title_zh": "Show HN：开源电子墨水自行车计算机"
     },
     {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "domain": "danielvaughn.dev",
-      "points": 384,
-      "comments": 209,
-      "author": "danielvaughn",
-      "time": "2026-08-20T19:05:36Z",
-      "title_zh": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法"
-    },
-    {
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "url": "https://withcapsule.app/",
       "domain": "withcapsule.app",
-      "points": 377,
-      "comments": 166,
+      "points": 378,
+      "comments": 167,
       "author": "bashtian",
       "time": "2026-09-15T13:31:40Z",
       "title_zh": "Show HN：Capsule – 将数据保存到 SQLite 的单文件 Web 应用程序"
@@ -112,6 +92,16 @@
       "title_zh": "显示 HN：Copperhead – 电路板光标"
     },
     {
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "domain": "mysetup.ai",
+      "points": 241,
+      "comments": 138,
+      "author": "steveybrown",
+      "time": "2026-09-17T13:01:44Z",
+      "title_zh": "Show HN：分享您的 AI 设置，向他人学习"
+    },
+    {
       "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
       "url": "https://github.com/carloslfu/slotstream",
       "domain": "github.com",
@@ -120,6 +110,16 @@
       "author": "carloslfu",
       "time": "2026-09-01T16:42:46Z",
       "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
+    },
+    {
+      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "url": "https://ssx360.github.io/rack-02/?src=hn",
+      "domain": "ssx360.github.io",
+      "points": 240,
+      "comments": 48,
+      "author": "ssx360",
+      "time": "2026-08-24T13:17:11Z",
+      "title_zh": "Show HN：一个 HTML 文件中的技术机器，具有可验证的渲染"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 2322,
-      "comments": 255,
+      "points": 2356,
+      "comments": 259,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
       "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
@@ -167,7 +167,7 @@
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "domain": "cims.nyu.edu",
-      "points": 2053,
+      "points": 2054,
       "comments": 827,
       "author": "procedurecall",
       "time": "2026-09-08T05:42:28Z",
@@ -187,21 +187,11 @@
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "domain": "typesafe.ai",
-      "points": 1893,
-      "comments": 496,
+      "points": 1915,
+      "comments": 501,
       "author": "albelfio",
       "time": "2026-09-15T19:25:03Z",
       "title_zh": "系统一模型和 Jev 简介"
-    },
-    {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "domain": "blog.curiousquail.com",
-      "points": 1704,
-      "comments": 404,
-      "author": "speckx",
-      "time": "2026-08-20T20:07:26Z",
-      "title_zh": "亚伦·斯沃茨 (Aaron Swartz) 因抄袭而被起诉，而梅塔 (Meta) 却没有承担任何后果"
     },
     {
       "title": "How Europe is killing makers and micro-entrepreneurs",
@@ -232,6 +222,16 @@
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "domain": "john.hartnup.uk",
+      "points": 1466,
+      "comments": 804,
+      "author": "ereiamjh",
+      "time": "2026-09-19T09:20:58Z",
+      "title_zh": "人工智能生成的海报不一定很可怕"
     },
     {
       "title": "Everything I own, owned",
