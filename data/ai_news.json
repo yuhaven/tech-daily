@@ -1,148 +1,220 @@
 {
-  "generated_at": "2026-09-22T05:11:44+00:00",
+  "generated_at": "2026-09-23T04:54:59+00:00",
   "hn": [
     {
       "id": 49764791,
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1861,
-      "comments": 942,
+      "points": 1874,
+      "comments": 950,
       "author": "ereiamjh",
       "time": 1789809658,
       "title_zh": "人工智能生成的海报不一定很可怕"
+    },
+    {
+      "id": 49803892,
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "domain": "anthropic.com",
+      "points": 1350,
+      "comments": 868,
+      "author": "km144",
+      "time": 1790094545,
+      "title_zh": "近距离工作 5.5"
+    },
+    {
+      "id": 49805509,
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "domain": "openai.com",
+      "points": 1342,
+      "comments": 652,
+      "author": "OfficialTurkey",
+      "time": 1790100034,
+      "title_zh": "GPT-6 索尔和露娜"
     },
     {
       "id": 49747070,
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "domain": "sockpuppet.org",
-      "points": 744,
+      "points": 754,
       "comments": 410,
       "author": "joeriddles",
       "time": 1789681718,
       "title_zh": "法学硕士如何写作"
     },
     {
+      "id": 49801324,
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "domain": "cryptocellar.org",
+      "points": 608,
+      "comments": 373,
+      "author": "sohkamyung",
+      "time": 1790085135,
+      "title_zh": "OpenAI GPT-6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息"
+    },
+    {
       "id": 49792342,
       "title": "Transformers Explained Visually",
       "url": "https://poloclub.github.io/transformer-explainer/",
       "domain": "poloclub.github.io",
-      "points": 280,
-      "comments": 44,
+      "points": 603,
+      "comments": 87,
       "author": "aray07",
       "time": 1790019829,
       "title_zh": "变形金刚直观讲解"
     },
     {
-      "id": 49783101,
-      "title": "Heretic removes restrictions from language models",
-      "url": "https://heretic-project.org/",
-      "domain": "heretic-project.org",
-      "points": 246,
-      "comments": 102,
-      "author": "Bluestein",
-      "time": 1789965322,
-      "title_zh": "异端消除了语言模型的限制"
+      "id": 49806430,
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "domain": "bloomberg.com",
+      "points": 519,
+      "comments": 255,
+      "author": "devonnull",
+      "time": 1790103818,
+      "title_zh": "五角大楼称过度依赖人工智能导致导弹袭击伊朗学校"
     },
     {
-      "id": 49787535,
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "domain": "reddit.com",
-      "points": 218,
-      "comments": 107,
-      "author": "ano-ther",
-      "time": 1789999849,
-      "title_zh": "macOS 27 ：避免下载人工智能模型并节省存储空间的解决方案"
+      "id": 49797323,
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "domain": "nathan.rs",
+      "points": 387,
+      "comments": 150,
+      "author": "networked",
+      "time": 1790057319,
+      "title_zh": "gzip 可以作为语言模型吗？"
     },
     {
       "id": 49792067,
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
-      "points": 178,
-      "comments": 185,
+      "points": 311,
+      "comments": 386,
       "author": "julian_digital",
       "time": 1790018613,
       "title_zh": "人工智能编码使CI成为瓶颈，因此我们重新设计了CI以跟上"
     },
     {
-      "id": 49778162,
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "domain": "github.com",
-      "points": 170,
-      "comments": 48,
-      "author": "kp1197",
-      "time": 1789926687,
-      "title_zh": "我把杰夫变成了一个（糟糕的）聊天机器人"
+      "id": 49802161,
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "domain": "arcturus-labs.com",
+      "points": 275,
+      "comments": 199,
+      "author": "JohnBerryman",
+      "time": 1790088179,
+      "title_zh": "OpenAI 处于有利地位，可以快速追随 Jev"
     },
     {
-      "id": 49783062,
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "domain": "ft.com",
-      "points": 152,
-      "comments": 85,
-      "author": "1vuio0pswjnm7",
-      "time": 1789964924,
-      "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案"
+      "id": 49783101,
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "domain": "heretic-project.org",
+      "points": 267,
+      "comments": 109,
+      "author": "Bluestein",
+      "time": 1789965322,
+      "title_zh": "异端消除了语言模型的限制"
     },
     {
-      "id": 49791647,
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "domain": "timdettmers.com",
-      "points": 128,
-      "comments": 68,
-      "author": "pretext",
-      "time": 1790016781,
-      "title_zh": "您自己的硬件上的前沿人工智能"
-    },
-    {
-      "id": 49774795,
-      "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "domain": "i-kh.net",
-      "points": 119,
-      "comments": 167,
-      "author": "bucket2015",
-      "time": 1789904230,
-      "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量"
-    },
-    {
-      "id": 49791997,
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "domain": "terrytao.wordpress.com",
-      "points": 112,
-      "comments": 54,
-      "author": "digital55",
-      "time": 1790018262,
-      "title_zh": "数学和人工智能咨询小组"
-    },
-    {
-      "id": 49776523,
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
-      "domain": "tinybrains.dev",
-      "points": 105,
-      "comments": 38,
-      "author": "codetiger",
-      "time": 1789916350,
-      "title_zh": "Show HN：玩策略游戏的小型神经网络竞赛"
+      "id": 49804316,
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "domain": "artificialanalysis.ai",
+      "points": 260,
+      "comments": 77,
+      "author": "theanonymousone",
+      "time": 1790095891,
+      "title_zh": "Claude Opus 5.5 情报、性能和价格分析（最大值）"
     }
   ],
   "media": [
     {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
       "source": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
-      "time": 1790034268,
-      "snippet": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "title_zh": "建造苹果商店的人不会买硅谷在人工智能购物上的赌注"
+      "published": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "time": 1790119309,
+      "snippet": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that m",
+      "title_zh": "TechCrunch 创始人峰会议程揭晓：11 月 4 日在波士顿解锁筹款、招聘和人工智能见解"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "time": 1790114203,
+      "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "title_zh": "随着人工智能训练数据需求的激增，Snorkel AI 估值增加两倍至 $3.5B"
+    },
+    {
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "source": "Ars Technica",
+      "published": "Tue, 22 Sep 2026 21:25:18 +0000",
+      "time": 1790112318,
+      "snippet": "The frontier AI model race has entered its comparison shopping phase.",
+      "title_zh": "新的 Anthropic、OpenAI 模型做出了同样的承诺：用更少的钱获得更多的东西"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "time": 1790107200,
+      "snippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "title_zh": "高通推出两款新智能手机芯片 重点关注人工智能"
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica",
+      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
+      "time": 1790106347,
+      "snippet": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "title_zh": "微软破坏了人工智能辅助平台，导致 12,000 个账户被盗"
+    },
+    {
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "source": "Ars Technica",
+      "published": "Tue, 22 Sep 2026 19:28:23 +0000",
+      "time": 1790105303,
+      "snippet": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
+      "title_zh": "ChatGPT 用于枪击事件后，诉讼要求 OpenAI 支付新学校费用"
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "source": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "time": 1790104151,
+      "snippet": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "title_zh": "Meta 承认 Muse 与 OpenClaw 的相似并非巧合"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 22 Sep 2026 13:42:05 +0000",
+      "time": 1790084525,
+      "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cr",
+      "title_zh": "圆桌会议：虚拟边界墙的致命失败"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "time": 1790075091,
+      "snippet": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security expert",
+      "title_zh": "不要被今年夏天的人工智能炒作所愚弄"
     },
     {
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
@@ -152,78 +224,6 @@
       "time": 1790029478,
       "snippet": "A simple ClickFix attack is only one way to completely hijack the new agent.",
       "title_zh": "Muse ， Meta的超级特权AI助手，有一个严肃的0天"
-    },
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 20:15:58 +0000",
-      "time": 1790021758,
-      "snippet": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "title_zh": "OpenAI成立数学咨询小组，其AI解决了100多个未解决的问题"
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 19:25:00 +0000",
-      "time": 1790018700,
-      "snippet": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, Octo",
-      "title_zh": "探索下一步：还有5天时间， TechCrunch Disrupt 2026门票最高可节省200 $"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "time": 1790018361,
-      "snippet": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new e",
-      "title_zh": "Meta的Muse正在超越ChatGPT的早期移动发布"
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "source": "Ars Technica",
-      "published": "Mon, 21 Sep 2026 16:57:26 +0000",
-      "time": 1790009846,
-      "snippet": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "title_zh": "谷歌确认双子座模型在2026年5月入侵了三家公司"
-    },
-    {
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-      "source": "Ars Technica",
-      "published": "Mon, 21 Sep 2026 15:37:56 +0000",
-      "time": 1790005076,
-      "snippet": "The president offered few details on what his proposed new AI Force would do.",
-      "title_zh": "特朗普拒绝人工智能减速电话，改为推出“人工智能力量”"
-    },
-    {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "time": 1789992000,
-      "snippet": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant",
-      "title_zh": "我们如何绘制美国边境“虚拟隔离墙”沿线的第一张综合死亡地图"
-    },
-    {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "time": 1789992000,
-      "snippet": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the",
-      "title_zh": "解决我们在美国边境“虚拟墙”上发现的故障的4种方法"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "time": 1789992000,
-      "snippet": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and ",
-      "title_zh": "美国在边境监控上花费了数十亿美元。为什么它在死前抓不住人？"
     }
   ]
 }

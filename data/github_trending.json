@@ -1,114 +1,78 @@
 {
-  "generated_at": "2026-09-22T05:11:03+00:00",
+  "generated_at": "2026-09-23T04:54:55+00:00",
   "data": {
     "daily": [
-      {
-        "full_name": "BuilderIO/agent-native",
-        "url": "/BuilderIO/agent-native",
-        "description": "A framework for building agentic apps",
-        "language": "TypeScript",
-        "stars_today": 607,
-        "stars_total": 6055,
-        "description_zh": "用于构建代理应用程序的框架"
-      },
-      {
-        "full_name": "trycua/cua",
-        "url": "/trycua/cua",
-        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "language": "HTML",
-        "stars_today": 609,
-        "stars_total": 25790,
-        "description_zh": "通过开源驱动程序、跨操作系统队列以及培训、评估和数据生成基准来扩展计算机使用 2.0。"
-      },
-      {
-        "full_name": "Open-Dev-Society/OpenStock",
-        "url": "/Open-Dev-Society/OpenStock",
-        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "language": "TypeScript",
-        "stars_today": 844,
-        "stars_total": 17953,
-        "description_zh": "OpenStock 是昂贵市场平台的开源替代品。跟踪实时价格、设置个性化提醒并探索详细的公司见解 - 为所有人公开构建，并且永远免费。"
-      },
-      {
-        "full_name": "akitaonrails/ai-memory",
-        "url": "/akitaonrails/ai-memory",
-        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "language": "Rust",
-        "stars_today": 167,
-        "stars_total": 7806,
-        "description_zh": "针对座席编码CLI的长期记忆解决方案，以及促进不同座席供应商之间切换的解决方案"
-      },
-      {
-        "full_name": "coder/coder",
-        "url": "/coder/coder",
-        "description": "Secure environments for developers and their agents",
-        "language": "Go",
-        "stars_today": 460,
-        "stars_total": 16489,
-        "description_zh": "为开发人员及其代理提供安全的环境"
-      },
       {
         "full_name": "anthropics/financial-services",
         "url": "/anthropics/financial-services",
         "description": "",
         "language": "Python",
-        "stars_today": 424,
-        "stars_total": 35913,
+        "stars_today": 438,
+        "stars_total": 36484,
         "description_zh": null
       },
       {
-        "full_name": "cloudflare/quiche",
-        "url": "/cloudflare/quiche",
-        "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-        "language": "Rust",
-        "stars_today": 32,
-        "stars_total": 12403,
-        "description_zh": "🥧 QUIC传输协议和HTTP/3的有效实施"
+        "full_name": "agent-substrate/substrate",
+        "url": "/agent-substrate/substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "stars_today": 245,
+        "stars_total": 3071,
+        "description_zh": "Agent Substrate：核心系统"
+      },
+      {
+        "full_name": "dream-num/univer",
+        "url": "/dream-num/univer",
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "language": "TypeScript",
+        "stars_today": 255,
+        "stars_total": 15697,
+        "description_zh": "AI 代理的 Office 工具 — 在一个运行时中处理电子表格、文档、幻灯片、画布、关系表和 PDF。"
+      },
+      {
+        "full_name": "davila7/claude-code-templates",
+        "url": "/davila7/claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "stars_today": 64,
+        "stars_total": 31195,
+        "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
+      },
+      {
+        "full_name": "google/ax",
+        "url": "/google/ax",
+        "description": "Google's open agentic orchestration runtime",
+        "language": "Go",
+        "stars_today": 2305,
+        "stars_total": 7885,
+        "description_zh": "Google 的开放代理编排运行时"
       },
       {
         "full_name": "mvt-project/mvt",
         "url": "/mvt-project/mvt",
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "language": "Python",
-        "stars_today": 169,
-        "stars_total": 13679,
+        "stars_today": 441,
+        "stars_total": 14202,
         "description_zh": "MVT （移动验证工具包）有助于对移动设备进行取证，以发现潜在泄露的迹象。"
       },
       {
-        "full_name": "zhouxiaoka/autoclip",
-        "url": "/zhouxiaoka/autoclip",
-        "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+        "full_name": "superdesigndev/treg",
+        "url": "/superdesigndev/treg",
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
         "language": "Python",
-        "stars_today": 250,
-        "stars_total": 8403,
-        "description_zh": "AutoClip ：人工智能视频剪辑和高光生成· 一款智能高光提取与剪辑的二创工具"
+        "stars_today": 230,
+        "stars_total": 2311,
+        "description_zh": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
       },
       {
-        "full_name": "ruanyf/weekly",
-        "url": "/ruanyf/weekly",
-        "description": "科技爱好者周刊，每周五发布",
-        "language": null,
-        "stars_today": 182,
-        "stars_total": 104159,
-        "description_zh": "科技爱好者周刊，每周五发布"
-      },
-      {
-        "full_name": "Crosstalk-Solutions/project-nomad",
-        "url": "/Crosstalk-Solutions/project-nomad",
-        "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-        "language": "TypeScript",
-        "stars_today": 394,
-        "stars_total": 37955,
-        "description_zh": "Project NOMAD是一个离线优先的知识和教育服务器。维基百科、成千上万的书籍、课程、地图和可选的本地人工智能，所有这些都运行在您拥有的硬件上，无需互联网。"
-      },
-      {
-        "full_name": "yynxxxxx/Codex-X",
-        "url": "/yynxxxxx/Codex-X",
-        "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-        "language": "Rust",
-        "stars_today": 50,
-        "stars_total": 3747,
-        "description_zh": "OpenAI Codex桌面端/的可视化管理工具CLI ，具有 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+        "full_name": "browser-use/video-use",
+        "url": "/browser-use/video-use",
+        "description": "Edit videos with coding agents",
+        "language": "Python",
+        "stars_today": 191,
+        "stars_total": 25997,
+        "description_zh": "使用编码代理编辑视频"
       }
     ],
     "weekly": [
@@ -117,8 +81,8 @@
         "url": "/alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
-        "stars_today": 14499,
-        "stars_total": 39335,
+        "stars_today": 12590,
+        "stars_total": 39835,
         "description_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
       },
       {
@@ -126,26 +90,17 @@
         "url": "/anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "TypeScript",
-        "stars_today": 2731,
-        "stars_total": 147501,
+        "stars_today": 2754,
+        "stars_total": 147684,
         "description_zh": "Claude Code 是一种代理编码工具，它位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理 git 工作流程来帮助您更快地编码 - 所有这些都通过自然语言命令进行。"
-      },
-      {
-        "full_name": "JustVugg/colibri",
-        "url": "/JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "language": "C",
-        "stars_today": 5565,
-        "stars_total": 36916,
-        "description_zh": "在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。 🐦"
       },
       {
         "full_name": "Tencent/WeKnora",
         "url": "/Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "language": "Go",
-        "stars_today": 5455,
-        "stars_total": 28613,
+        "stars_today": 5303,
+        "stars_total": 29059,
         "description_zh": "开源LLM知识平台：将原始文档变成可查询的RAG、自主推理代理和自我维护的Wiki。"
       },
       {
@@ -153,8 +108,8 @@
         "url": "/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "stars_today": 6865,
-        "stars_total": 264843,
+        "stars_today": 6904,
+        "stars_total": 265563,
         "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
       },
       {
@@ -162,8 +117,8 @@
         "url": "/anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "language": "Python",
-        "stars_today": 1350,
-        "stars_total": 25371,
+        "stars_today": 1403,
+        "stars_total": 25451,
         "description_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
       },
       {
@@ -171,54 +126,63 @@
         "url": "/addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "JavaScript",
-        "stars_today": 4197,
-        "stars_total": 98202,
+        "stars_today": 4224,
+        "stars_total": 98504,
         "description_zh": "AI 编码代理的生产级工程技能。"
+      },
+      {
+        "full_name": "JustVugg/colibri",
+        "url": "/JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "language": "C",
+        "stars_today": 4036,
+        "stars_total": 37178,
+        "description_zh": "在您已经拥有的硬件上运行前沿MoE模型—纯C ，零DEPS ，从磁盘流式传输的专家。微型引擎，超大型号。 🐦"
+      },
+      {
+        "full_name": "TencentCloud/Octop",
+        "url": "/TencentCloud/Octop",
+        "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "language": "Python",
+        "stars_today": 2148,
+        "stars_total": 4669,
+        "description_zh": "更智能、自托管的人工智能助手——多用户、多代理。"
+      },
+      {
+        "full_name": "anthropics/financial-services",
+        "url": "/anthropics/financial-services",
+        "description": "",
+        "language": "Python",
+        "stars_today": 1238,
+        "stars_total": 36484,
+        "description_zh": null
       },
       {
         "full_name": "stablyai/orca",
         "url": "/stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "language": "TypeScript",
-        "stars_today": 6125,
-        "stars_total": 74872,
+        "stars_today": 6205,
+        "stars_total": 75828,
         "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和远程运行时使用。"
-      },
-      {
-        "full_name": "mksglu/context-mode",
-        "url": "/mksglu/context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars_today": 1089,
-        "stars_total": 23898,
-        "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
-      },
-      {
-        "full_name": "home-assistant/core",
-        "url": "/home-assistant/core",
-        "description": "🏡 Open source home automation that puts local control and privacy first.",
-        "language": "Python",
-        "stars_today": 526,
-        "stars_total": 90991,
-        "description_zh": "🏡 开源家庭自动化，将本地控制和隐私放在首位。"
       },
       {
         "full_name": "danny-avila/LibreChat",
         "url": "/danny-avila/LibreChat",
         "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
         "language": "TypeScript",
-        "stars_today": 1401,
-        "stars_total": 44598,
+        "stars_today": 1262,
+        "stars_total": 44713,
         "description_zh": "增强的ChatGPT克隆：功能Agent、MCP、Skills、DeepSeek、Anthropic、AWS、OpenAI、Responses API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini、Artifacts、AI模型切换、消息搜索、Code Interpreter、langchain、DALL-E-3、OpenAPI Actions、Functions、Secure Multi-User Auth、Presets、开源自托管。Active"
       },
       {
-        "full_name": "bilawalsidhu/gods-eye-view",
-        "url": "/bilawalsidhu/gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars_today": 7318,
-        "stars_total": 40757,
-        "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
+        "full_name": "home-assistant/core",
+        "url": "/home-assistant/core",
+        "description": "🏡 Open source home automation that puts local control and privacy first.",
+        "language": "Python",
+        "stars_today": 538,
+        "stars_total": 91083,
+        "description_zh": "🏡 开源家庭自动化，将本地控制和隐私放在首位。"
       }
     ],
     "monthly": [
@@ -227,62 +191,35 @@
         "url": "/tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "language": "JavaScript",
-        "stars_today": 54494,
-        "stars_total": 69273,
+        "stars_today": 55243,
+        "stars_total": 70079,
         "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
-      },
-      {
-        "full_name": "FlashML-org/FreeToken",
-        "url": "/FlashML-org/FreeToken",
-        "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-        "language": "Python",
-        "stars_today": 13373,
-        "stars_total": 13496,
-        "description_zh": "FreeToken将数据中心规模的模型提供给您的桌面。在本地快速高效地运行大规模模型。"
       },
       {
         "full_name": "THU-MAIC/OpenMAIC",
         "url": "/THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "language": "TypeScript",
-        "stars_today": 17721,
-        "stars_total": 38473,
+        "stars_today": 17895,
+        "stars_total": 38658,
         "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
-      },
-      {
-        "full_name": "anthropics/claude-plugins-community",
-        "url": "/anthropics/claude-plugins-community",
-        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-        "language": "Python",
-        "stars_today": 4049,
-        "stars_total": 4358,
-        "description_zh": "Claude Cowork和Claude Code的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。"
       },
       {
         "full_name": "cloudflare/security-audit-skill",
         "url": "/cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "language": "JavaScript",
-        "stars_today": 15924,
-        "stars_total": 19185,
+        "stars_today": 17090,
+        "stars_total": 20298,
         "description_zh": "用于多阶段安全审计的编码代理技能，具有独立验证的机器可读结果"
-      },
-      {
-        "full_name": "freestylefly/awesome-gpt-image-2",
-        "url": "/freestylefly/awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-        "language": "JavaScript",
-        "stars_today": 22108,
-        "stars_total": 33187,
-        "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
       },
       {
         "full_name": "cursor/plugins",
         "url": "/cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
-        "stars_today": 4224,
-        "stars_total": 8330,
+        "stars_today": 4038,
+        "stars_total": 8426,
         "description_zh": "光标插件规范和官方插件"
       },
       {
@@ -290,45 +227,72 @@
         "url": "/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_today": 22973,
-        "stars_total": 33975,
+        "stars_today": 23275,
+        "stars_total": 34533,
         "description_zh": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。"
-      },
-      {
-        "full_name": "omacom/omarchy",
-        "url": "/omacom/omarchy",
-        "description": "Beautiful, Modern & Opinionated Linux",
-        "language": "Shell",
-        "stars_today": 15721,
-        "stars_total": 42562,
-        "description_zh": "美丽、现代、有主见的 Linux"
-      },
-      {
-        "full_name": "ayghri/i-have-adhd",
-        "url": "/ayghri/i-have-adhd",
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "language": "Python",
-        "stars_today": 27004,
-        "stars_total": 49915,
-        "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
       },
       {
         "full_name": "alibaba/open-code-review",
         "url": "/alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
-        "stars_today": 18217,
-        "stars_total": 39335,
+        "stars_today": 18836,
+        "stars_total": 39835,
         "description_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
+      },
+      {
+        "full_name": "ayghri/i-have-adhd",
+        "url": "/ayghri/i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "stars_today": 27313,
+        "stars_total": 50390,
+        "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
+      },
+      {
+        "full_name": "anthropics/claude-plugins-community",
+        "url": "/anthropics/claude-plugins-community",
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "stars_today": 3918,
+        "stars_total": 4393,
+        "description_zh": "Claude Cowork和Claude Code的社区插件市场。只读镜像—在clau.de/plugin-directory-submission上提交插件。"
+      },
+      {
+        "full_name": "FlashML-org/FreeToken",
+        "url": "/FlashML-org/FreeToken",
+        "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "language": "Python",
+        "stars_today": 12528,
+        "stars_total": 13640,
+        "description_zh": "FreeToken将数据中心规模的模型提供给您的桌面。在本地快速高效地运行大规模模型。"
+      },
+      {
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "url": "/freestylefly/awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+        "language": "JavaScript",
+        "stars_today": 21688,
+        "stars_total": 33307,
+        "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
       },
       {
         "full_name": "magnitudedev/magnitude",
         "url": "/magnitudedev/magnitude",
         "description": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
         "language": "TypeScript",
-        "stars_today": 3303,
-        "stars_total": 4778,
+        "stars_today": 3360,
+        "stars_total": 4871,
         "description_zh": "针对消费硬件优化的开源推理引擎。分析您的机器，为其推荐最佳型号，然后下载、调整和运行它们。适用于Apple Silicon、NVIDIA、AMD或CPU。"
+      },
+      {
+        "full_name": "omacom/omarchy",
+        "url": "/omacom/omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars_today": 15075,
+        "stars_total": 42734,
+        "description_zh": "美丽、现代、有主见的 Linux"
       }
     ]
   }

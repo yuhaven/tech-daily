@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T05:11:46+00:00",
+  "generated_at": "2026-09-23T04:55:01+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 2389,
+      "points": 2390,
       "comments": 267,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
@@ -25,7 +25,7 @@
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "domain": "rivendell.dmitrybrant.com",
-      "points": 631,
+      "points": 632,
       "comments": 290,
       "author": "dmitrybrant",
       "time": "2026-09-10T01:58:00Z",
@@ -55,7 +55,7 @@
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "url": "https://withcapsule.app/",
       "domain": "withcapsule.app",
-      "points": 379,
+      "points": 380,
       "comments": 167,
       "author": "bashtian",
       "time": "2026-09-15T13:31:40Z",
@@ -75,8 +75,8 @@
       "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
       "url": "https://github.com/volotat/mini-AGI/",
       "domain": "github.com",
-      "points": 257,
-      "comments": 57,
+      "points": 274,
+      "comments": 73,
       "author": "volotat",
       "time": "2026-09-21T04:42:37Z",
       "title_zh": "Show HN ： Mini-AGI -在8GB VRAM上训练的动态持续学习模型"
@@ -92,6 +92,16 @@
       "title_zh": "Show HN：激光涂鸦"
     },
     {
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "domain": "mysetup.ai",
+      "points": 250,
+      "comments": 139,
+      "author": "steveybrown",
+      "time": "2026-09-17T13:01:44Z",
+      "title_zh": "Show HN：分享您的 AI 设置，向他人学习"
+    },
+    {
       "title": "Show HN: Copperhead – Cursor for circuit boards",
       "url": "https://copperhead.sh/",
       "domain": "copperhead.sh",
@@ -100,16 +110,6 @@
       "author": "animeshchouhan",
       "time": "2026-09-08T13:26:45Z",
       "title_zh": "显示 HN：Copperhead – 电路板光标"
-    },
-    {
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "domain": "mysetup.ai",
-      "points": 249,
-      "comments": 138,
-      "author": "steveybrown",
-      "time": "2026-09-17T13:01:44Z",
-      "title_zh": "Show HN：分享您的 AI 设置，向他人学习"
     },
     {
       "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
@@ -127,7 +127,7 @@
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 2389,
+      "points": 2390,
       "comments": 267,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
@@ -148,7 +148,7 @@
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
       "points": 2279,
-      "comments": 2081,
+      "comments": 2082,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -187,7 +187,7 @@
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "domain": "typesafe.ai",
-      "points": 1947,
+      "points": 1970,
       "comments": 511,
       "author": "albelfio",
       "time": "2026-09-15T19:25:03Z",
@@ -197,8 +197,8 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1861,
-      "comments": 942,
+      "points": 1874,
+      "comments": 950,
       "author": "ereiamjh",
       "time": "2026-09-19T09:20:58Z",
       "title_zh": "人工智能生成的海报不一定很可怕"
@@ -227,21 +227,21 @@
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
       "domain": "apple.com",
-      "points": 1484,
-      "comments": 2543,
+      "points": 1485,
+      "comments": 2544,
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
     },
     {
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "domain": "schlarp.com",
-      "points": 1453,
-      "comments": 351,
-      "author": "schlarpc",
-      "time": "2026-08-23T22:41:04Z",
-      "title_zh": "我拥有的一切，拥有的一切"
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "domain": "anthropic.com",
+      "points": 1419,
+      "comments": 1395,
+      "author": "denysvitali",
+      "time": "2026-09-01T17:53:53Z",
+      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
     }
   ]
 }
