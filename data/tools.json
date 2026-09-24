@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:55:01+00:00",
+  "generated_at": "2026-09-24T05:05:09+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -25,7 +25,7 @@
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "domain": "rivendell.dmitrybrant.com",
-      "points": 632,
+      "points": 633,
       "comments": 290,
       "author": "dmitrybrant",
       "time": "2026-09-10T01:58:00Z",
@@ -75,8 +75,8 @@
       "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
       "url": "https://github.com/volotat/mini-AGI/",
       "domain": "github.com",
-      "points": 274,
-      "comments": 73,
+      "points": 276,
+      "comments": 76,
       "author": "volotat",
       "time": "2026-09-21T04:42:37Z",
       "title_zh": "Show HN ： Mini-AGI -在8GB VRAM上训练的动态持续学习模型"
@@ -148,7 +148,7 @@
       "url": "https://openai.com/index/gpt-6-astra/",
       "domain": "openai.com",
       "points": 2279,
-      "comments": 2082,
+      "comments": 2081,
       "author": "kibae",
       "time": "2026-09-03T18:41:05Z",
       "title_zh": "GPT-6 阿斯特拉"
@@ -187,8 +187,8 @@
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "domain": "typesafe.ai",
-      "points": 1970,
-      "comments": 511,
+      "points": 1977,
+      "comments": 513,
       "author": "albelfio",
       "time": "2026-09-15T19:25:03Z",
       "title_zh": "系统一模型和 Jev 简介"
@@ -197,21 +197,31 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1874,
-      "comments": 950,
+      "points": 1884,
+      "comments": 955,
       "author": "ereiamjh",
       "time": "2026-09-19T09:20:58Z",
       "title_zh": "人工智能生成的海报不一定很可怕"
     },
     {
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "domain": "lectronz.com",
-      "points": 1647,
-      "comments": 1033,
-      "author": "l-one-lone",
-      "time": "2026-08-24T13:05:25Z",
-      "title_zh": "欧洲如何杀死创业者和微型企业家"
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "domain": "anthropic.com",
+      "points": 1772,
+      "comments": 1100,
+      "author": "km144",
+      "time": "2026-09-22T16:29:05Z",
+      "title_zh": "近距离工作 5.5"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "domain": "openai.com",
+      "points": 1741,
+      "comments": 827,
+      "author": "OfficialTurkey",
+      "time": "2026-09-22T18:00:34Z",
+      "title_zh": "GPT-6 索尔和露娜"
     },
     {
       "title": "Dolly Parton has died",
@@ -228,20 +238,10 @@
       "url": "https://www.apple.com/iphone-duo/",
       "domain": "apple.com",
       "points": 1485,
-      "comments": 2544,
+      "comments": 2545,
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
-    },
-    {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "domain": "anthropic.com",
-      "points": 1419,
-      "comments": 1395,
-      "author": "denysvitali",
-      "time": "2026-09-01T17:53:53Z",
-      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
     }
   ]
 }
