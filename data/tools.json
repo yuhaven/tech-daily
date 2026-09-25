@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:05:09+00:00",
+  "generated_at": "2026-09-25T05:07:42+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -30,6 +30,16 @@
       "author": "dmitrybrant",
       "time": "2026-09-10T01:58:00Z",
       "title_zh": "Show HN：如果光速是 5 公里/小时会怎样？"
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "domain": "bastardica.mitpit.com",
+      "points": 553,
+      "comments": 79,
+      "author": "MitPitt",
+      "time": "2026-09-23T22:53:28Z",
+      "title_zh": "Show HN：制作类似 Times New Bastard 的诅咒字体"
     },
     {
       "title": "Show HN: I made a flight simulator, except you're just a passenger",
@@ -95,7 +105,7 @@
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
-      "points": 250,
+      "points": 251,
       "comments": 139,
       "author": "steveybrown",
       "time": "2026-09-17T13:01:44Z",
@@ -110,16 +120,6 @@
       "author": "animeshchouhan",
       "time": "2026-09-08T13:26:45Z",
       "title_zh": "显示 HN：Copperhead – 电路板光标"
-    },
-    {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "domain": "github.com",
-      "points": 240,
-      "comments": 118,
-      "author": "carloslfu",
-      "time": "2026-09-01T16:42:46Z",
-      "title_zh": "Show HN：在 48GB Mac 上运行 104GB Qwen3.8-Flash-Next，速度约为 12 tok/s"
     }
   ],
   "hot": [
@@ -187,7 +187,7 @@
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "domain": "typesafe.ai",
-      "points": 1977,
+      "points": 1979,
       "comments": 513,
       "author": "albelfio",
       "time": "2026-09-15T19:25:03Z",
@@ -197,7 +197,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1884,
+      "points": 1887,
       "comments": 955,
       "author": "ereiamjh",
       "time": "2026-09-19T09:20:58Z",
@@ -207,8 +207,8 @@
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "domain": "anthropic.com",
-      "points": 1772,
-      "comments": 1100,
+      "points": 1792,
+      "comments": 1117,
       "author": "km144",
       "time": "2026-09-22T16:29:05Z",
       "title_zh": "近距离工作 5.5"
@@ -217,21 +217,11 @@
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "domain": "openai.com",
-      "points": 1741,
-      "comments": 827,
+      "points": 1763,
+      "comments": 843,
       "author": "OfficialTurkey",
       "time": "2026-09-22T18:00:34Z",
       "title_zh": "GPT-6 索尔和露娜"
-    },
-    {
-      "title": "Dolly Parton has died",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "domain": "theguardian.com",
-      "points": 1602,
-      "comments": 249,
-      "author": "helsinkiandrew",
-      "time": "2026-08-25T18:02:22Z",
-      "title_zh": "多莉·帕顿去世"
     },
     {
       "title": "iPhone Duo",
@@ -242,6 +232,16 @@
       "author": "thecosmicfrog",
       "time": "2026-09-09T18:15:43Z",
       "title_zh": "iPhone Duo"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "domain": "anthropic.com",
+      "points": 1419,
+      "comments": 1395,
+      "author": "denysvitali",
+      "time": "2026-09-01T17:53:53Z",
+      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
     }
   ]
 }

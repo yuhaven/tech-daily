@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T05:05:08+00:00",
+  "generated_at": "2026-09-25T05:07:40+00:00",
   "hn": [
     {
       "id": 49803892,
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "domain": "anthropic.com",
-      "points": 1772,
-      "comments": 1100,
+      "points": 1792,
+      "comments": 1117,
       "author": "km144",
       "time": 1790094545,
       "title_zh": "近距离工作 5.5"
@@ -17,8 +17,8 @@
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "domain": "openai.com",
-      "points": 1741,
-      "comments": 827,
+      "points": 1763,
+      "comments": 843,
       "author": "OfficialTurkey",
       "time": 1790100034,
       "title_zh": "GPT-6 索尔和露娜"
@@ -28,148 +28,166 @@
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "domain": "bloomberg.com",
-      "points": 901,
-      "comments": 507,
+      "points": 950,
+      "comments": 539,
       "author": "devonnull",
       "time": 1790103818,
       "title_zh": "五角大楼称过度依赖人工智能导致导弹袭击伊朗学校"
-    },
-    {
-      "id": 49801324,
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "domain": "cryptocellar.org",
-      "points": 726,
-      "comments": 437,
-      "author": "sohkamyung",
-      "time": 1790085135,
-      "title_zh": "OpenAI GPT-6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息"
-    },
-    {
-      "id": 49792342,
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "domain": "poloclub.github.io",
-      "points": 639,
-      "comments": 88,
-      "author": "aray07",
-      "time": 1790019829,
-      "title_zh": "变形金刚直观讲解"
     },
     {
       "id": 49820134,
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "domain": "anthropic.com",
-      "points": 568,
-      "comments": 588,
+      "points": 761,
+      "comments": 783,
       "author": "raahelb",
       "time": 1790186807,
       "title_zh": "克劳德发现了一种具有类似 CRISPR 重复序列的新型酶系统"
+    },
+    {
+      "id": 49801324,
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "domain": "cryptocellar.org",
+      "points": 733,
+      "comments": 442,
+      "author": "sohkamyung",
+      "time": 1790085135,
+      "title_zh": "OpenAI GPT-6 Astra 打破了自 2005 年以来一直抵制解决方案的 Enigma 消息"
     },
     {
       "id": 49814947,
       "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
       "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "domain": "blog.szypowi.cz",
-      "points": 462,
-      "comments": 262,
+      "points": 480,
+      "comments": 282,
       "author": "pszypowicz",
       "time": 1790165733,
       "title_zh": "仅当遥测开启时，Claude Code 才会读取 AGENTS.md [已修复]"
     },
     {
-      "id": 49797323,
-      "title": "Can gzip be a language model?",
-      "url": "https://nathan.rs/posts/gzip-lm/",
-      "domain": "nathan.rs",
-      "points": 398,
-      "comments": 161,
-      "author": "networked",
-      "time": 1790057319,
-      "title_zh": "gzip 可以作为语言模型吗？"
+      "id": 49824686,
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "domain": "kenklippenstein.com",
+      "points": 375,
+      "comments": 418,
+      "author": "nmeagent",
+      "time": 1790210491,
+      "title_zh": "美联储将人工智能批评者视为“外国代理人”"
     },
     {
-      "id": 49804316,
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "domain": "artificialanalysis.ai",
+      "id": 49832938,
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "domain": "dynomight.substack.com",
       "points": 329,
-      "comments": 103,
-      "author": "theanonymousone",
-      "time": 1790095891,
-      "title_zh": "Claude Opus 5.5 情报、性能和价格分析（最大值）"
-    },
-    {
-      "id": 49802161,
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "domain": "arcturus-labs.com",
-      "points": 318,
-      "comments": 221,
-      "author": "JohnBerryman",
-      "time": 1790088179,
-      "title_zh": "OpenAI 处于有利地位，可以快速追随 Jev"
-    },
-    {
-      "id": 49817404,
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "url": "https://drivingbench.com/",
-      "domain": "drivingbench.com",
-      "points": 281,
-      "comments": 225,
-      "author": "plurby",
-      "time": 1790176462,
-      "title_zh": "GPT-6 Astra 获得了驾驶汽车的能力"
+      "comments": 172,
+      "author": "jbotz",
+      "time": 1790266980,
+      "title_zh": "为什么肝脏的再生能力如此奇怪？"
     },
     {
       "id": 49817615,
       "title": "Gemini 3.8 text-to-speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
       "domain": "blog.google",
-      "points": 277,
-      "comments": 127,
+      "points": 328,
+      "comments": 147,
       "author": "swolpers",
       "time": 1790177363,
       "title_zh": "Gemini 3.8 文字转语音"
+    },
+    {
+      "id": 49817404,
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "domain": "drivingbench.com",
+      "points": 307,
+      "comments": 244,
+      "author": "plurby",
+      "time": 1790176462,
+      "title_zh": "GPT-6 Astra 获得了驾驶汽车的能力"
+    },
+    {
+      "id": 49822555,
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "domain": "fly.io",
+      "points": 302,
+      "comments": 210,
+      "author": "Rapzid",
+      "time": 1790197308,
+      "title_zh": "VSCode 的 SSH 代理是 Bananas (2025)"
+    },
+    {
+      "id": 49826565,
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "domain": "transluce.org",
+      "points": 254,
+      "comments": 255,
+      "author": "snikolaev",
+      "time": 1790227270,
+      "title_zh": "urlquery.net 上发现早期流氓 AI 代理活动和黑客尝试"
     }
   ],
   "media": [
     {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
       "source": "TechCrunch",
-      "published": "Thu, 24 Sep 2026 01:13:32 +0000",
-      "time": 1790212412,
-      "snippet": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even comin",
-      "title_zh": "Meta 的 AI 代理 Muse 带来了一切新功能"
+      "published": "Thu, 24 Sep 2026 19:15:00 +0000",
+      "time": 1790277300,
+      "snippet": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "title_zh": "带上您的联合创始人、合作伙伴或同事，即可获得第二次 TechCrunch Disrupt 2026 通行证 50% 的折扣"
     },
     {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
       "source": "TechCrunch",
-      "published": "Thu, 24 Sep 2026 00:46:17 +0000",
-      "time": 1790210777,
-      "snippet": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "title_zh": "Meta 为其 Muse AI 代理制作了一款类似电子宠物的可穿戴设备"
+      "published": "Thu, 24 Sep 2026 19:00:42 +0000",
+      "time": 1790276442,
+      "snippet": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "title_zh": "PrismML 将其小型法学硕士引入高通支持的智能眼镜"
     },
     {
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
       "source": "TechCrunch",
-      "published": "Wed, 23 Sep 2026 23:39:44 +0000",
-      "time": 1790206784,
-      "snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "title_zh": "Meta推出无摄像头AI眼镜"
+      "published": "Thu, 24 Sep 2026 18:11:44 +0000",
+      "time": 1790273504,
+      "snippet": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "title_zh": "甲骨文就其新墨西哥州 Stargate 数据中心发出不可抗力通知"
     },
     {
-      "title": "Anthropic says its biology lab has already found something big",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "source": "TechCrunch",
-      "published": "Wed, 23 Sep 2026 22:17:39 +0000",
-      "time": 1790201859,
-      "snippet": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "title_zh": "Anthropic 表示其生物实验室已经发现了重大发现"
+      "published": "Thu, 24 Sep 2026 17:39:24 +0000",
+      "time": 1790271564,
+      "snippet": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion a",
+      "title_zh": "Meta 的 Muse Charm 看起来像电子宠物，但它正在迎合一种更新的趋势"
+    },
+    {
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "source": "Ars Technica",
+      "published": "Thu, 24 Sep 2026 16:01:16 +0000",
+      "time": 1790265676,
+      "snippet": "\"There will obviously be legal consequences,\" prime minister promises.",
+      "title_zh": "OpenAI 代理在澳大利亚政府违规事件中“不接受‘否’的答案”"
+    },
+    {
+      "title": "Meta puts its AI assistant on a keychain",
+      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "source": "Ars Technica",
+      "published": "Thu, 24 Sep 2026 14:03:38 +0000",
+      "time": 1790258618,
+      "snippet": "Meta says the keychain-sized Muse Charm will ship in December.",
+      "title_zh": "Meta 将其人工智能助手放在钥匙链上"
     },
     {
       "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
@@ -181,24 +199,6 @@
       "title_zh": "专家称，特朗普的中国竞争和“人工智能竞赛”错觉可能危及美国"
     },
     {
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-      "source": "Ars Technica",
-      "published": "Wed, 23 Sep 2026 19:35:53 +0000",
-      "time": 1790192153,
-      "snippet": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
-      "title_zh": "YouTube 承诺今年晚些时候将提供定制提要和更多人工智能"
-    },
-    {
-      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-      "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-      "source": "Ars Technica",
-      "published": "Wed, 23 Sep 2026 14:20:23 +0000",
-      "time": 1790173223,
-      "snippet": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
-      "title_zh": "在造成多人死亡和受伤后，NHTSA 正在调查 comma.ai"
-    },
-    {
       "title": "The AI Hype Index: AI loves cheating",
       "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
       "source": "MIT Tech Review",
@@ -208,15 +208,6 @@
       "title_zh": "人工智能炒作指数：人工智能喜欢作弊"
     },
     {
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "source": "Ars Technica",
-      "published": "Tue, 22 Sep 2026 21:25:18 +0000",
-      "time": 1790112318,
-      "snippet": "The frontier AI model race has entered its comparison shopping phase.",
-      "title_zh": "新的 Anthropic、OpenAI 模型做出了同样的承诺：用更少的钱获得更多的东西"
-    },
-    {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "source": "MIT Tech Review",
@@ -224,6 +215,15 @@
       "time": 1790084525,
       "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cr",
       "title_zh": "圆桌会议：虚拟边界墙的致命失败"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "time": 1790075091,
+      "snippet": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security expert",
+      "title_zh": "不要被今年夏天的人工智能炒作所愚弄"
     }
   ]
 }
