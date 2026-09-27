@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-26T05:11:10+00:00",
+  "generated_at": "2026-09-27T05:28:46+00:00",
   "hn": [
     {
       "id": 49803892,
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "domain": "anthropic.com",
-      "points": 1797,
-      "comments": 1124,
+      "points": 1801,
+      "comments": 1126,
       "author": "km144",
       "time": 1790094545,
       "title_zh": "近距离工作 5.5"
@@ -17,8 +17,8 @@
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "domain": "openai.com",
-      "points": 1772,
-      "comments": 849,
+      "points": 1774,
+      "comments": 853,
       "author": "OfficialTurkey",
       "time": 1790100034,
       "title_zh": "GPT-6 索尔和露娜"
@@ -28,19 +28,41 @@
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "domain": "anthropic.com",
-      "points": 774,
-      "comments": 796,
+      "points": 778,
+      "comments": 799,
       "author": "raahelb",
       "time": 1790186807,
       "title_zh": "克劳德发现了一种具有类似 CRISPR 重复序列的新型酶系统"
+    },
+    {
+      "id": 49849985,
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "domain": "swarmtraces.org",
+      "points": 707,
+      "comments": 449,
+      "author": "specked-citrus",
+      "time": 1790370567,
+      "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息"
+    },
+    {
+      "id": 49848269,
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "domain": "ollaya.dev",
+      "points": 587,
+      "comments": 145,
+      "author": "Ardakilic",
+      "time": 1790361230,
+      "title_zh": "Ollaya – Ollama 用于开源、Jev 风格的决策模型"
     },
     {
       "id": 49832938,
       "title": "Why is the liver so weirdly regenerative?",
       "url": "https://dynomight.substack.com/p/liver",
       "domain": "dynomight.substack.com",
-      "points": 554,
-      "comments": 285,
+      "points": 566,
+      "comments": 291,
       "author": "jbotz",
       "time": 1790266980,
       "title_zh": "为什么肝脏的再生能力如此奇怪？"
@@ -50,91 +72,96 @@
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "domain": "cnbc.com",
-      "points": 421,
-      "comments": 736,
+      "points": 489,
+      "comments": 862,
       "author": "cramer4next",
       "time": 1790350165,
       "title_zh": "美国上诉法院维持将 Anthropic 指定为供应链风险"
     },
     {
-      "id": 49848269,
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "domain": "ollaya.dev",
-      "points": 385,
-      "comments": 106,
-      "author": "Ardakilic",
-      "time": 1790361230,
-      "title_zh": "Ollaya – Ollama 用于开源、Jev 风格的决策模型"
+      "id": 49836579,
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "domain": "thelastsoftwareengineer.substack.com",
+      "points": 166,
+      "comments": 156,
+      "author": "azhenley",
+      "time": 1790283110,
+      "title_zh": "人工智能完成我所有的作业后我如何改变教学"
     },
     {
-      "id": 49849985,
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "domain": "swarmtraces.org",
-      "points": 329,
-      "comments": 193,
-      "author": "specked-citrus",
-      "time": 1790370567,
-      "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息"
+      "id": 49844896,
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "domain": "bloomberg.com",
+      "points": 145,
+      "comments": 141,
+      "author": "sbulaev",
+      "time": 1790345228,
+      "title_zh": "微软放弃个人人工智能聊天机器人竞赛，重启 Copilot"
     },
     {
-      "id": 49826565,
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "domain": "transluce.org",
-      "points": 264,
-      "comments": 304,
-      "author": "snikolaev",
-      "time": 1790227270,
-      "title_zh": "urlquery.net 上发现早期流氓 AI 代理活动和黑客尝试"
+      "id": 49857729,
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "domain": "tangled.org",
+      "points": 135,
+      "comments": 36,
+      "author": "parasitid",
+      "time": 1790438194,
+      "title_zh": "Drawgent：实时 Excalidraw 画布上的编码代理"
     },
     {
-      "id": 49829650,
-      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "domain": "theguardian.com",
-      "points": 201,
-      "comments": 301,
-      "author": "YeGoblynQueenne",
-      "time": 1790252621,
-      "title_zh": "“这就是人工智能”阿尔法一代最大的侮辱告诉我们什么"
+      "id": 49856665,
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "domain": "bbc.com",
+      "points": 111,
+      "comments": 171,
+      "author": "Betelbuddy",
+      "time": 1790431434,
+      "title_zh": "OpenAI 机器人干扰了多个美国政府机构网站"
     },
     {
-      "id": 49826221,
-      "title": "Contrastive Language Models",
-      "url": "https://contrastive-lm.notion.site/",
-      "domain": "contrastive-lm.notion.site",
-      "points": 172,
-      "comments": 56,
-      "author": "erichocean",
-      "time": 1790223659,
-      "title_zh": "对比语言模型"
-    },
-    {
-      "id": 49831690,
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "domain": "afr.com",
-      "points": 134,
-      "comments": 222,
-      "author": "theanonymousone",
-      "time": 1790262578,
-      "title_zh": "辅导公司告诉家长省钱，“改用人工智能”"
-    },
-    {
-      "id": 49848095,
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special/",
-      "domain": "mouse.dev",
-      "points": 124,
-      "comments": 47,
-      "author": "Aeroi",
-      "time": 1790360286,
-      "title_zh": "Meta 的 Muse 似乎使用了标记为 muse-special 的 OpenAI 模型"
+      "id": 49829472,
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "url": "https://adekau.github.io/posts/2020/llamas.html",
+      "domain": "adekau.github.io",
+      "points": 75,
+      "comments": 10,
+      "author": "cebert",
+      "time": 1790251415,
+      "title_zh": "傅立叶分析：用圆圈绘制骆驼"
     }
   ],
   "media": [
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "published": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "time": 1790472600,
+      "snippet": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "title_zh": "谷歌在印度测试通过 Gemini 和 AI Mode 从沃尔玛旗下的 Flipkart 购买"
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch",
+      "published": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "time": 1790456526,
+      "snippet": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "title_zh": "保险公司声称人工智能已经增加了医疗成本"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch",
+      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "time": 1790431200,
+      "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "title_zh": "我为自己创建了一个交互式数字化身——你可以和它交谈"
+    },
     {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -145,40 +172,13 @@
       "title_zh": "在 Meta Connect，该公司的智能眼镜无处不在"
     },
     {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "source": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 23:11:10 +0000",
-      "time": 1790377870,
-      "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "title_zh": "Crusoe 放弃了在 AI 数据中心使用 Boom 涡轮机的 1.25B 美元计划"
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "time": 1790374847,
-      "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "title_zh": "不安全的 OpenAI 代理在实验室不知情的情况下在互联网上发布了 53 张用户图像"
-    },
-    {
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
       "source": "Ars Technica",
       "published": "Fri, 25 Sep 2026 21:36:20 +0000",
       "time": 1790372180,
       "snippet": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "title_zh": "法院裁定特朗普可以将拒绝启用克劳德功能的 Anthropic 列入黑名单"
-    },
-    {
-      "title": "Meta opens early access program for new Muse features",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "source": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 20:34:53 +0000",
-      "time": 1790368493,
-      "snippet": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "title_zh": "Meta 开放 Muse 新功能的抢先体验计划"
+      "title_zh": "法院裁定五角大楼可以因拒绝启用克劳德功能而将 Anthropic 列入黑名单"
     },
     {
       "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
