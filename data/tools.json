@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T05:36:15+00:00",
+  "generated_at": "2026-09-29T05:53:58+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 2390,
+      "points": 2391,
       "comments": 267,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
@@ -15,7 +15,7 @@
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
       "domain": "bastardica.mitpit.com",
-      "points": 857,
+      "points": 859,
       "comments": 123,
       "author": "MitPitt",
       "time": "2026-09-23T22:53:28Z",
@@ -55,8 +55,8 @@
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
       "domain": "github.com",
-      "points": 417,
-      "comments": 141,
+      "points": 421,
+      "comments": 142,
       "author": "sidharthkmenon",
       "time": "2026-09-24T17:21:36Z",
       "title_zh": "Show HN：Whiteboard (YC W26) – 用于深思熟虑的软件设计的开源 IDE"
@@ -65,8 +65,8 @@
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "domain": "github.com",
-      "points": 392,
-      "comments": 113,
+      "points": 403,
+      "comments": 119,
       "author": "jpwalsh234",
       "time": "2026-09-26T17:10:40Z",
       "title_zh": "Show HN：Reladraw – 一种图表语言，您可以在其中决定放置东西的位置"
@@ -92,6 +92,26 @@
       "title_zh": "显示 HN：身体异常"
     },
     {
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "domain": "loficities.com",
+      "points": 308,
+      "comments": 135,
+      "author": "safaelmali",
+      "time": "2026-09-27T18:44:30Z",
+      "title_zh": "Show HN：Lofi Cities – 像素艺术城市之夜，浏览器生成的 Lofi"
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "domain": "jev-pokemon.vercel.app",
+      "points": 278,
+      "comments": 122,
+      "author": "pancomplex",
+      "time": "2026-09-25T14:28:07Z",
+      "title_zh": "Show HN：Jev 玩神奇宝贝红"
+    },
+    {
       "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
       "url": "https://github.com/volotat/mini-AGI/",
       "domain": "github.com",
@@ -100,26 +120,6 @@
       "author": "volotat",
       "time": "2026-09-21T04:42:37Z",
       "title_zh": "Show HN ： Mini-AGI -在8GB VRAM上训练的动态持续学习模型"
-    },
-    {
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "domain": "jev-pokemon.vercel.app",
-      "points": 272,
-      "comments": 119,
-      "author": "pancomplex",
-      "time": "2026-09-25T14:28:07Z",
-      "title_zh": "Show HN：Jev 玩神奇宝贝红"
-    },
-    {
-      "title": "Show HN: Laser Graffiti",
-      "url": "https://laser.consti.de",
-      "domain": "laser.consti.de",
-      "points": 253,
-      "comments": 61,
-      "author": "con",
-      "time": "2026-08-29T12:28:11Z",
-      "title_zh": "Show HN：激光涂鸦"
     }
   ],
   "hot": [
@@ -127,7 +127,7 @@
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "domain": "github.com",
-      "points": 2390,
+      "points": 2391,
       "comments": 267,
       "author": "arnemunthekaas",
       "time": "2026-09-15T12:31:10Z",
@@ -177,7 +177,7 @@
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "domain": "typesafe.ai",
-      "points": 1984,
+      "points": 1986,
       "comments": 520,
       "author": "albelfio",
       "time": "2026-09-15T19:25:03Z",
@@ -187,17 +187,27 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1897,
+      "points": 1899,
       "comments": 961,
       "author": "ereiamjh",
       "time": "2026-09-19T09:20:58Z",
       "title_zh": "人工智能生成的海报不一定很可怕"
     },
     {
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "domain": "sancho.bearblog.dev",
+      "points": 1868,
+      "comments": 1048,
+      "author": "sancho-panza",
+      "time": "2026-09-27T20:12:54Z",
+      "title_zh": "谷歌什么时候变得这么奇怪了？"
+    },
+    {
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "domain": "anthropic.com",
-      "points": 1802,
+      "points": 1806,
       "comments": 1129,
       "author": "km144",
       "time": "2026-09-22T16:29:05Z",
@@ -207,7 +217,7 @@
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "domain": "openai.com",
-      "points": 1775,
+      "points": 1776,
       "comments": 855,
       "author": "OfficialTurkey",
       "time": "2026-09-22T18:00:34Z",
@@ -227,21 +237,11 @@
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "domain": "f-droid.org",
-      "points": 1460,
+      "points": 1463,
       "comments": 416,
       "author": "daveoc64",
       "time": "2026-09-24T15:26:12Z",
       "title_zh": "F-机器人2.0"
-    },
-    {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "domain": "anthropic.com",
-      "points": 1419,
-      "comments": 1395,
-      "author": "denysvitali",
-      "time": "2026-09-01T17:53:53Z",
-      "title_zh": "克劳德寓言5.1和克劳德神话5.1"
     }
   ]
 }
