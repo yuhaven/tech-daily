@@ -1,166 +1,220 @@
 {
-  "generated_at": "2026-09-29T05:53:57+00:00",
+  "generated_at": "2026-09-30T05:44:50+00:00",
   "hn": [
     {
-      "id": 49872723,
-      "title": "Owed a billion dollars in Nvidia stock",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
-      "domain": "colo.to",
-      "points": 1065,
-      "comments": 447,
-      "author": "Eric_Gullichsen",
-      "time": 1790561113,
-      "title_zh": "欠英伟达 10 亿美元股票"
+      "id": 49896586,
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "domain": "openai.com",
+      "points": 860,
+      "comments": 783,
+      "author": "crorella",
+      "time": 1790701605,
+      "title_zh": "GPT 6.1 Sol：接近 Astra 的智能，价格仅为其五分之一"
     },
     {
       "id": 49883471,
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "domain": "calnewport.com",
-      "points": 402,
-      "comments": 141,
+      "points": 600,
+      "comments": 266,
       "author": "ibobev",
       "time": 1790625215,
       "title_zh": "是时候调查人工智能实验室了"
     },
     {
-      "id": 49880312,
-      "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-      "domain": "ssp.sh",
-      "points": 358,
-      "comments": 227,
-      "author": "zazuke",
-      "time": 1790611902,
-      "title_zh": "问题不在于人工智能代码，而在于不了解系统架构或意图"
+      "id": 49896050,
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "domain": "eff.org",
+      "points": 535,
+      "comments": 389,
+      "author": "paimapi",
+      "time": 1790699448,
+      "title_zh": "DraftKings 正在使用人工智能来针对长期赌徒的行为"
+    },
+    {
+      "id": 49896604,
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "domain": "openai.com",
+      "points": 524,
+      "comments": 396,
+      "author": "alvis",
+      "time": 1790701677,
+      "title_zh": "Dots：永远在线的代理"
+    },
+    {
+      "id": 49890226,
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "domain": "jorgegarciaherrero.com",
+      "points": 414,
+      "comments": 130,
+      "author": "damaru2",
+      "time": 1790672621,
+      "title_zh": "网络和移动会话人工智能代理的隐私分析 [pdf]"
     },
     {
       "id": 49882781,
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
       "url": "https://stateofutopia.com/experiments/microllmlab/",
       "domain": "stateofutopia.com",
-      "points": 195,
-      "comments": 74,
+      "points": 275,
+      "comments": 113,
       "author": "logicallee",
       "time": 1790621933,
       "title_zh": "MicroLLM Lab – 在浏览器中尝试 7 个微型 LLM"
-    },
-    {
-      "id": 49853137,
-      "title": "An agent used DNS to reach an external chatbot",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "domain": "alignment.openai.com",
-      "points": 193,
-      "comments": 182,
-      "author": "apsec112",
-      "time": 1790396051,
-      "title_zh": "代理使用 DNS 来访问外部聊天机器人"
-    },
-    {
-      "id": 49873241,
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "domain": "arxiv.org",
-      "points": 171,
-      "comments": 76,
-      "author": "teleforce",
-      "time": 1790565833,
-      "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)"
     },
     {
       "id": 49879883,
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
       "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "domain": "cnbc.com",
-      "points": 143,
-      "comments": 171,
+      "points": 223,
+      "comments": 292,
       "author": "jonbaer",
       "time": 1790610396,
       "title_zh": "Nvidia 希望在每个人工智能代理旁边放置一个看门狗芯片"
+    },
+    {
+      "id": 49896975,
+      "title": "ChatGPT Pro 500",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "domain": "help.openai.com",
+      "points": 197,
+      "comments": 229,
+      "author": "prodigycorp",
+      "time": 1790702787,
+      "title_zh": "聊天GPT Pro 500"
+    },
+    {
+      "id": 49873241,
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "domain": "arxiv.org",
+      "points": 176,
+      "comments": 78,
+      "author": "teleforce",
+      "time": 1790565833,
+      "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)"
     },
     {
       "id": 49876148,
       "title": "What would a serious AI product look like?",
       "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
       "domain": "blog.glyph.im",
-      "points": 143,
-      "comments": 57,
+      "points": 170,
+      "comments": 81,
       "author": "lumpa",
       "time": 1790593332,
       "title_zh": "真正的人工智能产品会是什么样子？"
     },
     {
-      "id": 49867775,
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com/",
-      "domain": "tinyaiarena.com",
-      "points": 117,
-      "comments": 45,
-      "author": "hp6",
-      "time": 1790524288,
-      "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负"
+      "id": 49884625,
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "domain": "github.com",
+      "points": 148,
+      "comments": 31,
+      "author": "nkko",
+      "time": 1790630801,
+      "title_zh": "ESP32S3集群运行1.58位（BitNet）语言模型"
     },
     {
-      "id": 49861755,
-      "title": "What reversing, modernising old games tells us about the economic impact of AI",
-      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-      "domain": "this.os.isfine.org",
-      "points": 102,
-      "comments": 47,
-      "author": "keeda",
-      "time": 1790466541,
-      "title_zh": "旧游戏的逆转和现代化告诉我们人工智能对经济的影响"
-    },
-    {
-      "id": 49868753,
-      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "url": "https://earnanhonestdollar.com/bench",
-      "domain": "earnanhonestdollar.com",
-      "points": 85,
-      "comments": 36,
-      "author": "FKJ",
-      "time": 1790529857,
-      "title_zh": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20%"
-    },
-    {
-      "id": 49859982,
-      "title": "Faster prompt lookup drafting in llama.cpp",
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-      "domain": "jadidbourbaki.github.io",
-      "points": 85,
-      "comments": 12,
-      "author": "pptadversary",
-      "time": 1790452644,
-      "title_zh": "llama.cpp 中更快的提示查找起草"
+      "id": 49891203,
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "domain": "magazine.sebastianraschka.com",
+      "points": 68,
+      "comments": 2,
+      "author": "Anon84",
+      "time": 1790679985,
+      "title_zh": "用于文本分类的语言模型：从词袋到 Jev"
     }
   ],
   "media": [
     {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "source": "TechCrunch",
-      "published": "Tue, 29 Sep 2026 05:13:43 +0000",
-      "time": 1790658823,
-      "snippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential r",
-      "title_zh": "Anthropic 的招股说明书详细介绍了亏损、增长，当然，还警告其人工智能可能会终结人类"
+      "published": "Tue, 29 Sep 2026 23:30:55 +0000",
+      "time": 1790724655,
+      "snippet": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "title_zh": "当你向 America.gov 询问有关 Minecraft 的问题时，它会变得非常奇怪，但这并不是一个故障"
     },
     {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
       "source": "TechCrunch",
-      "published": "Tue, 29 Sep 2026 00:30:00 +0000",
-      "time": 1790641800,
-      "snippet": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "title_zh": "Peak XV 将 Surge 种子投资上限提高至 500 万美元，推出 18 家初创公司"
+      "published": "Tue, 29 Sep 2026 22:20:59 +0000",
+      "time": 1790720459,
+      "snippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "title_zh": "互联网相信 Elon Musk 的 xAI 操纵了 OpenAI 的“Dots”发布"
     },
     {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "title": "Protests against OpenAI get increasingly creative",
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "source": "Ars Technica",
+      "published": "Tue, 29 Sep 2026 21:52:58 +0000",
+      "time": 1790718778,
+      "snippet": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "title_zh": "针对 OpenAI 的抗议变得越来越有创意"
+    },
+    {
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "source": "Ars Technica",
+      "published": "Tue, 29 Sep 2026 21:14:49 +0000",
+      "time": 1790716489,
+      "snippet": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+      "title_zh": "AMD 收购 World Labs AI 初创公司，加大对抗 Nvidia 的赌注"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
       "source": "TechCrunch",
-      "published": "Mon, 28 Sep 2026 23:39:20 +0000",
-      "time": 1790638760,
-      "snippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "title_zh": "据报道 OpenAI 出于安全考虑放弃了模型"
+      "published": "Tue, 29 Sep 2026 20:15:47 +0000",
+      "time": 1790712947,
+      "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agen",
+      "title_zh": "OpenAI的最新功能直指应用商店模式"
+    },
+    {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch",
+      "published": "Tue, 29 Sep 2026 19:52:37 +0000",
+      "time": 1790711557,
+      "snippet": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "title_zh": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金"
+    },
+    {
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "source": "Ars Technica",
+      "published": "Tue, 29 Sep 2026 18:11:09 +0000",
+      "time": 1790705469,
+      "snippet": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+      "title_zh": "以下是 OpenAI 澳大利亚政府服务器遭到黑客攻击时实际发生的情况"
+    },
+    {
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "source": "Ars Technica",
+      "published": "Tue, 29 Sep 2026 14:22:31 +0000",
+      "time": 1790691751,
+      "snippet": "Similar performance, security trade-offs also seen in current public models.",
+      "title_zh": "OpenAI 表示计划中的 GPT-6.1 太不安全，无法发布"
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 29 Sep 2026 10:43:45 +0000",
+      "time": 1790678625,
+      "snippet": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that ",
+      "title_zh": "让人工智能成为一种资产，而不是一种支出"
     },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -170,60 +224,6 @@
       "time": 1790633827,
       "snippet": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they wil",
       "title_zh": "圆桌会议：虚拟边界墙的致命失败"
-    },
-    {
-      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-      "source": "Ars Technica",
-      "published": "Mon, 28 Sep 2026 21:49:10 +0000",
-      "time": 1790632150,
-      "snippet": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
-      "title_zh": "专家担忧英伟达AI芯片在华销售及对特朗普的影响"
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "source": "TechCrunch",
-      "published": "Mon, 28 Sep 2026 21:29:18 +0000",
-      "time": 1790630958,
-      "snippet": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "title_zh": "资料来源：推理提供商 Modal Labs 完成 7.5 亿美元融资，估值为 15.75B 美元"
-    },
-    {
-      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-      "source": "Ars Technica",
-      "published": "Mon, 28 Sep 2026 20:49:39 +0000",
-      "time": 1790628579,
-      "snippet": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
-      "title_zh": "佛罗里达州以灭绝恐惧为由，通过法律手段阻止 OpenAI 的开发"
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 28 Sep 2026 17:03:16 +0000",
-      "time": 1790614996,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that e",
-      "title_zh": "我们什么时候可以说人工智能做出了科学发现？"
-    },
-    {
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-      "source": "Ars Technica",
-      "published": "Mon, 28 Sep 2026 16:43:18 +0000",
-      "time": 1790613798,
-      "snippet": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
-      "title_zh": "OpenAI 在一系列代理错位事件中停止了前沿模型训练"
-    },
-    {
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 28 Sep 2026 08:06:22 +0000",
-      "time": 1790582782,
-      "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. O",
-      "title_zh": "当人工智能代理失控时，谁该承担责任？"
     }
   ]
 }
