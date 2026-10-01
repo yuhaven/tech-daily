@@ -1,114 +1,114 @@
 {
-  "generated_at": "2026-09-30T05:44:47+00:00",
+  "generated_at": "2026-10-01T06:11:13+00:00",
   "data": {
     "daily": [
-      {
-        "full_name": "debpalash/VoiceStudio",
-        "url": "/debpalash/VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars_today": 4758,
-        "stars_total": 48757,
-        "description_zh": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。"
-      },
       {
         "full_name": "NVIDIA/OpenShell",
         "url": "/NVIDIA/OpenShell",
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "language": "Rust",
-        "stars_today": 990,
-        "stars_total": 10852,
+        "stars_today": 1281,
+        "stars_total": 13110,
         "description_zh": "OpenShell 是自主 AI 代理的安全、私有运行时。"
       },
       {
-        "full_name": "vectorize-io/hindsight",
-        "url": "/vectorize-io/hindsight",
-        "description": "Hindsight: Agent Memory That Learns",
+        "full_name": "debpalash/VoiceStudio",
+        "url": "/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_today": 2575,
-        "stars_total": 43133,
-        "description_zh": "事后诸葛亮：智能体的学习记忆"
-      },
-      {
-        "full_name": "paperclipai/paperclip",
-        "url": "/paperclipai/paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "language": "TypeScript",
-        "stars_today": 2458,
-        "stars_total": 94710,
-        "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
-      },
-      {
-        "full_name": "t8y2/dbx",
-        "url": "/t8y2/dbx",
-        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-        "language": "Rust",
-        "stars_today": 232,
-        "stars_total": 22384,
-        "description_zh": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
+        "stars_today": 3483,
+        "stars_total": 50723,
+        "description_zh": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。"
       },
       {
         "full_name": "mvschwarz/openrig",
         "url": "/mvschwarz/openrig",
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
         "language": "TypeScript",
-        "stars_today": 737,
-        "stars_total": 2558,
+        "stars_today": 624,
+        "stars_total": 3168,
         "description_zh": "将 Claude Code 和 Codex 作为一个系统一起运行的多代理工具"
       },
       {
-        "full_name": "oblien/openship",
-        "url": "/oblien/openship",
-        "description": "Self-hosted deployment platform",
+        "full_name": "mksglu/context-mode",
+        "url": "/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "language": "TypeScript",
-        "stars_today": 437,
-        "stars_total": 13981,
-        "description_zh": "自托管部署平台"
+        "stars_today": 90,
+        "stars_total": 24555,
+        "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
       },
       {
-        "full_name": "averygan/reclip",
-        "url": "/averygan/reclip",
-        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-        "language": "HTML",
-        "stars_today": 113,
-        "stars_total": 10299,
-        "description_zh": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+        "full_name": "DietrichGebert/ponytail",
+        "url": "/DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars_today": 743,
+        "stars_total": 149426,
+        "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
       },
       {
-        "full_name": "cs341-illinois/coursebook",
-        "url": "/cs341-illinois/coursebook",
-        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "language": "TeX",
-        "stars_today": 572,
-        "stars_total": 3189,
-        "description_zh": "伊利诺伊大学开源入门系统编程教科书"
-      },
-      {
-        "full_name": "rohitg00/ai-engineering-from-scratch",
-        "url": "/rohitg00/ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "url": "/harry0703/MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "language": "Python",
-        "stars_today": 786,
-        "stars_total": 61662,
-        "description_zh": "学习它。建造它。寄给别人。"
+        "stars_today": 431,
+        "stars_total": 127670,
+        "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
       },
       {
-        "full_name": "VectifyAI/PageIndex",
-        "url": "/VectifyAI/PageIndex",
-        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "full_name": "openclaw/openclaw",
+        "url": "/openclaw/openclaw",
+        "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars_today": 136,
+        "stars_total": 391042,
+        "description_zh": "真正做事的人工智能。任何操作系统。任何平台。龙虾方式。 🦞"
+      },
+      {
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "url": "/ComposioHQ/awesome-claude-skills",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
         "language": "Python",
-        "stars_today": 835,
-        "stars_total": 37579,
-        "description_zh": "📑 PageIndex：无向量、基于推理的 RAG 的文档索引"
+        "stars_today": 123,
+        "stars_total": 76207,
+        "description_zh": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表"
       },
       {
-        "full_name": "willfaust/Madeira",
-        "url": "/willfaust/Madeira",
-        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-        "language": "C",
-        "stars_today": 81,
-        "stars_total": 1137,
-        "description_zh": "通过 FEX-Emu + Wine + DXMT 在被监禁的 iOS 上运行 x86-64 Windows PC 游戏"
+        "full_name": "mattpocock/skills",
+        "url": "/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars_today": 876,
+        "stars_total": 273178,
+        "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+      },
+      {
+        "full_name": "heygen-com/hyperframes",
+        "url": "/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_today": 349,
+        "stars_total": 54865,
+        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
+      },
+      {
+        "full_name": "firebase/firebase-ios-sdk",
+        "url": "/firebase/firebase-ios-sdk",
+        "description": "Firebase SDK for Apple App Development",
+        "language": "C++",
+        "stars_today": 8,
+        "stars_total": 6782,
+        "description_zh": "用于 Apple 应用开发的 Firebase SDK"
+      },
+      {
+        "full_name": "modelcontextprotocol/servers",
+        "url": "/modelcontextprotocol/servers",
+        "description": "Model Context Protocol Servers",
+        "language": "TypeScript",
+        "stars_today": 50,
+        "stars_total": 90856,
+        "description_zh": "模型上下文协议服务器"
       }
     ],
     "weekly": [
@@ -117,35 +117,35 @@
         "url": "/paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "language": "TypeScript",
-        "stars_today": 12941,
-        "stars_total": 94710,
+        "stars_today": 13855,
+        "stars_total": 95435,
         "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
-      },
-      {
-        "full_name": "anthropics/financial-services",
-        "url": "/anthropics/financial-services",
-        "description": "",
-        "language": "Python",
-        "stars_today": 2114,
-        "stars_total": 38275,
-        "description_zh": null
       },
       {
         "full_name": "vectorize-io/hindsight",
         "url": "/vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "language": "Python",
-        "stars_today": 17365,
-        "stars_total": 43133,
+        "stars_today": 18389,
+        "stars_total": 44017,
         "description_zh": "事后诸葛亮：智能体的学习记忆"
+      },
+      {
+        "full_name": "anthropics/financial-services",
+        "url": "/anthropics/financial-services",
+        "description": "",
+        "language": "Python",
+        "stars_today": 1637,
+        "stars_total": 38396,
+        "description_zh": null
       },
       {
         "full_name": "debpalash/VoiceStudio",
         "url": "/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_today": 12722,
-        "stars_total": 48757,
+        "stars_today": 15186,
+        "stars_total": 50723,
         "description_zh": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。"
       },
       {
@@ -153,8 +153,8 @@
         "url": "/rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "language": "Python",
-        "stars_today": 5830,
-        "stars_total": 61662,
+        "stars_today": 6485,
+        "stars_total": 62197,
         "description_zh": "学习它。建造它。寄给别人。"
       },
       {
@@ -162,8 +162,8 @@
         "url": "/vercel/next.js",
         "description": "The React Framework",
         "language": "JavaScript",
-        "stars_today": 582,
-        "stars_total": 142910,
+        "stars_today": 595,
+        "stars_total": 142956,
         "description_zh": "反应框架"
       },
       {
@@ -171,8 +171,8 @@
         "url": "/HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "language": "Python",
-        "stars_today": 1327,
-        "stars_total": 51036,
+        "stars_today": 1371,
+        "stars_total": 51142,
         "description_zh": "“CLI-Anything：使所有软件代理原生”--CLI-Hub：https://clianything.cc/"
       },
       {
@@ -180,45 +180,45 @@
         "url": "/davila7/claude-code-templates",
         "description": "CLI tool for configuring and monitoring Claude Code",
         "language": "Python",
-        "stars_today": 1218,
-        "stars_total": 32188,
+        "stars_today": 914,
+        "stars_total": 32250,
         "description_zh": "用于配置和监控 Claude Code 的 CLI 工具"
-      },
-      {
-        "full_name": "stablyai/orca",
-        "url": "/stablyai/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "language": "TypeScript",
-        "stars_today": 6242,
-        "stars_total": 81808,
-        "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和远程运行时使用。"
       },
       {
         "full_name": "pytorch/pytorch",
         "url": "/pytorch/pytorch",
         "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "language": "Python",
-        "stars_today": 399,
-        "stars_total": 103536,
+        "stars_today": 398,
+        "stars_total": 103576,
         "description_zh": "Python 中的张量和动态神经网络，具有强大的 GPU 加速功能"
       },
       {
-        "full_name": "Tencent/WeKnora",
-        "url": "/Tencent/WeKnora",
-        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "language": "Go",
-        "stars_today": 2397,
-        "stars_total": 31318,
-        "description_zh": "开源LLM知识平台：将原始文档变成可查询的RAG、自主推理代理和自我维护的Wiki。"
+        "full_name": "pbakaus/impeccable",
+        "url": "/pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "stars_today": 2775,
+        "stars_total": 73142,
+        "description_zh": "使您的 AI 线束在设计上更加出色的设计语言。"
       },
       {
-        "full_name": "cloudflare/security-audit-skill",
-        "url": "/cloudflare/security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "language": "JavaScript",
-        "stars_today": 3311,
-        "stars_total": 23247,
-        "description_zh": "用于多阶段安全审计的编码代理技能，具有独立验证的机器可读结果"
+        "full_name": "TencentCloud/Octop",
+        "url": "/TencentCloud/Octop",
+        "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "language": "Python",
+        "stars_today": 1301,
+        "stars_total": 6134,
+        "description_zh": "更智能、自托管的人工智能助手——多用户、多代理。"
+      },
+      {
+        "full_name": "stablyai/orca",
+        "url": "/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "stars_today": 5987,
+        "stars_total": 82545,
+        "description_zh": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面、移动和远程运行时使用。"
       }
     ],
     "monthly": [
@@ -227,8 +227,8 @@
         "url": "/bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "language": "JavaScript",
-        "stars_today": 33308,
-        "stars_total": 45189,
+        "stars_today": 31402,
+        "stars_total": 45802,
         "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
       },
       {
@@ -236,8 +236,8 @@
         "url": "/alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
-        "stars_today": 21236,
-        "stars_total": 42667,
+        "stars_today": 21460,
+        "stars_total": 42993,
         "description_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
       },
       {
@@ -245,35 +245,35 @@
         "url": "/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "stars_today": 26837,
-        "stars_total": 269746,
+        "stars_today": 26563,
+        "stars_total": 270294,
         "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
-      },
-      {
-        "full_name": "tt-a1i/archify",
-        "url": "/tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "JavaScript",
-        "stars_today": 45168,
-        "stars_total": 74441,
-        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
         "full_name": "ayghri/i-have-adhd",
         "url": "/ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "language": "Python",
-        "stars_today": 26845,
-        "stars_total": 52221,
+        "stars_today": 26622,
+        "stars_total": 52479,
         "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
+      },
+      {
+        "full_name": "tt-a1i/archify",
+        "url": "/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "stars_today": 38190,
+        "stars_total": 75390,
+        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
         "full_name": "Tencent/WeKnora",
         "url": "/Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "language": "Go",
-        "stars_today": 10525,
-        "stars_total": 31318,
+        "stars_today": 10658,
+        "stars_total": 31549,
         "description_zh": "开源LLM知识平台：将原始文档变成可查询的RAG、自主推理代理和自我维护的Wiki。"
       },
       {
@@ -281,54 +281,54 @@
         "url": "/superdesigndev/treg",
         "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
         "language": "Python",
-        "stars_today": 3121,
-        "stars_total": 3866,
+        "stars_today": 3214,
+        "stars_total": 3955,
         "description_zh": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
-      },
-      {
-        "full_name": "THU-MAIC/OpenMAIC",
-        "url": "/THU-MAIC/OpenMAIC",
-        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "language": "TypeScript",
-        "stars_today": 18126,
-        "stars_total": 39596,
-        "description_zh": "开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验"
       },
       {
         "full_name": "anthropics/financial-services",
         "url": "/anthropics/financial-services",
         "description": "",
         "language": "Python",
-        "stars_today": 3705,
-        "stars_total": 38275,
+        "stars_today": 3839,
+        "stars_total": 38396,
         "description_zh": null
-      },
-      {
-        "full_name": "fmtlib/fmt",
-        "url": "/fmtlib/fmt",
-        "description": "A modern formatting library",
-        "language": "C++",
-        "stars_today": 2109,
-        "stars_total": 25839,
-        "description_zh": "现代格式库"
       },
       {
         "full_name": "mksglu/context-mode",
         "url": "/mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "language": "TypeScript",
-        "stars_today": 4077,
-        "stars_total": 24260,
+        "stars_today": 4165,
+        "stars_total": 24555,
         "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
+      },
+      {
+        "full_name": "paperclipai/paperclip",
+        "url": "/paperclipai/paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "stars_today": 15694,
+        "stars_total": 95435,
+        "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
       },
       {
         "full_name": "DietrichGebert/ponytail",
         "url": "/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "language": "JavaScript",
-        "stars_today": 32714,
-        "stars_total": 148371,
+        "stars_today": 31553,
+        "stars_total": 149426,
         "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
+      },
+      {
+        "full_name": "heygen-com/hyperframes",
+        "url": "/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_today": 11385,
+        "stars_total": 54865,
+        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
       }
     ]
   }

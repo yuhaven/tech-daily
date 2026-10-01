@@ -1,46 +1,35 @@
 {
-  "generated_at": "2026-09-30T05:44:50+00:00",
+  "generated_at": "2026-10-01T06:11:16+00:00",
   "hn": [
+    {
+      "id": 49913571,
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "domain": "blog.google",
+      "points": 1237,
+      "comments": 793,
+      "author": "bradleyg223",
+      "time": 1790798677,
+      "title_zh": "双子座 4 氩"
+    },
     {
       "id": 49896586,
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "domain": "openai.com",
-      "points": 860,
-      "comments": 783,
+      "points": 1053,
+      "comments": 935,
       "author": "crorella",
       "time": 1790701605,
       "title_zh": "GPT 6.1 Sol：接近 Astra 的智能，价格仅为其五分之一"
-    },
-    {
-      "id": 49883471,
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "domain": "calnewport.com",
-      "points": 600,
-      "comments": 266,
-      "author": "ibobev",
-      "time": 1790625215,
-      "title_zh": "是时候调查人工智能实验室了"
-    },
-    {
-      "id": 49896050,
-      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "domain": "eff.org",
-      "points": 535,
-      "comments": 389,
-      "author": "paimapi",
-      "time": 1790699448,
-      "title_zh": "DraftKings 正在使用人工智能来针对长期赌徒的行为"
     },
     {
       "id": 49896604,
       "title": "Dots: Always-on agents",
       "url": "https://openai.com/index/introducing-dots/",
       "domain": "openai.com",
-      "points": 524,
-      "comments": 396,
+      "points": 751,
+      "comments": 629,
       "author": "alvis",
       "time": 1790701677,
       "title_zh": "Dots：永远在线的代理"
@@ -50,162 +39,182 @@
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "domain": "jorgegarciaherrero.com",
-      "points": 414,
-      "comments": 130,
+      "points": 422,
+      "comments": 137,
       "author": "damaru2",
       "time": 1790672621,
       "title_zh": "网络和移动会话人工智能代理的隐私分析 [pdf]"
-    },
-    {
-      "id": 49882781,
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "domain": "stateofutopia.com",
-      "points": 275,
-      "comments": 113,
-      "author": "logicallee",
-      "time": 1790621933,
-      "title_zh": "MicroLLM Lab – 在浏览器中尝试 7 个微型 LLM"
-    },
-    {
-      "id": 49879883,
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "domain": "cnbc.com",
-      "points": 223,
-      "comments": 292,
-      "author": "jonbaer",
-      "time": 1790610396,
-      "title_zh": "Nvidia 希望在每个人工智能代理旁边放置一个看门狗芯片"
-    },
-    {
-      "id": 49896975,
-      "title": "ChatGPT Pro 500",
-      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-      "domain": "help.openai.com",
-      "points": 197,
-      "comments": 229,
-      "author": "prodigycorp",
-      "time": 1790702787,
-      "title_zh": "聊天GPT Pro 500"
-    },
-    {
-      "id": 49873241,
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "domain": "arxiv.org",
-      "points": 176,
-      "comments": 78,
-      "author": "teleforce",
-      "time": 1790565833,
-      "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)"
-    },
-    {
-      "id": 49876148,
-      "title": "What would a serious AI product look like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "domain": "blog.glyph.im",
-      "points": 170,
-      "comments": 81,
-      "author": "lumpa",
-      "time": 1790593332,
-      "title_zh": "真正的人工智能产品会是什么样子？"
-    },
-    {
-      "id": 49884625,
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "domain": "github.com",
-      "points": 148,
-      "comments": 31,
-      "author": "nkko",
-      "time": 1790630801,
-      "title_zh": "ESP32S3集群运行1.58位（BitNet）语言模型"
     },
     {
       "id": 49891203,
       "title": "Language models for text classification: From bag-of-words to Jev",
       "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
       "domain": "magazine.sebastianraschka.com",
-      "points": 68,
-      "comments": 2,
+      "points": 204,
+      "comments": 10,
       "author": "Anon84",
       "time": 1790679985,
       "title_zh": "用于文本分类的语言模型：从词袋到 Jev"
+    },
+    {
+      "id": 49911995,
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "domain": "github.com",
+      "points": 143,
+      "comments": 70,
+      "author": "anerli",
+      "time": 1790789860,
+      "title_zh": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎"
+    },
+    {
+      "id": 49908962,
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "domain": "alphapixeldev.com",
+      "points": 143,
+      "comments": 56,
+      "author": "ibobev",
+      "time": 1790776250,
+      "title_zh": "SDF、MSDF 与 Slug：GPU 文本渲染"
+    },
+    {
+      "id": 49913458,
+      "title": "CS240 AI Cheating Retrospective",
+      "url": "https://turkeyland.net/thoughts/ai.php",
+      "domain": "turkeyland.net",
+      "points": 104,
+      "comments": 91,
+      "author": "ArchAndStarch",
+      "time": 1790798069,
+      "title_zh": "CS240人工智能作弊回顾"
+    },
+    {
+      "id": 49914236,
+      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "domain": "artificialanalysis.ai",
+      "points": 100,
+      "comments": 53,
+      "author": "theanonymousone",
+      "time": 1790801428,
+      "title_zh": "Gemini 4 Argon（高）：智能、性能和价格分析"
+    },
+    {
+      "id": 49903713,
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "domain": "agmai.org",
+      "points": 87,
+      "comments": 108,
+      "author": "aureianimus",
+      "time": 1790735772,
+      "title_zh": "负责任地发布人工智能生成的数学"
+    },
+    {
+      "id": 49905644,
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "domain": "tokyodev.com",
+      "points": 79,
+      "comments": 27,
+      "author": "pwim",
+      "time": 1790753625,
+      "title_zh": "在日本工作期间攻读机器学习博士学位"
+    },
+    {
+      "id": 49909648,
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "url": "https://lathoa.ai/en",
+      "domain": "lathoa.ai",
+      "points": 47,
+      "comments": 21,
+      "author": "thanouil1411",
+      "time": 1790779137,
+      "title_zh": "Show HN：Lathoa，一款针对儿童的数学应用，但人工智能故意出错"
     }
   ],
   "media": [
     {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
       "source": "TechCrunch",
-      "published": "Tue, 29 Sep 2026 23:30:55 +0000",
-      "time": 1790724655,
-      "snippet": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-      "title_zh": "当你向 America.gov 询问有关 Minecraft 的问题时，它会变得非常奇怪，但这并不是一个故障"
+      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
+      "time": 1790811787,
+      "snippet": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "title_zh": "谷歌发布 Gemini 4 Argon，被称为迄今为止最强大的型号"
     },
     {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
       "source": "TechCrunch",
-      "published": "Tue, 29 Sep 2026 22:20:59 +0000",
-      "time": 1790720459,
-      "snippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "title_zh": "互联网相信 Elon Musk 的 xAI 操纵了 OpenAI 的“Dots”发布"
+      "published": "Wed, 30 Sep 2026 21:07:40 +0000",
+      "time": 1790802460,
+      "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "title_zh": "Valor、Atreides 和 Sequoia 以 7.5 亿美元的估值支持人工智能初创公司 Flow Engineering"
     },
     {
-      "title": "Protests against OpenAI get increasingly creative",
-      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
       "source": "Ars Technica",
-      "published": "Tue, 29 Sep 2026 21:52:58 +0000",
-      "time": 1790718778,
-      "snippet": "New sculpture depicts AI leaders escaping a sinking ship.",
-      "title_zh": "针对 OpenAI 的抗议变得越来越有创意"
+      "published": "Wed, 30 Sep 2026 20:11:08 +0000",
+      "time": 1790799068,
+      "snippet": "So much for Gemini 3.5 Pro.",
+      "title_zh": "谷歌发布 Gemini 4 Argon AI 模型，但你还不能使用它"
     },
     {
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
       "source": "Ars Technica",
-      "published": "Tue, 29 Sep 2026 21:14:49 +0000",
-      "time": 1790716489,
-      "snippet": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-      "title_zh": "AMD 收购 World Labs AI 初创公司，加大对抗 Nvidia 的赌注"
+      "published": "Wed, 30 Sep 2026 19:31:25 +0000",
+      "time": 1790796685,
+      "snippet": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+      "title_zh": "RFK Jr. 认为人工智能将使我们摆脱医学事实和专业知识的“暴政”"
     },
     {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
       "source": "TechCrunch",
-      "published": "Tue, 29 Sep 2026 20:15:47 +0000",
-      "time": 1790712947,
-      "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agen",
-      "title_zh": "OpenAI的最新功能直指应用商店模式"
+      "published": "Wed, 30 Sep 2026 19:00:57 +0000",
+      "time": 1790794857,
+      "snippet": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "title_zh": "OpenAI 的 Jev 克隆可以帮助前沿实验室阻止其蜂拥而至的代理"
     },
     {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+      "source": "Ars Technica",
+      "published": "Wed, 30 Sep 2026 18:47:01 +0000",
+      "time": 1790794021,
+      "snippet": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+      "title_zh": "特朗普应对人工智能风险的计划取决于大型科技公司的自我监管"
+    },
+    {
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "source": "Ars Technica",
+      "published": "Wed, 30 Sep 2026 18:25:04 +0000",
+      "time": 1790792704,
+      "snippet": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+      "title_zh": "因 Hugging Face 黑客攻击而起诉 OpenAI 的非营利组织表示，“人工智能做到了”并不能作为辩护"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
       "source": "TechCrunch",
-      "published": "Tue, 29 Sep 2026 19:52:37 +0000",
-      "time": 1790711557,
-      "snippet": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "title_zh": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金"
+      "published": "Wed, 30 Sep 2026 18:23:57 +0000",
+      "time": 1790792637,
+      "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "title_zh": "AI语音初创公司ElevenLabs估值翻倍至$22B"
     },
     {
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "source": "Ars Technica",
-      "published": "Tue, 29 Sep 2026 18:11:09 +0000",
-      "time": 1790705469,
-      "snippet": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
-      "title_zh": "以下是 OpenAI 澳大利亚政府服务器遭到黑客攻击时实际发生的情况"
-    },
-    {
-      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-      "source": "Ars Technica",
-      "published": "Tue, 29 Sep 2026 14:22:31 +0000",
-      "time": 1790691751,
-      "snippet": "Similar performance, security trade-offs also seen in current public models.",
-      "title_zh": "OpenAI 表示计划中的 GPT-6.1 太不安全，无法发布"
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 30 Sep 2026 10:40:30 +0000",
+      "time": 1790764830,
+      "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting ou",
+      "title_zh": "OpenAI 首席研究官表示，“我们不会因为黑客攻击而搬起石头砸自己的脚”"
     },
     {
       "title": "Making AI an asset, not an expense",
@@ -215,15 +224,6 @@
       "time": 1790678625,
       "snippet": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that ",
       "title_zh": "让人工智能成为一种资产，而不是一种支出"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 28 Sep 2026 22:17:07 +0000",
-      "time": 1790633827,
-      "snippet": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they wil",
-      "title_zh": "圆桌会议：虚拟边界墙的致命失败"
     }
   ]
 }

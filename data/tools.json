@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:44:51+00:00",
+  "generated_at": "2026-10-01T06:11:16+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -15,7 +15,7 @@
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
       "domain": "bastardica.mitpit.com",
-      "points": 860,
+      "points": 861,
       "comments": 123,
       "author": "MitPitt",
       "time": "2026-09-23T22:53:28Z",
@@ -55,7 +55,7 @@
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
       "domain": "github.com",
-      "points": 421,
+      "points": 423,
       "comments": 142,
       "author": "sidharthkmenon",
       "time": "2026-09-24T17:21:36Z",
@@ -65,7 +65,7 @@
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "domain": "github.com",
-      "points": 406,
+      "points": 407,
       "comments": 119,
       "author": "jpwalsh234",
       "time": "2026-09-26T17:10:40Z",
@@ -82,6 +82,16 @@
       "title_zh": "Show HN：Capsule – 将数据保存到 SQLite 的单文件 Web 应用程序"
     },
     {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "domain": "space.bl2.net",
+      "points": 379,
+      "comments": 106,
+      "author": "wanick",
+      "time": "2026-09-29T19:08:01Z",
+      "title_zh": "显示 HN：包含 526k 小行星和所有跟踪卫星的实时太阳系"
+    },
+    {
       "title": "Show HN: Bodily Oddities",
       "url": "https://vester.si/bodily-oddities/",
       "domain": "vester.si",
@@ -95,8 +105,8 @@
       "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "url": "https://loficities.com/",
       "domain": "loficities.com",
-      "points": 314,
-      "comments": 135,
+      "points": 316,
+      "comments": 137,
       "author": "safaelmali",
       "time": "2026-09-27T18:44:30Z",
       "title_zh": "Show HN：Lofi Cities – 像素艺术城市之夜，浏览器生成的 Lofi"
@@ -106,20 +116,10 @@
       "url": "https://jev-pokemon.vercel.app/",
       "domain": "jev-pokemon.vercel.app",
       "points": 281,
-      "comments": 123,
+      "comments": 124,
       "author": "pancomplex",
       "time": "2026-09-25T14:28:07Z",
       "title_zh": "Show HN：Jev 玩神奇宝贝红"
-    },
-    {
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "domain": "github.com",
-      "points": 277,
-      "comments": 81,
-      "author": "volotat",
-      "time": "2026-09-21T04:42:37Z",
-      "title_zh": "Show HN ： Mini-AGI -在8GB VRAM上训练的动态持续学习模型"
     }
   ],
   "hot": [
@@ -174,6 +174,16 @@
       "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
     },
     {
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "domain": "sancho.bearblog.dev",
+      "points": 1991,
+      "comments": 1104,
+      "author": "sancho-panza",
+      "time": "2026-09-27T20:12:54Z",
+      "title_zh": "谷歌什么时候变得这么奇怪了？"
+    },
+    {
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "domain": "typesafe.ai",
@@ -182,16 +192,6 @@
       "author": "albelfio",
       "time": "2026-09-15T19:25:03Z",
       "title_zh": "系统一模型和 Jev 简介"
-    },
-    {
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "domain": "sancho.bearblog.dev",
-      "points": 1964,
-      "comments": 1091,
-      "author": "sancho-panza",
-      "time": "2026-09-27T20:12:54Z",
-      "title_zh": "谷歌什么时候变得这么奇怪了？"
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
@@ -208,7 +208,7 @@
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "domain": "anthropic.com",
       "points": 1806,
-      "comments": 1129,
+      "comments": 1133,
       "author": "km144",
       "time": "2026-09-22T16:29:05Z",
       "title_zh": "近距离工作 5.5"
@@ -217,7 +217,7 @@
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "domain": "openai.com",
-      "points": 1777,
+      "points": 1778,
       "comments": 855,
       "author": "OfficialTurkey",
       "time": "2026-09-22T18:00:34Z",
@@ -237,7 +237,7 @@
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "domain": "f-droid.org",
-      "points": 1463,
+      "points": 1464,
       "comments": 416,
       "author": "daveoc64",
       "time": "2026-09-24T15:26:12Z",
