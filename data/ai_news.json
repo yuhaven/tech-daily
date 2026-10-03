@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T05:54:43+00:00",
+  "generated_at": "2026-10-03T05:29:36+00:00",
   "hn": [
     {
       "id": 49913571,
       "title": "Gemini 4 Argon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "domain": "blog.google",
-      "points": 1646,
-      "comments": 1131,
+      "points": 1684,
+      "comments": 1173,
       "author": "bradleyg223",
       "time": 1790798677,
       "title_zh": "双子座 4 氩"
@@ -17,8 +17,8 @@
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "domain": "blog.cloudflare.com",
-      "points": 474,
-      "comments": 170,
+      "points": 621,
+      "comments": 215,
       "author": "jasondavies",
       "time": 1790871537,
       "title_zh": "Clef：开放权重决策模型和新的 RL 微调平台"
@@ -28,8 +28,8 @@
       "title": "RIP, vector database",
       "url": "https://turbopuffer.com/blog/rip-vector-database",
       "domain": "turbopuffer.com",
-      "points": 300,
-      "comments": 81,
+      "points": 376,
+      "comments": 106,
       "author": "razin",
       "time": 1790870516,
       "title_zh": "RIP，矢量数据库"
@@ -39,8 +39,8 @@
       "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
       "url": "https://bookofshapes.com/",
       "domain": "bookofshapes.com",
-      "points": 259,
-      "comments": 23,
+      "points": 280,
+      "comments": 25,
       "author": "eustoria",
       "time": 1790693782,
       "title_zh": "Book of Shapes – 最小的、生成的和可定制的 SVG 模式的集合"
@@ -50,99 +50,171 @@
       "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
       "url": "https://github.com/maanHimself/OpenDLSS-NR",
       "domain": "github.com",
-      "points": 250,
-      "comments": 118,
+      "points": 267,
+      "comments": 122,
       "author": "sagacity",
       "time": 1790757801,
       "title_zh": "OpenDLSS：Nvidia DLSS 5 神经渲染网络的 Vulkan 重新实现"
     },
     {
-      "id": 49921050,
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "domain": "cnbc.com",
+      "id": 49927747,
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "domain": "chatgpt.com",
+      "points": 242,
+      "comments": 230,
+      "author": "polvi",
+      "time": 1790893341,
+      "title_zh": "ChatGPT 中的站点"
+    },
+    {
+      "id": 49929391,
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "domain": "youtube.com",
+      "points": 209,
+      "comments": 54,
+      "author": "usernomdeguerre",
+      "time": 1790909487,
+      "title_zh": "Greg Kroah-Hartman – LLM 时代的安全 [视频]"
+    },
+    {
+      "id": 49933740,
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "domain": "arstechnica.com",
       "points": 201,
-      "comments": 153,
-      "author": "dgellow",
-      "time": 1790859655,
-      "title_zh": "FTC 正在调查 OpenAI、Anthropic 等人工智能公司的产品风险"
+      "comments": 95,
+      "author": "PaulHoule",
+      "time": 1790950284,
+      "title_zh": "由于隐藏了大部分信息，Stratego 游戏迄今为止一直困扰着 AI"
     },
     {
-      "id": 49911995,
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "domain": "github.com",
-      "points": 191,
-      "comments": 96,
-      "author": "anerli",
-      "time": 1790789860,
-      "title_zh": "推出 HN：Magnitude (YC S25) – 用于代理的自优化推理引擎"
-    },
-    {
-      "id": 49919910,
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "domain": "news.synopsys.com",
-      "points": 176,
-      "comments": 106,
-      "author": "giuliomagnifico",
-      "time": 1790850096,
-      "title_zh": "GPT-Synopsys：前沿智能革新芯片设计"
-    },
-    {
-      "id": 49908962,
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-      "domain": "alphapixeldev.com",
-      "points": 176,
-      "comments": 71,
-      "author": "ibobev",
-      "time": 1790776250,
-      "title_zh": "SDF、MSDF 与 Slug：GPU 文本渲染"
-    },
-    {
-      "id": 49905644,
-      "title": "Doing a Machine Learning PhD While Working in Japan",
-      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "domain": "tokyodev.com",
-      "points": 141,
-      "comments": 43,
-      "author": "pwim",
-      "time": 1790753625,
-      "title_zh": "在日本工作期间攻读机器学习博士学位"
-    },
-    {
-      "id": 49922437,
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
-      "domain": "arxiv.org",
-      "points": 133,
-      "comments": 29,
-      "author": "emersonmacro",
-      "time": 1790866293,
-      "title_zh": "语境语言模型"
+      "id": 49936575,
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "domain": "dwarfstar.sh",
+      "points": 197,
+      "comments": 56,
+      "author": "fibo",
+      "time": 1790964076,
+      "title_zh": "来自Redis的创建者；使用 ds4 在本地运行 LLM"
     },
     {
       "id": 49924618,
       "title": "Vote on which of Hacker News' challenges for AI have been met",
       "url": "https://stoppels.ch/goalposts/",
       "domain": "stoppels.ch",
-      "points": 121,
-      "comments": 125,
+      "points": 196,
+      "comments": 259,
       "author": "stabbles",
       "time": 1790875963,
       "title_zh": "投票选出《黑客新闻》针对人工智能提出的哪些挑战已得到解决"
+    },
+    {
+      "id": 49919910,
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "domain": "news.synopsys.com",
+      "points": 186,
+      "comments": 111,
+      "author": "giuliomagnifico",
+      "time": 1790850096,
+      "title_zh": "GPT-Synopsys：前沿智能革新芯片设计"
+    },
+    {
+      "id": 49922437,
+      "title": "Context Language Models",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "domain": "arxiv.org",
+      "points": 170,
+      "comments": 49,
+      "author": "emersonmacro",
+      "time": 1790866293,
+      "title_zh": "语境语言模型"
     }
   ],
   "media": [
     {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "source": "TechCrunch",
-      "published": "Thu, 01 Oct 2026 21:08:11 +0000",
-      "time": 1790888891,
-      "snippet": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "title_zh": "据报道，马斯克的人工智能聊天机器人 Grok 鼓励特朗普捕获委内瑞拉总统"
+      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "time": 1790988339,
+      "snippet": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "title_zh": "Meta 希望您的下一个小工具融入 Muse"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0000",
+      "time": 1790982196,
+      "snippet": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "title_zh": "苹果更改全磁盘访问权限以遏制人工智能代理的滥用"
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "published": "Fri, 02 Oct 2026 21:09:14 +0000",
+      "time": 1790975354,
+      "snippet": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "title_zh": "肖恩·帕克正在围绕音乐重建稳定性人工智能"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch",
+      "published": "Fri, 02 Oct 2026 19:15:51 +0000",
+      "time": 1790968551,
+      "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "title_zh": "受裁员影响？不要错过购买 TechCrunch Disrupt 2026 Expo+ 通行证的 75 美元优惠"
+    },
+    {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "source": "Ars Technica",
+      "published": "Fri, 02 Oct 2026 18:39:36 +0000",
+      "time": 1790966376,
+      "snippet": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+      "title_zh": "美国逮捕科技公司首席执行官，指控其向中国走私价值 3 亿美元的 Nvidia 芯片"
+    },
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch",
+      "published": "Fri, 02 Oct 2026 18:11:27 +0000",
+      "time": 1790964687,
+      "snippet": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and b",
+      "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制"
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 02 Oct 2026 15:49:04 +0000",
+      "time": 1790956144,
+      "snippet": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfor",
+      "title_zh": "通过自主人工智能重新定义企业智能"
+    },
+    {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "source": "Ars Technica",
+      "published": "Fri, 02 Oct 2026 14:52:16 +0000",
+      "time": 1790952736,
+      "snippet": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "title_zh": "由于人工智能，已有 7 年历史的 Nvidia Shield TV 现在贵了 100 美元"
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "time": 1790928000,
+      "snippet": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in ",
+      "title_zh": "不要被愚弄——法学硕士不会推理"
     },
     {
       "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
@@ -152,78 +224,6 @@
       "time": 1790885515,
       "snippet": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
       "title_zh": "法官驳回 Chegg 和 Penske 针对 Google AI 搜索的反垄断诉讼"
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "source": "TechCrunch",
-      "published": "Thu, 01 Oct 2026 19:21:53 +0000",
-      "time": 1790882513,
-      "snippet": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites l",
-      "title_zh": "ChatGPT 现在可以为您虚拟试衣"
-    },
-    {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch",
-      "published": "Thu, 01 Oct 2026 19:18:03 +0000",
-      "time": 1790882283,
-      "snippet": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "title_zh": "谷歌认为 SpaceX 的星际飞船必须发射 1800 次才能让太空数据中心落地"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch",
-      "published": "Thu, 01 Oct 2026 18:14:42 +0000",
-      "time": 1790878482,
-      "snippet": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "title_zh": "据《华尔街日报》报道，OpenAI 与 3 名安全研究人员断绝关系"
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI—until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "source": "Ars Technica",
-      "published": "Thu, 01 Oct 2026 16:28:04 +0000",
-      "time": 1790872084,
-      "snippet": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "title_zh": "由于隐藏了大部分信息，Stratego 游戏一直困扰着人工智能——直到现在"
-    },
-    {
-      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "source": "Ars Technica",
-      "published": "Wed, 30 Sep 2026 20:11:08 +0000",
-      "time": 1790799068,
-      "snippet": "So much for Gemini 3.5 Pro.",
-      "title_zh": "谷歌发布 Gemini 4 Argon AI 模型，但你还不能使用它"
-    },
-    {
-      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-      "source": "Ars Technica",
-      "published": "Wed, 30 Sep 2026 19:31:25 +0000",
-      "time": 1790796685,
-      "snippet": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
-      "title_zh": "RFK Jr. 认为人工智能将使我们摆脱医学事实和专业知识的“暴政”"
-    },
-    {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Tech Review",
-      "published": "Wed, 30 Sep 2026 10:40:30 +0000",
-      "time": 1790764830,
-      "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting ou",
-      "title_zh": "OpenAI 首席研究官表示，“我们不会因为黑客攻击而搬起石头砸自己的脚”"
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 29 Sep 2026 10:43:45 +0000",
-      "time": 1790678625,
-      "snippet": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that ",
-      "title_zh": "让人工智能成为一种资产，而不是一种支出"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:54:44+00:00",
+  "generated_at": "2026-10-03T05:29:37+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -15,7 +15,7 @@
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
       "domain": "bastardica.mitpit.com",
-      "points": 861,
+      "points": 862,
       "comments": 123,
       "author": "MitPitt",
       "time": "2026-09-23T22:53:28Z",
@@ -65,7 +65,7 @@
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "domain": "github.com",
-      "points": 409,
+      "points": 411,
       "comments": 119,
       "author": "jpwalsh234",
       "time": "2026-09-26T17:10:40Z",
@@ -75,8 +75,8 @@
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
       "url": "https://space.bl2.net/",
       "domain": "space.bl2.net",
-      "points": 399,
-      "comments": 107,
+      "points": 402,
+      "comments": 110,
       "author": "wanick",
       "time": "2026-09-29T19:08:01Z",
       "title_zh": "显示 HN：包含 526k 小行星和所有跟踪卫星的实时太阳系"
@@ -105,8 +105,8 @@
       "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "url": "https://loficities.com/",
       "domain": "loficities.com",
-      "points": 316,
-      "comments": 137,
+      "points": 317,
+      "comments": 138,
       "author": "safaelmali",
       "time": "2026-09-27T18:44:30Z",
       "title_zh": "Show HN：Lofi Cities – 像素艺术城市之夜，浏览器生成的 Lofi"
@@ -177,8 +177,8 @@
       "title": "When did Google get so weird?",
       "url": "https://sancho.bearblog.dev/google-weird/",
       "domain": "sancho.bearblog.dev",
-      "points": 2002,
-      "comments": 1110,
+      "points": 2005,
+      "comments": 1116,
       "author": "sancho-panza",
       "time": "2026-09-27T20:12:54Z",
       "title_zh": "谷歌什么时候变得这么奇怪了？"
@@ -227,21 +227,21 @@
       "title": "Gemini 4 Argon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "domain": "blog.google",
-      "points": 1646,
-      "comments": 1131,
+      "points": 1684,
+      "comments": 1173,
       "author": "bradleyg223",
       "time": "2026-09-30T20:04:37Z",
       "title_zh": "双子座 4 氩"
     },
     {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "domain": "apple.com",
-      "points": 1485,
-      "comments": 2545,
-      "author": "thecosmicfrog",
-      "time": "2026-09-09T18:15:43Z",
-      "title_zh": "iPhone Duo"
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "domain": "earendil.com",
+      "points": 1649,
+      "comments": 577,
+      "author": "sergiotapia",
+      "time": "2026-10-01T19:33:05Z",
+      "title_zh": "圆周率1.0"
     }
   ]
 }
