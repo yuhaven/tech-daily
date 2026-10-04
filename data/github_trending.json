@@ -1,41 +1,14 @@
 {
-  "generated_at": "2026-10-03T05:29:33+00:00",
+  "generated_at": "2026-10-04T06:04:04+00:00",
   "data": {
     "daily": [
-      {
-        "full_name": "Panniantong/Agent-Reach",
-        "url": "/Panniantong/Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "stars_today": 696,
-        "stars_total": 88920,
-        "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
-      },
-      {
-        "full_name": "JuliusBrussee/caveman",
-        "url": "/JuliusBrussee/caveman",
-        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-        "language": "Go",
-        "stars_today": 209,
-        "stars_total": 109182,
-        "description_zh": "🪨 当很少的令牌可以欺骗时为什么要使用很多令牌。病毒式技能 + 编码代理的代理，通过像穴居人一样说话来减少 65% 的代币。"
-      },
-      {
-        "full_name": "obra/superpowers",
-        "url": "/obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars_today": 556,
-        "stars_total": 294535,
-        "description_zh": "有效的代理技能框架和软件开发方法。"
-      },
       {
         "full_name": "DietrichGebert/ponytail",
         "url": "/DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "language": "JavaScript",
-        "stars_today": 1435,
-        "stars_total": 152007,
+        "stars_today": 1281,
+        "stars_total": 153729,
         "description_zh": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。"
       },
       {
@@ -43,72 +16,99 @@
         "url": "/pbakaus/impeccable",
         "description": "The design language that makes your AI harness better at design.",
         "language": "JavaScript",
-        "stars_today": 722,
-        "stars_total": 74452,
+        "stars_today": 699,
+        "stars_total": 75507,
         "description_zh": "使您的 AI 线束在设计上更加出色的设计语言。"
+      },
+      {
+        "full_name": "affaan-m/ECC",
+        "url": "/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars_today": 897,
+        "stars_total": 272393,
+        "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
+      },
+      {
+        "full_name": "Effect-TS/effect",
+        "url": "/Effect-TS/effect",
+        "description": "Build production-ready applications in TypeScript",
+        "language": "TypeScript",
+        "stars_today": 302,
+        "stars_total": 16875,
+        "description_zh": "在 TypeScript 中构建生产就绪的应用程序"
+      },
+      {
+        "full_name": "JuliusBrussee/caveman",
+        "url": "/JuliusBrussee/caveman",
+        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "language": "Go",
+        "stars_today": 507,
+        "stars_total": 109608,
+        "description_zh": "🪨 当很少的令牌可以欺骗时为什么要使用很多令牌。病毒式技能 + 编码代理的代理，通过像穴居人一样说话来减少 65% 的代币。"
+      },
+      {
+        "full_name": "Panniantong/Agent-Reach",
+        "url": "/Panniantong/Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars_today": 1696,
+        "stars_total": 90018,
+        "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      },
+      {
+        "full_name": "pingdotgg/t3code",
+        "url": "/pingdotgg/t3code",
+        "description": "",
+        "language": "TypeScript",
+        "stars_today": 252,
+        "stars_total": 24785,
+        "description_zh": null
+      },
+      {
+        "full_name": "thedotmack/claude-mem",
+        "url": "/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars_today": 79,
+        "stars_total": 95696,
+        "description_zh": "每个座席跨会话的持久上下文 – 捕获座席在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
+      },
+      {
+        "full_name": "cloudflare/cloudflare-os",
+        "url": "/cloudflare/cloudflare-os",
+        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+        "language": "TypeScript",
+        "stars_today": 85,
+        "stars_total": 10631,
+        "description_zh": "基于 Cloudflare Workers 构建的代理工作区，用于根据公司的环境和系统创建文档、构建应用程序以及运行代理。"
+      },
+      {
+        "full_name": "addyosmani/agent-skills",
+        "url": "/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars_today": 252,
+        "stars_total": 100908,
+        "description_zh": "AI 编码代理的生产级工程技能。"
+      },
+      {
+        "full_name": "obra/superpowers",
+        "url": "/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars_today": 577,
+        "stars_total": 294977,
+        "description_zh": "有效的代理技能框架和软件开发方法。"
       },
       {
         "full_name": "mattpocock/skills",
         "url": "/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
-        "stars_today": 955,
-        "stars_total": 274824,
+        "stars_today": 751,
+        "stars_total": 275484,
         "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
-      },
-      {
-        "full_name": "NVIDIA/OpenShell",
-        "url": "/NVIDIA/OpenShell",
-        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "language": "Rust",
-        "stars_today": 594,
-        "stars_total": 14493,
-        "description_zh": "OpenShell 是自主 AI 代理的安全、私有运行时。"
-      },
-      {
-        "full_name": "coreyhaines31/marketingskills",
-        "url": "/coreyhaines31/marketingskills",
-        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "language": "JavaScript",
-        "stars_today": 140,
-        "stars_total": 52475,
-        "description_zh": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
-      },
-      {
-        "full_name": "heygen-com/hyperframes",
-        "url": "/heygen-com/hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "language": "TypeScript",
-        "stars_today": 580,
-        "stars_total": 55976,
-        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
-      },
-      {
-        "full_name": "mksglu/context-mode",
-        "url": "/mksglu/context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars_today": 282,
-        "stars_total": 25083,
-        "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
-      },
-      {
-        "full_name": "google/skills",
-        "url": "/google/skills",
-        "description": "Agent Skills for Google products and technologies",
-        "language": "Python",
-        "stars_today": 39,
-        "stars_total": 20804,
-        "description_zh": "Google 产品和技术的代理技能"
-      },
-      {
-        "full_name": "getsentry/sentry",
-        "url": "/getsentry/sentry",
-        "description": "Developer-first error tracking and performance monitoring",
-        "language": "Python",
-        "stars_today": 16,
-        "stars_total": 45063,
-        "description_zh": "开发人员优先的错误跟踪和性能监控"
       }
     ],
     "weekly": [
@@ -117,8 +117,8 @@
         "url": "/paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "language": "TypeScript",
-        "stars_today": 12825,
-        "stars_total": 96391,
+        "stars_today": 10722,
+        "stars_total": 96821,
         "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
       },
       {
@@ -126,8 +126,8 @@
         "url": "/vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "language": "Python",
-        "stars_today": 16183,
-        "stars_total": 44775,
+        "stars_today": 14507,
+        "stars_total": 45190,
         "description_zh": "事后诸葛亮：智能体的学习记忆"
       },
       {
@@ -135,90 +135,90 @@
         "url": "/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_today": 16475,
-        "stars_total": 52028,
+        "stars_today": 16775,
+        "stars_total": 52730,
         "description_zh": "VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。"
-      },
-      {
-        "full_name": "rohitg00/ai-engineering-from-scratch",
-        "url": "/rohitg00/ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars_today": 5600,
-        "stars_total": 62735,
-        "description_zh": "学习它。建造它。寄给别人。"
-      },
-      {
-        "full_name": "flutter/flutter",
-        "url": "/flutter/flutter",
-        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "language": "Dart",
-        "stars_today": 228,
-        "stars_total": 179268,
-        "description_zh": "Flutter 让您可以轻松快速地为移动设备及其他领域构建精美的应用程序"
       },
       {
         "full_name": "pbakaus/impeccable",
         "url": "/pbakaus/impeccable",
         "description": "The design language that makes your AI harness better at design.",
         "language": "JavaScript",
-        "stars_today": 3124,
-        "stars_total": 74452,
+        "stars_today": 3311,
+        "stars_total": 75507,
         "description_zh": "使您的 AI 线束在设计上更加出色的设计语言。"
       },
       {
-        "full_name": "vercel/next.js",
-        "url": "/vercel/next.js",
-        "description": "The React Framework",
-        "language": "JavaScript",
-        "stars_today": 658,
-        "stars_total": 143020,
-        "description_zh": "反应框架"
-      },
-      {
-        "full_name": "alirezarezvani/claude-skills",
-        "url": "/alirezarezvani/claude-skills",
-        "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+        "full_name": "rohitg00/ai-engineering-from-scratch",
+        "url": "/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
         "language": "Python",
-        "stars_today": 832,
-        "stars_total": 27351,
-        "description_zh": "380 个 Claude Code 技能和代理技能和插件（30 多个代理、70 多个自定义命令、380 多个技能、可自定义参考、脚本），适用于 Claude Code、Codex、Gemini CLI、Cursor 和另外 8 个编码代理 — 工程、营销、产品、合规性、C 级咨询、研究、业务运营、商业和财务以及您的日常生产力技能。"
+        "stars_today": 5059,
+        "stars_total": 63290,
+        "description_zh": "学习它。建造它。寄给别人。"
       },
       {
         "full_name": "heygen-com/hyperframes",
         "url": "/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
-        "stars_today": 2661,
-        "stars_total": 55976,
+        "stars_today": 3011,
+        "stars_total": 56366,
         "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
+      },
+      {
+        "full_name": "vercel/next.js",
+        "url": "/vercel/next.js",
+        "description": "The React Framework",
+        "language": "JavaScript",
+        "stars_today": 678,
+        "stars_total": 143104,
+        "description_zh": "反应框架"
+      },
+      {
+        "full_name": "Effect-TS/effect",
+        "url": "/Effect-TS/effect",
+        "description": "Build production-ready applications in TypeScript",
+        "language": "TypeScript",
+        "stars_today": 466,
+        "stars_total": 16875,
+        "description_zh": "在 TypeScript 中构建生产就绪的应用程序"
+      },
+      {
+        "full_name": "alirezarezvani/claude-skills",
+        "url": "/alirezarezvani/claude-skills",
+        "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+        "language": "Python",
+        "stars_today": 948,
+        "stars_total": 27513,
+        "description_zh": "380 个 Claude Code 技能和代理技能和插件（30 多个代理、70 多个自定义命令、380 多个技能、可自定义参考、脚本），适用于 Claude Code、Codex、Gemini CLI、Cursor 和另外 8 个编码代理 — 工程、营销、产品、合规性、C 级咨询、研究、业务运营、商业和财务以及您的日常生产力技能。"
+      },
+      {
+        "full_name": "flutter/flutter",
+        "url": "/flutter/flutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "stars_today": 266,
+        "stars_total": 179319,
+        "description_zh": "Flutter 让您可以轻松快速地为移动设备及其他领域构建精美的应用程序"
+      },
+      {
+        "full_name": "Panniantong/Agent-Reach",
+        "url": "/Panniantong/Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars_today": 3952,
+        "stars_total": 90018,
+        "description_zh": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
       },
       {
         "full_name": "TencentCloud/Octop",
         "url": "/TencentCloud/Octop",
         "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "language": "Python",
-        "stars_today": 1425,
-        "stars_total": 6427,
+        "stars_today": 1476,
+        "stars_total": 6620,
         "description_zh": "更智能、自托管的人工智能助手——多用户、多代理。"
-      },
-      {
-        "full_name": "google/ax",
-        "url": "/google/ax",
-        "description": "Google's open agentic orchestration runtime",
-        "language": "Go",
-        "stars_today": 1783,
-        "stars_total": 12934,
-        "description_zh": "Google 的开放代理编排运行时"
-      },
-      {
-        "full_name": "anthropics/financial-services",
-        "url": "/anthropics/financial-services",
-        "description": "",
-        "language": "Python",
-        "stars_today": 1073,
-        "stars_total": 38567,
-        "description_zh": null
       }
     ],
     "monthly": [
@@ -227,8 +227,8 @@
         "url": "/bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "language": "JavaScript",
-        "stars_today": 31110,
-        "stars_total": 46654,
+        "stars_today": 30444,
+        "stars_total": 47147,
         "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
       },
       {
@@ -236,8 +236,8 @@
         "url": "/alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
-        "stars_today": 21821,
-        "stars_total": 43389,
+        "stars_today": 21959,
+        "stars_total": 43568,
         "description_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
       },
       {
@@ -245,8 +245,8 @@
         "url": "/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "stars_today": 26490,
-        "stars_total": 271479,
+        "stars_today": 26724,
+        "stars_total": 272393,
         "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
       },
       {
@@ -254,8 +254,8 @@
         "url": "/ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "language": "Python",
-        "stars_today": 26537,
-        "stars_total": 52995,
+        "stars_today": 26497,
+        "stars_total": 53223,
         "description_zh": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
       },
       {
@@ -263,62 +263,53 @@
         "url": "/Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "language": "Go",
-        "stars_today": 10794,
-        "stars_total": 31799,
+        "stars_today": 10856,
+        "stars_total": 31924,
         "description_zh": "开源LLM知识平台：将原始文档变成可查询的RAG、自主推理代理和自我维护的Wiki。"
-      },
-      {
-        "full_name": "tt-a1i/archify",
-        "url": "/tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "JavaScript",
-        "stars_today": 33363,
-        "stars_total": 76356,
-        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
-      },
-      {
-        "full_name": "paperclipai/paperclip",
-        "url": "/paperclipai/paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "language": "TypeScript",
-        "stars_today": 16583,
-        "stars_total": 96391,
-        "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
-      },
-      {
-        "full_name": "anthropics/financial-services",
-        "url": "/anthropics/financial-services",
-        "description": "",
-        "language": "Python",
-        "stars_today": 3991,
-        "stars_total": 38567,
-        "description_zh": null
       },
       {
         "full_name": "mksglu/context-mode",
         "url": "/mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "language": "TypeScript",
-        "stars_today": 4728,
-        "stars_total": 25083,
+        "stars_today": 4978,
+        "stars_total": 25291,
         "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
       },
       {
-        "full_name": "superdesigndev/treg",
-        "url": "/superdesigndev/treg",
-        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "full_name": "anthropics/financial-services",
+        "url": "/anthropics/financial-services",
+        "description": "",
         "language": "Python",
-        "stars_today": 3055,
-        "stars_total": 4061,
-        "description_zh": "用于代理工具的 OpenRouter。在此加入社区：https://discord.gg/6mQYYfFMAn"
+        "stars_today": 4082,
+        "stars_total": 38664,
+        "description_zh": null
+      },
+      {
+        "full_name": "paperclipai/paperclip",
+        "url": "/paperclipai/paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "stars_today": 17030,
+        "stars_total": 96821,
+        "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
+      },
+      {
+        "full_name": "tt-a1i/archify",
+        "url": "/tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "stars_today": 31939,
+        "stars_total": 76831,
+        "description_zh": "美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。"
       },
       {
         "full_name": "vectorize-io/hindsight",
         "url": "/vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "language": "Python",
-        "stars_today": 22756,
-        "stars_total": 44775,
+        "stars_today": 23065,
+        "stars_total": 45190,
         "description_zh": "事后诸葛亮：智能体的学习记忆"
       },
       {
@@ -326,9 +317,18 @@
         "url": "/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
-        "stars_today": 12185,
-        "stars_total": 55976,
+        "stars_today": 12634,
+        "stars_total": 56366,
         "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
+      },
+      {
+        "full_name": "anthropics/claude-code",
+        "url": "/anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "stars_today": 5841,
+        "stars_total": 149278,
+        "description_zh": "Claude Code 是一种代理编码工具，它位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理 git 工作流程来帮助您更快地编码 - 所有这些都通过自然语言命令进行。"
       }
     ]
   }
