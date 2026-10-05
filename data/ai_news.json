@@ -1,140 +1,167 @@
 {
-  "generated_at": "2026-10-04T06:04:06+00:00",
+  "generated_at": "2026-10-05T05:56:38+00:00",
   "hn": [
     {
       "id": 49913571,
       "title": "Gemini 4 Argon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "domain": "blog.google",
-      "points": 1695,
-      "comments": 1180,
+      "points": 1698,
+      "comments": 1185,
       "author": "bradleyg223",
       "time": 1790798677,
       "title_zh": "双子座 4 氩"
     },
     {
-      "id": 49923692,
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "domain": "blog.cloudflare.com",
-      "points": 628,
-      "comments": 217,
-      "author": "jasondavies",
-      "time": 1790871537,
-      "title_zh": "Clef：开放权重决策模型和新的 RL 微调平台"
+      "id": 49944227,
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "domain": "theatlantic.com",
+      "points": 467,
+      "comments": 782,
+      "author": "Brajeshwar",
+      "time": 1791035194,
+      "title_zh": "我退出 OpenAI 因为它的文化已经被打破"
     },
     {
       "id": 49923466,
       "title": "RIP, vector database",
       "url": "https://turbopuffer.com/blog/rip-vector-database",
       "domain": "turbopuffer.com",
-      "points": 386,
+      "points": 394,
       "comments": 116,
       "author": "razin",
       "time": 1790870516,
       "title_zh": "RIP，矢量数据库"
     },
     {
-      "id": 49936575,
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "domain": "dwarfstar.sh",
-      "points": 345,
-      "comments": 98,
-      "author": "fibo",
-      "time": 1790964076,
-      "title_zh": "来自Redis的创建者；使用 ds4 在本地运行 LLM"
+      "id": 49946228,
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "domain": "fortune.com",
+      "points": 393,
+      "comments": 735,
+      "author": "Anon84",
+      "time": 1791049469,
+      "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”"
     },
     {
-      "id": 49927747,
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "domain": "chatgpt.com",
-      "points": 344,
-      "comments": 334,
-      "author": "polvi",
-      "time": 1790893341,
-      "title_zh": "ChatGPT 中的站点"
+      "id": 49945933,
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "domain": "liao.gg",
+      "points": 357,
+      "comments": 254,
+      "author": "kmeh",
+      "time": 1791047017,
+      "title_zh": "代理不需要记忆，他们需要文档"
     },
     {
-      "id": 49929391,
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "domain": "youtube.com",
-      "points": 328,
-      "comments": 118,
-      "author": "usernomdeguerre",
-      "time": 1790909487,
-      "title_zh": "Greg Kroah-Hartman – LLM 时代的安全 [视频]"
+      "id": 49950052,
+      "title": "Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "domain": "nytimes.com",
+      "points": 159,
+      "comments": 409,
+      "author": "bookofjoe",
+      "time": 1791081262,
+      "title_zh": "宗教学者会见人类"
     },
     {
-      "id": 49894430,
-      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
-      "url": "https://bookofshapes.com/",
-      "domain": "bookofshapes.com",
-      "points": 283,
-      "comments": 25,
-      "author": "eustoria",
-      "time": 1790693782,
-      "title_zh": "Book of Shapes – 最小的、生成的和可定制的 SVG 模式的集合"
-    },
-    {
-      "id": 49933740,
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "domain": "arstechnica.com",
-      "points": 280,
-      "comments": 144,
-      "author": "PaulHoule",
-      "time": 1790950284,
-      "title_zh": "由于隐藏了大部分信息，Stratego 游戏迄今为止一直困扰着 AI"
-    },
-    {
-      "id": 49906100,
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "id": 49937916,
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
       "domain": "github.com",
-      "points": 272,
-      "comments": 125,
-      "author": "sagacity",
-      "time": 1790757801,
-      "title_zh": "OpenDLSS：Nvidia DLSS 5 神经渲染网络的 Vulkan 重新实现"
+      "points": 154,
+      "comments": 50,
+      "author": "antelocnova",
+      "time": 1790971215,
+      "title_zh": "Show HN：制作了一个开源乐高人工智能生成器"
     },
     {
-      "id": 49924618,
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
-      "domain": "stoppels.ch",
-      "points": 201,
-      "comments": 267,
-      "author": "stabbles",
-      "time": 1790875963,
-      "title_zh": "投票选出《黑客新闻》针对人工智能提出的哪些挑战已得到解决"
+      "id": 49952111,
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "domain": "github.com",
+      "points": 149,
+      "comments": 67,
+      "author": "allenleee",
+      "time": 1791105892,
+      "title_zh": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频"
     },
     {
-      "id": 49946567,
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "domain": "claude.dev",
-      "points": 200,
-      "comments": 138,
-      "author": "saikatsg",
-      "time": 1791052170,
-      "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5"
+      "id": 49937304,
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "url": "https://pipod.dev/",
+      "domain": "pipod.dev",
+      "points": 114,
+      "comments": 47,
+      "author": "edverma2",
+      "time": 1790968238,
+      "title_zh": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理"
     },
     {
-      "id": 49919910,
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "domain": "news.synopsys.com",
-      "points": 189,
-      "comments": 111,
-      "author": "giuliomagnifico",
-      "time": 1790850096,
-      "title_zh": "GPT-Synopsys：前沿智能革新芯片设计"
+      "id": 49951891,
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "domain": "youtube.com",
+      "points": 72,
+      "comments": 22,
+      "author": "simonjgreen",
+      "time": 1791103318,
+      "title_zh": "如何利用 AI 来衡量意图、质量和艺术性 [视频]"
+    },
+    {
+      "id": 49935097,
+      "title": "gpuvis: GPU Trace Visualizer",
+      "url": "https://github.com/mikesart/gpuvis",
+      "domain": "github.com",
+      "points": 71,
+      "comments": 10,
+      "author": "luu",
+      "time": 1790957088,
+      "title_zh": "gpuvis：GPU 跟踪可视化工具"
+    },
+    {
+      "id": 49957117,
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "domain": "youtube.com",
+      "points": 66,
+      "comments": 30,
+      "author": "signa11",
+      "time": 1791142945,
+      "title_zh": "Homa：AI 集群 TCP 的终结 [视频]"
     }
   ],
   "media": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "time": 1791145867,
+      "snippet": "AI slop seems to be overwhelming bug bounty programs.",
+      "title_zh": "由于人工智能提交量“显着增加”，谷歌冻结了其开源漏洞赏金计划"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch",
+      "published": "Sun, 04 Oct 2026 20:08:34 +0000",
+      "time": 1791144514,
+      "snippet": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "title_zh": "“超级智能”和不具约束力的安全协议能否解决人工智能的形象问题？"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TechCrunch",
+      "published": "Sun, 04 Oct 2026 15:15:10 +0000",
+      "time": 1791126910,
+      "snippet": "This new task force is Trump's latest response to the debate over AI safety.",
+      "title_zh": "特朗普推出新的超级情报部队"
+    },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
@@ -143,33 +170,6 @@
       "time": 1791053037,
       "snippet": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
       "title_zh": "亚马逊回应数据中心的强烈反对，表示不再使用保密协议"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch",
-      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "time": 1791045001,
-      "snippet": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "title_zh": "OpenAI 安全员工辞职，声称公司“文化被破坏”"
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "time": 1791036000,
-      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "title_zh": "所有可以存在于你的短信中的人工智能代理"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch",
-      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
-      "time": 1790988339,
-      "snippet": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "title_zh": "Meta 希望您的下一个小工具融入 Muse"
     },
     {
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -217,13 +217,13 @@
       "title_zh": "不要被愚弄——法学硕士不会推理"
     },
     {
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "source": "Ars Technica",
-      "published": "Thu, 01 Oct 2026 20:11:55 +0000",
-      "time": 1790885515,
-      "snippet": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-      "title_zh": "法官驳回 Chegg 和 Penske 针对 Google AI 搜索的反垄断诉讼"
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 30 Sep 2026 10:40:30 +0000",
+      "time": 1790764830,
+      "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting ou",
+      "title_zh": "OpenAI 首席研究官表示，“我们不会因为黑客攻击而搬起石头砸自己的脚”"
     }
   ]
 }
