@@ -1,24 +1,46 @@
 {
-  "generated_at": "2026-10-06T06:34:47+00:00",
+  "generated_at": "2026-10-07T06:12:37+00:00",
   "hn": [
+    {
+      "id": 49977979,
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "domain": "mistral.ai",
+      "points": 1691,
+      "comments": 1004,
+      "author": "Philpax",
+      "time": 1791292549,
+      "title_zh": "米斯特拉尔大 4"
+    },
     {
       "id": 49961057,
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "domain": "techspot.com",
-      "points": 673,
-      "comments": 520,
+      "points": 814,
+      "comments": 656,
       "author": "emptybits",
       "time": 1791178660,
       "title_zh": "人类向警方报告日记条目，女子面临重罪指控"
+    },
+    {
+      "id": 49984923,
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "domain": "openai.com",
+      "points": 714,
+      "comments": 647,
+      "author": "OfficialTurkey",
+      "time": 1791325041,
+      "title_zh": "分享AI数学进展"
     },
     {
       "id": 49971846,
       "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
       "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
       "domain": "niemanlab.org",
-      "points": 380,
-      "comments": 274,
+      "points": 546,
+      "comments": 408,
       "author": "rdmuser",
       "time": 1791240405,
       "title_zh": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中"
@@ -28,113 +50,145 @@
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "domain": "vals.ai",
-      "points": 297,
-      "comments": 196,
+      "points": 482,
+      "comments": 327,
       "author": "outlier99",
       "time": 1791234021,
       "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物"
     },
     {
-      "id": 49968105,
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-      "domain": "diff.wikimedia.org",
-      "points": 271,
-      "comments": 180,
-      "author": "brokensegue",
-      "time": 1791222815,
-      "title_zh": "维基媒体项目中发现 OpenAI“流氓”代理活动"
-    },
-    {
-      "id": 49952111,
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "domain": "github.com",
-      "points": 165,
-      "comments": 73,
-      "author": "allenleee",
-      "time": 1791105892,
-      "title_zh": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频"
-    },
-    {
-      "id": 49933476,
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "domain": "developers.redhat.com",
-      "points": 155,
-      "comments": 70,
-      "author": "tomncooper",
-      "time": 1790948861,
-      "title_zh": "像 Jev 这样的决策模型无法击败法学硕士法官或传统分类器"
+      "id": 49980487,
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "domain": "blog.google",
+      "points": 288,
+      "comments": 31,
+      "author": "ilreb",
+      "time": 1791302629,
+      "title_zh": "EmbeddingGemma 2：开放、轻量级的多模态嵌入模型"
     },
     {
       "id": 49970871,
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
       "domain": "qlabs.sh",
-      "points": 149,
-      "comments": 35,
+      "points": 276,
+      "comments": 80,
       "author": "E-Reverance",
       "time": 1791234907,
       "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer"
     },
     {
-      "id": 49951891,
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "domain": "youtube.com",
-      "points": 99,
-      "comments": 47,
-      "author": "simonjgreen",
-      "time": 1791103318,
-      "title_zh": "如何利用 AI 来衡量意图、质量和艺术性 [视频]"
+      "id": 49980715,
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "domain": "github.com",
+      "points": 268,
+      "comments": 324,
+      "author": "fsbonetto",
+      "time": 1791303805,
+      "title_zh": "OpenTPU – 由 AI 开发的开源人工智能加速器"
     },
     {
-      "id": 49930872,
-      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-      "domain": "lenfestinstitute.org",
-      "points": 84,
-      "comments": 30,
-      "author": "giuliomagnifico",
-      "time": 1790926815,
-      "title_zh": "《费城问询报》构建了 Scrape，一种用于显示超本地化新闻的人工智能工具"
+      "id": 49981905,
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "domain": "zohaib.cc",
+      "points": 165,
+      "comments": 88,
+      "author": "zed_labs_dev",
+      "time": 1791309634,
+      "title_zh": "Claude Code建议的留言功能：我认为真正的顾客是模特"
     },
     {
-      "id": 49972419,
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "domain": "edworkingpapers.com",
-      "points": 61,
-      "comments": 51,
-      "author": "bryan0",
-      "time": 1791244845,
-      "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导"
+      "id": 49984716,
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "domain": "penguin-mail.com",
+      "points": 143,
+      "comments": 65,
+      "author": "kavourias",
+      "time": 1791323983,
+      "title_zh": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端"
     },
     {
-      "id": 49971473,
-      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
-      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+      "id": 49981197,
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
       "domain": "techspot.com",
-      "points": 53,
-      "comments": 44,
-      "author": "hefner1456",
-      "time": 1791237695,
-      "title_zh": "工程师称克劳德·科德让他的工作“吸走了灵魂”"
+      "points": 120,
+      "comments": 121,
+      "author": "healsdata",
+      "time": 1791306112,
+      "title_zh": "犹他州将让人工智能在无人监督的情况下检查患者并开药"
     },
     {
-      "id": 49968947,
-      "title": "A Series of Unfortunate Events for OpenAI Users",
-      "url": "https://insufferable.dev/posts/a-series-of-unfortunate-events-for-openai-users/",
-      "domain": "insufferable.dev",
-      "points": 33,
-      "comments": 2,
-      "author": "garo-pro",
-      "time": 1791226706,
-      "title_zh": "OpenAI 用户的一系列不幸事件"
+      "id": 49977689,
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "domain": "erdosproblems.com",
+      "points": 99,
+      "comments": 39,
+      "author": "pfdietz",
+      "time": 1791291238,
+      "title_zh": "Erdosproblems.com 屈服于人工智能的攻击"
     }
   ],
   "media": [
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "source": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 22:34:03 +0000",
+      "time": 1791326043,
+      "snippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "title_zh": "前 Ramp 工程师在废弃他们的第一个产品后为 Melius 平台筹集了 2000 万美元"
+    },
+    {
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica",
+      "published": "Tue, 06 Oct 2026 20:50:32 +0000",
+      "time": 1791319832,
+      "snippet": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "title_zh": "默认情况下，OpenAI 将为 ChatGPT 输出添加水印——但仅限于欧盟"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 20:35:20 +0000",
+      "time": 1791318920,
+      "snippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "title_zh": "人工智能决策模型如何改变内容审核"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 20:00:30 +0000",
+      "time": 1791316830,
+      "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "title_zh": "人工智能计算初创公司 Lambda 将在计划 IPO 之前筹集 40 亿美元"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 19:56:50 +0000",
+      "time": 1791316610,
+      "snippet": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the",
+      "title_zh": "人工智能代理的下一个障碍：让网站允许他们进入"
+    },
+    {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "source": "Ars Technica",
+      "published": "Tue, 06 Oct 2026 12:21:53 +0000",
+      "time": 1791289313,
+      "snippet": "The reports of OpenAI agents harming third-party sites keep coming.",
+      "title_zh": "OpenAI 代理试图破解维基百科工具并使其流量泛滥"
+    },
     {
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
       "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
@@ -145,42 +199,6 @@
       "title_zh": "用于代理间通信的 MCP 可能是您从未听说过的风险最高的协议"
     },
     {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 20:36:48 +0000",
-      "time": 1791232608,
-      "snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "title_zh": "OpenAI 将开始在欧盟为 ChatGPT 的文本添加水印"
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "source": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "time": 1791228833,
-      "snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own custom",
-      "title_zh": "Reflection 首次推出 Beam，这是一种开放权重 AI 模型，能够以更低的计算成本与中国模型相媲美"
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 18:54:30 +0000",
-      "time": 1791226470,
-      "snippet": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal ",
-      "title_zh": "Instinct 将其人工智能代理引入群聊，即使是没有帐户的朋友"
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "source": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 18:29:00 +0000",
-      "time": 1791224940,
-      "snippet": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "title_zh": "TikTok推出人工智能购物助手和一键结账"
-    },
-    {
       "title": "Connecting AI agents to enterprise knowledge",
       "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
       "source": "MIT Tech Review",
@@ -188,15 +206,6 @@
       "time": 1791215272,
       "snippet": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the ",
       "title_zh": "将人工智能代理与企业知识连接起来"
-    },
-    {
-      "title": "AI glasses face their first major government crackdown",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "source": "Ars Technica",
-      "published": "Mon, 05 Oct 2026 13:39:30 +0000",
-      "time": 1791207570,
-      "snippet": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "title_zh": "AI眼镜面临政府首次严厉打击"
     },
     {
       "title": "Bringing predictive analytics to the agentic AI era",
@@ -215,15 +224,6 @@
       "time": 1791187200,
       "snippet": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the st",
       "title_zh": "人们确实讨厌人工智能，但为什么他们还不够呢？"
-    },
-    {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 05 Oct 2026 04:00:00 +0000",
-      "time": 1791172800,
-      "snippet": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact",
-      "title_zh": "EmTech 未来 2026 年：当人工智能遇见一切"
     }
   ]
 }

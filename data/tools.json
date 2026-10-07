@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:34:48+00:00",
+  "generated_at": "2026-10-07T06:12:39+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -75,7 +75,7 @@
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "url": "https://stillwet.art/",
       "domain": "stillwet.art",
-      "points": 387,
+      "points": 389,
       "comments": 113,
       "author": "alstonite",
       "time": "2026-10-02T00:27:56Z",
@@ -147,7 +147,7 @@
       "title": "When did Google get so weird?",
       "url": "https://sancho.bearblog.dev/google-weird/",
       "domain": "sancho.bearblog.dev",
-      "points": 2014,
+      "points": 2015,
       "comments": 1123,
       "author": "sancho-panza",
       "time": "2026-09-27T20:12:54Z",
@@ -197,18 +197,28 @@
       "title": "Gemini 4 Argon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "domain": "blog.google",
-      "points": 1699,
-      "comments": 1188,
+      "points": 1701,
+      "comments": 1189,
       "author": "bradleyg223",
       "time": "2026-09-30T20:04:37Z",
       "title_zh": "双子座 4 氩"
     },
     {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "domain": "mistral.ai",
+      "points": 1691,
+      "comments": 1004,
+      "author": "Philpax",
+      "time": "2026-10-06T13:15:49Z",
+      "title_zh": "米斯特拉尔大 4"
+    },
+    {
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
       "domain": "earendil.com",
-      "points": 1684,
-      "comments": 603,
+      "points": 1687,
+      "comments": 605,
       "author": "sergiotapia",
       "time": "2026-10-01T19:33:05Z",
       "title_zh": "圆周率1.0"
@@ -232,16 +242,6 @@
       "author": "daveoc64",
       "time": "2026-09-24T15:26:12Z",
       "title_zh": "F-机器人2.0"
-    },
-    {
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "domain": "laya.convaiinnovations.com",
-      "points": 1363,
-      "comments": 319,
-      "author": "nandakishor_ml",
-      "time": "2026-09-19T10:46:58Z",
-      "title_zh": "一年前我用 RL 建立了非自回归决策模型"
     }
   ]
 }
