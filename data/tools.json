@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T06:12:39+00:00",
+  "generated_at": "2026-10-08T06:20:56+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -42,6 +42,16 @@
       "title_zh": "Show HN：我做了一个飞行模拟器，只不过你只是一个乘客"
     },
     {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "domain": "bigwords.page",
+      "points": 446,
+      "comments": 129,
+      "author": "SpeakingOfBrad",
+      "time": "2026-10-07T15:44:21Z",
+      "title_zh": "Show HN：Bigwords.page – 将任何屏幕变成标志。网址是应用程序"
+    },
+    {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
       "domain": "github.com",
@@ -55,7 +65,7 @@
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "domain": "github.com",
-      "points": 413,
+      "points": 414,
       "comments": 119,
       "author": "jpwalsh234",
       "time": "2026-09-26T17:10:40Z",
@@ -75,7 +85,7 @@
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "url": "https://stillwet.art/",
       "domain": "stillwet.art",
-      "points": 389,
+      "points": 390,
       "comments": 113,
       "author": "alstonite",
       "time": "2026-10-02T00:27:56Z",
@@ -106,20 +116,10 @@
       "url": "https://loficities.com/",
       "domain": "loficities.com",
       "points": 320,
-      "comments": 138,
+      "comments": 139,
       "author": "safaelmali",
       "time": "2026-09-27T18:44:30Z",
       "title_zh": "Show HN：Lofi Cities – 像素艺术城市之夜，浏览器生成的 Lofi"
-    },
-    {
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "domain": "jev-pokemon.vercel.app",
-      "points": 282,
-      "comments": 124,
-      "author": "pancomplex",
-      "time": "2026-09-25T14:28:07Z",
-      "title_zh": "Show HN：Jev 玩神奇宝贝红"
     }
   ],
   "hot": [
@@ -134,24 +134,24 @@
       "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
     },
     {
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "domain": "cims.nyu.edu",
-      "points": 2054,
-      "comments": 827,
-      "author": "procedurecall",
-      "time": "2026-09-08T05:42:28Z",
-      "title_zh": "纳维-斯托克斯 – 特里斯坦·巴克马斯特 [pdf]"
-    },
-    {
       "title": "When did Google get so weird?",
       "url": "https://sancho.bearblog.dev/google-weird/",
       "domain": "sancho.bearblog.dev",
       "points": 2015,
-      "comments": 1123,
+      "comments": 1124,
       "author": "sancho-panza",
       "time": "2026-09-27T20:12:54Z",
       "title_zh": "谷歌什么时候变得这么奇怪了？"
+    },
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "domain": "mistral.ai",
+      "points": 2009,
+      "comments": 1193,
+      "author": "Philpax",
+      "time": "2026-10-06T13:15:49Z",
+      "title_zh": "米斯特拉尔大 4"
     },
     {
       "title": "Introducing System One Models and Jev",
@@ -197,28 +197,18 @@
       "title": "Gemini 4 Argon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "domain": "blog.google",
-      "points": 1701,
-      "comments": 1189,
+      "points": 1702,
+      "comments": 1190,
       "author": "bradleyg223",
       "time": "2026-09-30T20:04:37Z",
       "title_zh": "双子座 4 氩"
-    },
-    {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "domain": "mistral.ai",
-      "points": 1691,
-      "comments": 1004,
-      "author": "Philpax",
-      "time": "2026-10-06T13:15:49Z",
-      "title_zh": "米斯特拉尔大 4"
     },
     {
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
       "domain": "earendil.com",
       "points": 1687,
-      "comments": 605,
+      "comments": 607,
       "author": "sergiotapia",
       "time": "2026-10-01T19:33:05Z",
       "title_zh": "圆周率1.0"
@@ -242,6 +232,16 @@
       "author": "daveoc64",
       "time": "2026-09-24T15:26:12Z",
       "title_zh": "F-机器人2.0"
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "domain": "laya.convaiinnovations.com",
+      "points": 1363,
+      "comments": 319,
+      "author": "nandakishor_ml",
+      "time": "2026-09-19T10:46:58Z",
+      "title_zh": "一年前我用 RL 建立了非自回归决策模型"
     }
   ]
 }

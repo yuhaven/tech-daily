@@ -1,101 +1,90 @@
 {
-  "generated_at": "2026-10-07T06:12:37+00:00",
+  "generated_at": "2026-10-08T06:20:55+00:00",
   "hn": [
     {
       "id": 49977979,
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "domain": "mistral.ai",
-      "points": 1691,
-      "comments": 1004,
+      "points": 2009,
+      "comments": 1193,
       "author": "Philpax",
       "time": 1791292549,
       "title_zh": "米斯特拉尔大 4"
-    },
-    {
-      "id": 49961057,
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "domain": "techspot.com",
-      "points": 814,
-      "comments": 656,
-      "author": "emptybits",
-      "time": 1791178660,
-      "title_zh": "人类向警方报告日记条目，女子面临重罪指控"
     },
     {
       "id": 49984923,
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
-      "points": 714,
-      "comments": 647,
+      "points": 1268,
+      "comments": 1434,
       "author": "OfficialTurkey",
       "time": 1791325041,
       "title_zh": "分享AI数学进展"
     },
     {
-      "id": 49971846,
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "domain": "niemanlab.org",
-      "points": 546,
-      "comments": 408,
-      "author": "rdmuser",
-      "time": 1791240405,
-      "title_zh": "ChatGPT 正在将真正的漫画家签名添加到假《纽约客》漫画中"
+      "id": 49996437,
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "domain": "anthropic.com",
+      "points": 799,
+      "comments": 391,
+      "author": "sfkgtbor",
+      "time": 1791396092,
+      "title_zh": "克劳德俳句 5.5"
     },
     {
-      "id": 49970667,
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "domain": "vals.ai",
-      "points": 482,
-      "comments": 327,
-      "author": "outlier99",
-      "time": 1791234021,
-      "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物"
+      "id": 49996425,
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "domain": "openai.com",
+      "points": 578,
+      "comments": 297,
+      "author": "joshuawright11",
+      "time": 1791396058,
+      "title_zh": "适合所有人的 GPT‑6 和智能 UI"
     },
     {
       "id": 49980487,
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
       "domain": "blog.google",
-      "points": 288,
-      "comments": 31,
+      "points": 420,
+      "comments": 46,
       "author": "ilreb",
       "time": 1791302629,
       "title_zh": "EmbeddingGemma 2：开放、轻量级的多模态嵌入模型"
-    },
-    {
-      "id": 49970871,
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "domain": "qlabs.sh",
-      "points": 276,
-      "comments": 80,
-      "author": "E-Reverance",
-      "time": 1791234907,
-      "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer"
     },
     {
       "id": 49980715,
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
-      "points": 268,
-      "comments": 324,
+      "points": 338,
+      "comments": 394,
       "author": "fsbonetto",
       "time": 1791303805,
       "title_zh": "OpenTPU – 由 AI 开发的开源人工智能加速器"
+    },
+    {
+      "id": 49997161,
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "domain": "rswebsols.com",
+      "points": 333,
+      "comments": 322,
+      "author": "speckx",
+      "time": 1791398980,
+      "title_zh": "Meta 和 Microsoft 采取措施减少员工对 Claude AI 的使用"
     },
     {
       "id": 49981905,
       "title": "Claude Code’s suggested message feature: I think the real customer is the model",
       "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
       "domain": "zohaib.cc",
-      "points": 165,
-      "comments": 88,
+      "points": 264,
+      "comments": 152,
       "author": "zed_labs_dev",
       "time": 1791309634,
       "title_zh": "Claude Code建议的留言功能：我认为真正的顾客是模特"
@@ -105,30 +94,41 @@
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
-      "points": 143,
-      "comments": 65,
+      "points": 232,
+      "comments": 179,
       "author": "kavourias",
       "time": 1791323983,
       "title_zh": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端"
     },
     {
-      "id": 49981197,
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "domain": "techspot.com",
-      "points": 120,
-      "comments": 121,
-      "author": "healsdata",
-      "time": 1791306112,
-      "title_zh": "犹他州将让人工智能在无人监督的情况下检查患者并开药"
+      "id": 49996259,
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "domain": "github.com",
+      "points": 211,
+      "comments": 99,
+      "author": "saikatsg",
+      "time": 1791395318,
+      "title_zh": "Docker代理"
+    },
+    {
+      "id": 50002008,
+      "title": "Terence Tao Responds to the OpenAI Math Drop",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "domain": "mathstodon.xyz",
+      "points": 119,
+      "comments": 61,
+      "author": "ent101",
+      "time": 1791436454,
+      "title_zh": "陶哲轩对 OpenAI 数学下降的回应"
     },
     {
       "id": 49977689,
       "title": "Erdosproblems.com Succumbs to the AI Onslaught",
       "url": "https://www.erdosproblems.com/forum/thread/blog:9",
       "domain": "erdosproblems.com",
-      "points": 99,
-      "comments": 39,
+      "points": 116,
+      "comments": 53,
       "author": "pfdietz",
       "time": 1791291238,
       "title_zh": "Erdosproblems.com 屈服于人工智能的攻击"
@@ -136,67 +136,76 @@
   ],
   "media": [
     {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "source": "TechCrunch",
-      "published": "Tue, 06 Oct 2026 22:34:03 +0000",
-      "time": 1791326043,
-      "snippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "title_zh": "前 Ramp 工程师在废弃他们的第一个产品后为 Melius 平台筹集了 2000 万美元"
-    },
-    {
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
       "source": "Ars Technica",
-      "published": "Tue, 06 Oct 2026 20:50:32 +0000",
-      "time": 1791319832,
-      "snippet": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-      "title_zh": "默认情况下，OpenAI 将为 ChatGPT 输出添加水印——但仅限于欧盟"
+      "published": "Thu, 08 Oct 2026 00:00:24 +0000",
+      "time": 1791417624,
+      "snippet": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "title_zh": "微软在活动中首次亮相新的人工智能友好硬件和 Windows 变化"
     },
     {
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch",
-      "published": "Tue, 06 Oct 2026 20:35:20 +0000",
-      "time": 1791318920,
-      "snippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "title_zh": "人工智能决策模型如何改变内容审核"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch",
-      "published": "Tue, 06 Oct 2026 20:00:30 +0000",
-      "time": 1791316830,
-      "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "title_zh": "人工智能计算初创公司 Lambda 将在计划 IPO 之前筹集 40 亿美元"
-    },
-    {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "source": "TechCrunch",
-      "published": "Tue, 06 Oct 2026 19:56:50 +0000",
-      "time": 1791316610,
-      "snippet": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the",
-      "title_zh": "人工智能代理的下一个障碍：让网站允许他们进入"
-    },
-    {
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
       "source": "Ars Technica",
-      "published": "Tue, 06 Oct 2026 12:21:53 +0000",
-      "time": 1791289313,
-      "snippet": "The reports of OpenAI agents harming third-party sites keep coming.",
-      "title_zh": "OpenAI 代理试图破解维基百科工具并使其流量泛滥"
+      "published": "Wed, 07 Oct 2026 21:56:42 +0000",
+      "time": 1791410202,
+      "snippet": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "title_zh": "“软件已经结束”：大胆的 AI 开发者用开源克隆瞄准 Adob​​e"
     },
     {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch",
+      "published": "Wed, 07 Oct 2026 20:48:45 +0000",
+      "time": 1791406125,
+      "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
+      "title_zh": "Nous Research 确认其估值达到 1.5B 美元，为商业用户推出人工智能代理"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch",
+      "published": "Wed, 07 Oct 2026 20:22:37 +0000",
+      "time": 1791404557,
+      "snippet": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "title_zh": "微软发布新的 Nvidia 芯片 AI PC，搭载改进的 Windows 11"
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source": "TechCrunch",
+      "published": "Wed, 07 Oct 2026 18:30:57 +0000",
+      "time": 1791397857,
+      "snippet": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "title_zh": "Meta 的 Muse 在首次推出移动设备一个月后就在 iPad 上推出"
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source": "TechCrunch",
+      "published": "Wed, 07 Oct 2026 18:15:28 +0000",
+      "time": 1791396928,
+      "snippet": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealt",
+      "title_zh": "ChatGPT for Teens 让青少年即使在心理健康危机期间也能保持交谈"
+    },
+    {
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
       "source": "Ars Technica",
-      "published": "Mon, 05 Oct 2026 22:26:35 +0000",
-      "time": 1791239195,
-      "snippet": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-      "title_zh": "用于代理间通信的 MCP 可能是您从未听说过的风险最高的协议"
+      "published": "Wed, 07 Oct 2026 17:57:39 +0000",
+      "time": 1791395859,
+      "snippet": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+      "title_zh": "欺诈者因使用 10K 机器人和 AI 歌曲串流泰勒·斯威夫特 (Taylor Swift) 被判入狱"
+    },
+    {
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "source": "Ars Technica",
+      "published": "Wed, 07 Oct 2026 14:12:37 +0000",
+      "time": 1791382357,
+      "snippet": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+      "title_zh": "Mistral 表示“Le Chonk”可以挑战最好的人工智能模型"
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -215,15 +224,6 @@
       "time": 1791206972,
       "snippet": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable ",
       "title_zh": "将预测分析带入代理人工智能时代"
-    },
-    {
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 05 Oct 2026 08:00:00 +0000",
-      "time": 1791187200,
-      "snippet": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the st",
-      "title_zh": "人们确实讨厌人工智能，但为什么他们还不够呢？"
     }
   ]
 }
