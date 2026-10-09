@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T06:20:55+00:00",
+  "generated_at": "2026-10-09T06:23:03+00:00",
   "hn": [
     {
       "id": 49977979,
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "domain": "mistral.ai",
-      "points": 2009,
-      "comments": 1193,
+      "points": 2029,
+      "comments": 1210,
       "author": "Philpax",
       "time": 1791292549,
       "title_zh": "米斯特拉尔大 4"
@@ -17,8 +17,8 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
-      "points": 1268,
-      "comments": 1434,
+      "points": 1324,
+      "comments": 1507,
       "author": "OfficialTurkey",
       "time": 1791325041,
       "title_zh": "分享AI数学进展"
@@ -28,8 +28,8 @@
       "title": "Claude Haiku 5.5",
       "url": "https://www.anthropic.com/claude-haiku-5-5",
       "domain": "anthropic.com",
-      "points": 799,
-      "comments": 391,
+      "points": 1036,
+      "comments": 483,
       "author": "sfkgtbor",
       "time": 1791396092,
       "title_zh": "克劳德俳句 5.5"
@@ -39,102 +39,174 @@
       "title": "GPT‑6 and Intelligent UI for everyone",
       "url": "https://openai.com/index/gpt-6-for-everyone/",
       "domain": "openai.com",
-      "points": 578,
-      "comments": 297,
+      "points": 747,
+      "comments": 453,
       "author": "joshuawright11",
       "time": 1791396058,
       "title_zh": "适合所有人的 GPT‑6 和智能 UI"
     },
     {
-      "id": 49980487,
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "domain": "blog.google",
-      "points": 420,
-      "comments": 46,
-      "author": "ilreb",
-      "time": 1791302629,
-      "title_zh": "EmbeddingGemma 2：开放、轻量级的多模态嵌入模型"
+      "id": 50008187,
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "domain": "cnbc.com",
+      "points": 379,
+      "comments": 248,
+      "author": "mfiguiere",
+      "time": 1791477958,
+      "title_zh": "OpenAI 年化收入比之前预测的少 20B 美元"
     },
     {
-      "id": 49980715,
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
+      "id": 50002650,
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "domain": "twitter.com",
+      "points": 281,
+      "comments": 559,
+      "author": "sashank_1509",
+      "time": 1791443140,
+      "title_zh": "OpenAI 撤回三项数学结果"
+    },
+    {
+      "id": 50002665,
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "domain": "reddit.com",
+      "points": 135,
+      "comments": 58,
+      "author": "pyduan",
+      "time": 1791443254,
+      "title_zh": "我想我发现了一颗没人知道存在的星球。我用克劳德代码找到了它"
+    },
+    {
+      "id": 50000676,
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
       "domain": "github.com",
-      "points": 338,
-      "comments": 394,
-      "author": "fsbonetto",
-      "time": 1791303805,
-      "title_zh": "OpenTPU – 由 AI 开发的开源人工智能加速器"
+      "points": 110,
+      "comments": 207,
+      "author": "jcbhmr",
+      "time": 1791420360,
+      "title_zh": "将 TypeScript 编译器、检查器和 lsp 移植到 Rust，由 LLM 提供"
     },
     {
-      "id": 49997161,
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "domain": "rswebsols.com",
-      "points": 333,
-      "comments": 322,
-      "author": "speckx",
-      "time": 1791398980,
-      "title_zh": "Meta 和 Microsoft 采取措施减少员工对 Claude AI 的使用"
+      "id": 50011999,
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "domain": "biohub.org",
+      "points": 105,
+      "comments": 14,
+      "author": "ray__",
+      "time": 1791492385,
+      "title_zh": "AI 就绪的生物数据：$1.8B 全球承诺"
     },
     {
-      "id": 49981905,
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "domain": "zohaib.cc",
-      "points": 264,
-      "comments": 152,
-      "author": "zed_labs_dev",
-      "time": 1791309634,
-      "title_zh": "Claude Code建议的留言功能：我认为真正的顾客是模特"
+      "id": 50013902,
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "domain": "karagila.org",
+      "points": 88,
+      "comments": 116,
+      "author": "md224",
+      "time": 1791502183,
+      "title_zh": "OpenAI、划分原理和数学"
     },
     {
-      "id": 49984716,
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "domain": "penguin-mail.com",
-      "points": 232,
-      "comments": 179,
-      "author": "kavourias",
-      "time": 1791323983,
-      "title_zh": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端"
-    },
-    {
-      "id": 49996259,
-      "title": "Docker Agent",
-      "url": "https://github.com/docker/docker-agent",
+      "id": 50005608,
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "url": "https://github.com/SamsungLabs/LittleBit",
       "domain": "github.com",
-      "points": 211,
-      "comments": 99,
-      "author": "saikatsg",
-      "time": 1791395318,
-      "title_zh": "Docker代理"
+      "points": 81,
+      "comments": 23,
+      "author": "brainless",
+      "time": 1791466186,
+      "title_zh": "通过潜在分解进行亚 1 位 LLM 压缩"
     },
     {
-      "id": 50002008,
-      "title": "Terence Tao Responds to the OpenAI Math Drop",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "domain": "mathstodon.xyz",
-      "points": 119,
-      "comments": 61,
-      "author": "ent101",
-      "time": 1791436454,
-      "title_zh": "陶哲轩对 OpenAI 数学下降的回应"
-    },
-    {
-      "id": 49977689,
-      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "domain": "erdosproblems.com",
-      "points": 116,
-      "comments": 53,
-      "author": "pfdietz",
-      "time": 1791291238,
-      "title_zh": "Erdosproblems.com 屈服于人工智能的攻击"
+      "id": 50010656,
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+      "domain": "cointelegraph.com",
+      "points": 60,
+      "comments": 59,
+      "author": "firstcomm",
+      "time": 1791487071,
+      "title_zh": "Vitalik Buterin 在人工智能数学快速进步的背景下支持加密货币“掩体模式”"
     }
   ],
   "media": [
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "time": 1791504504,
+      "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to ",
+      "title_zh": "圆桌会议：与人工智能病毒创造者的对话"
+    },
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch",
+      "published": "Thu, 08 Oct 2026 21:00:00 +0000",
+      "time": 1791493200,
+      "snippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might ha",
+      "title_zh": "假装你正坐在伊丽莎白·霍姆斯的办公桌前，浏览这个异常详细的网站"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch",
+      "published": "Thu, 08 Oct 2026 20:04:26 +0000",
+      "time": 1791489866,
+      "snippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on th",
+      "title_zh": "被解雇的 OpenAI 安全研究人员对不当行为指控提出异议，警告会产生寒蝉效应"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch",
+      "published": "Thu, 08 Oct 2026 18:20:32 +0000",
+      "time": 1791483632,
+      "snippet": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier thi",
+      "title_zh": "本·阿弗莱克 (Ben Affleck) 是一位人工智能迷，互联网给我们留下了深刻的印象"
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch",
+      "published": "Thu, 08 Oct 2026 18:19:45 +0000",
+      "time": 1791483585,
+      "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "title_zh": "热门 AI 排行榜 Arena 在 10 个月内估值几乎翻倍至 3.1B 美元"
+    },
+    {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "source": "Ars Technica",
+      "published": "Thu, 08 Oct 2026 11:15:33 +0000",
+      "time": 1791458133,
+      "snippet": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "title_zh": "英伟达在物理人工智能上的大赌注旨在打造更安全的机器人出租车、人形机器人"
+    },
+    {
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Tech Review",
+      "published": "Thu, 08 Oct 2026 09:00:00 +0000",
+      "time": 1791450000,
+      "snippet": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are cha",
+      "title_zh": "机器人领域的人工智能突破不会很快改变你的生活"
+    },
+    {
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "source": "MIT Tech Review",
+      "published": "Thu, 08 Oct 2026 08:17:32 +0000",
+      "time": 1791447452,
+      "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are maki",
+      "title_zh": "打造更安全的自主工业人工智能之路"
+    },
     {
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
       "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
@@ -152,78 +224,6 @@
       "time": 1791410202,
       "snippet": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
       "title_zh": "“软件已经结束”：大胆的 AI 开发者用开源克隆瞄准 Adob​​e"
-    },
-    {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "source": "TechCrunch",
-      "published": "Wed, 07 Oct 2026 20:48:45 +0000",
-      "time": 1791406125,
-      "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
-      "title_zh": "Nous Research 确认其估值达到 1.5B 美元，为商业用户推出人工智能代理"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch",
-      "published": "Wed, 07 Oct 2026 20:22:37 +0000",
-      "time": 1791404557,
-      "snippet": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "title_zh": "微软发布新的 Nvidia 芯片 AI PC，搭载改进的 Windows 11"
-    },
-    {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "source": "TechCrunch",
-      "published": "Wed, 07 Oct 2026 18:30:57 +0000",
-      "time": 1791397857,
-      "snippet": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "title_zh": "Meta 的 Muse 在首次推出移动设备一个月后就在 iPad 上推出"
-    },
-    {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "source": "TechCrunch",
-      "published": "Wed, 07 Oct 2026 18:15:28 +0000",
-      "time": 1791396928,
-      "snippet": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealt",
-      "title_zh": "ChatGPT for Teens 让青少年即使在心理健康危机期间也能保持交谈"
-    },
-    {
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-      "source": "Ars Technica",
-      "published": "Wed, 07 Oct 2026 17:57:39 +0000",
-      "time": 1791395859,
-      "snippet": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-      "title_zh": "欺诈者因使用 10K 机器人和 AI 歌曲串流泰勒·斯威夫特 (Taylor Swift) 被判入狱"
-    },
-    {
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "source": "Ars Technica",
-      "published": "Wed, 07 Oct 2026 14:12:37 +0000",
-      "time": 1791382357,
-      "snippet": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-      "title_zh": "Mistral 表示“Le Chonk”可以挑战最好的人工智能模型"
-    },
-    {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 05 Oct 2026 15:47:52 +0000",
-      "time": 1791215272,
-      "snippet": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the ",
-      "title_zh": "将人工智能代理与企业知识连接起来"
-    },
-    {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 05 Oct 2026 13:29:32 +0000",
-      "time": 1791206972,
-      "snippet": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable ",
-      "title_zh": "将预测分析带入代理人工智能时代"
     }
   ]
 }

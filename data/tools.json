@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:20:56+00:00",
+  "generated_at": "2026-10-09T06:23:04+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -22,6 +22,16 @@
       "title_zh": "Show HN：制作类似 Times New Bastard 的诅咒字体"
     },
     {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "domain": "bigwords.page",
+      "points": 699,
+      "comments": 162,
+      "author": "SpeakingOfBrad",
+      "time": "2026-10-07T15:44:21Z",
+      "title_zh": "Show HN：Bigwords.page – 将任何屏幕变成标志。网址是应用程序"
+    },
+    {
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
       "domain": "rivendell.dmitrybrant.com",
@@ -40,16 +50,6 @@
       "author": "rkotcher",
       "time": "2026-09-14T09:08:56Z",
       "title_zh": "Show HN：我做了一个飞行模拟器，只不过你只是一个乘客"
-    },
-    {
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
-      "domain": "bigwords.page",
-      "points": 446,
-      "comments": 129,
-      "author": "SpeakingOfBrad",
-      "time": "2026-10-07T15:44:21Z",
-      "title_zh": "Show HN：Bigwords.page – 将任何屏幕变成标志。网址是应用程序"
     },
     {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
@@ -85,7 +85,7 @@
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "url": "https://stillwet.art/",
       "domain": "stillwet.art",
-      "points": 390,
+      "points": 392,
       "comments": 113,
       "author": "alstonite",
       "time": "2026-10-02T00:27:56Z",
@@ -134,24 +134,34 @@
       "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
     },
     {
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "domain": "sancho.bearblog.dev",
-      "points": 2015,
-      "comments": 1124,
-      "author": "sancho-panza",
-      "time": "2026-09-27T20:12:54Z",
-      "title_zh": "谷歌什么时候变得这么奇怪了？"
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "domain": "news.mit.edu",
+      "points": 2086,
+      "comments": 250,
+      "author": "muglug",
+      "time": "2026-10-07T21:16:18Z",
+      "title_zh": "玛格丽特·汉密尔顿去世"
     },
     {
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "domain": "mistral.ai",
-      "points": 2009,
-      "comments": 1193,
+      "points": 2029,
+      "comments": 1210,
       "author": "Philpax",
       "time": "2026-10-06T13:15:49Z",
       "title_zh": "米斯特拉尔大 4"
+    },
+    {
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "domain": "sancho.bearblog.dev",
+      "points": 2015,
+      "comments": 1125,
+      "author": "sancho-panza",
+      "time": "2026-09-27T20:12:54Z",
+      "title_zh": "谷歌什么时候变得这么奇怪了？"
     },
     {
       "title": "Introducing System One Models and Jev",
@@ -208,7 +218,7 @@
       "url": "https://earendil.com/posts/pi-1-0/",
       "domain": "earendil.com",
       "points": 1687,
-      "comments": 607,
+      "comments": 609,
       "author": "sergiotapia",
       "time": "2026-10-01T19:33:05Z",
       "title_zh": "圆周率1.0"
@@ -232,16 +242,6 @@
       "author": "daveoc64",
       "time": "2026-09-24T15:26:12Z",
       "title_zh": "F-机器人2.0"
-    },
-    {
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "domain": "laya.convaiinnovations.com",
-      "points": 1363,
-      "comments": 319,
-      "author": "nandakishor_ml",
-      "time": "2026-09-19T10:46:58Z",
-      "title_zh": "一年前我用 RL 建立了非自回归决策模型"
     }
   ]
 }
