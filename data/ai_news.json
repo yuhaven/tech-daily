@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T06:23:03+00:00",
+  "generated_at": "2026-10-10T06:04:26+00:00",
   "hn": [
     {
       "id": 49977979,
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "domain": "mistral.ai",
-      "points": 2029,
-      "comments": 1210,
+      "points": 2036,
+      "comments": 1211,
       "author": "Philpax",
       "time": 1791292549,
       "title_zh": "米斯特拉尔大 4"
@@ -17,124 +17,196 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "domain": "openai.com",
-      "points": 1324,
-      "comments": 1507,
+      "points": 1342,
+      "comments": 1524,
       "author": "OfficialTurkey",
       "time": 1791325041,
       "title_zh": "分享AI数学进展"
     },
     {
-      "id": 49996437,
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "domain": "anthropic.com",
-      "points": 1036,
-      "comments": 483,
-      "author": "sfkgtbor",
-      "time": 1791396092,
-      "title_zh": "克劳德俳句 5.5"
-    },
-    {
-      "id": 49996425,
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "domain": "openai.com",
-      "points": 747,
-      "comments": 453,
-      "author": "joshuawright11",
-      "time": 1791396058,
-      "title_zh": "适合所有人的 GPT‑6 和智能 UI"
-    },
-    {
-      "id": 50008187,
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "domain": "cnbc.com",
-      "points": 379,
-      "comments": 248,
-      "author": "mfiguiere",
-      "time": 1791477958,
-      "title_zh": "OpenAI 年化收入比之前预测的少 20B 美元"
+      "id": 50018817,
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "domain": "github.com",
+      "points": 391,
+      "comments": 173,
+      "author": "franze",
+      "time": 1791543828,
+      "title_zh": "Show HN：让您的 AI 代理在屏幕上绘制大箭头、方框和文本"
     },
     {
       "id": 50002650,
       "title": "OpenAI withdraws three mathematical results",
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
       "domain": "twitter.com",
-      "points": 281,
-      "comments": 559,
+      "points": 374,
+      "comments": 606,
       "author": "sashank_1509",
       "time": 1791443140,
       "title_zh": "OpenAI 撤回三项数学结果"
+    },
+    {
+      "id": 50023450,
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "domain": "typesafe.ai",
+      "points": 328,
+      "comments": 237,
+      "author": "tosh",
+      "time": 1791565351,
+      "title_zh": "Typesafe AI 以 $7.5B 融资 8.7 亿美元"
+    },
+    {
+      "id": 50018350,
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "domain": "techcrunch.com",
+      "points": 326,
+      "comments": 207,
+      "author": "trakkstar",
+      "time": 1791540026,
+      "title_zh": "OpenAI 因“不当处理研究信息”而解雇了三名安全研究人员"
     },
     {
       "id": 50002665,
       "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
       "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
       "domain": "reddit.com",
-      "points": 135,
-      "comments": 58,
+      "points": 270,
+      "comments": 126,
       "author": "pyduan",
       "time": 1791443254,
       "title_zh": "我想我发现了一颗没人知道存在的星球。我用克劳德代码找到了它"
-    },
-    {
-      "id": 50000676,
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "domain": "github.com",
-      "points": 110,
-      "comments": 207,
-      "author": "jcbhmr",
-      "time": 1791420360,
-      "title_zh": "将 TypeScript 编译器、检查器和 lsp 移植到 Rust，由 LLM 提供"
-    },
-    {
-      "id": 50011999,
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "domain": "biohub.org",
-      "points": 105,
-      "comments": 14,
-      "author": "ray__",
-      "time": 1791492385,
-      "title_zh": "AI 就绪的生物数据：$1.8B 全球承诺"
     },
     {
       "id": 50013902,
       "title": "OpenAI, the Partition Principle, and Mathematics",
       "url": "https://karagila.org/2026/openai-pp/",
       "domain": "karagila.org",
-      "points": 88,
-      "comments": 116,
+      "points": 199,
+      "comments": 300,
       "author": "md224",
       "time": 1791502183,
       "title_zh": "OpenAI、划分原理和数学"
     },
     {
-      "id": 50005608,
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "url": "https://github.com/SamsungLabs/LittleBit",
-      "domain": "github.com",
-      "points": 81,
-      "comments": 23,
-      "author": "brainless",
-      "time": 1791466186,
-      "title_zh": "通过潜在分解进行亚 1 位 LLM 压缩"
+      "id": 50019455,
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "domain": "washingtonpost.com",
+      "points": 182,
+      "comments": 163,
+      "author": "cainxinth",
+      "time": 1791548484,
+      "title_zh": "伊朗竞选活动使用 ChatGPT 在美国真实出版物中植入虚假文章"
     },
     {
-      "id": 50010656,
-      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-      "domain": "cointelegraph.com",
-      "points": 60,
-      "comments": 59,
-      "author": "firstcomm",
-      "time": 1791487071,
-      "title_zh": "Vitalik Buterin 在人工智能数学快速进步的背景下支持加密货币“掩体模式”"
+      "id": 50011999,
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "domain": "biohub.org",
+      "points": 143,
+      "comments": 20,
+      "author": "ray__",
+      "time": 1791492385,
+      "title_zh": "AI 就绪的生物数据：$1.8B 全球承诺"
+    },
+    {
+      "id": 50027118,
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "domain": "nbcphiladelphia.com",
+      "points": 134,
+      "comments": 101,
+      "author": "Zambyte",
+      "time": 1791583235,
+      "title_zh": "人择人工智能模型对未解决的费城谋杀案提交了虚假提示"
+    },
+    {
+      "id": 50019056,
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "domain": "jessewaites.com",
+      "points": 131,
+      "comments": 70,
+      "author": "piratebroadcast",
+      "time": 1791545780,
+      "title_zh": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等"
     }
   ],
   "media": [
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch",
+      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "time": 1791591512,
+      "snippet": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "title_zh": "Anthropic 无法可靠地控制其人工智能代理。相反，它正在切断实时互联网的内部评估"
+    },
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "Ars Technica",
+      "published": "Fri, 09 Oct 2026 22:04:07 +0000",
+      "time": 1791583447,
+      "snippet": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "title_zh": "乌克兰无人机摧毁了“俄罗斯谷歌”的人工智能数据中心"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "time": 1791582089,
+      "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "title_zh": "非文本 AI 模型 Jev 的制造商在推出几周后估值为 $7.5B"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "source": "Ars Technica",
+      "published": "Fri, 09 Oct 2026 19:43:50 +0000",
+      "time": 1791575030,
+      "snippet": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "title_zh": "人工智能编码代理会生成更多代码，但不会生成更多软件"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "time": 1791574616,
+      "snippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索"
+    },
+    {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "source": "Ars Technica",
+      "published": "Fri, 09 Oct 2026 18:44:06 +0000",
+      "time": 1791571446,
+      "snippet": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+      "title_zh": "人工智能取消资格产生新的尼康动态小世界获胜者"
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:56:42 +0000",
+      "time": 1791565002,
+      "snippet": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. S",
+      "title_zh": "亚马逊和其他公司已经不再对数据中心交易保密。建立信任就足够了吗？"
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "time": 1791536400,
+      "snippet": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. Th",
+      "title_zh": "我们过于相信人工智能说不的能力"
+    },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -145,51 +217,6 @@
       "title_zh": "圆桌会议：与人工智能病毒创造者的对话"
     },
     {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "source": "TechCrunch",
-      "published": "Thu, 08 Oct 2026 21:00:00 +0000",
-      "time": 1791493200,
-      "snippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might ha",
-      "title_zh": "假装你正坐在伊丽莎白·霍姆斯的办公桌前，浏览这个异常详细的网站"
-    },
-    {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "TechCrunch",
-      "published": "Thu, 08 Oct 2026 20:04:26 +0000",
-      "time": 1791489866,
-      "snippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on th",
-      "title_zh": "被解雇的 OpenAI 安全研究人员对不当行为指控提出异议，警告会产生寒蝉效应"
-    },
-    {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "source": "TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:20:32 +0000",
-      "time": 1791483632,
-      "snippet": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier thi",
-      "title_zh": "本·阿弗莱克 (Ben Affleck) 是一位人工智能迷，互联网给我们留下了深刻的印象"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "time": 1791483585,
-      "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "title_zh": "热门 AI 排行榜 Arena 在 10 个月内估值几乎翻倍至 3.1B 美元"
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "source": "Ars Technica",
-      "published": "Thu, 08 Oct 2026 11:15:33 +0000",
-      "time": 1791458133,
-      "snippet": "Full-stack safety solution for physical AI is being used by robotics companies.",
-      "title_zh": "英伟达在物理人工智能上的大赌注旨在打造更安全的机器人出租车、人形机器人"
-    },
-    {
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "source": "MIT Tech Review",
@@ -197,33 +224,6 @@
       "time": 1791450000,
       "snippet": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are cha",
       "title_zh": "机器人领域的人工智能突破不会很快改变你的生活"
-    },
-    {
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "MIT Tech Review",
-      "published": "Thu, 08 Oct 2026 08:17:32 +0000",
-      "time": 1791447452,
-      "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are maki",
-      "title_zh": "打造更安全的自主工业人工智能之路"
-    },
-    {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "source": "Ars Technica",
-      "published": "Thu, 08 Oct 2026 00:00:24 +0000",
-      "time": 1791417624,
-      "snippet": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "title_zh": "微软在活动中首次亮相新的人工智能友好硬件和 Windows 变化"
-    },
-    {
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "source": "Ars Technica",
-      "published": "Wed, 07 Oct 2026 21:56:42 +0000",
-      "time": 1791410202,
-      "snippet": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
-      "title_zh": "“软件已经结束”：大胆的 AI 开发者用开源克隆瞄准 Adob​​e"
     }
   ]
 }
