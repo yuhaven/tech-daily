@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T06:02:36+00:00",
+  "generated_at": "2026-10-12T06:13:03+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -25,8 +25,8 @@
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
       "url": "https://bigwords.page/",
       "domain": "bigwords.page",
-      "points": 719,
-      "comments": 163,
+      "points": 723,
+      "comments": 166,
       "author": "SpeakingOfBrad",
       "time": "2026-10-07T15:44:21Z",
       "title_zh": "Show HN：Bigwords.page – 将任何屏幕变成标志。网址是应用程序"
@@ -42,6 +42,16 @@
       "title_zh": "Show HN：我做了一个飞行模拟器，只不过你只是一个乘客"
     },
     {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "domain": "carrierexplode.com",
+      "points": 425,
+      "comments": 55,
+      "author": "simplyalec",
+      "time": "2026-10-09T18:10:55Z",
+      "title_zh": "显示HN ：运营商分解：已解码的iPhone、Pixel和Galaxy运营商设置"
+    },
+    {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
       "domain": "github.com",
@@ -52,6 +62,16 @@
       "title_zh": "Show HN：Whiteboard (YC W26) – 用于深思熟虑的软件设计的开源 IDE"
     },
     {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "domain": "github.com",
+      "points": 415,
+      "comments": 196,
+      "author": "franze",
+      "time": "2026-10-09T11:03:48Z",
+      "title_zh": "Show HN：让您的 AI 代理在屏幕上绘制大箭头、方框和文本"
+    },
+    {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "domain": "github.com",
@@ -60,26 +80,6 @@
       "author": "jpwalsh234",
       "time": "2026-09-26T17:10:40Z",
       "title_zh": "Show HN：Reladraw – 一种图表语言，您可以在其中决定放置东西的位置"
-    },
-    {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "domain": "carrierexplode.com",
-      "points": 413,
-      "comments": 52,
-      "author": "simplyalec",
-      "time": "2026-10-09T18:10:55Z",
-      "title_zh": "显示HN ：运营商分解：已解码的iPhone、Pixel和Galaxy运营商设置"
-    },
-    {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "domain": "github.com",
-      "points": 412,
-      "comments": 188,
-      "author": "franze",
-      "time": "2026-10-09T11:03:48Z",
-      "title_zh": "Show HN：让您的 AI 代理在屏幕上绘制大箭头、方框和文本"
     },
     {
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
@@ -137,8 +137,8 @@
       "title": "Margaret Hamilton has died",
       "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
       "domain": "news.mit.edu",
-      "points": 2116,
-      "comments": 256,
+      "points": 2122,
+      "comments": 257,
       "author": "muglug",
       "time": "2026-10-07T21:16:18Z",
       "title_zh": "玛格丽特·汉密尔顿去世"
@@ -147,8 +147,8 @@
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "domain": "mistral.ai",
-      "points": 2037,
-      "comments": 1211,
+      "points": 2040,
+      "comments": 1212,
       "author": "Philpax",
       "time": "2026-10-06T13:15:49Z",
       "title_zh": "米斯特拉尔大 4"
@@ -157,7 +157,7 @@
       "title": "When did Google get so weird?",
       "url": "https://sancho.bearblog.dev/google-weird/",
       "domain": "sancho.bearblog.dev",
-      "points": 2016,
+      "points": 2017,
       "comments": 1125,
       "author": "sancho-panza",
       "time": "2026-09-27T20:12:54Z",
@@ -208,7 +208,7 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "domain": "blog.google",
       "points": 1704,
-      "comments": 1190,
+      "comments": 1191,
       "author": "bradleyg223",
       "time": "2026-09-30T20:04:37Z",
       "title_zh": "双子座 4 氩"
@@ -217,7 +217,7 @@
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
       "domain": "earendil.com",
-      "points": 1687,
+      "points": 1688,
       "comments": 609,
       "author": "sergiotapia",
       "time": "2026-10-01T19:33:05Z",
@@ -237,8 +237,8 @@
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
       "domain": "minesweeper.mikelacher.com",
-      "points": 1373,
-      "comments": 272,
+      "points": 1417,
+      "comments": 285,
       "author": "robin_reala",
       "time": "2026-10-09T15:51:05Z",
       "title_zh": "Triple-A扫雷艇"
