@@ -1,140 +1,212 @@
 {
-  "generated_at": "2026-10-13T06:54:50+00:00",
+  "generated_at": "2026-10-14T05:05:17+00:00",
   "hn": [
     {
-      "id": 50047422,
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "domain": "twitter.com",
-      "points": 689,
-      "comments": 1009,
-      "author": "albertzeyer",
-      "time": 1791750052,
-      "title_zh": "对法学硕士能力的共同理解的差距正在扩大"
-    },
-    {
-      "id": 50054751,
-      "title": "QGIS enacts moratorium on AI contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "domain": "github.com",
-      "points": 372,
-      "comments": 402,
-      "author": "bwnkl",
-      "time": 1791804144,
-      "title_zh": "QGIS 暂停人工智能贡献"
+      "id": 50073879,
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "domain": "deepmind.google",
+      "points": 1137,
+      "comments": 823,
+      "author": "737max",
+      "time": 1791907396,
+      "title_zh": "双子座 4 氩"
     },
     {
       "id": 50063427,
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
-      "points": 350,
-      "comments": 280,
+      "points": 657,
+      "comments": 526,
       "author": "layer8",
       "time": 1791841218,
       "title_zh": "人工智能是一种工具，用好它需要技巧"
     },
     {
-      "id": 50059523,
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "domain": "arstechnica.com",
-      "points": 331,
-      "comments": 277,
-      "author": "gumby",
-      "time": 1791825241,
-      "title_zh": "人工智能编码代理会生成更多代码，但不会生成更多软件"
+      "id": 50073633,
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "domain": "anthropic.com",
+      "points": 638,
+      "comments": 612,
+      "author": "Philpax",
+      "time": 1791906596,
+      "title_zh": "重新设计 Anthropic 的源代码控制"
     },
     {
-      "id": 50060269,
-      "title": "'AI' Is Not a Tool by Rich Hickey",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "domain": "linkedin.com",
-      "points": 255,
-      "comments": 128,
-      "author": "svieira",
-      "time": 1791828025,
-      "title_zh": "Rich Hickey 的“人工智能”不是工具"
+      "id": 50078141,
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "domain": "sfstandard.com",
+      "points": 487,
+      "comments": 422,
+      "author": "forthwall",
+      "time": 1791923035,
+      "title_zh": "OpenAI 工程师因窃听高管会议室被捕"
     },
     {
-      "id": 50039092,
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "domain": "momo5502.com",
-      "points": 209,
-      "comments": 150,
-      "author": "davikr",
-      "time": 1791684158,
-      "title_zh": "500B代币：让人工智能代理反编译第一人称射击游戏"
+      "id": 50069971,
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "domain": "eg2.haku.sh",
+      "points": 409,
+      "comments": 87,
+      "author": "amrrs",
+      "time": 1791890834,
+      "title_zh": "我们将 EmbeddingGemma 2 转变为语音转文本模型"
     },
     {
-      "id": 50041765,
-      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-      "domain": "vcresearch.berkeley.edu",
-      "points": 177,
-      "comments": 139,
-      "author": "giuliomagnifico",
-      "time": 1791715641,
-      "title_zh": "只用10分钟的人工智能会削弱你坚持做困难事情的能力"
-    },
-    {
-      "id": 50057668,
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "domain": "taylor.town",
-      "points": 175,
-      "comments": 64,
-      "author": "surprisetalk",
-      "time": 1791818205,
-      "title_zh": "凯文·凯利 10 年后的 2016 年人工智能预测"
+      "id": 50068036,
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "domain": "blog.character.ai",
+      "points": 313,
+      "comments": 274,
+      "author": "nryoo",
+      "time": 1791876514,
+      "title_zh": "Character.ai 已启动自愿破产法第 11 章破产程序"
     },
     {
       "id": 50063365,
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
       "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
       "domain": "intel.com",
-      "points": 161,
-      "comments": 72,
+      "points": 302,
+      "comments": 176,
       "author": "hurricanepootis",
       "time": 1791840935,
       "title_zh": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X"
     },
     {
-      "id": 50064318,
-      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "domain": "nirajrajgor.com",
-      "points": 141,
-      "comments": 92,
-      "author": "nirajrajgor",
-      "time": 1791846445,
-      "title_zh": "我用 GPT-6 Astra 将闲置的 Kindle 变成了相框"
+      "id": 50073221,
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "domain": "sammystraus.com",
+      "points": 298,
+      "comments": 160,
+      "author": "sammy0910",
+      "time": 1791905150,
+      "title_zh": "我发布到 HN，然后我的网站被 AI 机器人流量淹没"
     },
     {
       "id": 50065692,
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "title": "AI models can provably hide arbitrary capabilities",
       "url": "https://arxiv.org/abs/2610.13928",
       "domain": "arxiv.org",
-      "points": 137,
-      "comments": 72,
+      "points": 273,
+      "comments": 137,
       "author": "sbulaev",
       "time": 1791857228,
       "title_zh": "人工智能模型可以证明隐藏任意功能"
     },
     {
-      "id": 50059096,
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "domain": "news.ycombinator.com",
-      "points": 127,
-      "comments": 91,
-      "author": "vishnukool",
-      "time": 1791823594,
-      "title_zh": "启动 HN：Agent37 (YC F26) – 用于运行代理的低成本代理沙箱"
+      "id": 50070593,
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "domain": "machinelearning.apple.com",
+      "points": 240,
+      "comments": 96,
+      "author": "acossta",
+      "time": 1791894396,
+      "title_zh": "基于闲置 Apple Silicon 设备构建的动态分布式虚拟 GPU 云"
+    },
+    {
+      "id": 50065932,
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "domain": "argmin.net",
+      "points": 240,
+      "comments": 159,
+      "author": "mochomocha",
+      "time": 1791859603,
+      "title_zh": "OpenAI 声称可以更快地计算傅立叶变换的数学原理"
+    },
+    {
+      "id": 50057668,
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "domain": "taylor.town",
+      "points": 215,
+      "comments": 86,
+      "author": "surprisetalk",
+      "time": 1791818205,
+      "title_zh": "凯文·凯利 10 年后的 2016 年人工智能预测"
     }
   ],
   "media": [
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch",
+      "published": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "time": 1791933211,
+      "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-comp",
+      "title_zh": "科学公司将其视力恢复芯片植入首例斯塔加特病患者体内"
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch",
+      "published": "Tue, 13 Oct 2026 23:05:34 +0000",
+      "time": 1791932734,
+      "snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "title_zh": "Cerebras 首席执行官表示，我们即将迎来一个每个人家里都有个人人工智能助理的未来"
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TechCrunch",
+      "published": "Tue, 13 Oct 2026 23:00:00 +0000",
+      "time": 1791932400,
+      "snippet": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "title_zh": "Industrial Next 希望工厂机器人在几分钟而不是几周内切换任务"
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch",
+      "published": "Tue, 13 Oct 2026 22:36:59 +0000",
+      "time": 1791931019,
+      "snippet": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks i",
+      "title_zh": "Cerebras 首席执行官反驳人工智能世界末日警告"
+    },
+    {
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "source": "Ars Technica",
+      "published": "Tue, 13 Oct 2026 18:23:33 +0000",
+      "time": 1791915813,
+      "snippet": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "title_zh": "迪士尼斥资 2000 万美元收购 Character.AI 丑闻缠身的聊天机器人技术"
+    },
+    {
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "source": "Ars Technica",
+      "published": "Tue, 13 Oct 2026 16:00:02 +0000",
+      "time": 1791907202,
+      "snippet": "Developers will get 50 percent discounted API rates through November.",
+      "title_zh": "Gemini 4 Argon 开始在 Gemini 应用程序和 Antigravity 中推出，但前提是您付费"
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "time": 1791885600,
+      "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the se",
+      "title_zh": "开放模型有真正的好处。它们是否大于风险？"
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "time": 1791882000,
+      "snippet": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s s",
+      "title_zh": "人工智能实验室正在从倒闭的初创公司购买数据来训练他们的模型"
+    },
     {
       "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
       "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
@@ -152,78 +224,6 @@
       "time": 1791829296,
       "snippet": "“I may have information regarding this case,\" Claude AI told Philly police.",
       "title_zh": "Anthropic 的 Claude AI 向费城警方提交了虚假的谋杀线索"
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "source": "TechCrunch",
-      "published": "Mon, 12 Oct 2026 17:56:56 +0000",
-      "time": 1791827816,
-      "snippet": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and bette",
-      "title_zh": "Meta 发布首款前沿模型 Muse Wonder"
-    },
-    {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "source": "TechCrunch",
-      "published": "Mon, 12 Oct 2026 17:19:14 +0000",
-      "time": 1791825554,
-      "snippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "title_zh": "WindBorne 赢得了美国空军气球数据的巨额合同"
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch",
-      "published": "Mon, 12 Oct 2026 15:45:00 +0000",
-      "time": 1791819900,
-      "snippet": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "title_zh": "Honeyjar 提供人工智能工具来改善每家公司的公关和沟通"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch",
-      "published": "Mon, 12 Oct 2026 15:31:19 +0000",
-      "time": 1791819079,
-      "snippet": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "title_zh": "微软总裁表示英国最适合推动人工智能监管"
-    },
-    {
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "source": "Ars Technica",
-      "published": "Fri, 09 Oct 2026 22:04:07 +0000",
-      "time": 1791583447,
-      "snippet": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "title_zh": "乌克兰无人机摧毁了“俄罗斯谷歌”的人工智能数据中心"
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "source": "Ars Technica",
-      "published": "Fri, 09 Oct 2026 19:43:50 +0000",
-      "time": 1791575030,
-      "snippet": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-      "title_zh": "人工智能编码代理会生成更多代码，但不会生成更多软件"
-    },
-    {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "source": "MIT Tech Review",
-      "published": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "time": 1791536400,
-      "snippet": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. Th",
-      "title_zh": "我们过于相信人工智能说不的能力"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Tech Review",
-      "published": "Fri, 09 Oct 2026 00:08:24 +0000",
-      "time": 1791504504,
-      "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to ",
-      "title_zh": "圆桌会议：与人工智能病毒创造者的对话"
     }
   ]
 }

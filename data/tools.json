@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:54:51+00:00",
+  "generated_at": "2026-10-14T05:05:18+00:00",
   "showhn": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -25,7 +25,7 @@
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
       "url": "https://bigwords.page/",
       "domain": "bigwords.page",
-      "points": 725,
+      "points": 727,
       "comments": 165,
       "author": "SpeakingOfBrad",
       "time": "2026-10-07T15:44:21Z",
@@ -45,7 +45,7 @@
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
       "domain": "carrierexplode.com",
-      "points": 429,
+      "points": 431,
       "comments": 55,
       "author": "simplyalec",
       "time": "2026-10-09T18:10:55Z",
@@ -65,7 +65,7 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
-      "points": 417,
+      "points": 419,
       "comments": 196,
       "author": "franze",
       "time": "2026-10-09T11:03:48Z",
@@ -112,14 +112,14 @@
       "title_zh": "Show HN：Capsule – 将数据保存到 SQLite 的单文件 Web 应用程序"
     },
     {
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "url": "https://loficities.com/",
-      "domain": "loficities.com",
-      "points": 320,
-      "comments": 139,
-      "author": "safaelmali",
-      "time": "2026-09-27T18:44:30Z",
-      "title_zh": "Show HN：Lofi Cities – 像素艺术城市之夜，浏览器生成的 Lofi"
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "domain": "guitoro.com",
+      "points": 360,
+      "comments": 97,
+      "author": "talccc",
+      "time": "2026-10-13T19:11:48Z",
+      "title_zh": "显示 HN：Guitoro，您可以用键盘弹奏的虚拟吉他"
     }
   ],
   "hot": [
@@ -138,7 +138,7 @@
       "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
       "domain": "news.mit.edu",
       "points": 2123,
-      "comments": 256,
+      "comments": 257,
       "author": "muglug",
       "time": "2026-10-07T21:16:18Z",
       "title_zh": "玛格丽特·汉密尔顿去世"
@@ -148,7 +148,7 @@
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "domain": "mistral.ai",
       "points": 2042,
-      "comments": 1213,
+      "comments": 1214,
       "author": "Philpax",
       "time": "2026-10-06T13:15:49Z",
       "title_zh": "米斯特拉尔大 4"
@@ -208,7 +208,7 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "domain": "blog.google",
       "points": 1705,
-      "comments": 1192,
+      "comments": 1194,
       "author": "bradleyg223",
       "time": "2026-09-30T20:04:37Z",
       "title_zh": "双子座 4 氩"
@@ -217,7 +217,7 @@
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
       "domain": "earendil.com",
-      "points": 1688,
+      "points": 1689,
       "comments": 609,
       "author": "sergiotapia",
       "time": "2026-10-01T19:33:05Z",
@@ -237,7 +237,7 @@
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
       "domain": "minesweeper.mikelacher.com",
-      "points": 1430,
+      "points": 1439,
       "comments": 287,
       "author": "robin_reala",
       "time": "2026-10-09T15:51:05Z",
