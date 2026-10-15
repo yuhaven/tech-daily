@@ -1,46 +1,57 @@
 {
-  "generated_at": "2026-10-14T05:05:17+00:00",
+  "generated_at": "2026-10-15T04:54:33+00:00",
   "hn": [
     {
       "id": 50073879,
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
       "domain": "deepmind.google",
-      "points": 1137,
-      "comments": 823,
+      "points": 1443,
+      "comments": 1027,
       "author": "737max",
       "time": 1791907396,
       "title_zh": "双子座 4 氩"
-    },
-    {
-      "id": 50063427,
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "domain": "yyhh.org",
-      "points": 657,
-      "comments": 526,
-      "author": "layer8",
-      "time": 1791841218,
-      "title_zh": "人工智能是一种工具，用好它需要技巧"
     },
     {
       "id": 50073633,
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "domain": "anthropic.com",
-      "points": 638,
-      "comments": 612,
+      "points": 873,
+      "comments": 972,
       "author": "Philpax",
       "time": 1791906596,
       "title_zh": "重新设计 Anthropic 的源代码控制"
+    },
+    {
+      "id": 50091788,
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "domain": "csoonline.com",
+      "points": 854,
+      "comments": 491,
+      "author": "latexr",
+      "time": 1791999923,
+      "title_zh": "专家表示，人工智能黑客报告的罪魁祸首是遏制和监控失败"
+    },
+    {
+      "id": 50063427,
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "domain": "yyhh.org",
+      "points": 765,
+      "comments": 592,
+      "author": "layer8",
+      "time": 1791841218,
+      "title_zh": "人工智能是一种工具，用好它需要技巧"
     },
     {
       "id": 50078141,
       "title": "OpenAI engineer arrested in bugging of executive conference room",
       "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
       "domain": "sfstandard.com",
-      "points": 487,
-      "comments": 422,
+      "points": 646,
+      "comments": 532,
       "author": "forthwall",
       "time": 1791923035,
       "title_zh": "OpenAI 工程师因窃听高管会议室被捕"
@@ -50,144 +61,151 @@
       "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
       "url": "https://eg2.haku.sh/",
       "domain": "eg2.haku.sh",
-      "points": 409,
-      "comments": 87,
+      "points": 426,
+      "comments": 94,
       "author": "amrrs",
       "time": 1791890834,
       "title_zh": "我们将 EmbeddingGemma 2 转变为语音转文本模型"
     },
     {
-      "id": 50068036,
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "domain": "blog.character.ai",
-      "points": 313,
-      "comments": 274,
-      "author": "nryoo",
-      "time": 1791876514,
-      "title_zh": "Character.ai 已启动自愿破产法第 11 章破产程序"
+      "id": 50092664,
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "domain": "startupfortune.com",
+      "points": 346,
+      "comments": 238,
+      "author": "smartmic",
+      "time": 1792002772,
+      "title_zh": "银行现在正试图摆脱他们刚刚承保的人工智能数据中心债务"
     },
     {
-      "id": 50063365,
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "domain": "intel.com",
-      "points": 302,
-      "comments": 176,
-      "author": "hurricanepootis",
-      "time": 1791840935,
-      "title_zh": "英特尔 D270 GPU AI 加速器 – 高达 480 GB LPDDR5X"
+      "id": 50094694,
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "domain": "sunshowers.io",
+      "points": 316,
+      "comments": 122,
+      "author": "sunshowers",
+      "time": 1792009854,
+      "title_zh": "Anthropic 的 Scion 深受《幽灵公主》的启发"
     },
     {
-      "id": 50073221,
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "domain": "sammystraus.com",
-      "points": 298,
-      "comments": 160,
-      "author": "sammy0910",
-      "time": 1791905150,
-      "title_zh": "我发布到 HN，然后我的网站被 AI 机器人流量淹没"
+      "id": 50069337,
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "domain": "pdftomp3.com",
+      "points": 170,
+      "comments": 90,
+      "author": "janpmz",
+      "time": 1791886114,
+      "title_zh": "Show HN：使用您的 OpenAI 订阅来创建有声读物"
     },
     {
-      "id": 50065692,
-      "title": "AI models can provably hide arbitrary capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "domain": "arxiv.org",
-      "points": 273,
-      "comments": 137,
-      "author": "sbulaev",
-      "time": 1791857228,
-      "title_zh": "人工智能模型可以证明隐藏任意功能"
+      "id": 50072120,
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "domain": "kylekukshtel.com",
+      "points": 168,
+      "comments": 88,
+      "author": "kkukshtel",
+      "time": 1791900863,
+      "title_zh": "如何设计用于游戏开发的人工智能工具"
     },
     {
-      "id": 50070593,
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "domain": "machinelearning.apple.com",
-      "points": 240,
-      "comments": 96,
-      "author": "acossta",
-      "time": 1791894396,
-      "title_zh": "基于闲置 Apple Silicon 设备构建的动态分布式虚拟 GPU 云"
+      "id": 50090443,
+      "title": "Why do LLM pelicans look like this?",
+      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "domain": "arcfu.com",
+      "points": 157,
+      "comments": 134,
+      "author": "pcwelder",
+      "time": 1791995614,
+      "title_zh": "为什么LLM鹈鹕看起来像这样？"
     },
     {
-      "id": 50065932,
-      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "domain": "argmin.net",
-      "points": 240,
-      "comments": 159,
-      "author": "mochomocha",
-      "time": 1791859603,
-      "title_zh": "OpenAI 声称可以更快地计算傅立叶变换的数学原理"
-    },
-    {
-      "id": 50057668,
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "domain": "taylor.town",
-      "points": 215,
-      "comments": 86,
-      "author": "surprisetalk",
-      "time": 1791818205,
-      "title_zh": "凯文·凯利 10 年后的 2016 年人工智能预测"
+      "id": 50085323,
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "domain": "swedenherald.com",
+      "points": 143,
+      "comments": 84,
+      "author": "tobr",
+      "time": 1791973706,
+      "title_zh": "AI 代理删除编辑过的材料后 TV4 推迟节目"
     }
   ],
   "media": [
     {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
       "source": "TechCrunch",
-      "published": "Tue, 13 Oct 2026 23:13:31 +0000",
-      "time": 1791933211,
-      "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-comp",
-      "title_zh": "科学公司将其视力恢复芯片植入首例斯塔加特病患者体内"
+      "published": "Thu, 15 Oct 2026 04:30:00 +0000",
+      "time": 1792038600,
+      "snippet": "Figma is also releasing its code layers feature in open beta.",
+      "title_zh": "Figma 宣布新功能来定义代理如何在其平台上工作"
     },
     {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "source": "TechCrunch",
-      "published": "Tue, 13 Oct 2026 23:05:34 +0000",
-      "time": 1791932734,
-      "snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "title_zh": "Cerebras 首席执行官表示，我们即将迎来一个每个人家里都有个人人工智能助理的未来"
+      "published": "Thu, 15 Oct 2026 01:01:32 +0000",
+      "time": 1792026092,
+      "snippet": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accel",
+      "title_zh": "Ricursive Intelligence 押注于人工智能设计的芯片，以帮助解决计算危机"
     },
     {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "source": "TechCrunch",
-      "published": "Tue, 13 Oct 2026 23:00:00 +0000",
-      "time": 1791932400,
-      "snippet": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "title_zh": "Industrial Next 希望工厂机器人在几分钟而不是几周内切换任务"
+      "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "time": 1792022400,
+      "snippet": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a",
+      "title_zh": "Gudea 利用人工智能帮助组织在社交媒体危机爆发之前预防危机"
     },
     {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
       "source": "TechCrunch",
-      "published": "Tue, 13 Oct 2026 22:36:59 +0000",
-      "time": 1791931019,
-      "snippet": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks i",
-      "title_zh": "Cerebras 首席执行官反驳人工智能世界末日警告"
+      "published": "Wed, 14 Oct 2026 21:30:33 +0000",
+      "time": 1792013433,
+      "snippet": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "title_zh": "Flock 首席执行官表示，其麦克风检测到“只是枪声”——其网站说法不同"
     },
     {
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
       "source": "Ars Technica",
-      "published": "Tue, 13 Oct 2026 18:23:33 +0000",
-      "time": 1791915813,
-      "snippet": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-      "title_zh": "迪士尼斥资 2000 万美元收购 Character.AI 丑闻缠身的聊天机器人技术"
+      "published": "Wed, 14 Oct 2026 17:10:15 +0000",
+      "time": 1791997815,
+      "snippet": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "title_zh": "研究人员利用人工智能设计能够切割其他蛋白质的蛋白质"
     },
     {
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
       "source": "Ars Technica",
-      "published": "Tue, 13 Oct 2026 16:00:02 +0000",
-      "time": 1791907202,
-      "snippet": "Developers will get 50 percent discounted API rates through November.",
-      "title_zh": "Gemini 4 Argon 开始在 Gemini 应用程序和 Antigravity 中推出，但前提是您付费"
+      "published": "Wed, 14 Oct 2026 16:41:49 +0000",
+      "time": 1791996109,
+      "snippet": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "title_zh": "OpenAI绝密会议室中发现隐藏在卫生纸中的录音设备"
+    },
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica",
+      "published": "Wed, 14 Oct 2026 12:55:06 +0000",
+      "time": 1791982506,
+      "snippet": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "title_zh": "Anthropic 警告小型人工智能模型可以通过物联网设备进行自我复制"
+    },
+    {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "source": "Ars Technica",
+      "published": "Wed, 14 Oct 2026 11:00:30 +0000",
+      "time": 1791975630,
+      "snippet": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "title_zh": "研究人员称，OpenAI、谷歌推出的新人工智能模型很容易被欺骗来制作裸体"
     },
     {
       "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -206,24 +224,6 @@
       "time": 1791882000,
       "snippet": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s s",
       "title_zh": "人工智能实验室正在从倒闭的初创公司购买数据来训练他们的模型"
-    },
-    {
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "source": "Ars Technica",
-      "published": "Mon, 12 Oct 2026 20:59:50 +0000",
-      "time": 1791838790,
-      "snippet": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "title_zh": "据报道，Epic Games 将转向“人工智能优先”的游戏开发模式"
-    },
-    {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "source": "Ars Technica",
-      "published": "Mon, 12 Oct 2026 18:21:36 +0000",
-      "time": 1791829296,
-      "snippet": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "title_zh": "Anthropic 的 Claude AI 向费城警方提交了虚假的谋杀线索"
     }
   ]
 }

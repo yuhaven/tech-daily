@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:05:14+00:00",
+  "generated_at": "2026-10-15T04:54:30+00:00",
   "data": {
     "daily": [
       {
@@ -7,26 +7,17 @@
         "url": "/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "language": "TypeScript",
-        "stars_today": 54679,
-        "stars_total": 215271,
+        "stars_today": 41034,
+        "stars_total": 248420,
         "description_zh": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件。"
-      },
-      {
-        "full_name": "bilawalsidhu/gods-eye-view",
-        "url": "/bilawalsidhu/gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars_today": 1961,
-        "stars_total": 55709,
-        "description_zh": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
       },
       {
         "full_name": "debpalash/VoiceStudio",
         "url": "/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_today": 1748,
-        "stars_total": 63928,
+        "stars_today": 3538,
+        "stars_total": 66937,
         "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
       },
       {
@@ -34,64 +25,109 @@
         "url": "/mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "language": "TypeScript",
-        "stars_today": 969,
-        "stars_total": 28414,
+        "stars_today": 947,
+        "stars_total": 29285,
         "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
       },
       {
-        "full_name": "cathrynlavery/diagram-design",
-        "url": "/cathrynlavery/diagram-design",
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars_today": 1815,
-        "stars_total": 54485,
-        "description_zh": "Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid和Pi的编辑图设计。44种图类型。独立的HTML + SVG。没有阴影，没有美人鱼粪便。"
+        "full_name": "nvm-sh/nvm",
+        "url": "/nvm-sh/nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "language": "Shell",
+        "stars_today": 52,
+        "stars_total": 95489,
+        "description_zh": "Node Version Manager - 符合 POSIX 的 bash 脚本，用于管理多个活动的 Node.js 版本。"
       },
       {
-        "full_name": "vercel-labs/skills",
-        "url": "/vercel-labs/skills",
-        "description": "The open agent skills tool - npx skills",
-        "language": "TypeScript",
-        "stars_today": 190,
-        "stars_total": 34668,
-        "description_zh": "开放代理技能工具——npx技能"
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "url": "/K-Dense-AI/scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "stars_today": 163,
+        "stars_total": 49557,
+        "description_zh": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有超过 250,000 名科学家使用。 177 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
       },
       {
-        "full_name": "lyogavin/airllm",
-        "url": "/lyogavin/airllm",
-        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-        "language": "Jupyter Notebook",
-        "stars_today": 1001,
-        "stars_total": 38445,
-        "description_zh": "AirLLM 2.8T LLM 推理，使用单个 4GB GPU"
+        "full_name": "HKUDS/CLI-Anything",
+        "url": "/HKUDS/CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "stars_today": 103,
+        "stars_total": 52658,
+        "description_zh": "“CLI-Anything：使所有软件代理原生”--CLI-Hub：https://clianything.cc/"
       },
       {
-        "full_name": "storytold/artcraft",
-        "url": "/storytold/artcraft",
-        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "full_name": "ifixai-ai/iFixAi",
+        "url": "/ifixai-ai/iFixAi",
+        "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+        "language": "Python",
+        "stars_today": 2109,
+        "stars_total": 27678,
+        "description_zh": "人工智能代理的独立审计。由人类或代理本身运行，以回答人工智能代理经济中最关键的问题。代理人是否做了应该做的事情？借助 iFixAi，您可以在 120 秒内得到答案。"
+      },
+      {
+        "full_name": "vxcontrol/pentagi",
+        "url": "/vxcontrol/pentagi",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "stars_today": 1025,
+        "stars_total": 29778,
+        "description_zh": "完全自主的人工智能代理系统能够执行复杂的渗透测试任务"
+      },
+      {
+        "full_name": "rust-lang/rust",
+        "url": "/rust-lang/rust",
+        "description": "Empowering everyone to build reliable and efficient software.",
         "language": "Rust",
-        "stars_today": 4081,
-        "stars_total": 26223,
-        "description_zh": "ArtCraft 是为艺术家、设计师和电影制作人打造的有意制作引擎"
+        "stars_today": 207,
+        "stars_total": 120127,
+        "description_zh": "使每个人都能构建可靠、高效的软件。"
       },
       {
         "full_name": "xtool-org/xtool",
         "url": "/xtool-org/xtool",
         "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
         "language": "Swift",
-        "stars_today": 1198,
-        "stars_total": 9659,
+        "stars_today": 1502,
+        "stars_total": 11061,
         "description_zh": "跨平台 Xcode 替换。使用 SwiftPM 在 Linux、Windows、macOS 上构建和部署 iOS 应用程序。"
+      },
+      {
+        "full_name": "ntdevlabs/tiny11builder",
+        "url": "/ntdevlabs/tiny11builder",
+        "description": "WinUI app for building smaller, customized Windows 11 images.",
+        "language": "C#",
+        "stars_today": 139,
+        "stars_total": 20322,
+        "description_zh": "WinUI 应用程序用于构建更小的、自定义的 Windows 11 映像。"
+      },
+      {
+        "full_name": "NationalSecurityAgency/ghidra",
+        "url": "/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "stars_today": 1008,
+        "stars_total": 87764,
+        "description_zh": "Ghidra 是一个软件逆向工程 (SRE) 框架"
       }
     ],
     "weekly": [
+      {
+        "full_name": "morluto/rea",
+        "url": "/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars_today": 214837,
+        "stars_total": 248421,
+        "description_zh": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件。"
+      },
       {
         "full_name": "boykopovar/AnyPS5",
         "url": "/boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "language": "C++",
-        "stars_today": 28663,
-        "stars_total": 35670,
+        "stars_today": 28240,
+        "stars_total": 37383,
         "description_zh": "自动将 PS5 可执行文件移植到 Linux 和 Windows 的工具"
       },
       {
@@ -99,62 +135,71 @@
         "url": "/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
-        "stars_today": 11955,
-        "stars_total": 289965,
+        "stars_today": 12292,
+        "stars_total": 291549,
         "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
-      },
-      {
-        "full_name": "tester-army/e2e",
-        "url": "/tester-army/e2e",
-        "description": "Next generation e2e testing framework for web and mobile apps.",
-        "language": "TypeScript",
-        "stars_today": 4426,
-        "stars_total": 10193,
-        "description_zh": "适用于网络和移动应用程序的下一代e2e测试框架。"
-      },
-      {
-        "full_name": "EpicGames/raddebugger",
-        "url": "/EpicGames/raddebugger",
-        "description": "A native, user-mode, multi-process, graphical debugger.",
-        "language": "C",
-        "stars_today": 857,
-        "stars_total": 8492,
-        "description_zh": "本机、用户模式、多进程、图形调试器。"
       },
       {
         "full_name": "heygen-com/hyperframes",
         "url": "/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
-        "stars_today": 4732,
-        "stars_total": 62979,
+        "stars_today": 5123,
+        "stars_total": 63855,
         "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
+      },
+      {
+        "full_name": "EpicGames/raddebugger",
+        "url": "/EpicGames/raddebugger",
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "language": "C",
+        "stars_today": 814,
+        "stars_total": 8549,
+        "description_zh": "本机、用户模式、多进程、图形调试器。"
+      },
+      {
+        "full_name": "tester-army/e2e",
+        "url": "/tester-army/e2e",
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "language": "TypeScript",
+        "stars_today": 3505,
+        "stars_total": 10566,
+        "description_zh": "适用于网络和移动应用程序的下一代e2e测试框架。"
       },
       {
         "full_name": "thedotmack/claude-mem",
         "url": "/thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "language": "TypeScript",
-        "stars_today": 3587,
-        "stars_total": 100508,
+        "stars_today": 3371,
+        "stars_total": 100812,
         "description_zh": "每个座席跨会话的持久上下文 – 捕获座席在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
       },
       {
-        "full_name": "cursor/plugins",
-        "url": "/cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars_today": 1141,
-        "stars_total": 11254,
-        "description_zh": "光标插件规范和官方插件"
+        "full_name": "cathrynlavery/diagram-design",
+        "url": "/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars_today": 10706,
+        "stars_total": 55451,
+        "description_zh": "Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid和Pi的编辑图设计。44种图类型。独立的HTML + SVG。没有阴影，没有美人鱼粪便。"
+      },
+      {
+        "full_name": "twostraws/SwiftUI-Agent-Skill",
+        "url": "/twostraws/SwiftUI-Agent-Skill",
+        "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "language": null,
+        "stars_today": 930,
+        "stars_total": 5994,
+        "description_zh": "Claude Code、Codex 和其他 AI 工具的 SwiftUI 代理技能。"
       },
       {
         "full_name": "earthtojake/text-to-cad",
         "url": "/earthtojake/text-to-cad",
         "description": "Give your agent CAD superpowers.",
         "language": "Python",
-        "stars_today": 2173,
-        "stars_total": 20059,
+        "stars_today": 1994,
+        "stars_total": 20448,
         "description_zh": "赋予您的代理 CAD 超能力。"
       },
       {
@@ -162,37 +207,28 @@
         "url": "/flutter/flutter",
         "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
         "language": "Dart",
-        "stars_today": 967,
-        "stars_total": 180126,
+        "stars_today": 1117,
+        "stars_total": 180189,
         "description_zh": "Flutter可以轻松快速地为移动设备及其他设备构建漂亮的应用程序"
       },
       {
-        "full_name": "cathrynlavery/diagram-design",
-        "url": "/cathrynlavery/diagram-design",
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars_today": 9867,
-        "stars_total": 54485,
-        "description_zh": "Claude Code、Codex、GitHub Copilot、Cursor、Factory Droid和Pi的编辑图设计。44种图类型。独立的HTML + SVG。没有阴影，没有美人鱼粪便。"
+        "full_name": "NationalSecurityAgency/ghidra",
+        "url": "/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "stars_today": 5613,
+        "stars_total": 87764,
+        "description_zh": "Ghidra 是一个软件逆向工程 (SRE) 框架"
       }
     ],
     "monthly": [
-      {
-        "full_name": "alibaba/open-code-review",
-        "url": "/alibaba/open-code-review",
-        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "language": "Go",
-        "stars_today": 24283,
-        "stars_total": 46973,
-        "description_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
-      },
       {
         "full_name": "paperclipai/paperclip",
         "url": "/paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "language": "TypeScript",
-        "stars_today": 21106,
-        "stars_total": 101664,
+        "stars_today": 21643,
+        "stars_total": 102252,
         "description_zh": "每个人都用它来管理工作中的座席的开源应用程序"
       },
       {
@@ -200,35 +236,53 @@
         "url": "/anthropics/financial-services",
         "description": "",
         "language": "Python",
-        "stars_today": 4971,
-        "stars_total": 39738,
+        "stars_today": 5122,
+        "stars_total": 39885,
         "description_zh": null
       },
       {
-        "full_name": "debpalash/VoiceStudio",
-        "url": "/debpalash/VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars_today": 36408,
-        "stars_total": 63928,
-        "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
+        "full_name": "alibaba/open-code-review",
+        "url": "/alibaba/open-code-review",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "stars_today": 23047,
+        "stars_total": 47225,
+        "description_zh": "安全、快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。"
       },
       {
         "full_name": "vectorize-io/hindsight",
         "url": "/vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "language": "Python",
-        "stars_today": 25874,
-        "stars_total": 49348,
+        "stars_today": 26274,
+        "stars_total": 49757,
         "description_zh": "事后诸葛亮：智能体的学习记忆"
+      },
+      {
+        "full_name": "debpalash/VoiceStudio",
+        "url": "/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars_today": 37181,
+        "stars_total": 66937,
+        "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
+      },
+      {
+        "full_name": "heygen-com/hyperframes",
+        "url": "/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_today": 13722,
+        "stars_total": 63855,
+        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
       },
       {
         "full_name": "affaan-m/ECC",
         "url": "/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "stars_today": 22653,
-        "stars_total": 278704,
+        "stars_today": 22689,
+        "stars_total": 279592,
         "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
       },
       {
@@ -236,26 +290,35 @@
         "url": "/anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "language": "Python",
-        "stars_today": 5569,
-        "stars_total": 29569,
+        "stars_today": 5727,
+        "stars_total": 29705,
         "description_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
       },
       {
-        "full_name": "heygen-com/hyperframes",
-        "url": "/heygen-com/hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "language": "TypeScript",
-        "stars_today": 13203,
-        "stars_total": 62979,
-        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
+        "full_name": "agent-substrate/substrate",
+        "url": "/agent-substrate/substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "stars_today": 3286,
+        "stars_total": 5174,
+        "description_zh": "Agent Substrate：核心系统"
+      },
+      {
+        "full_name": "NVIDIA/OpenShell",
+        "url": "/NVIDIA/OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "stars_today": 7698,
+        "stars_total": 16261,
+        "description_zh": "OpenShell 是自主 AI 代理的安全、私有运行时。"
       },
       {
         "full_name": "anthropics/claude-code",
         "url": "/anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "TypeScript",
-        "stars_today": 6545,
-        "stars_total": 150688,
+        "stars_today": 6685,
+        "stars_total": 150922,
         "description_zh": "Claude Code 是一种代理编码工具，它位于您的终端中，了解您的代码库，并通过执行例行任务、解释复杂代码和处理 git 工作流程来帮助您更快地编码 - 所有这些都通过自然语言命令进行。"
       },
       {
@@ -263,27 +326,9 @@
         "url": "/TencentCloud/Octop",
         "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
         "language": "Python",
-        "stars_today": 7517,
-        "stars_total": 9214,
+        "stars_today": 7717,
+        "stars_total": 9362,
         "description_zh": "更智能、自托管的人工智能助手——多用户、多代理。"
-      },
-      {
-        "full_name": "Tencent/WeKnora",
-        "url": "/Tencent/WeKnora",
-        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-        "language": "Go",
-        "stars_today": 11177,
-        "stars_total": 33834,
-        "description_zh": "开源LLM知识平台：将原始文档变成可查询的RAG、自主推理代理和自我维护的Wiki。"
-      },
-      {
-        "full_name": "agent-substrate/substrate",
-        "url": "/agent-substrate/substrate",
-        "description": "Agent Substrate: the core system",
-        "language": "Go",
-        "stars_today": 3190,
-        "stars_total": 5078,
-        "description_zh": "Agent Substrate：核心系统"
       }
     ]
   }
