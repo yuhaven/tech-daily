@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-10-15T04:54:35+00:00",
+  "generated_at": "2026-10-16T04:45:31+00:00",
   "showhn": [
-    {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
-      "domain": "github.com",
-      "points": 2391,
-      "comments": 267,
-      "author": "arnemunthekaas",
-      "time": "2026-09-15T12:31:10Z",
-      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
-    },
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
@@ -35,8 +25,8 @@
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "url": "https://guitoro.com/",
       "domain": "guitoro.com",
-      "points": 553,
-      "comments": 155,
+      "points": 566,
+      "comments": 161,
       "author": "talccc",
       "time": "2026-10-13T19:11:48Z",
       "title_zh": "显示 HN：Guitoro，您可以用键盘弹奏的虚拟吉他"
@@ -102,16 +92,6 @@
       "title_zh": "Show HN：为 Opus 5.5 提供模拟画布"
     },
     {
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "url": "https://withcapsule.app/",
-      "domain": "withcapsule.app",
-      "points": 380,
-      "comments": 166,
-      "author": "bashtian",
-      "time": "2026-09-15T13:31:40Z",
-      "title_zh": "Show HN：Capsule – 将数据保存到 SQLite 的单文件 Web 应用程序"
-    },
-    {
       "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "url": "https://loficities.com/",
       "domain": "loficities.com",
@@ -120,25 +100,35 @@
       "author": "safaelmali",
       "time": "2026-09-27T18:44:30Z",
       "title_zh": "Show HN：Lofi 城市 – 像素艺术城市之夜，浏览器生成的 Lofi"
+    },
+    {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "domain": "github.com",
+      "points": 312,
+      "comments": 158,
+      "author": "deadxwarrior",
+      "time": "2026-10-12T06:46:53Z",
+      "title_zh": "显示HN ： PS2游戏静态重新编译为WebAssembly"
+    },
+    {
+      "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
+      "domain": "wallhop.io",
+      "points": 286,
+      "comments": 126,
+      "author": "TheWaffleHax",
+      "time": "2026-10-11T00:46:48Z",
+      "title_zh": "Show HN: WallHop - 12ft.io消失了，所以我建立了一个替代品"
     }
   ],
   "hot": [
-    {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
-      "domain": "github.com",
-      "points": 2391,
-      "comments": 267,
-      "author": "arnemunthekaas",
-      "time": "2026-09-15T12:31:10Z",
-      "title_zh": "Show HN：电子墨水框架，可以听到鸟鸣声并将它们绘制为 1800 年代的插图"
-    },
     {
       "title": "Margaret Hamilton has died",
       "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
       "domain": "news.mit.edu",
       "points": 2123,
-      "comments": 257,
+      "comments": 258,
       "author": "muglug",
       "time": "2026-10-07T21:16:18Z",
       "title_zh": "玛格丽特·汉密尔顿去世"
@@ -164,16 +154,6 @@
       "title_zh": "谷歌什么时候变得这么奇怪了？"
     },
     {
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "domain": "typesafe.ai",
-      "points": 1989,
-      "comments": 520,
-      "author": "albelfio",
-      "time": "2026-09-15T19:25:03Z",
-      "title_zh": "系统一模型和 Jev 简介"
-    },
-    {
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
@@ -182,6 +162,16 @@
       "author": "ereiamjh",
       "time": "2026-09-19T09:20:58Z",
       "title_zh": "人工智能生成的海报不一定很可怕"
+    },
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "domain": "jjmaxwell4.com",
+      "points": 1878,
+      "comments": 459,
+      "author": "jjmaxwell4",
+      "time": "2026-10-14T19:26:30Z",
+      "title_zh": "得癌症时的注意事项"
     },
     {
       "title": "Claude Opus 5.5",
@@ -237,11 +227,21 @@
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
       "domain": "deepmind.google",
-      "points": 1443,
-      "comments": 1027,
+      "points": 1457,
+      "comments": 1036,
       "author": "737max",
       "time": "2026-10-13T16:03:16Z",
       "title_zh": "双子座 4 氩"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "domain": "minesweeper.mikelacher.com",
+      "points": 1444,
+      "comments": 287,
+      "author": "robin_reala",
+      "time": "2026-10-09T15:51:05Z",
+      "title_zh": "Triple-A扫雷艇"
     }
   ]
 }

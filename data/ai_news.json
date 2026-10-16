@@ -1,35 +1,24 @@
 {
-  "generated_at": "2026-10-15T04:54:33+00:00",
+  "generated_at": "2026-10-16T04:45:25+00:00",
   "hn": [
     {
       "id": 50073879,
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
       "domain": "deepmind.google",
-      "points": 1443,
-      "comments": 1027,
+      "points": 1457,
+      "comments": 1036,
       "author": "737max",
       "time": 1791907396,
       "title_zh": "双子座 4 氩"
-    },
-    {
-      "id": 50073633,
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "domain": "anthropic.com",
-      "points": 873,
-      "comments": 972,
-      "author": "Philpax",
-      "time": 1791906596,
-      "title_zh": "重新设计 Anthropic 的源代码控制"
     },
     {
       "id": 50091788,
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
-      "points": 854,
-      "comments": 491,
+      "points": 940,
+      "comments": 614,
       "author": "latexr",
       "time": 1791999923,
       "title_zh": "专家表示，人工智能黑客报告的罪魁祸首是遏制和监控失败"
@@ -39,173 +28,166 @@
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "domain": "yyhh.org",
-      "points": 765,
-      "comments": 592,
+      "points": 787,
+      "comments": 601,
       "author": "layer8",
       "time": 1791841218,
       "title_zh": "人工智能是一种工具，用好它需要技巧"
     },
     {
-      "id": 50078141,
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "domain": "sfstandard.com",
-      "points": 646,
-      "comments": 532,
-      "author": "forthwall",
-      "time": 1791923035,
-      "title_zh": "OpenAI 工程师因窃听高管会议室被捕"
-    },
-    {
-      "id": 50069971,
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "domain": "eg2.haku.sh",
-      "points": 426,
-      "comments": 94,
-      "author": "amrrs",
-      "time": 1791890834,
-      "title_zh": "我们将 EmbeddingGemma 2 转变为语音转文本模型"
-    },
-    {
-      "id": 50092664,
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "domain": "startupfortune.com",
-      "points": 346,
-      "comments": 238,
-      "author": "smartmic",
-      "time": 1792002772,
-      "title_zh": "银行现在正试图摆脱他们刚刚承保的人工智能数据中心债务"
+      "id": 50105647,
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "domain": "already-clean.goodfire.com",
+      "points": 568,
+      "comments": 216,
+      "author": "themgt",
+      "time": 1792080241,
+      "title_zh": "神经网络是干净的"
     },
     {
       "id": 50094694,
       "title": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://sunshowers.io/posts/anthropic-mononoke/",
       "domain": "sunshowers.io",
-      "points": 316,
-      "comments": 122,
+      "points": 419,
+      "comments": 157,
       "author": "sunshowers",
       "time": 1792009854,
       "title_zh": "Anthropic 的 Scion 深受《幽灵公主》的启发"
     },
     {
-      "id": 50069337,
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "domain": "pdftomp3.com",
-      "points": 170,
-      "comments": 90,
-      "author": "janpmz",
-      "time": 1791886114,
-      "title_zh": "Show HN：使用您的 OpenAI 订阅来创建有声读物"
+      "id": 50097369,
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "domain": "liquid.ai",
+      "points": 284,
+      "comments": 78,
+      "author": "gmays",
+      "time": 1792022377,
+      "title_zh": "LFM2.5-24B-A2B ：专为快速设备上代理构建"
     },
     {
-      "id": 50072120,
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "domain": "kylekukshtel.com",
-      "points": 168,
-      "comments": 88,
-      "author": "kkukshtel",
-      "time": 1791900863,
-      "title_zh": "如何设计用于游戏开发的人工智能工具"
+      "id": 50106738,
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "domain": "sunshowers.io",
+      "points": 235,
+      "comments": 75,
+      "author": "sunshowers",
+      "time": 1792083919,
+      "title_zh": "更多关于Anthropic's Scion撕掉Mononoke的体验"
     },
     {
-      "id": 50090443,
-      "title": "Why do LLM pelicans look like this?",
-      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-      "domain": "arcfu.com",
-      "points": 157,
-      "comments": 134,
-      "author": "pcwelder",
-      "time": 1791995614,
-      "title_zh": "为什么LLM鹈鹕看起来像这样？"
+      "id": 50104654,
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "domain": "simonsfoundation.org",
+      "points": 234,
+      "comments": 191,
+      "author": "aaraujo002",
+      "time": 1792076328,
+      "title_zh": "西蒙斯基金会启动1500万$的努力，帮助数学家驾驭人工智能时代"
     },
     {
-      "id": 50085323,
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "domain": "swedenherald.com",
-      "points": 143,
-      "comments": 84,
-      "author": "tobr",
-      "time": 1791973706,
-      "title_zh": "AI 代理删除编辑过的材料后 TV4 推迟节目"
+      "id": 50104299,
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "domain": "blogs.gnome.org",
+      "points": 145,
+      "comments": 124,
+      "author": "ErenayDev",
+      "time": 1792074915,
+      "title_zh": "使用人工智能对硬件进行逆向工程"
+    },
+    {
+      "id": 50090799,
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "domain": "theconsensus.dev",
+      "points": 136,
+      "comments": 116,
+      "author": "7777777phil",
+      "time": 1791996762,
+      "title_zh": "Has AI tells"
+    },
+    {
+      "id": 50067325,
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "url": "https://news.ycombinator.com/item?id=50067325",
+      "domain": "news.ycombinator.com",
+      "points": 119,
+      "comments": 123,
+      "author": "reacharavindh",
+      "time": 1791870841,
+      "title_zh": "询问HN ： CAD是否在LLM支持下使用木材？"
+    },
+    {
+      "id": 50105791,
+      "title": "Frontier Pre-Training at Microsoft AI",
+      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "domain": "microsoft.ai",
+      "points": 37,
+      "comments": 3,
+      "author": "psoulos",
+      "time": 1792080733,
+      "title_zh": "Microsoft AI前沿预培训"
     }
   ],
   "media": [
     {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
       "source": "TechCrunch",
-      "published": "Thu, 15 Oct 2026 04:30:00 +0000",
-      "time": 1792038600,
-      "snippet": "Figma is also releasing its code layers feature in open beta.",
-      "title_zh": "Figma 宣布新功能来定义代理如何在其平台上工作"
+      "published": "Thu, 15 Oct 2026 23:44:56 +0000",
+      "time": 1792107896,
+      "snippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "title_zh": "当谈到Cal AI的病毒式成功时，一小群有影响力的人得到了回报"
     },
     {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
       "source": "TechCrunch",
-      "published": "Thu, 15 Oct 2026 01:01:32 +0000",
-      "time": 1792026092,
-      "snippet": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accel",
-      "title_zh": "Ricursive Intelligence 押注于人工智能设计的芯片，以帮助解决计算危机"
+      "published": "Thu, 15 Oct 2026 20:04:53 +0000",
+      "time": 1792094693,
+      "snippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "title_zh": "Meta推出在Mac上运行的开放式权重AI模型"
     },
     {
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
       "source": "TechCrunch",
-      "published": "Thu, 15 Oct 2026 00:00:00 +0000",
-      "time": 1792022400,
-      "snippet": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a",
-      "title_zh": "Gudea 利用人工智能帮助组织在社交媒体危机爆发之前预防危机"
+      "published": "Thu, 15 Oct 2026 19:55:25 +0000",
+      "time": 1792094125,
+      "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting fo",
+      "title_zh": "亚马逊设备主管Panos Panay认为，未来人工智能设备将取代使用应用程序的需求"
     },
     {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
       "source": "TechCrunch",
-      "published": "Wed, 14 Oct 2026 21:30:33 +0000",
-      "time": 1792013433,
-      "snippet": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "title_zh": "Flock 首席执行官表示，其麦克风检测到“只是枪声”——其网站说法不同"
+      "published": "Thu, 15 Oct 2026 19:14:26 +0000",
+      "time": 1792091666,
+      "snippet": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "title_zh": "Anthropic让METR研究人员通过员工级别的访问权限查看引擎盖下方"
     },
     {
-      "title": "Researchers use AI to design proteins that cut up other proteins",
-      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
       "source": "Ars Technica",
-      "published": "Wed, 14 Oct 2026 17:10:15 +0000",
-      "time": 1791997815,
-      "snippet": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-      "title_zh": "研究人员利用人工智能设计能够切割其他蛋白质的蛋白质"
+      "published": "Thu, 15 Oct 2026 15:43:24 +0000",
+      "time": 1792079004,
+      "snippet": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "title_zh": "报告：在特朗普将人工智能担忧斥为“骗局”后，联邦贸易委员会调查了人类学， OpenAI"
     },
     {
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
       "source": "Ars Technica",
-      "published": "Wed, 14 Oct 2026 16:41:49 +0000",
-      "time": 1791996109,
-      "snippet": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "title_zh": "OpenAI绝密会议室中发现隐藏在卫生纸中的录音设备"
-    },
-    {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "source": "Ars Technica",
-      "published": "Wed, 14 Oct 2026 12:55:06 +0000",
-      "time": 1791982506,
-      "snippet": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "title_zh": "Anthropic 警告小型人工智能模型可以通过物联网设备进行自我复制"
-    },
-    {
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "source": "Ars Technica",
-      "published": "Wed, 14 Oct 2026 11:00:30 +0000",
-      "time": 1791975630,
-      "snippet": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-      "title_zh": "研究人员称，OpenAI、谷歌推出的新人工智能模型很容易被欺骗来制作裸体"
+      "published": "Thu, 15 Oct 2026 15:12:58 +0000",
+      "time": 1792077178,
+      "snippet": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+      "title_zh": "歌手还是笨蛋？ YouTube音乐将为您提供新一代的人工智能标签。"
     },
     {
       "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -224,6 +206,24 @@
       "time": 1791882000,
       "snippet": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s s",
       "title_zh": "人工智能实验室正在从倒闭的初创公司购买数据来训练他们的模型"
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "time": 1791536400,
+      "snippet": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. Th",
+      "title_zh": "我们对人工智能说“不”的能力太有信心了"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "time": 1791504504,
+      "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to ",
+      "title_zh": "圆桌会议：与人工智能设计病毒的创造者对话"
     }
   ]
 }
