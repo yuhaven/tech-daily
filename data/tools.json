@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:45:31+00:00",
+  "generated_at": "2026-10-17T04:42:29+00:00",
   "showhn": [
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
@@ -25,7 +25,7 @@
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "url": "https://guitoro.com/",
       "domain": "guitoro.com",
-      "points": 566,
+      "points": 569,
       "comments": 161,
       "author": "talccc",
       "time": "2026-10-13T19:11:48Z",
@@ -35,7 +35,7 @@
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
       "domain": "carrierexplode.com",
-      "points": 431,
+      "points": 432,
       "comments": 55,
       "author": "simplyalec",
       "time": "2026-10-09T18:10:55Z",
@@ -55,7 +55,7 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
-      "points": 419,
+      "points": 420,
       "comments": 195,
       "author": "franze",
       "time": "2026-10-09T11:03:48Z",
@@ -105,21 +105,21 @@
       "title": "Show HN: PS2 games statically recompiled to WebAssembly",
       "url": "https://github.com/snuri00/ps2-web-recomp",
       "domain": "github.com",
-      "points": 312,
+      "points": 314,
       "comments": 158,
       "author": "deadxwarrior",
       "time": "2026-10-12T06:46:53Z",
       "title_zh": "显示HN ： PS2游戏静态重新编译为WebAssembly"
     },
     {
-      "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "domain": "wallhop.io",
-      "points": 286,
-      "comments": 126,
-      "author": "TheWaffleHax",
-      "time": "2026-10-11T00:46:48Z",
-      "title_zh": "Show HN: WallHop - 12ft.io消失了，所以我建立了一个替代品"
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "domain": "unfenced.land",
+      "points": 311,
+      "comments": 197,
+      "author": "otherwatersflow",
+      "time": "2026-10-15T11:38:57Z",
+      "title_zh": "显示 HN：无围栏 – 与公共土地接壤的待售土地"
     }
   ],
   "hot": [
@@ -128,7 +128,7 @@
       "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
       "domain": "news.mit.edu",
       "points": 2123,
-      "comments": 258,
+      "comments": 259,
       "author": "muglug",
       "time": "2026-10-07T21:16:18Z",
       "title_zh": "玛格丽特·汉密尔顿去世"
@@ -154,6 +154,16 @@
       "title_zh": "谷歌什么时候变得这么奇怪了？"
     },
     {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "domain": "jjmaxwell4.com",
+      "points": 1933,
+      "comments": 476,
+      "author": "jjmaxwell4",
+      "time": "2026-10-14T19:26:30Z",
+      "title_zh": "得癌症时的注意事项"
+    },
+    {
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
@@ -162,16 +172,6 @@
       "author": "ereiamjh",
       "time": "2026-09-19T09:20:58Z",
       "title_zh": "人工智能生成的海报不一定很可怕"
-    },
-    {
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "domain": "jjmaxwell4.com",
-      "points": 1878,
-      "comments": 459,
-      "author": "jjmaxwell4",
-      "time": "2026-10-14T19:26:30Z",
-      "title_zh": "得癌症时的注意事项"
     },
     {
       "title": "Claude Opus 5.5",
@@ -227,8 +227,8 @@
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
       "domain": "deepmind.google",
-      "points": 1457,
-      "comments": 1036,
+      "points": 1461,
+      "comments": 1041,
       "author": "737max",
       "time": "2026-10-13T16:03:16Z",
       "title_zh": "双子座 4 氩"
@@ -237,7 +237,7 @@
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
       "domain": "minesweeper.mikelacher.com",
-      "points": 1444,
+      "points": 1445,
       "comments": 287,
       "author": "robin_reala",
       "time": "2026-10-09T15:51:05Z",
