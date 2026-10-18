@@ -1,148 +1,166 @@
 {
-  "generated_at": "2026-10-17T04:42:28+00:00",
+  "generated_at": "2026-10-18T04:48:25+00:00",
   "hn": [
-    {
-      "id": 50105647,
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "domain": "already-clean.goodfire.com",
-      "points": 801,
-      "comments": 325,
-      "author": "themgt",
-      "time": 1792080241,
-      "title_zh": "神经网络是干净的"
-    },
     {
       "id": 50122800,
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 765,
-      "comments": 293,
+      "points": 1027,
+      "comments": 379,
       "author": "ahlCVA",
       "time": 1792176959,
       "title_zh": "Claude 揭示 ECDSA 曲线起源"
+    },
+    {
+      "id": 50105647,
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "domain": "already-clean.goodfire.com",
+      "points": 811,
+      "comments": 332,
+      "author": "themgt",
+      "time": 1792080241,
+      "title_zh": "神经网络是干净的"
     },
     {
       "id": 50121179,
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "domain": "mercor.com",
-      "points": 444,
-      "comments": 385,
+      "points": 599,
+      "comments": 549,
       "author": "speckx",
       "time": 1792170518,
       "title_zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上"
-    },
-    {
-      "id": 50122951,
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "domain": "claude.dev",
-      "points": 280,
-      "comments": 256,
-      "author": "pretext",
-      "time": 1792177487,
-      "title_zh": "Claude Code 团队如何进行代码审查"
-    },
-    {
-      "id": 50104654,
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "domain": "simonsfoundation.org",
-      "points": 247,
-      "comments": 198,
-      "author": "aaraujo002",
-      "time": 1792076328,
-      "title_zh": "西蒙斯基金会启动1500万$的努力，帮助数学家驾驭人工智能时代"
-    },
-    {
-      "id": 50122112,
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "domain": "ft.com",
-      "points": 233,
-      "comments": 71,
-      "author": "JumpCrisscross",
-      "time": 1792174302,
-      "title_zh": "Anthropic 授予 6 月​​份最高垃圾信用评级"
-    },
-    {
-      "id": 50122431,
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "domain": "github.com",
-      "points": 230,
-      "comments": 62,
-      "author": "Anon84",
-      "time": 1792175555,
-      "title_zh": "越狱 PS5 上的 Llama.cpp：在控制台上本地运行任何 GGUF 模型"
-    },
-    {
-      "id": 50118688,
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "domain": "starskirmish.com",
-      "points": 200,
-      "comments": 90,
-      "author": "__cayenne__",
-      "time": 1792160324,
-      "title_zh": "Show HN：Gemini 4 Argon 玩星际争霸"
     },
     {
       "id": 50122878,
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
       "domain": "alexwang.ai",
-      "points": 189,
-      "comments": 57,
+      "points": 528,
+      "comments": 120,
       "author": "speckx",
       "time": 1792177277,
       "title_zh": "你本可以凭记忆发明变形金刚"
     },
     {
-      "id": 50119991,
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "domain": "theregister.com",
-      "points": 189,
-      "comments": 73,
-      "author": "magoghm",
-      "time": 1792166140,
-      "title_zh": "Postgres 19 因 AI 审阅者发现的错误多于人类可以修复的错误而被推迟"
+      "id": 50122951,
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "domain": "claude.dev",
+      "points": 457,
+      "comments": 459,
+      "author": "pretext",
+      "time": 1792177487,
+      "title_zh": "Claude Code 团队如何进行代码审查"
     },
     {
-      "id": 50085553,
-      "title": "AI-assisted PCB design for KiCad 10",
-      "url": "https://github.com/mixelpixx/Konnect",
+      "id": 50122431,
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "domain": "github.com",
-      "points": 128,
-      "comments": 48,
-      "author": "ofrzeta",
-      "time": 1791975097,
-      "title_zh": "KiCad 10 的 AI 辅助 PCB 设计"
+      "points": 367,
+      "comments": 84,
+      "author": "Anon84",
+      "time": 1792175555,
+      "title_zh": "越狱 PS5 上的 Llama.cpp：在控制台上本地运行任何 GGUF 模型"
+    },
+    {
+      "id": 50122112,
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "domain": "ft.com",
+      "points": 287,
+      "comments": 86,
+      "author": "JumpCrisscross",
+      "time": 1792174302,
+      "title_zh": "Anthropic 授予 6 月​​份最高垃圾信用评级"
+    },
+    {
+      "id": 50127979,
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "domain": "llmspeed.dev",
+      "points": 267,
+      "comments": 78,
+      "author": "albinstman",
+      "time": 1792211813,
+      "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度"
+    },
+    {
+      "id": 50118688,
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "domain": "starskirmish.com",
+      "points": 242,
+      "comments": 109,
+      "author": "__cayenne__",
+      "time": 1792160324,
+      "title_zh": "Show HN：Gemini 4 Argon 玩星际争霸"
     },
     {
       "id": 50121939,
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
       "domain": "anthropic.com",
-      "points": 117,
-      "comments": 24,
+      "points": 172,
+      "comments": 36,
       "author": "pretext",
       "time": 1792173618,
       "title_zh": "与 Claude 一起设计更高效的量子电路"
+    },
+    {
+      "id": 50132278,
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "domain": "opendemocracy.net",
+      "points": 155,
+      "comments": 58,
+      "author": "DeepLogin",
+      "time": 1792253063,
+      "title_zh": "亚马逊使用人工智能监控英国仓库的工会风险"
+    },
+    {
+      "id": 50085553,
+      "title": "AI-assisted PCB design for KiCad 10",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "domain": "github.com",
+      "points": 143,
+      "comments": 52,
+      "author": "ofrzeta",
+      "time": 1791975097,
+      "title_zh": "KiCad 10 的 AI 辅助 PCB 设计"
     }
   ],
   "media": [
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "source": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
-      "time": 1792185748,
-      "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it",
-      "title_zh": "Replit 首席执行官表示不再与 Anthropic 合作"
+      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "time": 1792272692,
+      "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "title_zh": "Meta 删除了引起抓取和人工智能培训问题的语言"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "published": "Sat, 17 Oct 2026 20:21:19 +0000",
+      "time": 1792268479,
+      "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "title_zh": "Anthropic 表示，其员工队伍的初级人员数量已有所减少，花在会议上的时间也越来越多"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "time": 1792262888,
+      "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "title_zh": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic"
     },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -179,24 +197,6 @@
       "time": 1792173144,
       "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "title_zh": "印度成为最新一个报告流氓人工智能代理活动的国家"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "time": 1792168200,
-      "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks lik",
-      "title_zh": "一位 Nvidia 内部人士转型为风险投资家，探讨机器人技术尚未达到 ChatGPT 时刻的原因"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "time": 1792168200,
-      "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks lik",
-      "title_zh": "英伟达资深人士表示，物理人工智能不仅仅是机器人"
     },
     {
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",

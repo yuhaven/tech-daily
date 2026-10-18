@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:42:29+00:00",
+  "generated_at": "2026-10-18T04:48:26+00:00",
   "showhn": [
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
@@ -25,7 +25,7 @@
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "url": "https://guitoro.com/",
       "domain": "guitoro.com",
-      "points": 569,
+      "points": 571,
       "comments": 161,
       "author": "talccc",
       "time": "2026-10-13T19:11:48Z",
@@ -55,7 +55,7 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
-      "points": 420,
+      "points": 421,
       "comments": 195,
       "author": "franze",
       "time": "2026-10-09T11:03:48Z",
@@ -102,6 +102,16 @@
       "title_zh": "Show HN：Lofi 城市 – 像素艺术城市之夜，浏览器生成的 Lofi"
     },
     {
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "domain": "unfenced.land",
+      "points": 315,
+      "comments": 200,
+      "author": "otherwatersflow",
+      "time": "2026-10-15T11:38:57Z",
+      "title_zh": "显示 HN：无围栏 – 与公共土地接壤的待售土地"
+    },
+    {
       "title": "Show HN: PS2 games statically recompiled to WebAssembly",
       "url": "https://github.com/snuri00/ps2-web-recomp",
       "domain": "github.com",
@@ -110,16 +120,6 @@
       "author": "deadxwarrior",
       "time": "2026-10-12T06:46:53Z",
       "title_zh": "显示HN ： PS2游戏静态重新编译为WebAssembly"
-    },
-    {
-      "title": "Show HN: Unfenced – Land for sale that borders public land",
-      "url": "https://unfenced.land/",
-      "domain": "unfenced.land",
-      "points": 311,
-      "comments": 197,
-      "author": "otherwatersflow",
-      "time": "2026-10-15T11:38:57Z",
-      "title_zh": "显示 HN：无围栏 – 与公共土地接壤的待售土地"
     }
   ],
   "hot": [
@@ -157,8 +157,8 @@
       "title": "Things to know when you get cancer",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "domain": "jjmaxwell4.com",
-      "points": 1933,
-      "comments": 476,
+      "points": 1953,
+      "comments": 480,
       "author": "jjmaxwell4",
       "time": "2026-10-14T19:26:30Z",
       "title_zh": "得癌症时的注意事项"
@@ -208,10 +208,30 @@
       "url": "https://earendil.com/posts/pi-1-0/",
       "domain": "earendil.com",
       "points": 1689,
-      "comments": 609,
+      "comments": 610,
       "author": "sergiotapia",
       "time": "2026-10-01T19:33:05Z",
       "title_zh": "圆周率1.0"
+    },
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "domain": "tesla.com",
+      "points": 1610,
+      "comments": 2986,
+      "author": "shekhar101",
+      "time": "2026-10-16T01:32:45Z",
+      "title_zh": "特斯拉跑车"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "domain": "deepmind.google",
+      "points": 1465,
+      "comments": 1044,
+      "author": "737max",
+      "time": "2026-10-13T16:03:16Z",
+      "title_zh": "双子座 4 氩"
     },
     {
       "title": "F-Droid 2.0",
@@ -222,26 +242,6 @@
       "author": "daveoc64",
       "time": "2026-09-24T15:26:12Z",
       "title_zh": "F-机器人2.0"
-    },
-    {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "domain": "deepmind.google",
-      "points": 1461,
-      "comments": 1041,
-      "author": "737max",
-      "time": "2026-10-13T16:03:16Z",
-      "title_zh": "双子座 4 氩"
-    },
-    {
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "domain": "minesweeper.mikelacher.com",
-      "points": 1445,
-      "comments": 287,
-      "author": "robin_reala",
-      "time": "2026-10-09T15:51:05Z",
-      "title_zh": "Triple-A扫雷艇"
     }
   ]
 }
