@@ -1,140 +1,167 @@
 {
-  "generated_at": "2026-10-18T04:48:25+00:00",
+  "generated_at": "2026-10-19T04:57:06+00:00",
   "hn": [
     {
       "id": 50122800,
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1027,
-      "comments": 379,
+      "points": 1051,
+      "comments": 388,
       "author": "ahlCVA",
       "time": 1792176959,
       "title_zh": "Claude 揭示 ECDSA 曲线起源"
-    },
-    {
-      "id": 50105647,
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "domain": "already-clean.goodfire.com",
-      "points": 811,
-      "comments": 332,
-      "author": "themgt",
-      "time": 1792080241,
-      "title_zh": "神经网络是干净的"
-    },
-    {
-      "id": 50121179,
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "domain": "mercor.com",
-      "points": 599,
-      "comments": 549,
-      "author": "speckx",
-      "time": 1792170518,
-      "title_zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上"
     },
     {
       "id": 50122878,
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
       "domain": "alexwang.ai",
-      "points": 528,
-      "comments": 120,
+      "points": 623,
+      "comments": 142,
       "author": "speckx",
       "time": 1792177277,
       "title_zh": "你本可以凭记忆发明变形金刚"
     },
     {
-      "id": 50122951,
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "domain": "claude.dev",
-      "points": 457,
-      "comments": 459,
-      "author": "pretext",
-      "time": 1792177487,
-      "title_zh": "Claude Code 团队如何进行代码审查"
+      "id": 50145337,
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "domain": "arxiv.org",
+      "points": 286,
+      "comments": 157,
+      "author": "allinonai",
+      "time": 1792356494,
+      "title_zh": "混合推理代理：在潜在空间中思考的LLM代理，通过文本采取行动"
     },
     {
-      "id": 50122431,
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "domain": "github.com",
-      "points": 367,
-      "comments": 84,
-      "author": "Anon84",
-      "time": 1792175555,
-      "title_zh": "越狱 PS5 上的 Llama.cpp：在控制台上本地运行任何 GGUF 模型"
-    },
-    {
-      "id": 50122112,
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "domain": "ft.com",
-      "points": 287,
-      "comments": 86,
-      "author": "JumpCrisscross",
-      "time": 1792174302,
-      "title_zh": "Anthropic 授予 6 月​​份最高垃圾信用评级"
-    },
-    {
-      "id": 50127979,
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "domain": "llmspeed.dev",
-      "points": 267,
-      "comments": 78,
-      "author": "albinstman",
-      "time": 1792211813,
-      "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度"
-    },
-    {
-      "id": 50118688,
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "domain": "starskirmish.com",
+      "id": 50137950,
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "domain": "sphinx-six-theta.vercel.app",
       "points": 242,
-      "comments": 109,
-      "author": "__cayenne__",
-      "time": 1792160324,
-      "title_zh": "Show HN：Gemini 4 Argon 玩星际争霸"
+      "comments": 85,
+      "author": "critiquebrowser",
+      "time": 1792298029,
+      "title_zh": "Show HN: Sphinx –在发货前对您的AI代码进行测验的钩子"
     },
     {
-      "id": 50121939,
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "domain": "anthropic.com",
-      "points": 172,
-      "comments": 36,
-      "author": "pretext",
-      "time": 1792173618,
-      "title_zh": "与 Claude 一起设计更高效的量子电路"
+      "id": 50145507,
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "domain": "jrdsgl.com",
+      "points": 85,
+      "comments": 65,
+      "author": "amrrs",
+      "time": 1792357752,
+      "title_zh": "如果您没有运行自己的LLM代理，您如何知道发生了什么？"
     },
     {
-      "id": 50132278,
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "domain": "opendemocracy.net",
-      "points": 155,
-      "comments": 58,
+      "id": 50140462,
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "domain": "vals.ai",
+      "points": 82,
+      "comments": 99,
       "author": "DeepLogin",
-      "time": 1792253063,
-      "title_zh": "亚马逊使用人工智能监控英国仓库的工会风险"
+      "time": 1792326178,
+      "title_zh": "人工智能助理在多大程度上可以获得他们无法获得的退款？"
     },
     {
-      "id": 50085553,
-      "title": "AI-assisted PCB design for KiCad 10",
-      "url": "https://github.com/mixelpixx/Konnect",
+      "id": 50146493,
+      "title": "OpenFlow – Ultimate Agent Orchestration",
+      "url": "https://github.com/SeeRay11/OpenFlow",
       "domain": "github.com",
-      "points": 143,
-      "comments": 52,
-      "author": "ofrzeta",
-      "time": 1791975097,
-      "title_zh": "KiCad 10 的 AI 辅助 PCB 设计"
+      "points": 7,
+      "comments": 0,
+      "author": "searay112023",
+      "time": 1792365490,
+      "title_zh": "OpenFlow –终极代理编排"
+    },
+    {
+      "id": 50147371,
+      "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical",
+      "url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
+      "domain": "wsj.com",
+      "points": 7,
+      "comments": 0,
+      "author": "bcaulfield",
+      "time": 1792373868,
+      "title_zh": "人工智能代理在你睡觉时交易股票？ Charles Schwab的首席执行官持怀疑态度"
+    },
+    {
+      "id": 50147479,
+      "title": "Anthropic commits 5% of shares to 'public benefit' fund",
+      "url": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52",
+      "domain": "ft.com",
+      "points": 7,
+      "comments": 2,
+      "author": "JumpCrisscross",
+      "time": 1792375136,
+      "title_zh": "Anthropic承诺将5%的股份用于“公益”基金"
+    },
+    {
+      "id": 50147861,
+      "title": "Using AI as a tutor to do math with pen and paper",
+      "url": "https://twitter.com/nichochar/status/2111822781214294329",
+      "domain": "twitter.com",
+      "points": 5,
+      "comments": 1,
+      "author": "nichochar",
+      "time": 1792378712,
+      "title_zh": "使用人工智能作为导师，用笔和纸做数学"
+    },
+    {
+      "id": 50142277,
+      "title": "Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
+      "url": "https://github.com/electric-dragon-80000v/pi-cowboy",
+      "domain": "github.com",
+      "points": 5,
+      "comments": 0,
+      "author": "suoloordi",
+      "time": 1792339497,
+      "title_zh": "Show HN: Pi-cowboy –使用Codex、Claude Code、OpenCode作为子代理"
+    },
+    {
+      "id": 50148396,
+      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+      "url": "https://github.com/strot-ai/Project-STROT",
+      "domain": "github.com",
+      "points": 3,
+      "comments": 0,
+      "author": "solohunter001",
+      "time": 1792384327,
+      "title_zh": "显示HN ： Strot –一次编译LLM的意图，永远在本地运行决策"
     }
   ],
   "media": [
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "time": 1792355860,
+      "snippet": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "title_zh": "Anthropic表示，它将把5%的股份投入“公益基金”"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "published": "Sun, 18 Oct 2026 16:30:00 +0000",
+      "time": 1792341000,
+      "snippet": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company cou",
+      "title_zh": "迪士尼同意雇用Character.AI的大部分员工"
+    },
+    {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "source": "Ars Technica",
+      "published": "Sun, 18 Oct 2026 16:25:19 +0000",
+      "time": 1792340719,
+      "snippet": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "title_zh": "Anthropic为外部人工智能监管机构提供“类似员工”的访问权限"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -152,15 +179,6 @@
       "time": 1792268479,
       "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
       "title_zh": "Anthropic 表示，其员工队伍的初级人员数量已有所减少，花在会议上的时间也越来越多"
-    },
-    {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
-      "time": 1792262888,
-      "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "title_zh": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic"
     },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -190,15 +208,6 @@
       "title_zh": "圆桌会议：与人工智能设计病毒的创造者对话"
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 17:52:24 +0000",
-      "time": 1792173144,
-      "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "title_zh": "印度成为最新一个报告流氓人工智能代理活动的国家"
-    },
-    {
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
       "source": "Ars Technica",
@@ -215,15 +224,6 @@
       "time": 1791885600,
       "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the se",
       "title_zh": "开放模型有真正的好处。它们是否大于风险？"
-    },
-    {
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 13 Oct 2026 09:00:00 +0000",
-      "time": 1791882000,
-      "snippet": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s s",
-      "title_zh": "人工智能实验室正在从倒闭的初创公司购买数据来训练他们的模型"
     }
   ]
 }
