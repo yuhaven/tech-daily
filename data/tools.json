@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:57:08+00:00",
+  "generated_at": "2026-10-20T05:03:05+00:00",
   "showhn": [
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
@@ -35,7 +35,7 @@
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
       "domain": "carrierexplode.com",
-      "points": 432,
+      "points": 433,
       "comments": 55,
       "author": "simplyalec",
       "time": "2026-10-09T18:10:55Z",
@@ -95,7 +95,7 @@
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "domain": "llmspeed.dev",
-      "points": 322,
+      "points": 329,
       "comments": 86,
       "author": "albinstman",
       "time": "2026-10-17T04:36:53Z",
@@ -115,7 +115,7 @@
       "title": "Show HN: Unfenced – Land for sale that borders public land",
       "url": "https://unfenced.land/",
       "domain": "unfenced.land",
-      "points": 316,
+      "points": 318,
       "comments": 200,
       "author": "otherwatersflow",
       "time": "2026-10-15T11:38:57Z",
@@ -157,21 +157,11 @@
       "title": "Things to know when you get cancer",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "domain": "jjmaxwell4.com",
-      "points": 1959,
+      "points": 1970,
       "comments": 478,
       "author": "jjmaxwell4",
       "time": "2026-10-14T19:26:30Z",
       "title_zh": "得癌症时的注意事项"
-    },
-    {
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "domain": "john.hartnup.uk",
-      "points": 1902,
-      "comments": 962,
-      "author": "ereiamjh",
-      "time": "2026-09-19T09:20:58Z",
-      "title_zh": "人工智能生成的海报不一定很可怕"
     },
     {
       "title": "Claude Opus 5.5",
@@ -217,8 +207,8 @@
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
       "domain": "tesla.com",
-      "points": 1631,
-      "comments": 3096,
+      "points": 1639,
+      "comments": 3138,
       "author": "shekhar101",
       "time": "2026-10-16T01:32:45Z",
       "title_zh": "特斯拉跑车"
@@ -228,7 +218,7 @@
       "url": "https://deepmind.google/models/gemini/",
       "domain": "deepmind.google",
       "points": 1466,
-      "comments": 1044,
+      "comments": 1047,
       "author": "737max",
       "time": "2026-10-13T16:03:16Z",
       "title_zh": "双子座 4 氩"
@@ -242,6 +232,16 @@
       "author": "daveoc64",
       "time": "2026-09-24T15:26:12Z",
       "title_zh": "F-机器人2.0"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "domain": "minesweeper.mikelacher.com",
+      "points": 1446,
+      "comments": 288,
+      "author": "robin_reala",
+      "time": "2026-10-09T15:51:05Z",
+      "title_zh": "Triple-A扫雷艇"
     }
   ]
 }

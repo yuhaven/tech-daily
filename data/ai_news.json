@@ -1,229 +1,229 @@
 {
-  "generated_at": "2026-10-19T04:57:06+00:00",
+  "generated_at": "2026-10-20T05:03:02+00:00",
   "hn": [
-    {
-      "id": 50122800,
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "domain": "anthropic.com",
-      "points": 1051,
-      "comments": 388,
-      "author": "ahlCVA",
-      "time": 1792176959,
-      "title_zh": "Claude 揭示 ECDSA 曲线起源"
-    },
     {
       "id": 50122878,
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
       "domain": "alexwang.ai",
-      "points": 623,
-      "comments": 142,
+      "points": 650,
+      "comments": 147,
       "author": "speckx",
       "time": 1792177277,
       "title_zh": "你本可以凭记忆发明变形金刚"
+    },
+    {
+      "id": 50150434,
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "domain": "mistral.ai",
+      "points": 566,
+      "comments": 105,
+      "author": "groar",
+      "time": 1792403972,
+      "title_zh": "Timestral ： Mistral的时间序列基础模型"
     },
     {
       "id": 50145337,
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "domain": "arxiv.org",
-      "points": 286,
-      "comments": 157,
+      "points": 503,
+      "comments": 236,
       "author": "allinonai",
       "time": 1792356494,
       "title_zh": "混合推理代理：在潜在空间中思考的LLM代理，通过文本采取行动"
     },
     {
-      "id": 50137950,
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "domain": "sphinx-six-theta.vercel.app",
-      "points": 242,
-      "comments": 85,
-      "author": "critiquebrowser",
-      "time": 1792298029,
-      "title_zh": "Show HN: Sphinx –在发货前对您的AI代码进行测验的钩子"
+      "id": 50151036,
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "domain": "news.ycombinator.com",
+      "points": 332,
+      "comments": 478,
+      "author": "rzk",
+      "time": 1792409074,
+      "title_zh": "询问HN ：如何处理您不理解的AI编写的代码？"
+    },
+    {
+      "id": 50153630,
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "domain": "home.cern",
+      "points": 326,
+      "comments": 57,
+      "author": "kensai",
+      "time": 1792423704,
+      "title_zh": "CERN和Mistral签署建立战略伙伴关系的意向声明"
     },
     {
       "id": 50145507,
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "domain": "jrdsgl.com",
-      "points": 85,
-      "comments": 65,
+      "points": 295,
+      "comments": 210,
       "author": "amrrs",
       "time": 1792357752,
       "title_zh": "如果您没有运行自己的LLM代理，您如何知道发生了什么？"
+    },
+    {
+      "id": 50136126,
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "domain": "youtube.com",
+      "points": 174,
+      "comments": 66,
+      "author": "evakhoury",
+      "time": 1792279445,
+      "title_zh": "RuneScape Bench ：代理的MMO [视频]"
+    },
+    {
+      "id": 50159341,
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "domain": "redact.dev",
+      "points": 157,
+      "comments": 23,
+      "author": "ds",
+      "time": 1792452138,
+      "title_zh": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构"
+    },
+    {
+      "id": 50148855,
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "domain": "crystl.dev",
+      "points": 153,
+      "comments": 116,
+      "author": "ankitg12",
+      "time": 1792389331,
+      "title_zh": "Tmux和Claude代码：会话、发送密钥和天花板"
+    },
+    {
+      "id": 50151928,
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "domain": "100toolkit.com",
+      "points": 145,
+      "comments": 108,
+      "author": "erikkannike",
+      "time": 1792414847,
+      "title_zh": "向HN: Qwen3-4B展示AI写作抽搐训练"
+    },
+    {
+      "id": 50151376,
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "domain": "wsj.com",
+      "points": 135,
+      "comments": 115,
+      "author": "1vuio0pswjnm7",
+      "time": 1792411563,
+      "title_zh": "Anthropic的IPO笼罩着模糊的信任"
     },
     {
       "id": 50140462,
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
       "url": "https://www.vals.ai/blogs/impossible-refund",
       "domain": "vals.ai",
-      "points": 82,
-      "comments": 99,
+      "points": 104,
+      "comments": 122,
       "author": "DeepLogin",
       "time": 1792326178,
       "title_zh": "人工智能助理在多大程度上可以获得他们无法获得的退款？"
-    },
-    {
-      "id": 50146493,
-      "title": "OpenFlow – Ultimate Agent Orchestration",
-      "url": "https://github.com/SeeRay11/OpenFlow",
-      "domain": "github.com",
-      "points": 7,
-      "comments": 0,
-      "author": "searay112023",
-      "time": 1792365490,
-      "title_zh": "OpenFlow –终极代理编排"
-    },
-    {
-      "id": 50147371,
-      "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical",
-      "url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
-      "domain": "wsj.com",
-      "points": 7,
-      "comments": 0,
-      "author": "bcaulfield",
-      "time": 1792373868,
-      "title_zh": "人工智能代理在你睡觉时交易股票？ Charles Schwab的首席执行官持怀疑态度"
-    },
-    {
-      "id": 50147479,
-      "title": "Anthropic commits 5% of shares to 'public benefit' fund",
-      "url": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52",
-      "domain": "ft.com",
-      "points": 7,
-      "comments": 2,
-      "author": "JumpCrisscross",
-      "time": 1792375136,
-      "title_zh": "Anthropic承诺将5%的股份用于“公益”基金"
-    },
-    {
-      "id": 50147861,
-      "title": "Using AI as a tutor to do math with pen and paper",
-      "url": "https://twitter.com/nichochar/status/2111822781214294329",
-      "domain": "twitter.com",
-      "points": 5,
-      "comments": 1,
-      "author": "nichochar",
-      "time": 1792378712,
-      "title_zh": "使用人工智能作为导师，用笔和纸做数学"
-    },
-    {
-      "id": 50142277,
-      "title": "Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
-      "url": "https://github.com/electric-dragon-80000v/pi-cowboy",
-      "domain": "github.com",
-      "points": 5,
-      "comments": 0,
-      "author": "suoloordi",
-      "time": 1792339497,
-      "title_zh": "Show HN: Pi-cowboy –使用Codex、Claude Code、OpenCode作为子代理"
-    },
-    {
-      "id": 50148396,
-      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-      "url": "https://github.com/strot-ai/Project-STROT",
-      "domain": "github.com",
-      "points": 3,
-      "comments": 0,
-      "author": "solohunter001",
-      "time": 1792384327,
-      "title_zh": "显示HN ： Strot –一次编译LLM的意图，永远在本地运行决策"
     }
   ],
   "media": [
     {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
       "source": "TechCrunch",
-      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
-      "time": 1792355860,
-      "snippet": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "title_zh": "Anthropic表示，它将把5%的股份投入“公益基金”"
+      "published": "Tue, 20 Oct 2026 01:27:03 +0000",
+      "time": 1792459623,
+      "snippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power bac",
+      "title_zh": "马姆达尼说，联邦调查局已经放弃了人工智能，敦促纽约人反击"
     },
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "source": "TechCrunch",
-      "published": "Sun, 18 Oct 2026 16:30:00 +0000",
-      "time": 1792341000,
-      "snippet": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company cou",
-      "title_zh": "迪士尼同意雇用Character.AI的大部分员工"
+      "published": "Mon, 19 Oct 2026 23:39:38 +0000",
+      "time": 1792453178,
+      "snippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "title_zh": "据报道， Nscale和Anthropic正在就另一笔450亿美元的计算机交易进行谈判"
     },
     {
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "time": 1792450167,
+      "snippet": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI ",
+      "title_zh": "Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 22:04:28 +0000",
+      "time": 1792447468,
+      "snippet": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "title_zh": "微软表示，人工智能代理就像内部威胁一样，因为“前沿模型不可信”"
+    },
+    {
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
       "source": "Ars Technica",
-      "published": "Sun, 18 Oct 2026 16:25:19 +0000",
-      "time": 1792340719,
-      "snippet": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "title_zh": "Anthropic为外部人工智能监管机构提供“类似员工”的访问权限"
+      "published": "Mon, 19 Oct 2026 20:21:53 +0000",
+      "time": 1792441313,
+      "snippet": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "title_zh": "联邦调查局称，被指控的OpenAI间谍有名为“沙特政府文件”的文件夹"
     },
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch",
-      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
-      "time": 1792272692,
-      "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "title_zh": "Meta 删除了引起抓取和人工智能培训问题的语言"
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch",
-      "published": "Sat, 17 Oct 2026 20:21:19 +0000",
-      "time": 1792268479,
-      "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "title_zh": "Anthropic 表示，其员工队伍的初级人员数量已有所减少，花在会议上的时间也越来越多"
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "source": "Ars Technica",
-      "published": "Fri, 16 Oct 2026 20:59:01 +0000",
-      "time": 1792184341,
-      "snippet": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "title_zh": "OpenAI 模型攻击了一个加密钱包并入侵了更多网站"
-    },
-    {
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "source": "Ars Technica",
-      "published": "Fri, 16 Oct 2026 20:20:07 +0000",
-      "time": 1792182007,
-      "snippet": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-      "title_zh": "警方称，制作 AI CSAM 的“thegentlemanpervert”是新泽西州检察官"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
       "source": "MIT Tech Review",
-      "published": "Fri, 16 Oct 2026 18:00:00 +0000",
-      "time": 1792173600,
-      "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative ",
-      "title_zh": "圆桌会议：与人工智能设计病毒的创造者对话"
+      "published": "Mon, 19 Oct 2026 18:22:47 +0000",
+      "time": 1792434167,
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide inte",
+      "title_zh": "让人工智能代理的互联网变得更好，可能会让其他人变得更糟"
     },
     {
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "source": "Ars Technica",
-      "published": "Fri, 16 Oct 2026 15:41:00 +0000",
-      "time": 1792165260,
-      "snippet": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-      "title_zh": "Meta 可能会使用全新的商业服务条款来避免数百万美元的人工智能许可费用"
-    },
-    {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
       "source": "MIT Tech Review",
-      "published": "Tue, 13 Oct 2026 10:00:00 +0000",
-      "time": 1791885600,
-      "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the se",
-      "title_zh": "开放模型有真正的好处。它们是否大于风险？"
+      "published": "Mon, 19 Oct 2026 17:45:55 +0000",
+      "time": 1792431955,
+      "snippet": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-wo",
+      "title_zh": "“我们看错了” ：颠覆人工智能世界的爆炸性主张"
+    },
+    {
+      "title": "AI game clones are making indie developers afraid to show their work",
+      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "source": "Ars Technica",
+      "published": "Mon, 19 Oct 2026 16:59:22 +0000",
+      "time": 1792429162,
+      "snippet": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+      "title_zh": "人工智能游戏克隆让独立开发者害怕展示他们的作品"
+    },
+    {
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "source": "Ars Technica",
+      "published": "Mon, 19 Oct 2026 14:45:43 +0000",
+      "time": 1792421143,
+      "snippet": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "title_zh": "迪士尼找到了一种在不购买诉讼的情况下购买Character.AI的方法"
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 19 Oct 2026 09:08:05 +0000",
+      "time": 1792400885,
+      "snippet": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in ",
+      "title_zh": "人工智能研究人员将克劳德困在一个虚拟的荒岛上。它开始“玩耍”。"
     }
   ]
 }
