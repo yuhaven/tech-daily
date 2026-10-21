@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:03:05+00:00",
+  "generated_at": "2026-10-21T05:02:32+00:00",
   "showhn": [
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
@@ -22,10 +22,20 @@
       "title_zh": "Show HN：Bigwords.page – 将任何屏幕变成标志。网址是应用程序"
     },
     {
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "domain": "permit.petercai.com",
+      "points": 662,
+      "comments": 344,
+      "author": "pcai",
+      "time": "2026-10-20T18:29:09Z",
+      "title_zh": "显示 HN：SimCity，但有许可证"
+    },
+    {
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "url": "https://guitoro.com/",
       "domain": "guitoro.com",
-      "points": 572,
+      "points": 573,
       "comments": 161,
       "author": "gloja",
       "time": "2026-10-13T19:11:48Z",
@@ -110,19 +120,19 @@
       "author": "safaelmali",
       "time": "2026-09-27T18:44:30Z",
       "title_zh": "Show HN：Lofi 城市 – 像素艺术城市之夜，浏览器生成的 Lofi"
-    },
-    {
-      "title": "Show HN: Unfenced – Land for sale that borders public land",
-      "url": "https://unfenced.land/",
-      "domain": "unfenced.land",
-      "points": 318,
-      "comments": 200,
-      "author": "otherwatersflow",
-      "time": "2026-10-15T11:38:57Z",
-      "title_zh": "显示 HN：无围栏 – 与公共土地接壤的待售土地"
     }
   ],
   "hot": [
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "domain": "github.com",
+      "points": 2187,
+      "comments": 848,
+      "author": "ggcr",
+      "time": "2026-10-20T09:08:54Z",
+      "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
+    },
     {
       "title": "Margaret Hamilton has died",
       "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
@@ -137,7 +147,7 @@
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "domain": "mistral.ai",
-      "points": 2043,
+      "points": 2044,
       "comments": 1216,
       "author": "Philpax",
       "time": "2026-10-06T13:15:49Z",
@@ -157,7 +167,7 @@
       "title": "Things to know when you get cancer",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "domain": "jjmaxwell4.com",
-      "points": 1970,
+      "points": 1971,
       "comments": 478,
       "author": "jjmaxwell4",
       "time": "2026-10-14T19:26:30Z",
@@ -207,8 +217,8 @@
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
       "domain": "tesla.com",
-      "points": 1639,
-      "comments": 3138,
+      "points": 1642,
+      "comments": 3149,
       "author": "shekhar101",
       "time": "2026-10-16T01:32:45Z",
       "title_zh": "特斯拉跑车"
@@ -232,16 +242,6 @@
       "author": "daveoc64",
       "time": "2026-09-24T15:26:12Z",
       "title_zh": "F-机器人2.0"
-    },
-    {
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "domain": "minesweeper.mikelacher.com",
-      "points": 1446,
-      "comments": 288,
-      "author": "robin_reala",
-      "time": "2026-10-09T15:51:05Z",
-      "title_zh": "Triple-A扫雷艇"
     }
   ]
 }

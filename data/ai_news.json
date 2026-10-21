@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-10-20T05:03:02+00:00",
+  "generated_at": "2026-10-21T05:02:31+00:00",
   "hn": [
+    {
+      "id": 50163277,
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "domain": "github.com",
+      "points": 2187,
+      "comments": 848,
+      "author": "ggcr",
+      "time": 1792487334,
+      "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
+    },
+    {
+      "id": 50159341,
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "domain": "redact.dev",
+      "points": 720,
+      "comments": 208,
+      "author": "ds",
+      "time": 1792452138,
+      "title_zh": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构"
+    },
     {
       "id": 50122878,
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
       "domain": "alexwang.ai",
-      "points": 650,
-      "comments": 147,
+      "points": 661,
+      "comments": 149,
       "author": "speckx",
       "time": 1792177277,
       "title_zh": "你本可以凭记忆发明变形金刚"
@@ -17,30 +39,19 @@
       "title": "Timestral: Mistral's time-series foundation models",
       "url": "https://mistral.ai/news/timestral/",
       "domain": "mistral.ai",
-      "points": 566,
-      "comments": 105,
+      "points": 614,
+      "comments": 120,
       "author": "groar",
       "time": 1792403972,
       "title_zh": "Timestral ： Mistral的时间序列基础模型"
-    },
-    {
-      "id": 50145337,
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "domain": "arxiv.org",
-      "points": 503,
-      "comments": 236,
-      "author": "allinonai",
-      "time": 1792356494,
-      "title_zh": "混合推理代理：在潜在空间中思考的LLM代理，通过文本采取行动"
     },
     {
       "id": 50151036,
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 332,
-      "comments": 478,
+      "points": 590,
+      "comments": 700,
       "author": "rzk",
       "time": 1792409074,
       "title_zh": "询问HN ：如何处理您不理解的AI编写的代码？"
@@ -50,135 +61,160 @@
       "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
       "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
       "domain": "home.cern",
-      "points": 326,
-      "comments": 57,
+      "points": 356,
+      "comments": 61,
       "author": "kensai",
       "time": 1792423704,
       "title_zh": "CERN和Mistral签署建立战略伙伴关系的意向声明"
-    },
-    {
-      "id": 50145507,
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "domain": "jrdsgl.com",
-      "points": 295,
-      "comments": 210,
-      "author": "amrrs",
-      "time": 1792357752,
-      "title_zh": "如果您没有运行自己的LLM代理，您如何知道发生了什么？"
     },
     {
       "id": 50136126,
       "title": "RuneScape Bench: MMOs for Agents [video]",
       "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
       "domain": "youtube.com",
-      "points": 174,
-      "comments": 66,
+      "points": 242,
+      "comments": 80,
       "author": "evakhoury",
       "time": 1792279445,
       "title_zh": "RuneScape Bench ：代理的MMO [视频]"
     },
     {
-      "id": 50159341,
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "domain": "redact.dev",
-      "points": 157,
-      "comments": 23,
-      "author": "ds",
-      "time": 1792452138,
-      "title_zh": "WhatsApp的帮助页面隐藏了LLM说明：不推荐监管机构"
+      "id": 50171966,
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "domain": "reuters.com",
+      "points": 130,
+      "comments": 58,
+      "author": "throwa356262",
+      "time": 1792526986,
+      "title_zh": "2026 年上半年人类记录净亏损超过 $80B"
     },
     {
-      "id": 50148855,
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "domain": "crystl.dev",
-      "points": 153,
-      "comments": 116,
-      "author": "ankitg12",
-      "time": 1792389331,
-      "title_zh": "Tmux和Claude代码：会话、发送密钥和天花板"
+      "id": 50140111,
+      "title": "Restoration of Retinal Regenerative Potential (2025)",
+      "url": "https://www.nature.com/articles/s41467-025-58290-8",
+      "domain": "nature.com",
+      "points": 111,
+      "comments": 4,
+      "author": "Kaibeezy",
+      "time": 1792323158,
+      "title_zh": "视网膜再生潜力的恢复（2025）"
     },
     {
-      "id": 50151928,
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "url": "https://100toolkit.com/blog/deslop-model/",
-      "domain": "100toolkit.com",
-      "points": 145,
-      "comments": 108,
-      "author": "erikkannike",
-      "time": 1792414847,
-      "title_zh": "向HN: Qwen3-4B展示AI写作抽搐训练"
+      "id": 50170021,
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "domain": "anthropic.com",
+      "points": 102,
+      "comments": 64,
+      "author": "artninja1988",
+      "time": 1792518509,
+      "title_zh": "克劳德设计了针对蝎子神经毒素的蛋白质结合剂"
     },
     {
-      "id": 50151376,
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "domain": "wsj.com",
-      "points": 135,
-      "comments": 115,
-      "author": "1vuio0pswjnm7",
-      "time": 1792411563,
-      "title_zh": "Anthropic的IPO笼罩着模糊的信任"
+      "id": 50167604,
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
+      "domain": "github.com",
+      "points": 59,
+      "comments": 7,
+      "author": "abdullahalharir",
+      "time": 1792509054,
+      "title_zh": "Show HN：Penmentor – 克劳德像老师一样标记你的手写数学"
     },
     {
-      "id": 50140462,
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "url": "https://www.vals.ai/blogs/impossible-refund",
-      "domain": "vals.ai",
-      "points": 104,
-      "comments": 122,
-      "author": "DeepLogin",
-      "time": 1792326178,
-      "title_zh": "人工智能助理在多大程度上可以获得他们无法获得的退款？"
+      "id": 50154029,
+      "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+      "url": "https://news.ycombinator.com/item?id=50154029",
+      "domain": "news.ycombinator.com",
+      "points": 58,
+      "comments": 27,
+      "author": "skull8888888",
+      "time": 1792425618,
+      "title_zh": "启动 HN：Laminar (YC S24) – 强化学习训练模型，可发现代理轨迹中的错误"
     }
   ],
   "media": [
     {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 01:27:03 +0000",
-      "time": 1792459623,
-      "snippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power bac",
-      "title_zh": "马姆达尼说，联邦调查局已经放弃了人工智能，敦促纽约人反击"
+      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "time": 1792537283,
+      "snippet": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "title_zh": "Anthropic 提出人工智能安全法案，如果 50 多人死亡，该法案可能会阻止模型的发展"
     },
     {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "source": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 23:39:38 +0000",
-      "time": 1792453178,
-      "snippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "title_zh": "据报道， Nscale和Anthropic正在就另一笔450亿美元的计算机交易进行谈判"
+      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "time": 1792535042,
+      "snippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't",
+      "title_zh": "Hugging Face 首席执行官警告 Netflix 的 OpenAI 黑客纪录片不准确"
     },
     {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "source": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 22:49:27 +0000",
-      "time": 1792450167,
-      "snippet": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI ",
-      "title_zh": "Hugging Face的政策主管表示，嵌入式人工智能评估人员不是一个简单的解决方案"
+      "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+      "time": 1792531522,
+      "snippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a ",
+      "title_zh": "Anthropic 的云合作伙伴关系变得混乱"
     },
     {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "title": "SpaceX’s AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "time": 1792447468,
-      "snippet": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "title_zh": "微软表示，人工智能代理就像内部威胁一样，因为“前沿模型不可信”"
+      "published": "Tue, 20 Oct 2026 20:40:41 +0000",
+      "time": 1792528841,
+      "snippet": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+      "title_zh": "SpaceX的人工智能业务超出预期"
     },
     {
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
       "source": "Ars Technica",
-      "published": "Mon, 19 Oct 2026 20:21:53 +0000",
-      "time": 1792441313,
-      "snippet": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "title_zh": "联邦调查局称，被指控的OpenAI间谍有名为“沙特政府文件”的文件夹"
+      "published": "Tue, 20 Oct 2026 20:07:58 +0000",
+      "time": 1792526878,
+      "snippet": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+      "title_zh": "在人工智能强烈反对后，Meta 从其商业服务条款中删除了“火车”一词"
+    },
+    {
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "source": "Ars Technica",
+      "published": "Tue, 20 Oct 2026 20:00:33 +0000",
+      "time": 1792526433,
+      "snippet": "It's probably time to audit your Gemini settings.",
+      "title_zh": "双子座的个人智能即将应用到汽车上"
+    },
+    {
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 20 Oct 2026 15:20:25 +0000",
+      "time": 1792509625,
+      "snippet": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But onc",
+      "title_zh": "企业人工智能的新经济"
+    },
+    {
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 20 Oct 2026 12:00:00 +0000",
+      "time": 1792497600,
+      "snippet": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in tec",
+      "title_zh": "行业对人工智能的采用表明其他行业可以学习什么"
+    },
+    {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 20 Oct 2026 09:00:00 +0000",
+      "time": 1792486800,
+      "snippet": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung",
+      "title_zh": "参观三星大型新半导体中心"
     },
     {
       "title": "Making the internet better for AI agents might make it worse for everyone else",
@@ -188,42 +224,6 @@
       "time": 1792434167,
       "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide inte",
       "title_zh": "让人工智能代理的互联网变得更好，可能会让其他人变得更糟"
-    },
-    {
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 19 Oct 2026 17:45:55 +0000",
-      "time": 1792431955,
-      "snippet": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-wo",
-      "title_zh": "“我们看错了” ：颠覆人工智能世界的爆炸性主张"
-    },
-    {
-      "title": "AI game clones are making indie developers afraid to show their work",
-      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-      "source": "Ars Technica",
-      "published": "Mon, 19 Oct 2026 16:59:22 +0000",
-      "time": 1792429162,
-      "snippet": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-      "title_zh": "人工智能游戏克隆让独立开发者害怕展示他们的作品"
-    },
-    {
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "source": "Ars Technica",
-      "published": "Mon, 19 Oct 2026 14:45:43 +0000",
-      "time": 1792421143,
-      "snippet": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-      "title_zh": "迪士尼找到了一种在不购买诉讼的情况下购买Character.AI的方法"
-    },
-    {
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 19 Oct 2026 09:08:05 +0000",
-      "time": 1792400885,
-      "snippet": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in ",
-      "title_zh": "人工智能研究人员将克劳德困在一个虚拟的荒岛上。它开始“玩耍”。"
     }
   ]
 }
