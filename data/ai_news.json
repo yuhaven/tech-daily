@@ -1,229 +1,229 @@
 {
-  "generated_at": "2026-10-22T05:04:57+00:00",
+  "generated_at": "2026-10-23T05:04:43+00:00",
   "hn": [
     {
       "id": 50163277,
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "domain": "github.com",
-      "points": 2307,
-      "comments": 885,
+      "points": 2333,
+      "comments": 888,
       "author": "ggcr",
       "time": 1792487334,
       "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
-    },
-    {
-      "id": 50180836,
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "domain": "wiz.io",
-      "points": 439,
-      "comments": 173,
-      "author": "danlark1",
-      "time": 1792590199,
-      "title_zh": "PHP2Shell：AI 发现 PHP 中的关键 RCE"
     },
     {
       "id": 50186037,
       "title": "Claude Duet",
       "url": "https://claude.com/product/claude-duet",
       "domain": "claude.com",
-      "points": 339,
-      "comments": 306,
+      "points": 549,
+      "comments": 515,
       "author": "kuberwastaken",
       "time": 1792610041,
       "title_zh": "克劳德二重唱"
+    },
+    {
+      "id": 50198675,
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "points": 343,
+      "comments": 181,
+      "author": "niemandhier",
+      "time": 1792691046,
+      "title_zh": "OpenShell – 为自主 AI 代理团队提供安全、私密的运行时"
     },
     {
       "id": 50180079,
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
       "domain": "openai.com",
-      "points": 266,
-      "comments": 110,
+      "points": 322,
+      "comments": 145,
       "author": "armcat",
       "time": 1792587191,
       "title_zh": "OpenAI 模型即将登陆 Google Cloud"
     },
     {
-      "id": 50136126,
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "domain": "youtube.com",
-      "points": 247,
-      "comments": 82,
-      "author": "evakhoury",
-      "time": 1792279445,
-      "title_zh": "RuneScape Bench ：代理的MMO [视频]"
+      "id": 50197313,
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "domain": "modelcompare.ai",
+      "points": 304,
+      "comments": 348,
+      "author": "rakannimer",
+      "time": 1792685280,
+      "title_zh": "每个人工智能模型对人类都有相同的“有争议”的看法"
     },
     {
       "id": 50181175,
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
       "domain": "openai.com",
-      "points": 245,
-      "comments": 165,
+      "points": 264,
+      "comments": 183,
       "author": "nr378",
       "time": 1792591423,
       "title_zh": "修补地球：随着特工发现漏洞，全球响应协调"
+    },
+    {
+      "id": 50191507,
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "domain": "github.com",
+      "points": 232,
+      "comments": 110,
+      "author": "armcat",
+      "time": 1792646591,
+      "title_zh": "OpenAI CLI"
+    },
+    {
+      "id": 50176082,
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "domain": "rumple.github.io",
+      "points": 204,
+      "comments": 100,
+      "author": "jimauthors",
+      "time": 1792556871,
+      "title_zh": "使用 LLM 进行置信度评分是一个坏主意"
     },
     {
       "id": 50180752,
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "domain": "openai.com",
-      "points": 138,
-      "comments": 86,
+      "points": 155,
+      "comments": 104,
       "author": "raahelb",
       "time": 1792589820,
       "title_zh": "使用数千个人工智能代理来发现生物数据中的新线索"
     },
     {
-      "id": 50175779,
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "domain": "anthropic.com",
-      "points": 131,
-      "comments": 86,
-      "author": "dnw",
-      "time": 1792553803,
-      "title_zh": "使用 Claude 减少代码的攻击面"
+      "id": 50199230,
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "domain": "arxiv.org",
+      "points": 126,
+      "comments": 74,
+      "author": "jrepinc",
+      "time": 1792693696,
+      "title_zh": "人工智能和科学共享的圈地"
     },
     {
-      "id": 50186043,
-      "title": "Google staff resign in backlash over its AI contracts with military",
-      "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-      "domain": "bbc.com",
-      "points": 119,
-      "comments": 23,
-      "author": "saikatsg",
-      "time": 1792610061,
-      "title_zh": "谷歌员工因与军方签订人工智能合同而遭强烈抵制"
+      "id": 50183892,
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "domain": "github.com",
+      "points": 110,
+      "comments": 34,
+      "author": "kmansm27",
+      "time": 1792601093,
+      "title_zh": "Show HN：Omnara – Claude Managed Agents 的开源替代方案"
     },
     {
       "id": 50186455,
       "title": "Claude Duet",
       "url": "https://claude.com/resources/articles/claude-duet",
       "domain": "claude.com",
-      "points": 66,
-      "comments": 7,
+      "points": 92,
+      "comments": 13,
       "author": "zaevlad",
       "time": 1792611618,
       "title_zh": "克劳德二重唱"
-    },
-    {
-      "id": 50183344,
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "domain": "github.blog",
-      "points": 59,
-      "comments": 15,
-      "author": "Klaster_1",
-      "time": 1792598968,
-      "title_zh": "通往代理级 Git 基础设施的桥梁"
-    },
-    {
-      "id": 50176908,
-      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "url": "https://alterauth.com/",
-      "domain": "alterauth.com",
-      "points": 57,
-      "comments": 25,
-      "author": "simfinii",
-      "time": 1792564932,
-      "title_zh": "启动 HN：Alter (YC S25) – 多用户代理的访问控制"
     }
   ],
   "media": [
     {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "source": "TechCrunch",
-      "published": "Wed, 21 Oct 2026 22:51:22 +0000",
-      "time": 1792623082,
-      "snippet": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "title_zh": "Blackstone 的 Jas Khaira 表示，对人工智能建设债务的担忧被夸大了"
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "time": 1792728000,
+      "snippet": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "title_zh": "Uber 竞争对手 inDrive 计划与 Pony.ai 和 Nvidia 合作，于 2027 年在中亚进行机器人出租车测试"
     },
     {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "source": "TechCrunch",
-      "published": "Wed, 21 Oct 2026 21:16:20 +0000",
-      "time": 1792617380,
-      "snippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insig",
-      "title_zh": "TechCrunch 创始人峰会 2026：您需要了解的一切"
+      "published": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "time": 1792716337,
+      "snippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "title_zh": "独自无事可做，人工智能代理开始玩"
     },
     {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "TechCrunch",
-      "published": "Wed, 21 Oct 2026 21:14:19 +0000",
-      "time": 1792617259,
-      "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
-      "title_zh": "Meta 表示 Muse 拥有超过 1000 万用户，其中购物是首要活动"
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "time": 1792706904,
+      "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "title_zh": "OpenAI 致力于在 IPO 前以 1.25T 美元的估值进行新的 30B 美元融资"
     },
     {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "source": "TechCrunch",
-      "published": "Wed, 21 Oct 2026 20:27:41 +0000",
-      "time": 1792614461,
-      "snippet": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "title_zh": "Recursive 推出了 Flint，这是一种笔记本电脑编码模型，据称主要由人工智能构建"
-    },
-    {
-      "title": "The new human-crafted Apple Music brand matters in an AI world",
-      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-      "source": "Ars Technica",
-      "published": "Wed, 21 Oct 2026 19:44:40 +0000",
-      "time": 1792611880,
-      "snippet": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-      "title_zh": "全新人工打造的 Apple Music 品牌在人工智能世界中举足轻重"
-    },
-    {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "source": "Ars Technica",
-      "published": "Wed, 21 Oct 2026 18:51:42 +0000",
-      "time": 1792608702,
-      "snippet": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "title_zh": "OpenAI 的最新人工智能模型即将登陆 Google Cloud 和 Antigravity"
-    },
-    {
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "source": "Ars Technica",
-      "published": "Wed, 21 Oct 2026 15:14:07 +0000",
-      "time": 1792595647,
-      "snippet": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "title_zh": "您的医生可能已经在使用这家价值 150 亿美元的广告驱动型人工智能初创公司"
-    },
-    {
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "source": "Ars Technica",
-      "published": "Tue, 20 Oct 2026 20:07:58 +0000",
-      "time": 1792526878,
-      "snippet": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-      "title_zh": "在人工智能强烈反对后，Meta 从其商业服务条款中删除了“火车”一词"
-    },
-    {
-      "title": "The new economics of enterprise AI",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "source": "MIT Tech Review",
-      "published": "Tue, 20 Oct 2026 15:20:25 +0000",
-      "time": 1792509625,
-      "snippet": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But onc",
-      "title_zh": "企业人工智能的新经济"
+      "published": "Thu, 22 Oct 2026 21:17:29 +0000",
+      "time": 1792703849,
+      "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years",
+      "title_zh": "设计持久耐用的人工智能服务线束"
     },
     {
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch",
+      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "time": 1792696029,
+      "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "title_zh": "1Password 推出了一种让 AI 代理代表您登录而无需查看您的密码的方法"
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "source": "MIT Tech Review",
-      "published": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "time": 1792497600,
-      "snippet": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in tec",
-      "title_zh": "行业对人工智能的采用表明其他行业可以学习什么"
+      "published": "Thu, 22 Oct 2026 18:48:04 +0000",
+      "time": 1792694884,
+      "snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Rev",
+      "title_zh": "可扩展人工智能的基础"
+    },
+    {
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Tech Review",
+      "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "time": 1792663200,
+      "snippet": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even pow",
+      "title_zh": "情境感知人工智能的案例"
+    },
+    {
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Tech Review",
+      "published": "Thu, 22 Oct 2026 08:41:18 +0000",
+      "time": 1792658478,
+      "snippet": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves somethin",
+      "title_zh": "人工智能的隐藏存储费用：推理留下了什么"
+    },
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat",
+      "published": "Thu, 27 Aug 2026 14:01:00 GMT",
+      "time": 1787839260,
+      "snippet": "Presented by Gravitee Read more",
+      "title_zh": "企业人工智能的真正风险不是自主代理。这就是他们之间的复杂性。"
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat",
+      "published": "Thu, 27 Aug 2026 12:01:00 GMT",
+      "time": 1787832060,
+      "snippet": "Presented by EDB Read more",
+      "title_zh": "当代理独立行动时，治理必须存在于数据层"
     }
   ]
 }
