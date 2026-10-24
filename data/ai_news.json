@@ -1,166 +1,175 @@
 {
-  "generated_at": "2026-10-23T05:04:43+00:00",
+  "generated_at": "2026-10-24T04:49:14+00:00",
   "hn": [
     {
       "id": 50163277,
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "domain": "github.com",
-      "points": 2333,
-      "comments": 888,
+      "points": 2343,
+      "comments": 891,
       "author": "ggcr",
       "time": 1792487334,
       "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
-    },
-    {
-      "id": 50186037,
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "domain": "claude.com",
-      "points": 549,
-      "comments": 515,
-      "author": "kuberwastaken",
-      "time": 1792610041,
-      "title_zh": "克劳德二重唱"
-    },
-    {
-      "id": 50198675,
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "domain": "github.com",
-      "points": 343,
-      "comments": 181,
-      "author": "niemandhier",
-      "time": 1792691046,
-      "title_zh": "OpenShell – 为自主 AI 代理团队提供安全、私密的运行时"
-    },
-    {
-      "id": 50180079,
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "domain": "openai.com",
-      "points": 322,
-      "comments": 145,
-      "author": "armcat",
-      "time": 1792587191,
-      "title_zh": "OpenAI 模型即将登陆 Google Cloud"
     },
     {
       "id": 50197313,
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
-      "points": 304,
-      "comments": 348,
+      "points": 621,
+      "comments": 595,
       "author": "rakannimer",
       "time": 1792685280,
       "title_zh": "每个人工智能模型对人类都有相同的“有争议”的看法"
     },
     {
-      "id": 50181175,
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "domain": "openai.com",
-      "points": 264,
-      "comments": 183,
-      "author": "nr378",
-      "time": 1792591423,
-      "title_zh": "修补地球：随着特工发现漏洞，全球响应协调"
+      "id": 50200997,
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "domain": "news.ycombinator.com",
+      "points": 602,
+      "comments": 672,
+      "author": "ex-aws-dude",
+      "time": 1792703035,
+      "title_zh": "问 HN：如果模型这么好，OpenAI 为什么不直接创办 100 家公司呢？"
     },
     {
-      "id": 50191507,
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
+      "id": 50198675,
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
-      "points": 232,
-      "comments": 110,
-      "author": "armcat",
-      "time": 1792646591,
-      "title_zh": "OpenAI CLI"
+      "points": 490,
+      "comments": 212,
+      "author": "niemandhier",
+      "time": 1792691046,
+      "title_zh": "OpenShell – 为自主 AI 代理团队提供安全、私密的运行时"
+    },
+    {
+      "id": 50203161,
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "domain": "cs.utexas.edu",
+      "points": 365,
+      "comments": 252,
+      "author": "xiaoyu2006",
+      "time": 1792716721,
+      "title_zh": "“自然语言编程”的愚蠢（1978）"
     },
     {
       "id": 50176082,
       "title": "Using LLM for confidence scoring is a bad idea",
       "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
       "domain": "rumple.github.io",
-      "points": 204,
-      "comments": 100,
+      "points": 224,
+      "comments": 102,
       "author": "jimauthors",
       "time": 1792556871,
       "title_zh": "使用 LLM 进行置信度评分是一个坏主意"
     },
     {
-      "id": 50180752,
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "domain": "openai.com",
-      "points": 155,
-      "comments": 104,
-      "author": "raahelb",
-      "time": 1792589820,
-      "title_zh": "使用数千个人工智能代理来发现生物数据中的新线索"
+      "id": 50207620,
+      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "url": "https://www.thisandthat.chat/enron/",
+      "domain": "thisandthat.chat",
+      "points": 58,
+      "comments": 53,
+      "author": "jreynar",
+      "time": 1792756973,
+      "title_zh": "Show HN：我们让人工智能根据 45,000 封安然电子邮件编写了一个维基，引用了每一个事实"
     },
     {
-      "id": 50199230,
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "domain": "arxiv.org",
-      "points": 126,
-      "comments": 74,
-      "author": "jrepinc",
-      "time": 1792693696,
-      "title_zh": "人工智能和科学共享的圈地"
-    },
-    {
-      "id": 50183892,
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
-      "domain": "github.com",
-      "points": 110,
-      "comments": 34,
-      "author": "kmansm27",
-      "time": 1792601093,
-      "title_zh": "Show HN：Omnara – Claude Managed Agents 的开源替代方案"
-    },
-    {
-      "id": 50186455,
-      "title": "Claude Duet",
-      "url": "https://claude.com/resources/articles/claude-duet",
-      "domain": "claude.com",
-      "points": 92,
+      "id": 50214373,
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "domain": "corgi.computer",
+      "points": 57,
       "comments": 13,
-      "author": "zaevlad",
-      "time": 1792611618,
-      "title_zh": "克劳德二重唱"
+      "author": "eiopa",
+      "time": 1792784798,
+      "title_zh": "Show HN：Corgi，一个有用的{代理，终端}多路复用器"
+    },
+    {
+      "id": 50214185,
+      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+      "domain": "gizmodo.com",
+      "points": 47,
+      "comments": 40,
+      "author": "njx",
+      "time": 1792783896,
+      "title_zh": "新人工智能诊断疾病的能力是医生的两倍多"
+    },
+    {
+      "id": 50215398,
+      "title": "AI is devastating higher education, but the system was broken",
+      "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+      "domain": "theconversation.com",
+      "points": 17,
+      "comments": 0,
+      "author": "pseudolus",
+      "time": 1792789919,
+      "title_zh": "人工智能正在摧毁高等教育，但系统已被打破"
+    },
+    {
+      "id": 50215950,
+      "title": "AI devours a fifth of companies' IT budgets",
+      "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+      "domain": "computerworld.com",
+      "points": 16,
+      "comments": 3,
+      "author": "mikelgan",
+      "time": 1792792805,
+      "title_zh": "人工智能吞噬了公司五分之一的 IT 预算"
+    },
+    {
+      "id": 50217208,
+      "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+      "domain": "nngroup.com",
+      "points": 11,
+      "comments": 0,
+      "author": "elwingo1",
+      "time": 1792801937,
+      "title_zh": "人工智能在用户体验中的应用：工作速度更快，但从业者心情复杂"
     }
   ],
   "media": [
     {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "published": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "time": 1792796749,
+      "snippet": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "title_zh": "OpenAI 表示将不再在实时互联网上训练其人工智能模型，理由是“存在重大风险”"
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "published": "Fri, 23 Oct 2026 21:59:19 +0000",
+      "time": 1792792759,
+      "snippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "title_zh": "圣诞节最热门的玩具？ Nvidia CEO 玩可爱的 Microduck 机器人，销量达 20,000 个"
+    },
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "published": "Fri, 23 Oct 2026 19:06:23 +0000",
+      "time": 1792782383,
+      "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, s",
+      "title_zh": "从 Toast 到 Bessemer：创始人将在 2026 年 TechCrunch 创始人峰会上听到谁的发言"
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "source": "TechCrunch",
       "published": "Fri, 23 Oct 2026 04:00:00 +0000",
       "time": 1792728000,
-      "snippet": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "title_zh": "Uber 竞争对手 inDrive 计划与 Pony.ai 和 Nvidia 合作，于 2027 年在中亚进行机器人出租车测试"
-    },
-    {
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source": "TechCrunch",
-      "published": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "time": 1792716337,
-      "snippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "title_zh": "独自无事可做，人工智能代理开始玩"
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
-      "time": 1792706904,
-      "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "title_zh": "OpenAI 致力于在 IPO 前以 1.25T 美元的估值进行新的 30B 美元融资"
+      "snippet": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "title_zh": "Uber 竞争对手 inDrive 计划与 Pony AI 和 Nvidia 合作，于 2027 年在中亚进行机器人出租车测试"
     },
     {
       "title": "Designing an AI serving harness built to last",
@@ -170,15 +179,6 @@
       "time": 1792703849,
       "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years",
       "title_zh": "设计持久耐用的人工智能服务线束"
-    },
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "source": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
-      "time": 1792696029,
-      "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "title_zh": "1Password 推出了一种让 AI 代理代表您登录而无需查看您的密码的方法"
     },
     {
       "title": "The Foundations of Scalable AI",

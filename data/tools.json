@@ -1,25 +1,15 @@
 {
-  "generated_at": "2026-10-23T05:04:45+00:00",
+  "generated_at": "2026-10-24T04:49:15+00:00",
   "showhn": [
     {
       "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
       "domain": "permit.petercai.com",
-      "points": 930,
-      "comments": 420,
+      "points": 936,
+      "comments": 423,
       "author": "pcai",
       "time": "2026-10-20T18:29:09Z",
       "title_zh": "显示 HN：SimCity，但有许可证"
-    },
-    {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "domain": "bastardica.mitpit.com",
-      "points": 862,
-      "comments": 126,
-      "author": "MitPitt",
-      "time": "2026-09-23T22:53:28Z",
-      "title_zh": "Show HN：制作类似 Times New Bastard 的诅咒字体"
     },
     {
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
@@ -105,7 +95,7 @@
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "domain": "llmspeed.dev",
-      "points": 329,
+      "points": 331,
       "comments": 86,
       "author": "albinstman",
       "time": "2026-10-17T04:36:53Z",
@@ -120,6 +110,16 @@
       "author": "safaelmali",
       "time": "2026-09-27T18:44:30Z",
       "title_zh": "Show HN：Lofi 城市 – 像素艺术城市之夜，浏览器生成的 Lofi"
+    },
+    {
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "domain": "unfenced.land",
+      "points": 319,
+      "comments": 201,
+      "author": "otherwatersflow",
+      "time": "2026-10-15T11:38:57Z",
+      "title_zh": "显示 HN：无围栏 – 与公共土地接壤的待售土地"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "domain": "github.com",
-      "points": 2333,
-      "comments": 888,
+      "points": 2343,
+      "comments": 891,
       "author": "ggcr",
       "time": "2026-10-20T09:08:54Z",
       "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
@@ -167,7 +167,7 @@
       "title": "Things to know when you get cancer",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "domain": "jjmaxwell4.com",
-      "points": 1973,
+      "points": 1975,
       "comments": 479,
       "author": "jjmaxwell4",
       "time": "2026-10-14T19:26:30Z",
@@ -207,7 +207,7 @@
       "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
       "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
       "domain": "php.net",
-      "points": 1551,
+      "points": 1555,
       "comments": 658,
       "author": "xd",
       "time": "2026-10-20T20:15:50Z",
