@@ -1,90 +1,35 @@
 {
-  "generated_at": "2026-10-25T04:58:16+00:00",
+  "generated_at": "2026-10-26T05:01:53+00:00",
   "hn": [
-    {
-      "id": 50200997,
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "url": "https://news.ycombinator.com/item?id=50200997",
-      "domain": "news.ycombinator.com",
-      "points": 648,
-      "comments": 733,
-      "author": "ex-aws-dude",
-      "time": 1792703035,
-      "title_zh": "问 HN：如果模型这么好，OpenAI 为什么不直接创办 100 家公司呢？"
-    },
-    {
-      "id": 50197313,
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "domain": "modelcompare.ai",
-      "points": 648,
-      "comments": 623,
-      "author": "rakannimer",
-      "time": 1792685280,
-      "title_zh": "每个人工智能模型对人类都有相同的“有争议”的看法"
-    },
-    {
-      "id": 50224463,
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "domain": "apollo.com",
-      "points": 516,
-      "comments": 532,
-      "author": "the-mitr",
-      "time": 1792871239,
-      "title_zh": "没有迹象表明人工智能在科技领域之外获得回报"
-    },
-    {
-      "id": 50198675,
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "domain": "github.com",
-      "points": 499,
-      "comments": 217,
-      "author": "niemandhier",
-      "time": 1792691046,
-      "title_zh": "OpenShell – 为自主 AI 代理团队提供安全、私密的运行时"
-    },
-    {
-      "id": 50203161,
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "domain": "cs.utexas.edu",
-      "points": 379,
-      "comments": 267,
-      "author": "xiaoyu2006",
-      "time": 1792716721,
-      "title_zh": "“自然语言编程”的愚蠢（1978）"
-    },
     {
       "id": 50226419,
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
-      "points": 257,
-      "comments": 263,
+      "points": 514,
+      "comments": 552,
       "author": "gnabgib",
       "time": 1792883514,
       "title_zh": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？"
     },
     {
-      "id": 50171379,
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "domain": "danielball.com",
-      "points": 250,
-      "comments": 83,
-      "author": "westsmith",
-      "time": 1792524159,
-      "title_zh": "AI图像生成实用指南，从扩散到代理"
+      "id": 50227356,
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "domain": "cerebras.ai",
+      "points": 354,
+      "comments": 132,
+      "author": "gmays",
+      "time": 1792892029,
+      "title_zh": "Cerebras 部署万亿参数人工智能模型"
     },
     {
       "id": 50219700,
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
       "url": "https://github.com/Zagitta/gpu-unlock",
       "domain": "github.com",
-      "points": 208,
-      "comments": 67,
+      "points": 338,
+      "comments": 80,
       "author": "fragebogen",
       "time": 1792835907,
       "title_zh": "GPU 解锁：Nvidia 3000 卡上的 FP/BF16 指令发出率"
@@ -94,47 +39,129 @@
       "title": "Why is AI generated language so hard to understand?",
       "url": "https://arxiv.org/abs/2610.29162",
       "domain": "arxiv.org",
-      "points": 172,
-      "comments": 155,
+      "points": 243,
+      "comments": 197,
       "author": "canjobear",
       "time": 1792865097,
       "title_zh": "为什么人工智能生成的语言如此难以理解？"
     },
     {
-      "id": 50214373,
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "domain": "corgi.computer",
-      "points": 126,
-      "comments": 42,
-      "author": "eiopa",
-      "time": 1792784798,
-      "title_zh": "Show HN：Corgi，一个有用的{代理，终端}多路复用器"
+      "id": 50236102,
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "domain": "minimaxir.com",
+      "points": 218,
+      "comments": 247,
+      "author": "minimaxir",
+      "time": 1792962691,
+      "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？"
     },
     {
-      "id": 50220204,
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "domain": "torrentfreak.com",
-      "points": 95,
-      "comments": 50,
-      "author": "TangerineDream",
-      "time": 1792840734,
-      "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章"
+      "id": 50233304,
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "domain": "dailycal.org",
+      "points": 210,
+      "comments": 306,
+      "author": "romanhn",
+      "time": 1792945706,
+      "title_zh": "人工智能的使用导致加州大学伯克利分校数学教授认为评分作业“没有意义”"
+    },
+    {
+      "id": 50229827,
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "domain": "techspot.com",
+      "points": 138,
+      "comments": 75,
+      "author": "thunderbong",
+      "time": 1792921877,
+      "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔"
     },
     {
       "id": 50192975,
       "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
       "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
       "domain": "infoq.com",
-      "points": 88,
-      "comments": 18,
+      "points": 94,
+      "comments": 23,
       "author": "pjmlp",
       "time": 1792659670,
       "title_zh": "TornadoVM 7 支持来自 Java 应用程序的 GPU 本机工作负载"
+    },
+    {
+      "id": 50180251,
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "domain": "catlikecoding.com",
+      "points": 63,
+      "comments": 2,
+      "author": "ibobev",
+      "time": 1792587847,
+      "title_zh": "平铺噪声 – 程序 GPU 模式"
+    },
+    {
+      "id": 50233347,
+      "title": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "domain": "theatlantic.com",
+      "points": 56,
+      "comments": 78,
+      "author": "artninja1988",
+      "time": 1792945881,
+      "title_zh": "数学家解读人工智能的未来"
+    },
+    {
+      "id": 50236828,
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "domain": "businessinsider.com",
+      "points": 43,
+      "comments": 27,
+      "author": "levzettelin",
+      "time": 1792968546,
+      "title_zh": "阿波罗表示人工智能在科技行业之外带来了“零财务回报”"
+    },
+    {
+      "id": 50234699,
+      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+      "domain": "vithushansylvester.com",
+      "points": 35,
+      "comments": 16,
+      "author": "hacker_v_s",
+      "time": 1792953743,
+      "title_zh": "人工智能并没有导致科技工作岗位的崩溃，但它解释了为什么没有复苏"
     }
   ],
   "media": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "published": "Sun, 25 Oct 2026 21:31:16 +0000",
+      "time": 1792963876,
+      "snippet": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "title_zh": "Grok 发布了人工智能生成的“奥德赛”的前七分钟"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "published": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "time": 1792947452,
+      "snippet": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "title_zh": "阿波罗经济学家表示，人工智能为大多数公司带来了“零财务回报”"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "published": "Sun, 25 Oct 2026 14:10:00 +0000",
+      "time": 1792937400,
+      "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "title_zh": "您应该了解的最热门的人工智能可穿戴设备和小工具"
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -143,33 +170,6 @@
       "time": 1792868400,
       "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "title_zh": "人工智能墓地：未成功的项目和初创公司的清单"
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch",
-      "published": "Sat, 24 Oct 2026 16:00:00 +0000",
-      "time": 1792857600,
-      "snippet": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "title_zh": "Block 的新语音模型听起来非常人性化"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "time": 1792854000,
-      "snippet": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 e",
-      "title_zh": "在被迫选择的情况下，Grok 的人工智能模型选择了共和党人。 OpenAI 选择了民主党人。"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "Sat, 24 Oct 2026 14:00:00 +0000",
-      "time": 1792850400,
-      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "title_zh": "以下是可以存在于您的短信中的顶级人工智能代理"
     },
     {
       "title": "Designing an AI serving harness built to last",
