@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T05:18:15+00:00",
+  "generated_at": "2026-10-28T05:57:33+00:00",
   "hn": [
     {
       "id": 50242939,
       "title": "Anthropic S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
-      "points": 1542,
-      "comments": 1495,
+      "points": 1693,
+      "comments": 1658,
       "author": "SiNTEx",
       "time": 1793019890,
       "title_zh": "人择S-1"
@@ -17,141 +17,195 @@
       "title": "GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
       "domain": "openai.com",
-      "points": 556,
-      "comments": 347,
+      "points": 628,
+      "comments": 422,
       "author": "meetpateltech",
       "time": 1793037677,
       "title_zh": "GPT-6.1 泰拉"
     },
     {
-      "id": 50236102,
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "domain": "minimaxir.com",
-      "points": 422,
-      "comments": 428,
-      "author": "minimaxir",
-      "time": 1792962691,
-      "title_zh": "OpenAI 和 Anthropic 在几个月内将其 LLM 价格削减了高达 80%。为什么？"
+      "id": 50260814,
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "domain": "stanforddaily.com",
+      "points": 500,
+      "comments": 269,
+      "author": "car",
+      "time": 1793114906,
+      "title_zh": "人类训练克劳德学习非法获得的斯坦福大学教授的书籍"
     },
     {
-      "id": 50246658,
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "domain": "cohere.com",
-      "points": 282,
-      "comments": 113,
-      "author": "matthieu_bl",
-      "time": 1793032544,
-      "title_zh": "关于流行的开放权重人工智能模型的行为"
+      "id": 50257326,
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "domain": "spectrum.ieee.org",
+      "points": 470,
+      "comments": 215,
+      "author": "rbanffy",
+      "time": 1793099295,
+      "title_zh": "维基百科对人工智能生成内容的清理"
     },
     {
-      "id": 50247630,
-      "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-      "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-      "domain": "404media.co",
-      "points": 240,
-      "comments": 88,
-      "author": "cdrnsf",
-      "time": 1793035936,
-      "title_zh": "ChatGPT 不断告诉人们 404 媒体可以解决他们的技术支持问题"
+      "id": 50255298,
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "domain": "j11g.com",
+      "points": 449,
+      "comments": 313,
+      "author": "ilreb",
+      "time": 1793082337,
+      "title_zh": "人工智能时代的神话人月"
     },
     {
-      "id": 50236681,
-      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-      "domain": "shraiwi.com",
+      "id": 50261819,
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "domain": "gizmodo.com",
+      "points": 367,
+      "comments": 280,
+      "author": "gumby",
+      "time": 1793119215,
+      "title_zh": "警方正在使用人工智能来拦截行为“可疑”的司机"
+    },
+    {
+      "id": 50261589,
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "domain": "futurism.com",
+      "points": 299,
+      "comments": 228,
+      "author": "dpflan",
+      "time": 1793118330,
+      "title_zh": "亚马逊在持续失败后正在剥离其人工智能部门"
+    },
+    {
+      "id": 50264853,
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "domain": "brangus.io",
+      "points": 273,
+      "comments": 121,
+      "author": "Luc",
+      "time": 1793130906,
+      "title_zh": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库"
+    },
+    {
+      "id": 50265609,
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "domain": "anthropic.com",
       "points": 192,
-      "comments": 57,
-      "author": "zdw",
-      "time": 1792967387,
-      "title_zh": "2 美元微控制器上的 SIMD 加速计算机视觉"
-    },
-    {
-      "id": 50246238,
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "domain": "github.com",
-      "points": 134,
-      "comments": 31,
-      "author": "pancomplex",
-      "time": 1793031149,
-      "title_zh": "Show HN: Hob - 开源，在设备上替代 Claude Cowork 和 ChatGPT"
+      "comments": 167,
+      "author": "dataking",
+      "time": 1793134242,
+      "title_zh": "与克劳德一起加速药物开发的早期进展"
     },
     {
       "id": 50252159,
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
       "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "domain": "blog.cloudflare.com",
-      "points": 104,
-      "comments": 33,
+      "points": 178,
+      "comments": 78,
       "author": "wondersky",
       "time": 1793054508,
       "title_zh": "GLM-5.3 Workers AI 模型中的交叉请求 KV 缓存暴露（155 个响应）"
     },
     {
-      "id": 50234699,
-      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-      "domain": "vithushansylvester.com",
-      "points": 84,
-      "comments": 55,
-      "author": "hacker_v_s",
-      "time": 1792953743,
-      "title_zh": "人工智能并没有导致科技工作岗位的崩溃，但它解释了为什么没有复苏"
+      "id": 50246238,
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "domain": "github.com",
+      "points": 167,
+      "comments": 42,
+      "author": "pancomplex",
+      "time": 1793031149,
+      "title_zh": "Show HN: Hob - 开源，在设备上替代 Claude Cowork 和 ChatGPT"
     },
     {
-      "id": 50233347,
-      "title": "A mathematician reads the AI future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "domain": "theatlantic.com",
-      "points": 68,
-      "comments": 128,
-      "author": "artninja1988",
-      "time": 1792945881,
-      "title_zh": "数学家解读人工智能的未来"
-    },
-    {
-      "id": 50251062,
-      "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-      "domain": "404media.co",
-      "points": 57,
-      "comments": 22,
-      "author": "cdrnsf",
-      "time": 1793049239,
-      "title_zh": "Proton 将就人工智能问题“重新采访”员工，看看谁能保住工作"
-    },
-    {
-      "id": 50247677,
-      "title": "Nvidia discusses $2k-per-GPU annual fee for software",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
-      "domain": "tomshardware.com",
-      "points": 38,
-      "comments": 20,
-      "author": "gscott",
-      "time": 1793036085,
-      "title_zh": "Nvidia 讨论每 GPU 2000 美元的软件年费"
+      "id": 50258868,
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "domain": "blog.adrq.dev",
+      "points": 166,
+      "comments": 89,
+      "author": "adrq",
+      "time": 1793107402,
+      "title_zh": "怪物来了：当代理进行工作时，您还需要知道什么？"
     }
   ],
   "media": [
     {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
       "source": "TechCrunch",
-      "published": "Tue, 27 Oct 2026 02:00:00 +0000",
-      "time": 1793066400,
-      "snippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "title_zh": "OpenAI 如何将其编码工具变成点，成为永远在线的个人助理"
+      "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+      "time": 1793150128,
+      "snippet": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "title_zh": "风险投资公司将在 Anthropic 的 IPO 中赚取数十亿美元，但亚马逊将赚得更多"
     },
     {
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
       "source": "TechCrunch",
-      "published": "Tue, 27 Oct 2026 01:12:21 +0000",
-      "time": 1793063541,
-      "snippet": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, ",
-      "title_zh": "Cohere称阿里巴巴的Qwen模型试图向北京发送文件"
+      "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "time": 1793144067,
+      "snippet": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "title_zh": "父母起诉 OpenAI，指控 GPT-4o 指导他们的女儿戒掉癫痫药物"
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch",
+      "published": "Tue, 27 Oct 2026 22:55:41 +0000",
+      "time": 1793141741,
+      "snippet": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "title_zh": "数据中心的繁荣有一个好处：美国电网的创新"
+    },
+    {
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "source": "Ars Technica",
+      "published": "Tue, 27 Oct 2026 21:50:04 +0000",
+      "time": 1793137804,
+      "snippet": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "title_zh": "“无人掌舵”：特拉华州计划将让人工智能代理管理整个业务"
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch",
+      "published": "Tue, 27 Oct 2026 21:44:34 +0000",
+      "time": 1793137474,
+      "snippet": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "title_zh": "美国银行恳请您不要与人工智能助手分享您的银行密码"
+    },
+    {
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "source": "Ars Technica",
+      "published": "Tue, 27 Oct 2026 21:31:14 +0000",
+      "time": 1793136674,
+      "snippet": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "title_zh": "Anthropic 首次公开募股警告其人工智能可能勒索人类、变得有知觉、终结人类"
+    },
+    {
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "source": "Ars Technica",
+      "published": "Tue, 27 Oct 2026 16:00:22 +0000",
+      "time": 1793116822,
+      "snippet": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "title_zh": "DeepMind 推出 Genie 4 世界模型，承诺更真实的物理和人类"
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 27 Oct 2026 11:19:18 +0000",
+      "time": 1793099958,
+      "snippet": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to ",
+      "title_zh": "工业智能：制造业的下一个增长机会"
     },
     {
       "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
@@ -168,62 +222,8 @@
       "source": "MIT Tech Review",
       "published": "Mon, 26 Oct 2026 17:45:43 +0000",
       "time": 1793036743,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthr",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, ",
       "title_zh": "真正的人类请站起来吗"
-    },
-    {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "source": "TechCrunch",
-      "published": "Mon, 26 Oct 2026 16:49:42 +0000",
-      "time": 1793033382,
-      "snippet": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s ma",
-      "title_zh": "Anthropic 的 IPO 文件揭示了其吸引企业客户的战略"
-    },
-    {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "source": "TechCrunch",
-      "published": "Mon, 26 Oct 2026 16:46:36 +0000",
-      "time": 1793033196,
-      "snippet": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "title_zh": "SpaceX 与 Apollo 达成 40B 美元 GPU 融资协议"
-    },
-    {
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 26 Oct 2026 09:01:00 +0000",
-      "time": 1793005260,
-      "snippet": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for child",
-      "title_zh": "对人工智能安全灾难的关注忽视了日常危害"
-    },
-    {
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "source": "MIT Tech Review",
-      "published": "Thu, 22 Oct 2026 21:17:29 +0000",
-      "time": 1792703849,
-      "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years",
-      "title_zh": "设计持久耐用的人工智能服务线束"
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Tech Review",
-      "published": "Thu, 22 Oct 2026 18:48:04 +0000",
-      "time": 1792694884,
-      "snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Rev",
-      "title_zh": "可扩展人工智能的基础"
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "source": "VentureBeat",
-      "published": "Thu, 27 Aug 2026 14:01:00 GMT",
-      "time": 1787839260,
-      "snippet": "Presented by Gravitee Read more",
-      "title_zh": "企业人工智能的真正风险不是自主代理。这就是他们之间的复杂性。"
     }
   ]
 }
