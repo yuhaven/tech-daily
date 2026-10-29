@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-10-28T05:57:33+00:00",
+  "generated_at": "2026-10-29T06:03:26+00:00",
   "hn": [
     {
-      "id": 50242939,
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "domain": "sec.gov",
-      "points": 1693,
-      "comments": 1658,
-      "author": "SiNTEx",
-      "time": 1793019890,
-      "title_zh": "人择S-1"
-    },
-    {
-      "id": 50248124,
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "domain": "openai.com",
-      "points": 628,
-      "comments": 422,
-      "author": "meetpateltech",
-      "time": 1793037677,
-      "title_zh": "GPT-6.1 泰拉"
+      "id": 50276792,
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "domain": "blog.google",
+      "points": 868,
+      "comments": 715,
+      "author": "acossta",
+      "time": 1793206883,
+      "title_zh": "Gemini 4 碳纤维"
     },
     {
       "id": 50260814,
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
       "domain": "stanforddaily.com",
-      "points": 500,
-      "comments": 269,
+      "points": 575,
+      "comments": 292,
       "author": "car",
       "time": 1793114906,
       "title_zh": "人类训练克劳德学习非法获得的斯坦福大学教授的书籍"
+    },
+    {
+      "id": 50264853,
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "domain": "brangus.io",
+      "points": 525,
+      "comments": 194,
+      "author": "Luc",
+      "time": 1793130906,
+      "title_zh": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库"
     },
     {
       "id": 50257326,
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
-      "points": 470,
-      "comments": 215,
+      "points": 499,
+      "comments": 237,
       "author": "rbanffy",
       "time": 1793099295,
       "title_zh": "维基百科对人工智能生成内容的清理"
@@ -50,85 +50,85 @@
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
-      "points": 449,
-      "comments": 313,
+      "points": 477,
+      "comments": 353,
       "author": "ilreb",
       "time": 1793082337,
       "title_zh": "人工智能时代的神话人月"
     },
     {
-      "id": 50261819,
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "domain": "gizmodo.com",
-      "points": 367,
-      "comments": 280,
-      "author": "gumby",
-      "time": 1793119215,
-      "title_zh": "警方正在使用人工智能来拦截行为“可疑”的司机"
+      "id": 50273396,
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "domain": "religionnews.com",
+      "points": 449,
+      "comments": 496,
+      "author": "danso",
+      "time": 1793194890,
+      "title_zh": "肯塔基州男子成为第一位获得人工智能宗教豁免的人文主义者"
     },
     {
       "id": 50261589,
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "domain": "futurism.com",
-      "points": 299,
-      "comments": 228,
+      "points": 373,
+      "comments": 284,
       "author": "dpflan",
       "time": 1793118330,
       "title_zh": "亚马逊在持续失败后正在剥离其人工智能部门"
-    },
-    {
-      "id": 50264853,
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "domain": "brangus.io",
-      "points": 273,
-      "comments": 121,
-      "author": "Luc",
-      "time": 1793130906,
-      "title_zh": "Survival LLM：在您自己的计算机上运行的人工智能助手和应急库"
     },
     {
       "id": 50265609,
       "title": "Early progress on accelerating drug development with Claude",
       "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "domain": "anthropic.com",
-      "points": 192,
-      "comments": 167,
+      "points": 322,
+      "comments": 336,
       "author": "dataking",
       "time": 1793134242,
       "title_zh": "与克劳德一起加速药物开发的早期进展"
     },
     {
-      "id": 50252159,
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "domain": "blog.cloudflare.com",
-      "points": 178,
-      "comments": 78,
-      "author": "wondersky",
-      "time": 1793054508,
-      "title_zh": "GLM-5.3 Workers AI 模型中的交叉请求 KV 缓存暴露（155 个响应）"
+      "id": 50280864,
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "domain": "wired.com",
+      "points": 309,
+      "comments": 168,
+      "author": "Aboutplants",
+      "time": 1793221404,
+      "title_zh": "泄密事件曝光了 41,000 名国土安全人员，其中包括 ICE 便衣特工"
     },
     {
-      "id": 50246238,
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "domain": "github.com",
-      "points": 167,
-      "comments": 42,
-      "author": "pancomplex",
-      "time": 1793031149,
-      "title_zh": "Show HN: Hob - 开源，在设备上替代 Claude Cowork 和 ChatGPT"
+      "id": 50275626,
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "domain": "surgehq.ai",
+      "points": 221,
+      "comments": 143,
+      "author": "landonxi",
+      "time": 1793202390,
+      "title_zh": "Dayjob：税务——评估人工智能代理的 50 项专业税务任务"
+    },
+    {
+      "id": 50284255,
+      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "domain": "gist.github.com",
+      "points": 201,
+      "comments": 47,
+      "author": "NikZaal",
+      "time": 1793244822,
+      "title_zh": "Claude Code 在 3 个字的状态行上销毁约 15–20% 的代币"
     },
     {
       "id": 50258868,
       "title": "Here be monsters: What do you still need to know when agents do the work?",
       "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
       "domain": "blog.adrq.dev",
-      "points": 166,
-      "comments": 89,
+      "points": 199,
+      "comments": 103,
       "author": "adrq",
       "time": 1793107402,
       "title_zh": "怪物来了：当代理进行工作时，您还需要知道什么？"
@@ -136,31 +136,76 @@
   ],
   "media": [
     {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
       "source": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 01:15:28 +0000",
-      "time": 1793150128,
-      "snippet": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "title_zh": "风险投资公司将在 Anthropic 的 IPO 中赚取数十亿美元，但亚马逊将赚得更多"
+      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
+      "time": 1793224712,
+      "snippet": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market,",
+      "title_zh": "微软刚刚分享了Azure的实际收入（美元）：332亿美元"
     },
     {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "source": "TechCrunch",
-      "published": "Tue, 27 Oct 2026 23:34:27 +0000",
-      "time": 1793144067,
-      "snippet": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "title_zh": "父母起诉 OpenAI，指控 GPT-4o 指导他们的女儿戒掉癫痫药物"
+      "published": "Wed, 28 Oct 2026 21:48:37 +0000",
+      "time": 1793224117,
+      "snippet": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "title_zh": "随着核心广告增长放缓，谷歌在全球范围内扩展人工智能搜索广告"
     },
     {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "source": "TechCrunch",
-      "published": "Tue, 27 Oct 2026 22:55:41 +0000",
-      "time": 1793141741,
-      "snippet": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "title_zh": "数据中心的繁荣有一个好处：美国电网的创新"
+      "published": "Wed, 28 Oct 2026 21:34:30 +0000",
+      "time": 1793223270,
+      "snippet": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the s",
+      "title_zh": "微软 OpenAI 收入达 100 亿美元"
+    },
+    {
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch",
+      "published": "Wed, 28 Oct 2026 21:25:30 +0000",
+      "time": 1793222730,
+      "snippet": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 bil",
+      "title_zh": "微软连续 10 个季度营收破纪录"
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 28 Oct 2026 20:32:02 +0000",
+      "time": 1793219522,
+      "snippet": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow ",
+      "title_zh": "结合企业场景创造人工智能价值"
+    },
+    {
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "source": "Ars Technica",
+      "published": "Wed, 28 Oct 2026 18:47:27 +0000",
+      "time": 1793213247,
+      "snippet": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "title_zh": "谷歌发布Gemini 4 Carbon，这是你无法使用的最新前沿人工智能模型"
+    },
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "source": "Ars Technica",
+      "published": "Wed, 28 Oct 2026 17:46:32 +0000",
+      "time": 1793209592,
+      "snippet": "But the AI responses get more forthright when asked outside the US.",
+      "title_zh": "当被问及谁赢得 2020 年选举时，谷歌 AI 变得谨慎"
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "time": 1793188800,
+      "snippet": "",
+      "title_zh": "将工业人工智能自主性与人类控制相结合"
     },
     {
       "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
@@ -172,15 +217,6 @@
       "title_zh": "“无人掌舵”：特拉华州计划将让人工智能代理管理整个业务"
     },
     {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "source": "TechCrunch",
-      "published": "Tue, 27 Oct 2026 21:44:34 +0000",
-      "time": 1793137474,
-      "snippet": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "title_zh": "美国银行恳请您不要与人工智能助手分享您的银行密码"
-    },
-    {
       "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
       "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
       "source": "Ars Technica",
@@ -188,42 +224,6 @@
       "time": 1793136674,
       "snippet": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
       "title_zh": "Anthropic 首次公开募股警告其人工智能可能勒索人类、变得有知觉、终结人类"
-    },
-    {
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "source": "Ars Technica",
-      "published": "Tue, 27 Oct 2026 16:00:22 +0000",
-      "time": 1793116822,
-      "snippet": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-      "title_zh": "DeepMind 推出 Genie 4 世界模型，承诺更真实的物理和人类"
-    },
-    {
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 27 Oct 2026 11:19:18 +0000",
-      "time": 1793099958,
-      "snippet": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to ",
-      "title_zh": "工业智能：制造业的下一个增长机会"
-    },
-    {
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-      "source": "Ars Technica",
-      "published": "Mon, 26 Oct 2026 20:04:16 +0000",
-      "time": 1793045056,
-      "snippet": "Included is the ability to limit which applications Siri can directly access.",
-      "title_zh": "Apple 发布 iOS 和 macOS 27.2，新增 Siri AI 功能和新音乐徽标"
-    },
-    {
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 26 Oct 2026 17:45:43 +0000",
-      "time": 1793036743,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, ",
-      "title_zh": "真正的人类请站起来吗"
     }
   ]
 }
