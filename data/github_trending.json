@@ -1,114 +1,105 @@
 {
-  "generated_at": "2026-10-29T06:03:22+00:00",
+  "generated_at": "2026-10-30T06:04:54+00:00",
   "data": {
     "daily": [
       {
-        "full_name": "JetBrains/thinkrail",
-        "url": "/JetBrains/thinkrail",
-        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-        "language": "TypeScript",
-        "stars_today": 1068,
-        "stars_total": 5334,
-        "description_zh": "在轻量级、真正的 IDE 中使用 pi 编写 Vibe 代码，该 IDE 可根据您的工作方式进行自我定制 — 您需要的 Vibe"
-      },
-      {
-        "full_name": "elayadesign/ai-design-skills",
-        "url": "/elayadesign/ai-design-skills",
-        "description": "",
-        "language": null,
-        "stars_today": 2139,
-        "stars_total": 11388,
-        "description_zh": null
+        "full_name": "HKUDS/DeepTutor",
+        "url": "/HKUDS/DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "stars_today": 1930,
+        "stars_total": 50657,
+        "description_zh": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
       },
       {
         "full_name": "obra/superpowers",
         "url": "/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
-        "stars_today": 1095,
-        "stars_total": 307646,
+        "stars_today": 1034,
+        "stars_total": 308810,
         "description_zh": "有效的代理技能框架和软件开发方法。"
-      },
-      {
-        "full_name": "HKUDS/DeepTutor",
-        "url": "/HKUDS/DeepTutor",
-        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-        "language": "Python",
-        "stars_today": 2371,
-        "stars_total": 48490,
-        "description_zh": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
-      },
-      {
-        "full_name": "macro-inc/macro",
-        "url": "/macro-inc/macro",
-        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-        "language": "Rust",
-        "stars_today": 117,
-        "stars_total": 5532,
-        "description_zh": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
-      },
-      {
-        "full_name": "Nutlope/hallmark",
-        "url": "/Nutlope/hallmark",
-        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "language": "CSS",
-        "stars_today": 2110,
-        "stars_total": 41016,
-        "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
       },
       {
         "full_name": "pbakaus/impeccable",
         "url": "/pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "language": "Rust",
-        "stars_today": 1472,
-        "stars_total": 93339,
+        "stars_today": 2870,
+        "stars_total": 95815,
         "description_zh": "编码代理的设计词汇。更加优雅和大胆地进行引导，通过批评和审计进行审查，在人工智能发布之前抓住它。"
       },
       {
-        "full_name": "makecindy/cindy",
-        "url": "/makecindy/cindy",
-        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "full_name": "JetBrains/thinkrail",
+        "url": "/JetBrains/thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
         "language": "TypeScript",
-        "stars_today": 728,
-        "stars_total": 8272,
-        "description_zh": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+        "stars_today": 1117,
+        "stars_total": 6160,
+        "description_zh": "在轻量级、真正的 IDE 中使用 pi 编写 Vibe 代码，该 IDE 可根据您的工作方式进行自我定制 — 您需要的 Vibe"
+      },
+      {
+        "full_name": "milind-soni/OpenMausBot",
+        "url": "/milind-soni/OpenMausBot",
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "stars_today": 1199,
+        "stars_total": 7661,
+        "description_zh": "使用机器人可以使用的虚拟机的开源Grok机器人替代方案"
       },
       {
         "full_name": "nightly-labs/openbot",
         "url": "/nightly-labs/openbot",
         "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
         "language": "TypeScript",
-        "stars_today": 1054,
-        "stars_total": 3424,
+        "stars_today": 709,
+        "stars_total": 4005,
         "description_zh": "为持久的 AI 团队成员提供本地优先的桌面工作区。通过专用工作区、任务队列、文件共享、浏览器控制和代理间协作来运行 Codex、Claude 和 Grok。"
+      },
+      {
+        "full_name": "elayadesign/ai-design-skills",
+        "url": "/elayadesign/ai-design-skills",
+        "description": "",
+        "language": null,
+        "stars_today": 1187,
+        "stars_total": 12433,
+        "description_zh": null
+      },
+      {
+        "full_name": "thedotmack/claude-mem",
+        "url": "/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars_today": 336,
+        "stars_total": 105026,
+        "description_zh": "每个座席跨会话的持久上下文 – 捕获座席在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
+      },
+      {
+        "full_name": "CopilotKit/OpenBot",
+        "url": "/CopilotKit/OpenBot",
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "language": "TypeScript",
+        "stars_today": 247,
+        "stars_total": 8294,
+        "description_zh": "开源的人工智能同事，每个人都有一台自己的电脑：浏览器、文件和工具，每次操作都会在发生之前决定，并在之后记录下来。携带任何AG-UI代理。"
       },
       {
         "full_name": "togg53192-cmd/jailbreaks",
         "url": "/togg53192-cmd/jailbreaks",
         "description": "LIST OF ALL MY JAILBREAKS",
         "language": null,
-        "stars_today": 1477,
-        "stars_total": 7482,
+        "stars_today": 1594,
+        "stars_total": 9474,
         "description_zh": "我所有越狱的列表"
       },
       {
-        "full_name": "hmjz100/LinkSwift",
-        "url": "/hmjz100/LinkSwift",
-        "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-        "language": "JavaScript",
-        "stars_today": 1616,
-        "stars_total": 35408,
-        "description_zh": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
-      },
-      {
-        "full_name": "expo/skills",
-        "url": "/expo/skills",
-        "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+        "full_name": "Donchitos/Claude-Code-Game-Studios",
+        "url": "/Donchitos/Claude-Code-Game-Studios",
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
         "language": "Shell",
-        "stars_today": 90,
-        "stars_total": 3664,
-        "description_zh": "与世博项目和世博应用服务合作的人工智能代理技能集合"
+        "stars_today": 353,
+        "stars_total": 29527,
+        "description_zh": "将Claude Code变成一个完整的游戏开发工作室--49个人工智能代理、72个工作流程技能，以及一个完整的协调系统，反映了真实的工作室层次结构。"
       }
     ],
     "weekly": [
@@ -117,127 +108,127 @@
         "url": "/cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "language": "JavaScript",
-        "stars_today": 16002,
-        "stars_total": 51922,
+        "stars_today": 14320,
+        "stars_total": 53094,
         "description_zh": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
+      },
+      {
+        "full_name": "php/php-src",
+        "url": "/php/php-src",
+        "description": "The PHP Interpreter",
+        "language": "C",
+        "stars_today": 960,
+        "stars_total": 41727,
+        "description_zh": "PHP解释器"
       },
       {
         "full_name": "AgriciDaniel/claude-seo",
         "url": "/AgriciDaniel/claude-seo",
         "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
         "language": "Python",
-        "stars_today": 3516,
-        "stars_total": 23518,
+        "stars_today": 4110,
+        "stars_total": 24104,
         "description_zh": "Claude Code 的通用 SEO 技能。 26 个子技能 + 19 个子代理，涵盖技术 SEO、E-E-A-T、模式、GEO/AEO、代理准备情况（Lighthouse Agentic Browsing、WebMCP、llms.txt）、反向链接、本地 SEO、电子商务、国际 SEO、Google API 和 PDF/Excel 报告。实时 SEO 数据的 9 种可选扩展。"
-      },
-      {
-        "full_name": "multica-ai/andrej-karpathy-skills",
-        "url": "/multica-ai/andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": null,
-        "stars_today": 4293,
-        "stars_total": 226062,
-        "description_zh": "用于改进 Claude 代码行为的单个 CLAUDE.md 文件，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
-      },
-      {
-        "full_name": "anthropics/knowledge-work-plugins",
-        "url": "/anthropics/knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "language": "Python",
-        "stars_today": 2612,
-        "stars_total": 33696,
-        "description_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
-      },
-      {
-        "full_name": "TauricResearch/TradingAgents",
-        "url": "/TauricResearch/TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars_today": 5322,
-        "stars_total": 117993,
-        "description_zh": "TradingAgents：多代理LLM金融交易框架"
       },
       {
         "full_name": "pbakaus/impeccable",
         "url": "/pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "language": "Rust",
-        "stars_today": 7283,
-        "stars_total": 93339,
+        "stars_today": 9713,
+        "stars_total": 95815,
         "description_zh": "编码代理的设计词汇。更加优雅和大胆地进行引导，通过批评和审计进行审查，在人工智能发布之前抓住它。"
       },
       {
-        "full_name": "Graphify-Labs/graphify",
-        "url": "/Graphify-Labs/graphify",
-        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "url": "/multica-ai/andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": null,
+        "stars_today": 4250,
+        "stars_total": 226537,
+        "description_zh": "用于改进 Claude 代码行为的单个 CLAUDE.md 文件，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
+      },
+      {
+        "full_name": "TauricResearch/TradingAgents",
+        "url": "/TauricResearch/TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "language": "Python",
-        "stars_today": 6662,
-        "stars_total": 138040,
-        "description_zh": "将任何代码库及其文档、SQL 架构、配置和 PDF 转换为可查询的知识图。适用于 Claude Code、Cursor、Codex 和 Gemini CLI 的 /graphify 技能：本地确定性 AST 解析，每条边均已解释，无向量存储。"
+        "stars_today": 5557,
+        "stars_total": 118421,
+        "description_zh": "TradingAgents：多代理LLM金融交易框架"
       },
       {
-        "full_name": "Leonxlnx/taste-skill",
-        "url": "/Leonxlnx/taste-skill",
-        "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-        "language": "JavaScript",
-        "stars_today": 3940,
-        "stars_total": 104750,
-        "description_zh": "赋予编码代理品味的代理技能：艺术指导、参考图像和浏览器检查，而不是通用的 AI 页面"
-      },
-      {
-        "full_name": "ruvnet/ruflo",
-        "url": "/ruvnet/ruflo",
-        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-        "language": "TypeScript",
-        "stars_today": 1930,
-        "stars_total": 80019,
-        "description_zh": "🌊 原始代理线束。部署智能多玩家群体，协调自主工作流程，构建对话式人工智能系统。具有自适应记忆、自学习智能、联合、矢量RAG集成和本地Claude Code/Codex/Hermes等功能"
-      },
-      {
-        "full_name": "anomalyco/opencode",
-        "url": "/anomalyco/opencode",
-        "description": "The open source coding agent.",
-        "language": "TypeScript",
-        "stars_today": 3498,
-        "stars_total": 222827,
-        "description_zh": "开源编码代理。"
-      },
-      {
-        "full_name": "jakubkrehel/skills",
-        "url": "/jakubkrehel/skills",
-        "description": "A collection of agent skills that help you build great interfaces.",
-        "language": "Markdown",
-        "stars_today": 776,
-        "stars_total": 9037,
-        "description_zh": "一系列代理技能可帮助您构建出色的界面。"
-      }
-    ],
-    "monthly": [
-      {
-        "full_name": "heygen-com/hyperframes",
-        "url": "/heygen-com/hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "language": "TypeScript",
-        "stars_today": 21015,
-        "stars_total": 74906,
-        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
-      },
-      {
-        "full_name": "cloudflare/security-audit-skill",
-        "url": "/cloudflare/security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "language": "JavaScript",
-        "stars_today": 28617,
-        "stars_total": 51922,
-        "description_zh": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
+        "full_name": "obra/superpowers",
+        "url": "/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars_today": 4894,
+        "stars_total": 308810,
+        "description_zh": "有效的代理技能框架和软件开发方法。"
       },
       {
         "full_name": "anthropics/knowledge-work-plugins",
         "url": "/anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "language": "Python",
-        "stars_today": 7899,
-        "stars_total": 33696,
+        "stars_today": 2504,
+        "stars_total": 33893,
+        "description_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
+      },
+      {
+        "full_name": "Leonxlnx/taste-skill",
+        "url": "/Leonxlnx/taste-skill",
+        "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+        "language": "JavaScript",
+        "stars_today": 4359,
+        "stars_total": 105730,
+        "description_zh": "赋予编码代理品味的代理技能：艺术指导、参考图像和浏览器检查，而不是通用的 AI 页面"
+      },
+      {
+        "full_name": "jakubkrehel/skills",
+        "url": "/jakubkrehel/skills",
+        "description": "A collection of agent skills that help you build great interfaces.",
+        "language": "Markdown",
+        "stars_today": 980,
+        "stars_total": 9221,
+        "description_zh": "一系列代理技能可帮助您构建出色的界面。"
+      },
+      {
+        "full_name": "ruvnet/ruflo",
+        "url": "/ruvnet/ruflo",
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "language": "TypeScript",
+        "stars_today": 1854,
+        "stars_total": 80184,
+        "description_zh": "🌊 原始代理线束。部署智能多玩家群体，协调自主工作流程，构建对话式人工智能系统。具有自适应记忆、自学习智能、联合、矢量RAG集成和本地Claude Code/Codex/Hermes等功能"
+      }
+    ],
+    "monthly": [
+      {
+        "full_name": "cloudflare/security-audit-skill",
+        "url": "/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars_today": 29622,
+        "stars_total": 53094,
+        "description_zh": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
+      },
+      {
+        "full_name": "heygen-com/hyperframes",
+        "url": "/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_today": 21520,
+        "stars_total": 75590,
+        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
+      },
+      {
+        "full_name": "anthropics/knowledge-work-plugins",
+        "url": "/anthropics/knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "stars_today": 8086,
+        "stars_total": 33893,
         "description_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
       },
       {
@@ -245,8 +236,8 @@
         "url": "/earthtojake/text-to-cad",
         "description": "Design physical products with AI",
         "language": "Python",
-        "stars_today": 7453,
-        "stars_total": 23951,
+        "stars_today": 7732,
+        "stars_total": 24205,
         "description_zh": "利用人工智能设计实体产品"
       },
       {
@@ -254,8 +245,8 @@
         "url": "/pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "language": "Rust",
-        "stars_today": 19821,
-        "stars_total": 93339,
+        "stars_today": 22473,
+        "stars_total": 95815,
         "description_zh": "编码代理的设计词汇。更加优雅和大胆地进行引导，通过批评和审计进行审查，在人工智能发布之前抓住它。"
       },
       {
@@ -263,26 +254,17 @@
         "url": "/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_today": 51430,
-        "stars_total": 93285,
+        "stars_today": 47778,
+        "stars_total": 94595,
         "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
-      },
-      {
-        "full_name": "cursor/plugins",
-        "url": "/cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars_today": 5652,
-        "stars_total": 14511,
-        "description_zh": "光标插件规范和官方插件"
       },
       {
         "full_name": "anthropics/claude-plugins-official",
         "url": "/anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
-        "stars_today": 8154,
-        "stars_total": 45169,
+        "stars_today": 8277,
+        "stars_total": 45339,
         "description_zh": "由Anthropic管理的高质量Claude Code插件的官方目录。"
       },
       {
@@ -290,35 +272,44 @@
         "url": "/mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "language": "TypeScript",
-        "stars_today": 8679,
-        "stars_total": 32743,
+        "stars_today": 8800,
+        "stars_total": 32871,
         "description_zh": "AI 编码代理的上下文窗口优化。沙箱工具输出（减少 98%）、保留会话内存，并通过 MCP + 挂钩强制跨 17 个平台进行路由。"
+      },
+      {
+        "full_name": "cursor/plugins",
+        "url": "/cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars_today": 5677,
+        "stars_total": 14621,
+        "description_zh": "光标插件规范和官方插件"
       },
       {
         "full_name": "thedotmack/claude-mem",
         "url": "/thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "language": "TypeScript",
-        "stars_today": 9592,
-        "stars_total": 104099,
+        "stars_today": 9911,
+        "stars_total": 105026,
         "description_zh": "每个座席跨会话的持久上下文 – 捕获座席在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
       },
       {
-        "full_name": "affaan-m/ECC",
-        "url": "/affaan-m/ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars_today": 24428,
-        "stars_total": 291948,
-        "description_zh": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。"
+        "full_name": "Nutlope/hallmark",
+        "url": "/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars_today": 12501,
+        "stars_total": 42250,
+        "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
       },
       {
         "full_name": "NationalSecurityAgency/ghidra",
         "url": "/NationalSecurityAgency/ghidra",
         "description": "Ghidra is a software reverse engineering (SRE) framework",
         "language": "Java",
-        "stars_today": 15700,
-        "stars_total": 95597,
+        "stars_today": 16113,
+        "stars_total": 95947,
         "description_zh": "Ghidra 是一个软件逆向工程 (SRE) 框架"
       }
     ]
