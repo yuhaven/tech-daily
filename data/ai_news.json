@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T06:05:16+00:00",
+  "generated_at": "2026-10-31T05:59:00+00:00",
   "hn": [
     {
       "id": 50289418,
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "domain": "mistral.ai",
-      "points": 1312,
-      "comments": 360,
+      "points": 1688,
+      "comments": 435,
       "author": "kuberwastaken",
       "time": 1793283201,
       "title_zh": "我们正在发布Mistral Large 4的重量"
@@ -17,186 +17,195 @@
       "title": "Gemini 4 Carbon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
       "domain": "blog.google",
-      "points": 1006,
-      "comments": 797,
+      "points": 1011,
+      "comments": 801,
       "author": "acossta",
       "time": 1793206883,
       "title_zh": "Gemini 4 碳纤维"
     },
     {
-      "id": 50284255,
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "domain": "gist.github.com",
-      "points": 565,
-      "comments": 229,
-      "author": "NikZaal",
-      "time": 1793244822,
-      "title_zh": "Claude Code定期将每个后台代理的成绩单发送到其模型"
-    },
-    {
-      "id": 50280864,
-      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "domain": "wired.com",
-      "points": 422,
-      "comments": 262,
-      "author": "Aboutplants",
-      "time": 1793221404,
-      "title_zh": "泄密事件曝光了 41,000 名国土安全人员，其中包括 ICE 便衣特工"
+      "id": 50300683,
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "domain": "phorion.io",
+      "points": 857,
+      "comments": 512,
+      "author": "_chall",
+      "time": 1793344152,
+      "title_zh": "Cursor Marketplace 上用于 VS Code 扩展的 Claude Code 中的后门"
     },
     {
       "id": 50290177,
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "domain": "martinfowler.com",
-      "points": 408,
-      "comments": 213,
+      "points": 593,
+      "comments": 328,
       "author": "ibobev",
       "time": 1793285875,
       "title_zh": "法学硕士之声"
     },
     {
-      "id": 50288019,
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "domain": "artificialanalysis.ai",
-      "points": 331,
-      "comments": 240,
-      "author": "theHocineSaad",
-      "time": 1793277716,
-      "title_zh": "Gemini 4 Carbon在人工智能指数v5中排名第一"
+      "id": 50305693,
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "domain": "newsletter.signoz.io",
+      "points": 549,
+      "comments": 410,
+      "author": "dorianniemiec",
+      "time": 1793375538,
+      "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能"
     },
     {
-      "id": 50293047,
-      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-      "domain": "nypost.com",
-      "points": 310,
-      "comments": 217,
-      "author": "mgh2",
-      "time": 1793295828,
-      "title_zh": "据称中国间谍与英伟达老板黄延森有“密切关系”"
-    },
-    {
-      "id": 50275626,
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "domain": "surgehq.ai",
-      "points": 254,
-      "comments": 173,
-      "author": "landonxi",
-      "time": 1793202390,
-      "title_zh": "Dayjob：税务——评估人工智能代理的 50 项专业税务任务"
+      "id": 50280864,
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "domain": "wired.com",
+      "points": 448,
+      "comments": 289,
+      "author": "Aboutplants",
+      "time": 1793221404,
+      "title_zh": "泄密事件曝光了 41,000 名国土安全人员，其中包括 ICE 便衣特工"
     },
     {
       "id": 50296486,
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 241,
-      "comments": 82,
+      "points": 400,
+      "comments": 165,
       "author": "sandslash",
       "time": 1793310028,
       "title_zh": "我们在Minecraft和Mindustry中运行了AI代理群"
+    },
+    {
+      "id": 50293047,
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "domain": "nypost.com",
+      "points": 355,
+      "comments": 235,
+      "author": "mgh2",
+      "time": 1793295828,
+      "title_zh": "据称中国间谍与英伟达老板黄延森有“密切关系”"
+    },
+    {
+      "id": 50307219,
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "domain": "ft.com",
+      "points": 301,
+      "comments": 248,
+      "author": "petethomas",
+      "time": 1793381245,
+      "title_zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级"
     },
     {
       "id": 50290283,
       "title": "Zombie stats: Where the numbers AI quotes come from",
       "url": "https://trakkr.ai/trakkr-research/zombie-stats",
       "domain": "trakkr.ai",
-      "points": 155,
-      "comments": 66,
+      "points": 177,
+      "comments": 72,
       "author": "mektrik",
       "time": 1793286377,
       "title_zh": "僵尸统计：人工智能报价数字的来源"
     },
     {
-      "id": 50292727,
-      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-      "url": "https://fig.blue/posts/duet-is-the-future/",
-      "domain": "fig.blue",
-      "points": 114,
-      "comments": 113,
-      "author": "nathanfig",
-      "time": 1793294665,
-      "title_zh": "Claude Duet是第一款感觉有用的个人助理型线束"
+      "id": 50304122,
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "domain": "fortune.com",
+      "points": 144,
+      "comments": 183,
+      "author": "taubek",
+      "time": 1793369300,
+      "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码"
     },
     {
-      "id": 50297697,
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "domain": "github.com",
-      "points": 65,
-      "comments": 16,
-      "author": "falperc",
-      "time": 1793316346,
-      "title_zh": "显示HN ：我把厄运变成了变形金刚"
+      "id": 50296730,
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "domain": "twitter.com",
+      "points": 131,
+      "comments": 168,
+      "author": "sgondala_ycapp",
+      "time": 1793311114,
+      "title_zh": "建立人工智能原生工程组织"
     }
   ],
   "media": [
     {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "source": "TechCrunch",
-      "published": "Fri, 30 Oct 2026 01:20:48 +0000",
-      "time": 1793323248,
-      "snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "title_zh": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免"
+      "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "time": 1793409605,
+      "snippet": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "title_zh": "Nvidia 考虑担任西弗吉尼亚州 Nscale 人工智能数据中心的联合签署人"
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "source": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "time": 1793317342,
-      "snippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO sa",
-      "title_zh": "Jassy说， AWS将是一项$ 1T的业务。但首先，它将花费巨大。"
+      "published": "Fri, 30 Oct 2026 22:56:13 +0000",
+      "time": 1793400973,
+      "snippet": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "title_zh": "专注于隐私的人工智能助手 Ollie 即将关闭"
     },
     {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "source": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 20:08:31 +0000",
-      "time": 1793304511,
-      "snippet": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "title_zh": "随着搜索流量的枯竭， Reddit宣布将转向登录体验"
+      "published": "Fri, 30 Oct 2026 21:54:34 +0000",
+      "time": 1793397274,
+      "snippet": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "title_zh": "英特尔股价暴跌，政府持股损失 12B 美元"
     },
     {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "source": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 20:05:47 +0000",
-      "time": 1793304347,
-      "snippet": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "title_zh": "Rivian扩大与大众的合资企业，包括人工智能助手"
+      "published": "Fri, 30 Oct 2026 21:52:03 +0000",
+      "time": 1793397123,
+      "snippet": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive",
+      "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级"
     },
     {
-      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
       "source": "Ars Technica",
-      "published": "Thu, 29 Oct 2026 18:29:12 +0000",
-      "time": 1793298552,
-      "snippet": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-      "title_zh": "报告称，特朗普无视有关中国Nvidia间谍的情报以保护公司股票"
+      "published": "Fri, 30 Oct 2026 21:41:54 +0000",
+      "time": 1793396514,
+      "snippet": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "title_zh": "随着公司转向为人工智能数据中心提供动力，超音速客机面临质疑"
     },
     {
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "source": "Ars Technica",
-      "published": "Thu, 29 Oct 2026 16:24:55 +0000",
-      "time": 1793291095,
-      "snippet": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-      "title_zh": "谷歌承认人工智能搜索赚的钱更少，但它正在通过更多的广告来解决这个问题"
+      "published": "Fri, 30 Oct 2026 21:09:54 +0000",
+      "time": 1793394594,
+      "snippet": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "title_zh": "Cursor 上的 Anthropic VS 代码扩展被后门近 12 小时"
     },
     {
-      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
       "source": "Ars Technica",
-      "published": "Thu, 29 Oct 2026 12:58:34 +0000",
-      "time": 1793278714,
-      "snippet": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-      "title_zh": "大规模泄漏暴露了41,000名国土安全部工作人员和卧底ICE特工"
+      "published": "Fri, 30 Oct 2026 20:40:13 +0000",
+      "time": 1793392813,
+      "snippet": "People who love AI don't always love telling others they used it.",
+      "title_zh": "达特茅斯的教务长警告我们有关人工智能作弊的事情，但他自己的人工智能使用让他失去了工作"
+    },
+    {
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "source": "Ars Technica",
+      "published": "Fri, 30 Oct 2026 19:30:52 +0000",
+      "time": 1793388652,
+      "snippet": "But it's still early days for the relatively new e-commerce use case.",
+      "title_zh": "基本上没有人使用 AI 代理来处理 DoorDash 订单"
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -215,15 +224,6 @@
       "time": 1793219522,
       "snippet": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow ",
       "title_zh": "结合企业场景创造人工智能价值"
-    },
-    {
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "source": "Ars Technica",
-      "published": "Wed, 28 Oct 2026 18:47:27 +0000",
-      "time": 1793213247,
-      "snippet": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-      "title_zh": "谷歌发布Gemini 4 Carbon，这是你无法使用的最新前沿人工智能模型"
     }
   ]
 }

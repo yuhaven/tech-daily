@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:05:21+00:00",
+  "generated_at": "2026-10-31T05:59:01+00:00",
   "showhn": [
     {
       "title": "Show HN: SimCity, but with Permits",
@@ -25,7 +25,7 @@
       "title": "Show HN: Steal My Bitcoin",
       "url": "https://stealmybitcoin.com/",
       "domain": "stealmybitcoin.com",
-      "points": 623,
+      "points": 625,
       "comments": 450,
       "author": "cloudlandsdev",
       "time": "2026-10-24T20:30:31Z",
@@ -65,7 +65,7 @@
       "title": "Show HN: TitleArt – Make text like it's 1997",
       "url": "https://titleart.dvy.io/",
       "domain": "titleart.dvy.io",
-      "points": 405,
+      "points": 408,
       "comments": 82,
       "author": "davidbarker",
       "time": "2026-10-26T03:23:57Z",
@@ -92,6 +92,16 @@
       "title_zh": "显示HN ： Llmspeed –在购买硬件之前感受本地LLM的运行速度"
     },
     {
+      "title": "Show HN: A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
+      "domain": "github.com",
+      "points": 320,
+      "comments": 116,
+      "author": "NotARoomba",
+      "time": "2026-10-25T03:47:56Z",
+      "title_zh": "Show HN ：真正的模块化键盘"
+    },
+    {
       "title": "Show HN: Unfenced – Land for sale that borders public land",
       "url": "https://unfenced.land/",
       "domain": "unfenced.land",
@@ -100,16 +110,6 @@
       "author": "otherwatersflow",
       "time": "2026-10-15T11:38:57Z",
       "title_zh": "显示 HN：无围栏 – 与公共土地接壤的待售土地"
-    },
-    {
-      "title": "Show HN: A Truly Modular Keyboard",
-      "url": "https://github.com/notaroomba/keybytes",
-      "domain": "github.com",
-      "points": 318,
-      "comments": 116,
-      "author": "NotARoomba",
-      "time": "2026-10-25T03:47:56Z",
-      "title_zh": "Show HN ：真正的模块化键盘"
     },
     {
       "title": "Show HN: PS2 games statically recompiled to WebAssembly",
@@ -127,8 +127,8 @@
       "title": "Patrick Stewart has died",
       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
       "domain": "nytimes.com",
-      "points": 2698,
-      "comments": 570,
+      "points": 3257,
+      "comments": 743,
       "author": "j4mie",
       "time": "2026-10-29T19:41:39Z",
       "title_zh": "帕特里克·斯图尔特去世"
@@ -137,7 +137,7 @@
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "domain": "github.com",
-      "points": 2353,
+      "points": 2354,
       "comments": 892,
       "author": "ggcr",
       "time": "2026-10-20T09:08:54Z",
@@ -174,31 +174,31 @@
       "title_zh": "得癌症时的注意事项"
     },
     {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "domain": "arkm.com",
+      "points": 1732,
+      "comments": 1222,
+      "author": "Tiberium",
+      "time": "2026-10-29T21:38:59Z",
+      "title_zh": "Binance-hacker-1029 – Binance 被盗 5.6B 美元"
+    },
+    {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
       "domain": "edjefferson.com",
-      "points": 1719,
+      "points": 1721,
       "comments": 255,
       "author": "sohkamyung",
       "time": "2026-10-22T23:01:18Z",
       "title_zh": "本地维基百科：维基百科，但仅限于距离您步行半小时的地方"
     },
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "domain": "blog.google",
-      "points": 1705,
-      "comments": 1199,
-      "author": "bradleyg223",
-      "time": "2026-09-30T20:04:37Z",
-      "title_zh": "双子座 4 氩"
-    },
-    {
       "title": "Anthropic S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
-      "points": 1703,
-      "comments": 1675,
+      "points": 1708,
+      "comments": 1677,
       "author": "SiNTEx",
       "time": "2026-10-26T13:04:50Z",
       "title_zh": "人择S-1"
@@ -214,6 +214,16 @@
       "title_zh": "圆周率1.0"
     },
     {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "domain": "mistral.ai",
+      "points": 1688,
+      "comments": 435,
+      "author": "kuberwastaken",
+      "time": "2026-10-29T14:13:21Z",
+      "title_zh": "我们正在发布 Mistral Large 4 的重量"
+    },
+    {
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
       "domain": "tesla.com",
@@ -224,21 +234,11 @@
       "title_zh": "特斯拉跑车"
     },
     {
-      "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
-      "domain": "php.net",
-      "points": 1561,
-      "comments": 659,
-      "author": "xd",
-      "time": "2026-10-20T20:15:50Z",
-      "title_zh": "安全通报：严重远程代码执行漏洞，立即更新"
-    },
-    {
       "title": "Why is this fingerprinting script creating bioweapons?",
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
       "domain": "nullpt.rs",
-      "points": 1544,
-      "comments": 295,
+      "points": 1575,
+      "comments": 302,
       "author": "hazebooth",
       "time": "2026-10-28T17:13:29Z",
       "title_zh": "为什么这个指纹脚本会产生生物武器？"
