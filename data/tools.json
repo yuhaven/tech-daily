@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-01T06:28:08+00:00",
+  "generated_at": "2026-11-02T06:29:15+00:00",
   "showhn": [
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "domain": "hackerbooks.org",
+      "points": 1189,
+      "comments": 214,
+      "author": "roansh",
+      "time": "2026-11-01T15:58:28Z",
+      "title_zh": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍"
+    },
     {
       "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
@@ -110,16 +120,6 @@
       "author": "deadxwarrior",
       "time": "2026-10-12T06:46:53Z",
       "title_zh": "Show HN：PS2 游戏静态重新编译为 WebAssembly"
-    },
-    {
-      "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "domain": "wallhop.io",
-      "points": 289,
-      "comments": 133,
-      "author": "TheWaffleHax",
-      "time": "2026-10-11T00:46:48Z",
-      "title_zh": "Show HN：WallHop – 12ft.io 消失了，所以我建立了一个替代品"
     }
   ],
   "hot": [
@@ -127,11 +127,21 @@
       "title": "Patrick Stewart has died",
       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
       "domain": "nytimes.com",
-      "points": 3292,
-      "comments": 753,
+      "points": 3304,
+      "comments": 755,
       "author": "j4mie",
       "time": "2026-10-29T19:41:39Z",
       "title_zh": "帕特里克·斯图尔特去世"
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "domain": "karpathy.bearblog.dev",
+      "points": 2436,
+      "comments": 555,
+      "author": "karpathy",
+      "time": "2026-10-31T19:56:53Z",
+      "title_zh": "HackerTube：根据 HN 推荐的视频构建的 YouTube"
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -177,8 +187,8 @@
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "domain": "arkm.com",
-      "points": 1754,
-      "comments": 1249,
+      "points": 1757,
+      "comments": 1258,
       "author": "Tiberium",
       "time": "2026-10-29T21:38:59Z",
       "title_zh": "Binance-hacker-1029 – Binance 被盗 5.6B 美元"
@@ -188,30 +198,30 @@
       "url": "https://edjefferson.com/localwiki/",
       "domain": "edjefferson.com",
       "points": 1721,
-      "comments": 255,
+      "comments": 256,
       "author": "sohkamyung",
       "time": "2026-10-22T23:01:18Z",
       "title_zh": "本地维基百科：维基百科，但仅限于距离您步行半小时的地方"
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "domain": "mistral.ai",
+      "points": 1716,
+      "comments": 439,
+      "author": "kuberwastaken",
+      "time": "2026-10-29T14:13:21Z",
+      "title_zh": "我们正在发布 Mistral Large 4 的重量"
     },
     {
       "title": "Anthropic S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
       "points": 1709,
-      "comments": 1679,
+      "comments": 1680,
       "author": "SiNTEx",
       "time": "2026-10-26T13:04:50Z",
       "title_zh": "人择S-1"
-    },
-    {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "domain": "mistral.ai",
-      "points": 1707,
-      "comments": 438,
-      "author": "kuberwastaken",
-      "time": "2026-10-29T14:13:21Z",
-      "title_zh": "我们正在发布 Mistral Large 4 的重量"
     },
     {
       "title": "Tesla Roadster",
@@ -227,21 +237,11 @@
       "title": "Why is this fingerprinting script creating bioweapons?",
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
       "domain": "nullpt.rs",
-      "points": 1585,
-      "comments": 306,
+      "points": 1594,
+      "comments": 308,
       "author": "hazebooth",
       "time": "2026-10-28T17:13:29Z",
       "title_zh": "为什么这个指纹脚本会产生生物武器？"
-    },
-    {
-      "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
-      "domain": "php.net",
-      "points": 1561,
-      "comments": 659,
-      "author": "xd",
-      "time": "2026-10-20T20:15:50Z",
-      "title_zh": "安全通报：严重远程代码执行漏洞，立即更新"
     }
   ]
 }

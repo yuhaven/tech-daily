@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T06:28:06+00:00",
+  "generated_at": "2026-11-02T06:29:14+00:00",
   "hn": [
     {
       "id": 50289418,
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "domain": "mistral.ai",
-      "points": 1707,
-      "comments": 438,
+      "points": 1716,
+      "comments": 439,
       "author": "kuberwastaken",
       "time": 1793283201,
       "title_zh": "我们正在发布Mistral Large 4的重量"
@@ -17,41 +17,30 @@
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "domain": "phorion.io",
-      "points": 973,
-      "comments": 547,
+      "points": 994,
+      "comments": 553,
       "author": "_chall",
       "time": 1793344152,
       "title_zh": "Cursor Marketplace 上用于 VS Code 扩展的 Claude Code 中的后门"
     },
     {
-      "id": 50305693,
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "domain": "newsletter.signoz.io",
-      "points": 650,
-      "comments": 475,
-      "author": "dorianniemiec",
-      "time": 1793375538,
-      "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能"
-    },
-    {
-      "id": 50280864,
-      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "domain": "wired.com",
-      "points": 461,
-      "comments": 305,
-      "author": "Aboutplants",
-      "time": 1793221404,
-      "title_zh": "泄密事件曝光了 41,000 名国土安全人员，其中包括 ICE 便衣特工"
+      "id": 50319358,
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "domain": "twitter.com",
+      "points": 463,
+      "comments": 258,
+      "author": "pretext",
+      "time": 1793475559,
+      "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情"
     },
     {
       "id": 50296486,
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 412,
-      "comments": 169,
+      "points": 419,
+      "comments": 170,
       "author": "sandslash",
       "time": 1793310028,
       "title_zh": "我们在Minecraft和Mindustry中运行了AI代理群"
@@ -61,41 +50,63 @@
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "domain": "parameter.ai",
-      "points": 318,
-      "comments": 157,
+      "points": 358,
+      "comments": 176,
       "author": "armcat",
       "time": 1793442611,
       "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的"
+    },
+    {
+      "id": 50323088,
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "domain": "nolanlawson.com",
+      "points": 342,
+      "comments": 261,
+      "author": "luu",
+      "time": 1793513179,
+      "title_zh": "JavaScript 框架的人工智能成本"
     },
     {
       "id": 50304122,
       "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "domain": "fortune.com",
-      "points": 304,
-      "comments": 378,
+      "points": 312,
+      "comments": 384,
       "author": "taubek",
       "time": 1793369300,
       "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码"
     },
     {
-      "id": 50319358,
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "domain": "twitter.com",
-      "points": 298,
-      "comments": 167,
-      "author": "pretext",
-      "time": 1793475559,
-      "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情"
+      "id": 50320588,
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "domain": "help.openai.com",
+      "points": 221,
+      "comments": 165,
+      "author": "Zariel",
+      "time": 1793483347,
+      "title_zh": "ChatGPT 和 Codex 使用限制合并"
+    },
+    {
+      "id": 50330456,
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "domain": "techcrunch.com",
+      "points": 214,
+      "comments": 211,
+      "author": "throwoutway",
+      "time": 1793571045,
+      "title_zh": "阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报”"
     },
     {
       "id": 50290652,
       "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
       "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
       "domain": "thedataexchange.media",
-      "points": 197,
-      "comments": 47,
+      "points": 213,
+      "comments": 57,
       "author": "datascientist",
       "time": 1793287788,
       "title_zh": "人工智能、精益和形式验证的未来，与精益创造者 Leo de Moura 合作"
@@ -105,36 +116,43 @@
       "title": "Building an AI-native engineering org",
       "url": "https://twitter.com/sgondala2/status/2115832070274723875",
       "domain": "twitter.com",
-      "points": 185,
-      "comments": 196,
+      "points": 188,
+      "comments": 200,
       "author": "sgondala_ycapp",
       "time": 1793311114,
       "title_zh": "建立人工智能原生工程组织"
     },
     {
-      "id": 50318871,
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "domain": "ryanmadden.net",
-      "points": 164,
-      "comments": 179,
-      "author": "ryanmadden",
-      "time": 1793472634,
-      "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂"
-    },
-    {
-      "id": 50320255,
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-      "domain": "mashable.com",
-      "points": 129,
-      "comments": 79,
-      "author": "firesteelrain",
-      "time": 1793480878,
-      "title_zh": "Anthropic 采取措施阻止克劳德对视频游戏进行逆向工程"
+      "id": 50325662,
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "domain": "tomshardware.com",
+      "points": 163,
+      "comments": 78,
+      "author": "entryleveljobsc",
+      "time": 1793540844,
+      "title_zh": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中"
     }
   ],
   "media": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "published": "Sun, 01 Nov 2026 21:55:23 +0000",
+      "time": 1793570123,
+      "snippet": "Data centers are deeply unpopular. But what if we called them something else?",
+      "title_zh": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区”"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "published": "Sun, 01 Nov 2026 20:57:58 +0000",
+      "time": 1793566678,
+      "snippet": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "title_zh": "人工智能可以让科技首席执行官的生活变得更轻松。其他人呢？"
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -152,24 +170,6 @@
       "time": 1793482567,
       "snippet": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the t",
       "title_zh": "还剩 4 天：TechCrunch 创始人峰会如何帮助您建立更有用的联系以实现规模化"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source": "TechCrunch",
-      "published": "Sat, 31 Oct 2026 21:17:03 +0000",
-      "time": 1793481423,
-      "snippet": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "title_zh": "法官允许全国有色人种协进会继续推进有关 xAI 数据中心污染的诉讼"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch",
-      "published": "Sat, 31 Oct 2026 16:12:55 +0000",
-      "time": 1793463175,
-      "snippet": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "title_zh": "据报道 OpenAI 降低了新一轮融资目标"
     },
     {
       "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
