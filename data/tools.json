@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T06:29:15+00:00",
+  "generated_at": "2026-11-03T07:01:20+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1189,
-      "comments": 214,
+      "points": 1819,
+      "comments": 302,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",
       "title_zh": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍"
@@ -30,6 +30,16 @@
       "author": "SpeakingOfBrad",
       "time": "2026-10-07T15:44:21Z",
       "title_zh": "Show HN：Bigwords.page – 将任何屏幕变成标志。网址是应用程序"
+    },
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "domain": "news.ycombinator.com",
+      "points": 645,
+      "comments": 326,
+      "author": "aarushyadav",
+      "time": "2026-11-02T17:16:17Z",
+      "title_zh": "Show HN: Subvocal – 与电脑交谈，不发出噪音"
     },
     {
       "title": "Show HN: Steal My Bitcoin",
@@ -75,11 +85,21 @@
       "title": "Show HN: TitleArt – Make text like it's 1997",
       "url": "https://titleart.dvy.io/",
       "domain": "titleart.dvy.io",
-      "points": 409,
+      "points": 410,
       "comments": 82,
       "author": "davidbarker",
       "time": "2026-10-26T03:23:57Z",
       "title_zh": "Show HN：TitleArt – 让文本看起来像 1997 年"
+    },
+    {
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "domain": "wikihack.netlify.app",
+      "points": 334,
+      "comments": 103,
+      "author": "aizk",
+      "time": "2026-11-02T05:06:30Z",
+      "title_zh": "显示 HN：Wikihack – HackerTube，但适用于 HN 上提到的维基百科文章"
     },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
@@ -100,26 +120,6 @@
       "author": "NotARoomba",
       "time": "2026-10-25T03:47:56Z",
       "title_zh": "Show HN ：真正的模块化键盘"
-    },
-    {
-      "title": "Show HN: Unfenced – Land for sale that borders public land",
-      "url": "https://unfenced.land/",
-      "domain": "unfenced.land",
-      "points": 319,
-      "comments": 201,
-      "author": "otherwatersflow",
-      "time": "2026-10-15T11:38:57Z",
-      "title_zh": "显示 HN：无围栏 – 与公共土地接壤的待售土地"
-    },
-    {
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "domain": "github.com",
-      "points": 316,
-      "comments": 159,
-      "author": "deadxwarrior",
-      "time": "2026-10-12T06:46:53Z",
-      "title_zh": "Show HN：PS2 游戏静态重新编译为 WebAssembly"
     }
   ],
   "hot": [
@@ -127,8 +127,8 @@
       "title": "Patrick Stewart has died",
       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
       "domain": "nytimes.com",
-      "points": 3304,
-      "comments": 755,
+      "points": 3310,
+      "comments": 765,
       "author": "j4mie",
       "time": "2026-10-29T19:41:39Z",
       "title_zh": "帕特里克·斯图尔特去世"
@@ -137,11 +137,21 @@
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "domain": "karpathy.bearblog.dev",
-      "points": 2436,
-      "comments": 555,
+      "points": 2830,
+      "comments": 631,
       "author": "karpathy",
       "time": "2026-10-31T19:56:53Z",
       "title_zh": "HackerTube：根据 HN 推荐的视频构建的 YouTube"
+    },
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "domain": "rikiyat.github.io",
+      "points": 2387,
+      "comments": 746,
+      "author": "dbreunig",
+      "time": "2026-11-02T18:21:28Z",
+      "title_zh": "Astra可以读写权重来改进Qwen"
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -184,64 +194,54 @@
       "title_zh": "得癌症时的注意事项"
     },
     {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "domain": "hackerbooks.org",
+      "points": 1819,
+      "comments": 302,
+      "author": "roansh",
+      "time": "2026-11-01T15:58:28Z",
+      "title_zh": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍"
+    },
+    {
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "domain": "arkm.com",
-      "points": 1757,
-      "comments": 1258,
+      "points": 1761,
+      "comments": 1263,
       "author": "Tiberium",
       "time": "2026-10-29T21:38:59Z",
       "title_zh": "Binance-hacker-1029 – Binance 被盗 5.6B 美元"
     },
     {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "domain": "mistral.ai",
+      "points": 1725,
+      "comments": 440,
+      "author": "kuberwastaken",
+      "time": "2026-10-29T14:13:21Z",
+      "title_zh": "我们正在发布 Mistral Large 4 的重量"
+    },
+    {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
       "domain": "edjefferson.com",
-      "points": 1721,
+      "points": 1722,
       "comments": 256,
       "author": "sohkamyung",
       "time": "2026-10-22T23:01:18Z",
       "title_zh": "本地维基百科：维基百科，但仅限于距离您步行半小时的地方"
     },
     {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "domain": "mistral.ai",
-      "points": 1716,
-      "comments": 439,
-      "author": "kuberwastaken",
-      "time": "2026-10-29T14:13:21Z",
-      "title_zh": "我们正在发布 Mistral Large 4 的重量"
-    },
-    {
       "title": "Anthropic S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
       "points": 1709,
-      "comments": 1680,
+      "comments": 1681,
       "author": "SiNTEx",
       "time": "2026-10-26T13:04:50Z",
       "title_zh": "人择S-1"
-    },
-    {
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "domain": "tesla.com",
-      "points": 1645,
-      "comments": 3162,
-      "author": "shekhar101",
-      "time": "2026-10-16T01:32:45Z",
-      "title_zh": "特斯拉跑车"
-    },
-    {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "domain": "nullpt.rs",
-      "points": 1594,
-      "comments": 308,
-      "author": "hazebooth",
-      "time": "2026-10-28T17:13:29Z",
-      "title_zh": "为什么这个指纹脚本会产生生物武器？"
     }
   ]
 }
