@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-03T07:01:20+00:00",
+  "generated_at": "2026-11-04T06:43:43+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1819,
-      "comments": 302,
+      "points": 1843,
+      "comments": 304,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",
       "title_zh": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍"
@@ -22,6 +22,16 @@
       "title_zh": "显示 HN：SimCity，但有许可证"
     },
     {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "domain": "news.ycombinator.com",
+      "points": 817,
+      "comments": 388,
+      "author": "aarushyadav",
+      "time": "2026-11-02T17:16:17Z",
+      "title_zh": "Show HN: Subvocal – 与电脑交谈，不发出噪音"
+    },
+    {
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
       "url": "https://bigwords.page/",
       "domain": "bigwords.page",
@@ -32,20 +42,10 @@
       "title_zh": "Show HN：Bigwords.page – 将任何屏幕变成标志。网址是应用程序"
     },
     {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "domain": "news.ycombinator.com",
-      "points": 645,
-      "comments": 326,
-      "author": "aarushyadav",
-      "time": "2026-11-02T17:16:17Z",
-      "title_zh": "Show HN: Subvocal – 与电脑交谈，不发出噪音"
-    },
-    {
       "title": "Show HN: Steal My Bitcoin",
       "url": "https://stealmybitcoin.com/",
       "domain": "stealmybitcoin.com",
-      "points": 625,
+      "points": 627,
       "comments": 451,
       "author": "cloudlandsdev",
       "time": "2026-10-24T20:30:31Z",
@@ -60,6 +60,16 @@
       "author": "gloja",
       "time": "2026-10-13T19:11:48Z",
       "title_zh": "显示 HN：Guitoro，您可以用键盘弹奏的虚拟吉他"
+    },
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "domain": "hackertimes.ca",
+      "points": 452,
+      "comments": 146,
+      "author": "polpenn",
+      "time": "2026-11-03T01:53:34Z",
+      "title_zh": "Show HN：黑客时报，受《纽约时报》启发的黑客新闻版本"
     },
     {
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
@@ -95,8 +105,8 @@
       "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
       "url": "https://wikihack.netlify.app",
       "domain": "wikihack.netlify.app",
-      "points": 334,
-      "comments": 103,
+      "points": 339,
+      "comments": 104,
       "author": "aizk",
       "time": "2026-11-02T05:06:30Z",
       "title_zh": "显示 HN：Wikihack – HackerTube，但适用于 HN 上提到的维基百科文章"
@@ -110,16 +120,6 @@
       "author": "albinstman",
       "time": "2026-10-17T04:36:53Z",
       "title_zh": "显示HN ： Llmspeed –在购买硬件之前感受本地LLM的运行速度"
-    },
-    {
-      "title": "Show HN: A Truly Modular Keyboard",
-      "url": "https://github.com/notaroomba/keybytes",
-      "domain": "github.com",
-      "points": 320,
-      "comments": 116,
-      "author": "NotARoomba",
-      "time": "2026-10-25T03:47:56Z",
-      "title_zh": "Show HN ：真正的模块化键盘"
     }
   ],
   "hot": [
@@ -128,30 +128,30 @@
       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
       "domain": "nytimes.com",
       "points": 3310,
-      "comments": 765,
+      "comments": 769,
       "author": "j4mie",
       "time": "2026-10-29T19:41:39Z",
       "title_zh": "帕特里克·斯图尔特去世"
     },
     {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "domain": "karpathy.bearblog.dev",
-      "points": 2830,
-      "comments": 631,
-      "author": "karpathy",
-      "time": "2026-10-31T19:56:53Z",
-      "title_zh": "HackerTube：根据 HN 推荐的视频构建的 YouTube"
-    },
-    {
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "domain": "rikiyat.github.io",
-      "points": 2387,
-      "comments": 746,
+      "points": 2928,
+      "comments": 880,
       "author": "dbreunig",
       "time": "2026-11-02T18:21:28Z",
       "title_zh": "Astra可以读写权重来改进Qwen"
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "domain": "karpathy.bearblog.dev",
+      "points": 2862,
+      "comments": 634,
+      "author": "karpathy",
+      "time": "2026-10-31T19:56:53Z",
+      "title_zh": "HackerTube：根据 HN 推荐的视频构建的 YouTube"
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -197,8 +197,8 @@
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1819,
-      "comments": 302,
+      "points": 1843,
+      "comments": 304,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",
       "title_zh": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍"
@@ -208,7 +208,7 @@
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "domain": "arkm.com",
       "points": 1761,
-      "comments": 1263,
+      "comments": 1266,
       "author": "Tiberium",
       "time": "2026-10-29T21:38:59Z",
       "title_zh": "Binance-hacker-1029 – Binance 被盗 5.6B 美元"
@@ -217,7 +217,7 @@
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "domain": "mistral.ai",
-      "points": 1725,
+      "points": 1730,
       "comments": 440,
       "author": "kuberwastaken",
       "time": "2026-10-29T14:13:21Z",
@@ -227,7 +227,7 @@
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
       "domain": "edjefferson.com",
-      "points": 1722,
+      "points": 1724,
       "comments": 256,
       "author": "sohkamyung",
       "time": "2026-10-22T23:01:18Z",
@@ -237,7 +237,7 @@
       "title": "Anthropic S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
-      "points": 1709,
+      "points": 1710,
       "comments": 1681,
       "author": "SiNTEx",
       "time": "2026-10-26T13:04:50Z",

@@ -1,140 +1,203 @@
 {
-  "generated_at": "2026-11-03T07:01:17+00:00",
+  "generated_at": "2026-11-04T06:43:42+00:00",
   "hn": [
     {
-      "id": 50300683,
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "domain": "phorion.io",
-      "points": 1008,
-      "comments": 553,
-      "author": "_chall",
-      "time": 1793344152,
-      "title_zh": "Cursor Marketplace 上用于 VS Code 扩展的 Claude Code 中的后门"
-    },
-    {
-      "id": 50323088,
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "domain": "nolanlawson.com",
-      "points": 469,
+      "id": 50354960,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "domain": "github.com",
+      "points": 1173,
       "comments": 387,
-      "author": "luu",
-      "time": 1793513179,
-      "title_zh": "JavaScript 框架的人工智能成本"
+      "author": "sidgarimella",
+      "time": 1793726557,
+      "title_zh": "Postman 默默地自动安装 AI 插件并尝试共享所有 API 数据"
     },
     {
-      "id": 50339494,
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "domain": "businessinsider.com",
-      "points": 314,
-      "comments": 247,
-      "author": "entryleveljobsc",
-      "time": 1793637629,
-      "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资"
+      "id": 50353192,
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "domain": "nytimes.com",
+      "points": 597,
+      "comments": 426,
+      "author": "ceejayoz",
+      "time": 1793719547,
+      "title_zh": "谷歌将关闭对拒绝人工智能的学校的搜索"
     },
     {
-      "id": 50344919,
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "domain": "techpolicy.press",
-      "points": 297,
-      "comments": 229,
-      "author": "cdrnsf",
-      "time": 1793658647,
-      "title_zh": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众"
+      "id": 50352757,
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "domain": "news.ycombinator.com",
+      "points": 465,
+      "comments": 143,
+      "author": "user052919",
+      "time": 1793717621,
+      "title_zh": "OpenAI 似乎正在默默地重新启用 Codex 聊天中的模型训练"
     },
     {
-      "id": 50344958,
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "domain": "regenerator1.com",
-      "points": 199,
-      "comments": 227,
-      "author": "cdrnsf",
-      "time": 1793658800,
-      "title_zh": "Anthropic 的增长刚刚趋于平缓"
+      "id": 50336918,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "domain": "arstechnica.com",
+      "points": 438,
+      "comments": 183,
+      "author": "bookofjoe",
+      "time": 1793628162,
+      "title_zh": "人工智能推动归档需求，富士胶片将磁带产量提高 5 倍"
     },
     {
-      "id": 50342284,
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "domain": "cnbc.com",
-      "points": 183,
-      "comments": 163,
-      "author": "smartmic",
-      "time": 1793647657,
-      "title_zh": "甲骨文申请出售 20B 美元的新股票和债券，为人工智能建设提供资金"
+      "id": 50358422,
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "domain": "asia.nikkei.com",
+      "points": 324,
+      "comments": 140,
+      "author": "angry_impala",
+      "time": 1793741204,
+      "title_zh": "美国科技巨头的隐性人工智能债务在 6 个月内飙升 90% 至 3.2T 美元"
     },
     {
-      "id": 50337454,
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "domain": "bloomberg.com",
-      "points": 173,
-      "comments": 245,
-      "author": "mancerayder",
-      "time": 1793630405,
-      "title_zh": "失业的科技工人被排除在旧金山的人工智能热潮之外"
+      "id": 50358582,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "domain": "arxiv.org",
+      "points": 304,
+      "comments": 49,
+      "author": "ibobev",
+      "time": 1793742053,
+      "title_zh": "生成式人工智能基础小书：直观的数学入门"
+    },
+    {
+      "id": 50348962,
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "domain": "github.com",
+      "points": 272,
+      "comments": 132,
+      "author": "campervans",
+      "time": 1793689490,
+      "title_zh": "Nvidia – 开源自动本体"
     },
     {
       "id": 50345924,
       "title": "Scaling Git at OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai/",
       "domain": "openai.com",
-      "points": 166,
-      "comments": 80,
+      "points": 266,
+      "comments": 179,
       "author": "makeramen",
       "time": 1793663276,
       "title_zh": "扩展 Git 和 OpenAI"
     },
     {
-      "id": 50334038,
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-      "domain": "labs.cloudsecurityalliance.org",
-      "points": 154,
-      "comments": 87,
-      "author": "jonnybgood",
-      "time": 1793604448,
-      "title_zh": "中国首个前沿人工智能出口管制：商务部公告第48号"
-    },
-    {
-      "id": 50341736,
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "domain": "terrytao.wordpress.com",
-      "points": 145,
-      "comments": 99,
-      "author": "smilelamp",
-      "time": 1793645684,
-      "title_zh": "AI时代的无我数学"
+      "id": 50352257,
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "domain": "shkspr.mobi",
+      "points": 173,
+      "comments": 108,
+      "author": "mooreds",
+      "time": 1793715252,
+      "title_zh": "只是一点人工智能抵抗，作为一种享受"
     },
     {
       "id": 50339913,
       "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
       "url": "https://momentic.ai/",
       "domain": "momentic.ai",
-      "points": 138,
-      "comments": 94,
+      "points": 159,
+      "comments": 124,
       "author": "wuweiweiwu",
       "time": 1793639125,
       "title_zh": "启动 HN：Momentic (YC W24) – 使用您的应用程序捕获错误的代理"
     },
     {
-      "id": 50336138,
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "domain": "twitter.com",
-      "points": 129,
-      "comments": 102,
-      "author": "FacZap",
-      "time": 1793623859,
-      "title_zh": "昨晚，人工智能特工对老鼠进行了脑部手术"
+      "id": 50344861,
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "domain": "seangoedecke.com",
+      "points": 142,
+      "comments": 22,
+      "author": "agrm",
+      "time": 1793658413,
+      "title_zh": "法学硕士在读写神经网络权重方面并不是超人"
+    },
+    {
+      "id": 50355767,
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "domain": "ben.stolovitz.com",
+      "points": 135,
+      "comments": 116,
+      "author": "citelao",
+      "time": 1793729471,
+      "title_zh": "我如何使用人工智能（2026 年 10 月）"
     }
   ],
   "media": [
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch",
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "time": 1793745663,
+      "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "title_zh": "Anthropic 正在开发一个系统来证明人工智能模型的身份"
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch",
+      "published": "Tue, 03 Nov 2026 22:19:53 +0000",
+      "time": 1793744393,
+      "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-d",
+      "title_zh": "随着电力等待时间的增加，数据中心正在转向旧的喷气发动机"
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch",
+      "published": "Tue, 03 Nov 2026 21:43:08 +0000",
+      "time": 1793742188,
+      "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "title_zh": "Ted Schlein 的 Ballistic Ventures 在人工智能驱动的网络安全热潮中寻求 4.9 亿美元的新基金"
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "source": "TechCrunch",
+      "published": "Tue, 03 Nov 2026 21:05:55 +0000",
+      "time": 1793739955,
+      "snippet": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "title_zh": "Palantir 飙升的季度隐藏着一个不祥的信号"
+    },
+    {
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "source": "Ars Technica",
+      "published": "Tue, 03 Nov 2026 18:30:27 +0000",
+      "time": 1793730627,
+      "snippet": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+      "title_zh": "纽约时报要求 Brave 关闭其付费墙拦截器并终止与人工智能公司的交易"
+    },
+    {
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "source": "Ars Technica",
+      "published": "Tue, 03 Nov 2026 17:54:43 +0000",
+      "time": 1793728483,
+      "snippet": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "title_zh": "谷歌将让学校跳过人工智能工具，但他们也必须放弃搜索"
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Tech Review",
+      "published": "Tue, 03 Nov 2026 10:43:41 +0000",
+      "time": 1793702621,
+      "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable,",
+      "title_zh": "“反向博弈论”如何控制人工智能代理"
+    },
     {
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -143,42 +206,6 @@
       "time": 1793679527,
       "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump s",
       "title_zh": "这是谁正在排队参加特朗普的“超级智力”忠诚度测试"
-    },
-    {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "source": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 03:30:00 +0000",
-      "time": 1793676600,
-      "snippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "title_zh": "谷歌将 Dreambeans 带到印度，旨在将人工智能生成的个人故事带给大众"
-    },
-    {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "source": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 01:49:52 +0000",
-      "time": 1793670592,
-      "snippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "title_zh": "苹果可能会尝试通过第三方人工智能应用程序做一些事情来增加收入"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 00:35:52 +0000",
-      "time": 1793666152,
-      "snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a ne",
-      "title_zh": "Y Combinator 的 Garry Tan 大量使用人工智能代理，他每年在代币上的花费高达 20 万美元"
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch",
-      "published": "Mon, 02 Nov 2026 23:13:53 +0000",
-      "time": 1793661233,
-      "snippet": "The one-year-old startup is now valued at $300 million.",
-      "title_zh": "Trajectory 融资 4500 万美元，让非技术专家也能进行 AI 模型训练"
     },
     {
       "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
@@ -197,33 +224,6 @@
       "time": 1793638800,
       "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do ",
       "title_zh": "提高代理分析洞察的质量"
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 02 Nov 2026 13:10:32 +0000",
-      "time": 1793625032,
-      "snippet": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single ta",
-      "title_zh": "停止计算代币，开始计算运输的内容"
-    },
-    {
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 02 Nov 2026 09:35:19 +0000",
-      "time": 1793612119,
-      "snippet": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific A",
-      "title_zh": "代理网络就在这里"
-    },
-    {
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "source": "Ars Technica",
-      "published": "Fri, 30 Oct 2026 21:41:54 +0000",
-      "time": 1793396514,
-      "snippet": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-      "title_zh": "随着公司转向为人工智能数据中心提供动力，超音速客机面临质疑"
     }
   ]
 }

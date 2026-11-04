@@ -1,114 +1,114 @@
 {
-  "generated_at": "2026-11-03T07:01:12+00:00",
+  "generated_at": "2026-11-04T06:43:38+00:00",
   "data": {
     "daily": [
-      {
-        "full_name": "vercel-labs/agent-desktop",
-        "url": "/vercel-labs/agent-desktop",
-        "description": "Computer use CLI for AI agents",
-        "language": "Rust",
-        "stars_today": 2275,
-        "stars_total": 10821,
-        "description_zh": "计算机使用 CLI 进行 AI 代理"
-      },
       {
         "full_name": "thedotmack/claude-mem",
         "url": "/thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "language": "TypeScript",
-        "stars_today": 1803,
-        "stars_total": 111058,
+        "stars_today": 1139,
+        "stars_total": 112188,
         "description_zh": "每个座席跨会话的持久上下文 – 捕获座席在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
       },
       {
-        "full_name": "D4Vinci/Scrapling",
-        "url": "/D4Vinci/Scrapling",
-        "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-        "language": "Python",
-        "stars_today": 706,
-        "stars_total": 93363,
-        "description_zh": "🕷️ 最好的网页抓取框架，可以处理从单个请求到全面抓取的所有内容！不要害羞，加入这里：https://discord.gg/EMgGbDceNQ 并按照此处获取日常提示和技巧：https://x.com/Scrapling_dev"
-      },
-      {
-        "full_name": "hyprwm/Hyprland",
-        "url": "/hyprwm/Hyprland",
-        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-        "language": "C++",
-        "stars_today": 509,
-        "stars_total": 40083,
-        "description_zh": "Hyprland 是一个独立的、高度可定制的、动态平铺 Wayland 合成器，并且不会牺牲其外观。"
-      },
-      {
-        "full_name": "Donchitos/Claude-Code-Game-Studios",
-        "url": "/Donchitos/Claude-Code-Game-Studios",
-        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "language": "Shell",
-        "stars_today": 1379,
-        "stars_total": 33894,
-        "description_zh": "将 Claude Code 转变为完整的游戏开发工作室 — 49 个 AI 代理、72 种工作流程技能以及反映真实工作室层次结构的完整协调系统。"
-      },
-      {
-        "full_name": "FlashML-org/FreeToken",
-        "url": "/FlashML-org/FreeToken",
-        "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-        "language": "Python",
-        "stars_today": 653,
-        "stars_total": 16281,
-        "description_zh": "FreeToken 将数据中心规模的模型服务带到您的桌面。在本地快速高效地运行大规模模型。"
-      },
-      {
-        "full_name": "pingdotgg/t3code",
-        "url": "/pingdotgg/t3code",
-        "description": "",
-        "language": "TypeScript",
-        "stars_today": 3229,
-        "stars_total": 42535,
-        "description_zh": null
-      },
-      {
-        "full_name": "shiyu-coder/Kronos",
-        "url": "/shiyu-coder/Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars_today": 857,
-        "stars_total": 46119,
-        "description_zh": "Kronos：金融市场语言的基础模型"
-      },
-      {
-        "full_name": "kornia/kornia",
-        "url": "/kornia/kornia",
-        "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-        "language": "Python",
-        "stars_today": 412,
-        "stars_total": 12227,
-        "description_zh": "🐍 空间人工智能几何计算机视觉库"
-      },
-      {
-        "full_name": "JustVugg/colibri",
-        "url": "/JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "language": "C",
-        "stars_today": 675,
-        "stars_total": 46764,
-        "description_zh": "在您已经拥有的硬件上运行前沿 MoE 模型 - 纯 C、零依赖、从磁盘流式传输的专家。微小的发动机，巨大的模型。 🐦"
-      },
-      {
-        "full_name": "mattpocock/skills",
-        "url": "/mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars_today": 858,
-        "stars_total": 310527,
-        "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+        "full_name": "vercel-labs/agent-desktop",
+        "url": "/vercel-labs/agent-desktop",
+        "description": "Computer use CLI for AI agents",
+        "language": "Rust",
+        "stars_today": 3791,
+        "stars_total": 13380,
+        "description_zh": "计算机使用 CLI 进行 AI 代理"
       },
       {
         "full_name": "max-sixty/worktrunk",
         "url": "/max-sixty/worktrunk",
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
         "language": "Rust",
-        "stars_today": 77,
-        "stars_total": 10156,
+        "stars_today": 438,
+        "stars_total": 10644,
         "description_zh": "Worktrunk 是一个用于 Git 工作树管理的 CLI，专为并行 AI 代理工作流程而设计"
+      },
+      {
+        "full_name": "JustVugg/colibri",
+        "url": "/JustVugg/colibri",
+        "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+        "language": "C",
+        "stars_today": 802,
+        "stars_total": 47403,
+        "description_zh": "用于前沿 MoE 模型的分层推理引擎：GPU 上的热门专家（CUDA、Vulkan）、RAM 中的热专家、来自 NVMe 的冷专家。用 C 语言编写，在您已有的硬件上运行。"
+      },
+      {
+        "full_name": "mattpocock/skills",
+        "url": "/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars_today": 1164,
+        "stars_total": 311774,
+        "description_zh": "真正工程师的技能。直接来自我的 .agents 目录。"
+      },
+      {
+        "full_name": "p-e-w/heretic",
+        "url": "/p-e-w/heretic",
+        "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+        "language": "Python",
+        "stars_today": 701,
+        "stars_total": 38990,
+        "description_zh": "免训练语言模型修改：消除审查、抑制废话、减少阿谀奉承等"
+      },
+      {
+        "full_name": "spotify/portal-ai-plugins",
+        "url": "/spotify/portal-ai-plugins",
+        "description": "",
+        "language": "TypeScript",
+        "stars_today": 91,
+        "stars_total": 3096,
+        "description_zh": null
+      },
+      {
+        "full_name": "floci-io/floci",
+        "url": "/floci-io/floci",
+        "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+        "language": "Java",
+        "stars_today": 482,
+        "stars_total": 29041,
+        "description_zh": "轻便、蓬松且始终免费 - AWS 本地模拟器替代方案"
+      },
+      {
+        "full_name": "Usagi-org/ai-goofish-monitor",
+        "url": "/Usagi-org/ai-goofish-monitor",
+        "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+        "language": "Python",
+        "stars_today": 228,
+        "stars_total": 16778,
+        "description_zh": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。"
+      },
+      {
+        "full_name": "anomalyco/hex",
+        "url": "/anomalyco/hex",
+        "description": "Local voice dictation for mac, windows and linux",
+        "language": "Rust",
+        "stars_today": 410,
+        "stars_total": 4748,
+        "description_zh": "适用于 Mac、Windows 和 Linux 的本地语音听写"
+      },
+      {
+        "full_name": "D4Vinci/Scrapling",
+        "url": "/D4Vinci/Scrapling",
+        "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+        "language": "Python",
+        "stars_today": 1658,
+        "stars_total": 95295,
+        "description_zh": "🕷️ 最好的网页抓取框架，可以处理从单个请求到全面抓取的所有内容！不要害羞，加入这里：https://discord.gg/EMgGbDceNQ 并按照此处获取日常提示和技巧：https://x.com/Scrapling_dev"
+      },
+      {
+        "full_name": "shiyu-coder/Kronos",
+        "url": "/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars_today": 503,
+        "stars_total": 46621,
+        "description_zh": "Kronos：金融市场语言的基础模型"
       }
     ],
     "weekly": [
@@ -117,8 +117,8 @@
         "url": "/Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "language": "CSS",
-        "stars_today": 10517,
-        "stars_total": 46242,
+        "stars_today": 8765,
+        "stars_total": 47222,
         "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
       },
       {
@@ -126,17 +126,35 @@
         "url": "/thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "language": "TypeScript",
-        "stars_today": 7255,
-        "stars_total": 111058,
+        "stars_today": 7995,
+        "stars_total": 112188,
         "description_zh": "每个座席跨会话的持久上下文 – 捕获座席在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
+      },
+      {
+        "full_name": "pingdotgg/t3code",
+        "url": "/pingdotgg/t3code",
+        "description": "",
+        "language": "TypeScript",
+        "stars_today": 12542,
+        "stars_total": 44893,
+        "description_zh": null
+      },
+      {
+        "full_name": "obra/superpowers",
+        "url": "/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars_today": 5994,
+        "stars_total": 312005,
+        "description_zh": "有效的代理技能框架和软件开发方法。"
       },
       {
         "full_name": "pbakaus/impeccable",
         "url": "/pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "language": "Rust",
-        "stars_today": 11754,
-        "stars_total": 100776,
+        "stars_today": 11405,
+        "stars_total": 101781,
         "description_zh": "编码代理的设计词汇。更加优雅和大胆地进行引导，通过批评和审计进行审查，在人工智能发布之前抓住它。"
       },
       {
@@ -144,53 +162,35 @@
         "url": "/AgriciDaniel/claude-seo",
         "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
         "language": "Python",
-        "stars_today": 4091,
-        "stars_total": 26079,
+        "stars_today": 3751,
+        "stars_total": 26414,
         "description_zh": "Claude Code 的通用 SEO 技能。 26 个子技能 + 19 个子代理，涵盖技术 SEO、E-E-A-T、模式、GEO/AEO、代理准备情况（Lighthouse Agentic Browsing、WebMCP、llms.txt）、反向链接、本地 SEO、电子商务、国际 SEO、Google API 和 PDF/Excel 报告。实时 SEO 数据的 9 种可选扩展。"
-      },
-      {
-        "full_name": "obra/superpowers",
-        "url": "/obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars_today": 5956,
-        "stars_total": 311380,
-        "description_zh": "有效的代理技能框架和软件开发方法。"
-      },
-      {
-        "full_name": "pingdotgg/t3code",
-        "url": "/pingdotgg/t3code",
-        "description": "",
-        "language": "TypeScript",
-        "stars_today": 9770,
-        "stars_total": 42535,
-        "description_zh": null
       },
       {
         "full_name": "JetBrains/thinkrail",
         "url": "/JetBrains/thinkrail",
         "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
         "language": "TypeScript",
-        "stars_today": 4812,
-        "stars_total": 7263,
+        "stars_today": 3898,
+        "stars_total": 7478,
         "description_zh": "在轻量级、真正的 IDE 中使用 pi 编写 Vibe 代码，该 IDE 可根据您的工作方式进行自我定制 — 您需要的 Vibe"
       },
       {
-        "full_name": "cloudflare/security-audit-skill",
-        "url": "/cloudflare/security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "language": "JavaScript",
-        "stars_today": 9155,
-        "stars_total": 57622,
-        "description_zh": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
+        "full_name": "anthropics/skills",
+        "url": "/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars_today": 2969,
+        "stars_total": 187187,
+        "description_zh": "代理技能的公共存储库"
       },
       {
         "full_name": "jakubkrehel/skills",
         "url": "/jakubkrehel/skills",
         "description": "A collection of agent skills that help you build great interfaces.",
         "language": "Markdown",
-        "stars_today": 1707,
-        "stars_total": 10428,
+        "stars_today": 1761,
+        "stars_total": 10668,
         "description_zh": "一系列代理技能可帮助您构建出色的界面。"
       },
       {
@@ -198,27 +198,27 @@
         "url": "/multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": null,
-        "stars_today": 4397,
-        "stars_total": 228693,
+        "stars_today": 3921,
+        "stars_total": 229199,
         "description_zh": "用于改进 Claude 代码行为的单个 CLAUDE.md 文件，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。"
       },
       {
-        "full_name": "anthropics/skills",
-        "url": "/anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "stars_today": 2828,
-        "stars_total": 186875,
-        "description_zh": "代理技能的公共存储库"
+        "full_name": "ghostty-org/ghostty",
+        "url": "/ghostty-org/ghostty",
+        "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "language": "Zig",
+        "stars_today": 771,
+        "stars_total": 63463,
+        "description_zh": "👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，它使用平台本机 UI 和 GPU 加速。"
       },
       {
-        "full_name": "Leonxlnx/taste-skill",
-        "url": "/Leonxlnx/taste-skill",
-        "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+        "full_name": "cloudflare/security-audit-skill",
+        "url": "/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "language": "JavaScript",
-        "stars_today": 5729,
-        "stars_total": 108976,
-        "description_zh": "赋予编码代理品味的代理技能：艺术指导、参考图像和浏览器检查，而不是通用的 AI 页面"
+        "stars_today": 8598,
+        "stars_total": 58374,
+        "description_zh": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
       }
     ],
     "monthly": [
@@ -227,8 +227,8 @@
         "url": "/morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "language": "TypeScript",
-        "stars_today": 422104,
-        "stars_total": 424051,
+        "stars_today": 426427,
+        "stars_total": 428074,
         "description_zh": "使用代理对任何内容进行逆向工程，从应用程序行为到本机二进制文件。"
       },
       {
@@ -236,44 +236,35 @@
         "url": "/cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "language": "JavaScript",
-        "stars_today": 33474,
-        "stars_total": 57622,
+        "stars_today": 34248,
+        "stars_total": 58374,
         "description_zh": "用于多阶段安全审计的编码代理技能，具有独立验证、机器可读的结果"
-      },
-      {
-        "full_name": "tester-army/e2e",
-        "url": "/tester-army/e2e",
-        "description": "Next generation e2e testing framework for web and mobile apps.",
-        "language": "TypeScript",
-        "stars_today": 11344,
-        "stars_total": 12698,
-        "description_zh": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
-      },
-      {
-        "full_name": "heygen-com/hyperframes",
-        "url": "/heygen-com/hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "language": "TypeScript",
-        "stars_today": 22290,
-        "stars_total": 77891,
-        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
       },
       {
         "full_name": "Nutlope/hallmark",
         "url": "/Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "language": "CSS",
-        "stars_today": 16306,
-        "stars_total": 46242,
+        "stars_today": 17314,
+        "stars_total": 47222,
         "description_zh": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+      },
+      {
+        "full_name": "heygen-com/hyperframes",
+        "url": "/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars_today": 22387,
+        "stars_total": 78502,
+        "description_zh": "编写 HTML。渲染视频。专为代理商打造。"
       },
       {
         "full_name": "debpalash/VoiceStudio",
         "url": "/debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
-        "stars_today": 47605,
-        "stars_total": 99352,
+        "stars_today": 48168,
+        "stars_total": 100308,
         "description_zh": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
       },
       {
@@ -281,54 +272,63 @@
         "url": "/anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "language": "Python",
-        "stars_today": 8614,
-        "stars_total": 34518,
+        "stars_today": 8685,
+        "stars_total": 34644,
         "description_zh": "主要供知识工作者在 Claude Cowork 中使用的开源插件存储库"
-      },
-      {
-        "full_name": "ranxianglei/billion-context",
-        "url": "/ranxianglei/billion-context",
-        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-        "language": "TypeScript",
-        "stars_today": 3213,
-        "stars_total": 3770,
-        "description_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
       },
       {
         "full_name": "NationalSecurityAgency/ghidra",
         "url": "/NationalSecurityAgency/ghidra",
         "description": "Ghidra is a software reverse engineering (SRE) framework",
         "language": "Java",
-        "stars_today": 17043,
-        "stars_total": 97295,
+        "stars_today": 17325,
+        "stars_total": 97614,
         "description_zh": "Ghidra 是一个软件逆向工程 (SRE) 框架"
+      },
+      {
+        "full_name": "ranxianglei/billion-context",
+        "url": "/ranxianglei/billion-context",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "language": "TypeScript",
+        "stars_today": 3363,
+        "stars_total": 3946,
+        "description_zh": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
       },
       {
         "full_name": "thedotmack/claude-mem",
         "url": "/thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "language": "TypeScript",
-        "stars_today": 15681,
-        "stars_total": 111058,
+        "stars_today": 16740,
+        "stars_total": 112188,
         "description_zh": "每个座席跨会话的持久上下文 – 捕获座席在会话期间所做的所有操作，使用 AI 对其进行压缩，并将相关上下文注入到未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等"
-      },
-      {
-        "full_name": "pbakaus/impeccable",
-        "url": "/pbakaus/impeccable",
-        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "language": "Rust",
-        "stars_today": 26586,
-        "stars_total": 100776,
-        "description_zh": "编码代理的设计词汇。更加优雅和大胆地进行引导，通过批评和审计进行审查，在人工智能发布之前抓住它。"
       },
       {
         "full_name": "pingdotgg/t3code",
         "url": "/pingdotgg/t3code",
         "description": "",
         "language": "TypeScript",
-        "stars_today": 15731,
-        "stars_total": 42535,
+        "stars_today": 18907,
+        "stars_total": 44893,
         "description_zh": null
+      },
+      {
+        "full_name": "tester-army/e2e",
+        "url": "/tester-army/e2e",
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "language": "TypeScript",
+        "stars_today": 10768,
+        "stars_total": 12977,
+        "description_zh": "适用于 Web 和移动应用程序的下一代 e2e 测试框架。"
+      },
+      {
+        "full_name": "pbakaus/impeccable",
+        "url": "/pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "stars_today": 26980,
+        "stars_total": 101781,
+        "description_zh": "编码代理的设计词汇。更加优雅和大胆地进行引导，通过批评和审计进行审查，在人工智能发布之前抓住它。"
       }
     ]
   }
