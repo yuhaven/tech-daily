@@ -1,68 +1,57 @@
 {
-  "generated_at": "2026-11-04T06:43:42+00:00",
+  "generated_at": "2026-11-05T07:03:29+00:00",
   "hn": [
     {
-      "id": 50354960,
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "domain": "github.com",
-      "points": 1173,
-      "comments": 387,
-      "author": "sidgarimella",
-      "time": 1793726557,
-      "title_zh": "Postman 默默地自动安装 AI 插件并尝试共享所有 API 数据"
+      "id": 50364336,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "domain": "spectrum.ieee.org",
+      "points": 1151,
+      "comments": 666,
+      "author": "pseudolus",
+      "time": 1793793137,
+      "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务"
     },
     {
-      "id": 50353192,
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "domain": "nytimes.com",
-      "points": 597,
-      "comments": 426,
-      "author": "ceejayoz",
-      "time": 1793719547,
-      "title_zh": "谷歌将关闭对拒绝人工智能的学校的搜索"
-    },
-    {
-      "id": 50352757,
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
+      "id": 50363461,
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
       "domain": "news.ycombinator.com",
-      "points": 465,
-      "comments": 143,
-      "author": "user052919",
-      "time": 1793717621,
-      "title_zh": "OpenAI 似乎正在默默地重新启用 Codex 聊天中的模型训练"
+      "points": 655,
+      "comments": 168,
+      "author": "jameslk",
+      "time": 1793787027,
+      "title_zh": "告诉 HN：Gemini 会根据聊天记录进行训练，甚至针对订阅者（个人帐户）"
+    },
+    {
+      "id": 50362905,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "domain": "mindstudio.ai",
+      "points": 598,
+      "comments": 277,
+      "author": "novaRom",
+      "time": 1793781989,
+      "title_zh": "Nvidia RTX Spark 加密固件在 Linux 上将推理速度降低至 35%"
     },
     {
       "id": 50336918,
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "domain": "arstechnica.com",
-      "points": 438,
-      "comments": 183,
+      "points": 529,
+      "comments": 228,
       "author": "bookofjoe",
       "time": 1793628162,
       "title_zh": "人工智能推动归档需求，富士胶片将磁带产量提高 5 倍"
-    },
-    {
-      "id": 50358422,
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "domain": "asia.nikkei.com",
-      "points": 324,
-      "comments": 140,
-      "author": "angry_impala",
-      "time": 1793741204,
-      "title_zh": "美国科技巨头的隐性人工智能债务在 6 个月内飙升 90% 至 3.2T 美元"
     },
     {
       "id": 50358582,
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
-      "points": 304,
-      "comments": 49,
+      "points": 384,
+      "comments": 60,
       "author": "ibobev",
       "time": 1793742053,
       "title_zh": "生成式人工智能基础小书：直观的数学入门"
@@ -72,104 +61,142 @@
       "title": "Nvidia – open-source auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "domain": "github.com",
-      "points": 272,
-      "comments": 132,
+      "points": 288,
+      "comments": 138,
       "author": "campervans",
       "time": 1793689490,
       "title_zh": "Nvidia – 开源自动本体"
     },
     {
-      "id": 50345924,
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "domain": "openai.com",
-      "points": 266,
-      "comments": 179,
-      "author": "makeramen",
-      "time": 1793663276,
-      "title_zh": "扩展 Git 和 OpenAI"
-    },
-    {
-      "id": 50352257,
-      "title": "Just a little AI resistance, as a treat",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-      "domain": "shkspr.mobi",
-      "points": 173,
-      "comments": 108,
-      "author": "mooreds",
-      "time": 1793715252,
-      "title_zh": "只是一点人工智能抵抗，作为一种享受"
-    },
-    {
-      "id": 50339913,
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "domain": "momentic.ai",
-      "points": 159,
-      "comments": 124,
-      "author": "wuweiweiwu",
-      "time": 1793639125,
-      "title_zh": "启动 HN：Momentic (YC W24) – 使用您的应用程序捕获错误的代理"
-    },
-    {
-      "id": 50344861,
-      "title": "LLMs are not superhuman at reading and writing neural network weights",
-      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-      "domain": "seangoedecke.com",
-      "points": 142,
-      "comments": 22,
-      "author": "agrm",
-      "time": 1793658413,
-      "title_zh": "法学硕士在读写神经网络权重方面并不是超人"
+      "id": 50366117,
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "domain": "news.ycombinator.com",
+      "points": 262,
+      "comments": 257,
+      "author": "eggbrain",
+      "time": 1793803042,
+      "title_zh": "询问 HN：您当前的 AI 代理设置是什么？"
     },
     {
       "id": 50355767,
       "title": "How I use AI (Oct 2026)",
       "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
       "domain": "ben.stolovitz.com",
-      "points": 135,
-      "comments": 116,
+      "points": 252,
+      "comments": 302,
       "author": "citelao",
       "time": 1793729471,
       "title_zh": "我如何使用人工智能（2026 年 10 月）"
+    },
+    {
+      "id": 50366863,
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "domain": "openai.com",
+      "points": 227,
+      "comments": 69,
+      "author": "itunpredictable",
+      "time": 1793805681,
+      "title_zh": "OpenAI 将收购 Pierre 计算机公司"
+    },
+    {
+      "id": 50368626,
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "domain": "anthropic.com",
+      "points": 207,
+      "comments": 91,
+      "author": "ltononro",
+      "time": 1793812666,
+      "title_zh": "大型语言模型可证明推理的进展"
+    },
+    {
+      "id": 50339913,
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "domain": "momentic.ai",
+      "points": 165,
+      "comments": 128,
+      "author": "wuweiweiwu",
+      "time": 1793639125,
+      "title_zh": "启动 HN：Momentic (YC W24) – 使用您的应用程序捕获错误的代理"
+    },
+    {
+      "id": 50370654,
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "domain": "qualcomm.com",
+      "points": 134,
+      "comments": 54,
+      "author": "peter_d_sherman",
+      "time": 1793822114,
+      "title_zh": "Qualcomm Cloud AI 100 Ultra – 150W AI 加速卡，128GB，548GB/s"
     }
   ],
   "media": [
     {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "source": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
-      "time": 1793745663,
-      "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "title_zh": "Anthropic 正在开发一个系统来证明人工智能模型的身份"
+      "published": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "time": 1793841982,
+      "snippet": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "title_zh": "据报道，苹果正在削减内部人工智能使用的预算"
     },
     {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
       "source": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 22:19:53 +0000",
-      "time": 1793744393,
-      "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-d",
-      "title_zh": "随着电力等待时间的增加，数据中心正在转向旧的喷气发动机"
+      "published": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "time": 1793840534,
+      "snippet": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "title_zh": "中期选举之后，一场关于数据中心的更大冲突可能即将到来"
     },
     {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "source": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 21:43:08 +0000",
-      "time": 1793742188,
-      "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "title_zh": "Ted Schlein 的 Ballistic Ventures 在人工智能驱动的网络安全热潮中寻求 4.9 亿美元的新基金"
+      "published": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "time": 1793832309,
+      "snippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "title_zh": "AI PAC 花费了数百万美元试图影响国会——他们的表现如下"
     },
     {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
       "source": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 21:05:55 +0000",
-      "time": 1793739955,
-      "snippet": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "title_zh": "Palantir 飙升的季度隐藏着一个不祥的信号"
+      "published": "Wed, 04 Nov 2026 22:13:16 +0000",
+      "time": 1793830396,
+      "snippet": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "title_zh": "首席执行官表示公司神秘的人工智能优先设备将于下个月发布"
+    },
+    {
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "source": "Ars Technica",
+      "published": "Wed, 04 Nov 2026 20:55:50 +0000",
+      "time": 1793825750,
+      "snippet": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "title_zh": "大型科技公司声称选民对人工智能的强烈反对是“反特朗普”而不是“反科技”"
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 04 Nov 2026 18:50:55 +0000",
+      "time": 1793818255,
+      "snippet": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize",
+      "title_zh": "德克萨斯州是人工智能数据中心建设的新中心。那可能就完了。"
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "time": 1793797200,
+      "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quot",
+      "title_zh": "通过数据沿袭保护代理企业"
     },
     {
       "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
@@ -197,33 +224,6 @@
       "time": 1793702621,
       "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable,",
       "title_zh": "“反向博弈论”如何控制人工智能代理"
-    },
-    {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 03 Nov 2026 04:18:47 +0000",
-      "time": 1793679527,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump s",
-      "title_zh": "这是谁正在排队参加特朗普的“超级智力”忠诚度测试"
-    },
-    {
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "source": "Ars Technica",
-      "published": "Mon, 02 Nov 2026 18:05:31 +0000",
-      "time": 1793642731,
-      "snippet": "The tsunami of imitators is way bigger than any one model maker can stem.",
-      "title_zh": "克劳德反对游戏克隆的新规则不会阻止人工智能复制热潮"
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "time": 1793638800,
-      "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do ",
-      "title_zh": "提高代理分析洞察的质量"
     }
   ]
 }
