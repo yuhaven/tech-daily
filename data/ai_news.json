@@ -1,24 +1,35 @@
 {
-  "generated_at": "2026-11-05T07:03:29+00:00",
+  "generated_at": "2026-11-06T07:03:41+00:00",
   "hn": [
     {
       "id": 50364336,
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1151,
-      "comments": 666,
+      "points": 1271,
+      "comments": 743,
       "author": "pseudolus",
       "time": 1793793137,
       "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务"
+    },
+    {
+      "id": 50385272,
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "domain": "github.com",
+      "points": 894,
+      "comments": 297,
+      "author": "motoroco",
+      "time": 1793917035,
+      "title_zh": "克劳德·代码将您的电子邮件地址发送到网站"
     },
     {
       "id": 50363461,
       "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
       "url": "https://news.ycombinator.com/item?id=50363461",
       "domain": "news.ycombinator.com",
-      "points": 655,
-      "comments": 168,
+      "points": 715,
+      "comments": 187,
       "author": "jameslk",
       "time": 1793787027,
       "title_zh": "告诉 HN：Gemini 会根据聊天记录进行训练，甚至针对订阅者（个人帐户）"
@@ -28,74 +39,52 @@
       "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
       "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
       "domain": "mindstudio.ai",
-      "points": 598,
-      "comments": 277,
+      "points": 611,
+      "comments": 287,
       "author": "novaRom",
       "time": 1793781989,
       "title_zh": "Nvidia RTX Spark 加密固件在 Linux 上将推理速度降低至 35%"
-    },
-    {
-      "id": 50336918,
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "domain": "arstechnica.com",
-      "points": 529,
-      "comments": 228,
-      "author": "bookofjoe",
-      "time": 1793628162,
-      "title_zh": "人工智能推动归档需求，富士胶片将磁带产量提高 5 倍"
-    },
-    {
-      "id": 50358582,
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "domain": "arxiv.org",
-      "points": 384,
-      "comments": 60,
-      "author": "ibobev",
-      "time": 1793742053,
-      "title_zh": "生成式人工智能基础小书：直观的数学入门"
-    },
-    {
-      "id": 50348962,
-      "title": "Nvidia – open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "domain": "github.com",
-      "points": 288,
-      "comments": 138,
-      "author": "campervans",
-      "time": 1793689490,
-      "title_zh": "Nvidia – 开源自动本体"
     },
     {
       "id": 50366117,
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 262,
-      "comments": 257,
+      "points": 519,
+      "comments": 640,
       "author": "eggbrain",
       "time": 1793803042,
       "title_zh": "询问 HN：您当前的 AI 代理设置是什么？"
     },
     {
-      "id": 50355767,
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "domain": "ben.stolovitz.com",
-      "points": 252,
-      "comments": 302,
-      "author": "citelao",
-      "time": 1793729471,
-      "title_zh": "我如何使用人工智能（2026 年 10 月）"
+      "id": 50376313,
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "domain": "alignment.openai.com",
+      "points": 317,
+      "comments": 175,
+      "author": "lucrbvi",
+      "time": 1793864670,
+      "title_zh": "GPT-6 Astra 在安全研究方面表现不佳"
+    },
+    {
+      "id": 50385870,
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "domain": "finance.yahoo.com",
+      "points": 261,
+      "comments": 114,
+      "author": "randycupertino",
+      "time": 1793920197,
+      "title_zh": "库班：Facebook 故意投放人工智能深度伪造诈骗广告；文档称欺诈收入为 $16B"
     },
     {
       "id": 50366863,
       "title": "OpenAI to acquire Pierre Computer Company",
       "url": "https://openai.com/index/openai-to-acquire-pierre/",
       "domain": "openai.com",
-      "points": 227,
-      "comments": 69,
+      "points": 261,
+      "comments": 91,
       "author": "itunpredictable",
       "time": 1793805681,
       "title_zh": "OpenAI 将收购 Pierre 计算机公司"
@@ -105,80 +94,118 @@
       "title": "Progress on provable inference for large language models",
       "url": "https://www.anthropic.com/research/provable-inference",
       "domain": "anthropic.com",
-      "points": 207,
-      "comments": 91,
+      "points": 236,
+      "comments": 121,
       "author": "ltononro",
       "time": 1793812666,
       "title_zh": "大型语言模型可证明推理的进展"
     },
     {
-      "id": 50339913,
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "domain": "momentic.ai",
-      "points": 165,
-      "comments": 128,
-      "author": "wuweiweiwu",
-      "time": 1793639125,
-      "title_zh": "启动 HN：Momentic (YC W24) – 使用您的应用程序捕获错误的代理"
+      "id": 50383163,
+      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+      "domain": "euronews.com",
+      "points": 201,
+      "comments": 51,
+      "author": "rdmuser",
+      "time": 1793906194,
+      "title_zh": "匈牙利：共产主义时代的档案被公开，多达六万名前特工被曝光"
     },
     {
-      "id": 50370654,
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "domain": "qualcomm.com",
-      "points": 134,
-      "comments": 54,
-      "author": "peter_d_sherman",
-      "time": 1793822114,
-      "title_zh": "Qualcomm Cloud AI 100 Ultra – 150W AI 加速卡，128GB，548GB/s"
+      "id": 50338474,
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "domain": "arstechnica.com",
+      "points": 173,
+      "comments": 327,
+      "author": "PaulHoule",
+      "time": 1793634525,
+      "title_zh": "基本上没有人使用人工智能代理来处理 DoorDash 订单"
+    },
+    {
+      "id": 50368804,
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "domain": "news.ycombinator.com",
+      "points": 104,
+      "comments": 35,
+      "author": "lukeigel",
+      "time": 1793813513,
+      "title_zh": "推出 HN：Kino AI (YC S23) – AI 媒体管理器和视频编辑器"
     }
   ],
   "media": [
     {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "source": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 01:26:22 +0000",
-      "time": 1793841982,
-      "snippet": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "title_zh": "据报道，苹果正在削减内部人工智能使用的预算"
+      "published": "Fri, 06 Nov 2026 06:28:32 +0000",
+      "time": 1793946512,
+      "snippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "title_zh": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch"
     },
     {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "source": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 01:02:14 +0000",
-      "time": 1793840534,
-      "snippet": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "title_zh": "中期选举之后，一场关于数据中心的更大冲突可能即将到来"
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "source": "TechCrunch",
-      "published": "Wed, 04 Nov 2026 22:45:09 +0000",
-      "time": 1793832309,
-      "snippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "title_zh": "AI PAC 花费了数百万美元试图影响国会——他们的表现如下"
-    },
-    {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "source": "TechCrunch",
-      "published": "Wed, 04 Nov 2026 22:13:16 +0000",
-      "time": 1793830396,
-      "snippet": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "title_zh": "首席执行官表示公司神秘的人工智能优先设备将于下个月发布"
-    },
-    {
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
       "source": "Ars Technica",
-      "published": "Wed, 04 Nov 2026 20:55:50 +0000",
-      "time": 1793825750,
-      "snippet": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "title_zh": "大型科技公司声称选民对人工智能的强烈反对是“反特朗普”而不是“反科技”"
+      "published": "Thu, 05 Nov 2026 22:49:03 +0000",
+      "time": 1793918943,
+      "snippet": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "title_zh": "NASA 使用人工智能生成的图像推出神秘的 X-70 实验飞机"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "time": 1793918455,
+      "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "title_zh": "Airbnb 表示将于 2027 年上半年推出人工智能旅行社"
+    },
+    {
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "source": "Ars Technica",
+      "published": "Thu, 05 Nov 2026 21:40:36 +0000",
+      "time": 1793914836,
+      "snippet": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "title_zh": "谷歌：学校可以保留搜索，跳过Gemini，但人工智能搜索不容谈判"
+    },
+    {
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "source": "Ars Technica",
+      "published": "Thu, 05 Nov 2026 21:39:40 +0000",
+      "time": 1793914780,
+      "snippet": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "title_zh": "诉讼：男子向 ChatGPT 介绍了他的妻子。她用它来策划谋杀他。"
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 19:48:28 +0000",
+      "time": 1793908108,
+      "snippet": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "title_zh": "Meta 表示美国用户现在可以与他们的 Muse AI 头像进行视频聊天"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 19:12:39 +0000",
+      "time": 1793905959,
+      "snippet": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难"
+    },
+    {
+      "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+      "source": "Ars Technica",
+      "published": "Thu, 05 Nov 2026 17:40:27 +0000",
+      "time": 1793900427,
+      "snippet": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+      "title_zh": "游戏玩家竭尽全力使用 Nvidia 的 DLSS 5“改进”GTA VI"
     },
     {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -197,33 +224,6 @@
       "time": 1793797200,
       "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quot",
       "title_zh": "通过数据沿袭保护代理企业"
-    },
-    {
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-      "source": "Ars Technica",
-      "published": "Tue, 03 Nov 2026 18:30:27 +0000",
-      "time": 1793730627,
-      "snippet": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-      "title_zh": "纽约时报要求 Brave 关闭其付费墙拦截器并终止与人工智能公司的交易"
-    },
-    {
-      "title": "Google will let schools skip AI tools, but they have to give up search, too",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-      "source": "Ars Technica",
-      "published": "Tue, 03 Nov 2026 17:54:43 +0000",
-      "time": 1793728483,
-      "snippet": "Google will offer schools AI tools that purportedly don't give away the answers.",
-      "title_zh": "谷歌将让学校跳过人工智能工具，但他们也必须放弃搜索"
-    },
-    {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 03 Nov 2026 10:43:41 +0000",
-      "time": 1793702621,
-      "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable,",
-      "title_zh": "“反向博弈论”如何控制人工智能代理"
     }
   ]
 }
