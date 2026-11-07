@@ -1,148 +1,211 @@
 {
-  "generated_at": "2026-11-06T07:03:41+00:00",
+  "generated_at": "2026-11-07T06:16:04+00:00",
   "hn": [
-    {
-      "id": 50364336,
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "domain": "spectrum.ieee.org",
-      "points": 1271,
-      "comments": 743,
-      "author": "pseudolus",
-      "time": 1793793137,
-      "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务"
-    },
     {
       "id": 50385272,
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 894,
-      "comments": 297,
+      "points": 1565,
+      "comments": 501,
       "author": "motoroco",
       "time": 1793917035,
       "title_zh": "克劳德·代码将您的电子邮件地址发送到网站"
     },
     {
-      "id": 50363461,
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "domain": "news.ycombinator.com",
-      "points": 715,
-      "comments": 187,
-      "author": "jameslk",
-      "time": 1793787027,
-      "title_zh": "告诉 HN：Gemini 会根据聊天记录进行训练，甚至针对订阅者（个人帐户）"
-    },
-    {
-      "id": 50362905,
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "domain": "mindstudio.ai",
-      "points": 611,
-      "comments": 287,
-      "author": "novaRom",
-      "time": 1793781989,
-      "title_zh": "Nvidia RTX Spark 加密固件在 Linux 上将推理速度降低至 35%"
-    },
-    {
-      "id": 50366117,
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "domain": "news.ycombinator.com",
-      "points": 519,
-      "comments": 640,
-      "author": "eggbrain",
-      "time": 1793803042,
-      "title_zh": "询问 HN：您当前的 AI 代理设置是什么？"
-    },
-    {
-      "id": 50376313,
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "domain": "alignment.openai.com",
-      "points": 317,
-      "comments": 175,
-      "author": "lucrbvi",
-      "time": 1793864670,
-      "title_zh": "GPT-6 Astra 在安全研究方面表现不佳"
+      "id": 50364336,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "domain": "spectrum.ieee.org",
+      "points": 1292,
+      "comments": 748,
+      "author": "pseudolus",
+      "time": 1793793137,
+      "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务"
     },
     {
       "id": 50385870,
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
-      "points": 261,
-      "comments": 114,
+      "points": 503,
+      "comments": 224,
       "author": "randycupertino",
       "time": 1793920197,
       "title_zh": "库班：Facebook 故意投放人工智能深度伪造诈骗广告；文档称欺诈收入为 $16B"
     },
     {
-      "id": 50366863,
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "domain": "openai.com",
-      "points": 261,
-      "comments": 91,
-      "author": "itunpredictable",
-      "time": 1793805681,
-      "title_zh": "OpenAI 将收购 Pierre 计算机公司"
+      "id": 50392118,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "domain": "blog.google",
+      "points": 312,
+      "comments": 225,
+      "author": "thisisauserid",
+      "time": 1793972127,
+      "title_zh": "双子座 Omni 1.2 闪存"
     },
     {
-      "id": 50368626,
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
+      "id": 50394906,
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "domain": "bloomberg.com",
+      "points": 265,
+      "comments": 530,
+      "author": "dgellow",
+      "time": 1793984076,
+      "title_zh": "Anthrotic IPO 买家认为估值低至 1.1T 美元"
+    },
+    {
+      "id": 50397994,
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "domain": "planned-obsolescence.org",
+      "points": 255,
+      "comments": 207,
+      "author": "yurivish",
+      "time": 1793996843,
+      "title_zh": "人工智能正在极大地加速人工智能研究"
+    },
+    {
+      "id": 50388513,
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "domain": "lesswrong.com",
+      "points": 188,
+      "comments": 196,
+      "author": "porridgeraisin",
+      "time": 1793942344,
+      "title_zh": "我很难相信人工智能研发是巧妙的"
+    },
+    {
+      "id": 50394569,
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "url": "https://github.com/anomalyco/rune",
+      "domain": "github.com",
+      "points": 159,
+      "comments": 118,
+      "author": "mik3y",
+      "time": 1793982692,
+      "title_zh": "Rune：适用于 macOS、Windows、Linux 和 Web 的原生 GPU 渲染 Rust UI 框架"
+    },
+    {
+      "id": 50392499,
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "domain": "cbc.ca",
+      "points": 128,
+      "comments": 58,
+      "author": "blakesterz",
+      "time": 1793974389,
+      "title_zh": "大学图书馆正被人工智能机器人淹没，公众访问面临风险"
+    },
+    {
+      "id": 50387738,
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "domain": "github.com",
+      "points": 123,
+      "comments": 27,
+      "author": "gkapur",
+      "time": 1793934986,
+      "title_zh": "Nvidia Kubernetes 引擎 (NVKE)"
+    },
+    {
+      "id": 50381687,
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "domain": "github.com",
+      "points": 118,
+      "comments": 58,
+      "author": "NathanFlurry",
+      "time": 1793899062,
+      "title_zh": "启动 HN：Rivet (YC W23) – 在 S3 上扩展和编排代理"
+    },
+    {
+      "id": 50389990,
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
       "domain": "anthropic.com",
-      "points": 236,
-      "comments": 121,
-      "author": "ltononro",
-      "time": 1793812666,
-      "title_zh": "大型语言模型可证明推理的进展"
-    },
-    {
-      "id": 50383163,
-      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-      "domain": "euronews.com",
-      "points": 201,
-      "comments": 51,
-      "author": "rdmuser",
-      "time": 1793906194,
-      "title_zh": "匈牙利：共产主义时代的档案被公开，多达六万名前特工被曝光"
-    },
-    {
-      "id": 50338474,
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "domain": "arstechnica.com",
-      "points": 173,
-      "comments": 327,
-      "author": "PaulHoule",
-      "time": 1793634525,
-      "title_zh": "基本上没有人使用人工智能代理来处理 DoorDash 订单"
-    },
-    {
-      "id": 50368804,
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "domain": "news.ycombinator.com",
-      "points": 104,
-      "comments": 35,
-      "author": "lukeigel",
-      "time": 1793813513,
-      "title_zh": "推出 HN：Kino AI (YC S23) – AI 媒体管理器和视频编辑器"
+      "points": 92,
+      "comments": 38,
+      "author": "ersinesen",
+      "time": 1793956410,
+      "title_zh": "人工智能用于科学发现：研究人员如何使用克劳德"
     }
   ],
   "media": [
     {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "source": "TechCrunch",
-      "published": "Fri, 06 Nov 2026 06:28:32 +0000",
-      "time": 1793946512,
-      "snippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "title_zh": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch"
+      "published": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "time": 1794015628,
+      "snippet": "The deal highlights the challenges of developing massive AI data centers.",
+      "title_zh": "Crusoe 将陷入困境的怀俄明州数据中心项目出售给谷歌"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "time": 1794005626,
+      "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "title_zh": "据报道 OpenAI 额外融资 110 亿美元，估值 1.25 万亿美元"
+    },
+    {
+      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+      "source": "Ars Technica",
+      "published": "Fri, 06 Nov 2026 20:05:30 +0000",
+      "time": 1793995530,
+      "snippet": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+      "title_zh": "价值 1140 万美元的 Nvidia 硬件在奥克兰和德克萨斯州之间失踪"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "time": 1793990678,
+      "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "title_zh": "数百个 Artex AI 黑客工具被发现公开暴露在网络上"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "time": 1793990660,
+      "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "title_zh": "Meta 推出 Spaces，这是一种与 Muse 代理协作的新方式"
+    },
+    {
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "source": "Ars Technica",
+      "published": "Fri, 06 Nov 2026 16:19:12 +0000",
+      "time": 1793981952,
+      "snippet": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "title_zh": "GTA VI 的潜在 AI 克隆能否迫使官方移植更快？"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "source": "Ars Technica",
+      "published": "Fri, 06 Nov 2026 14:13:32 +0000",
+      "time": 1793974412,
+      "snippet": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "title_zh": "英伟达首席执行官黄仁勋因中国间谍活动被国会传唤"
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "time": 1793959200,
+      "snippet": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But whe",
+      "title_zh": "我看到一个人形机器人打扫我的公寓。感觉就像是未来的味道。"
     },
     {
       "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
@@ -154,60 +217,6 @@
       "title_zh": "NASA 使用人工智能生成的图像推出神秘的 X-70 实验飞机"
     },
     {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 22:40:55 +0000",
-      "time": 1793918455,
-      "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "title_zh": "Airbnb 表示将于 2027 年上半年推出人工智能旅行社"
-    },
-    {
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "source": "Ars Technica",
-      "published": "Thu, 05 Nov 2026 21:40:36 +0000",
-      "time": 1793914836,
-      "snippet": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "title_zh": "谷歌：学校可以保留搜索，跳过Gemini，但人工智能搜索不容谈判"
-    },
-    {
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "source": "Ars Technica",
-      "published": "Thu, 05 Nov 2026 21:39:40 +0000",
-      "time": 1793914780,
-      "snippet": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "title_zh": "诉讼：男子向 ChatGPT 介绍了他的妻子。她用它来策划谋杀他。"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 19:48:28 +0000",
-      "time": 1793908108,
-      "snippet": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "title_zh": "Meta 表示美国用户现在可以与他们的 Muse AI 头像进行视频聊天"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "source": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 19:12:39 +0000",
-      "time": 1793905959,
-      "snippet": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难"
-    },
-    {
-      "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
-      "source": "Ars Technica",
-      "published": "Thu, 05 Nov 2026 17:40:27 +0000",
-      "time": 1793900427,
-      "snippet": "Using a capture card and open source software to run PS5 video through a PC GPU.",
-      "title_zh": "游戏玩家竭尽全力使用 Nvidia 的 DLSS 5“改进”GTA VI"
-    },
-    {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Tech Review",
@@ -215,15 +224,6 @@
       "time": 1793818255,
       "snippet": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize",
       "title_zh": "德克萨斯州是人工智能数据中心建设的新中心。那可能就完了。"
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Tech Review",
-      "published": "Wed, 04 Nov 2026 13:00:00 +0000",
-      "time": 1793797200,
-      "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quot",
-      "title_zh": "通过数据沿袭保护代理企业"
     }
   ]
 }

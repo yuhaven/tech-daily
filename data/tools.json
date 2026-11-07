@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T07:03:42+00:00",
+  "generated_at": "2026-11-07T06:16:06+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1860,
+      "points": 1864,
       "comments": 306,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",
@@ -25,21 +25,11 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 837,
-      "comments": 393,
+      "points": 840,
+      "comments": 394,
       "author": "aarushyadav",
       "time": "2026-11-02T17:16:17Z",
       "title_zh": "Show HN: Subvocal – 与电脑交谈，不发出噪音"
-    },
-    {
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
-      "domain": "bigwords.page",
-      "points": 728,
-      "comments": 166,
-      "author": "SpeakingOfBrad",
-      "time": "2026-10-07T15:44:21Z",
-      "title_zh": "Show HN：Bigwords.page – 将任何屏幕变成标志。网址是应用程序"
     },
     {
       "title": "Show HN: Steal My Bitcoin",
@@ -65,7 +55,7 @@
       "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
       "url": "https://hackertv.org",
       "domain": "hackertv.org",
-      "points": 481,
+      "points": 485,
       "comments": 82,
       "author": "dsalzman",
       "time": "2026-11-03T01:18:09Z",
@@ -75,7 +65,7 @@
       "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
       "url": "https://hackertimes.ca/",
       "domain": "hackertimes.ca",
-      "points": 473,
+      "points": 475,
       "comments": 148,
       "author": "polpenn",
       "time": "2026-11-03T01:53:34Z",
@@ -120,6 +110,16 @@
       "author": "aizk",
       "time": "2026-11-02T05:06:30Z",
       "title_zh": "显示 HN：Wikihack – HackerTube，但适用于 HN 上提到的维基百科文章"
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "domain": "llmspeed.dev",
+      "points": 331,
+      "comments": 86,
+      "author": "albinstman",
+      "time": "2026-10-17T04:36:53Z",
+      "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度"
     }
   ],
   "hot": [
@@ -137,31 +137,31 @@
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "domain": "rikiyat.github.io",
-      "points": 2951,
-      "comments": 896,
+      "points": 2957,
+      "comments": 898,
       "author": "dbreunig",
       "time": "2026-11-02T18:21:28Z",
       "title_zh": "Astra可以读写权重来改进Qwen"
     },
     {
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "domain": "sshhole.com",
+      "points": 2920,
+      "comments": 734,
+      "author": "josemrb",
+      "time": "2026-11-05T12:19:02Z",
+      "title_zh": "肖尔"
+    },
+    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "domain": "karpathy.bearblog.dev",
-      "points": 2882,
+      "points": 2885,
       "comments": 641,
       "author": "karpathy",
       "time": "2026-10-31T19:56:53Z",
       "title_zh": "HackerTube：根据 HN 推荐的视频构建的 YouTube"
-    },
-    {
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "domain": "sshhole.com",
-      "points": 2562,
-      "comments": 625,
-      "author": "josemrb",
-      "time": "2026-11-05T12:19:02Z",
-      "title_zh": "肖尔"
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -172,16 +172,6 @@
       "author": "ggcr",
       "time": "2026-10-20T09:08:54Z",
       "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
-    },
-    {
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "domain": "news.mit.edu",
-      "points": 2123,
-      "comments": 259,
-      "author": "muglug",
-      "time": "2026-10-07T21:16:18Z",
-      "title_zh": "玛格丽特·汉密尔顿去世"
     },
     {
       "title": "Things to know when you get cancer",
@@ -197,7 +187,7 @@
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1860,
+      "points": 1864,
       "comments": 306,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",
@@ -208,7 +198,7 @@
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "domain": "arkm.com",
       "points": 1763,
-      "comments": 1267,
+      "comments": 1268,
       "author": "Tiberium",
       "time": "2026-10-29T21:38:59Z",
       "title_zh": "Binance-hacker-1029 – Binance 被盗 5.6B 美元"
@@ -242,6 +232,16 @@
       "author": "SiNTEx",
       "time": "2026-10-26T13:04:50Z",
       "title_zh": "人择S-1"
+    },
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "domain": "tesla.com",
+      "points": 1645,
+      "comments": 3162,
+      "author": "shekhar101",
+      "time": "2026-10-16T01:32:45Z",
+      "title_zh": "特斯拉跑车"
     }
   ]
 }
