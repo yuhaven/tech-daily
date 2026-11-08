@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T06:16:06+00:00",
+  "generated_at": "2026-11-08T06:22:15+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1864,
+      "points": 1867,
       "comments": 306,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",
@@ -25,8 +25,8 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 840,
-      "comments": 394,
+      "points": 842,
+      "comments": 395,
       "author": "aarushyadav",
       "time": "2026-11-02T17:16:17Z",
       "title_zh": "Show HN: Subvocal – 与电脑交谈，不发出噪音"
@@ -55,8 +55,8 @@
       "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
       "url": "https://hackertv.org",
       "domain": "hackertv.org",
-      "points": 485,
-      "comments": 82,
+      "points": 488,
+      "comments": 83,
       "author": "dsalzman",
       "time": "2026-11-03T01:18:09Z",
       "title_zh": "显示 HN：HackerTV – HN 最受推荐的 Youtube 视频作为 24/7 电视频道"
@@ -134,30 +134,30 @@
       "title_zh": "帕特里克·斯图尔特去世"
     },
     {
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "domain": "rikiyat.github.io",
-      "points": 2957,
-      "comments": 898,
-      "author": "dbreunig",
-      "time": "2026-11-02T18:21:28Z",
-      "title_zh": "Astra可以读写权重来改进Qwen"
-    },
-    {
       "title": "sshole",
       "url": "https://sshhole.com",
       "domain": "sshhole.com",
-      "points": 2920,
-      "comments": 734,
+      "points": 2960,
+      "comments": 743,
       "author": "josemrb",
       "time": "2026-11-05T12:19:02Z",
       "title_zh": "肖尔"
     },
     {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "domain": "rikiyat.github.io",
+      "points": 2959,
+      "comments": 899,
+      "author": "dbreunig",
+      "time": "2026-11-02T18:21:28Z",
+      "title_zh": "Astra可以读写权重来改进Qwen"
+    },
+    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "domain": "karpathy.bearblog.dev",
-      "points": 2885,
+      "points": 2887,
       "comments": 641,
       "author": "karpathy",
       "time": "2026-10-31T19:56:53Z",
@@ -187,7 +187,7 @@
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1864,
+      "points": 1867,
       "comments": 306,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",

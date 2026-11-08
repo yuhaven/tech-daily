@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-07T06:16:04+00:00",
+  "generated_at": "2026-11-08T06:22:14+00:00",
   "hn": [
     {
       "id": 50385272,
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 1565,
-      "comments": 501,
+      "points": 1594,
+      "comments": 520,
       "author": "motoroco",
       "time": 1793917035,
       "title_zh": "克劳德·代码将您的电子邮件地址发送到网站"
@@ -17,30 +17,41 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1292,
-      "comments": 748,
+      "points": 1298,
+      "comments": 749,
       "author": "pseudolus",
       "time": 1793793137,
       "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务"
     },
     {
-      "id": 50385870,
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "domain": "finance.yahoo.com",
-      "points": 503,
-      "comments": 224,
-      "author": "randycupertino",
-      "time": 1793920197,
-      "title_zh": "库班：Facebook 故意投放人工智能深度伪造诈骗广告；文档称欺诈收入为 $16B"
+      "id": 50406563,
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "domain": "hunch.net",
+      "points": 433,
+      "comments": 259,
+      "author": "srean",
+      "time": 1794074537,
+      "title_zh": "微软研究院人工智能前沿小组的终结"
+    },
+    {
+      "id": 50397994,
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "domain": "planned-obsolescence.org",
+      "points": 363,
+      "comments": 346,
+      "author": "yurivish",
+      "time": 1793996843,
+      "title_zh": "人工智能正在极大地加速人工智能研究"
     },
     {
       "id": 50392118,
       "title": "Gemini Omni 1.2 Flash",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "domain": "blog.google",
-      "points": 312,
-      "comments": 225,
+      "points": 361,
+      "comments": 250,
       "author": "thisisauserid",
       "time": 1793972127,
       "title_zh": "双子座 Omni 1.2 闪存"
@@ -50,30 +61,30 @@
       "title": "Anthropic IPO buyers see valuation as low as $1.1T",
       "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
       "domain": "bloomberg.com",
-      "points": 265,
-      "comments": 530,
+      "points": 312,
+      "comments": 614,
       "author": "dgellow",
       "time": 1793984076,
       "title_zh": "Anthrotic IPO 买家认为估值低至 1.1T 美元"
     },
     {
-      "id": 50397994,
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "domain": "planned-obsolescence.org",
-      "points": 255,
-      "comments": 207,
-      "author": "yurivish",
-      "time": 1793996843,
-      "title_zh": "人工智能正在极大地加速人工智能研究"
+      "id": 50407882,
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "domain": "apiiro.com",
+      "points": 306,
+      "comments": 211,
+      "author": "shmulc",
+      "time": 1794084332,
+      "title_zh": "Claude Code的“Don 't Ask Again”公开了1,122个公共GitHub文件中的密码"
     },
     {
       "id": 50388513,
       "title": "I struggle to believe that AI R&D is ingenious",
       "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
       "domain": "lesswrong.com",
-      "points": 188,
-      "comments": 196,
+      "points": 217,
+      "comments": 217,
       "author": "porridgeraisin",
       "time": 1793942344,
       "title_zh": "我很难相信人工智能研发是巧妙的"
@@ -83,30 +94,30 @@
       "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
       "url": "https://github.com/anomalyco/rune",
       "domain": "github.com",
-      "points": 159,
-      "comments": 118,
+      "points": 177,
+      "comments": 130,
       "author": "mik3y",
       "time": 1793982692,
       "title_zh": "Rune：适用于 macOS、Windows、Linux 和 Web 的原生 GPU 渲染 Rust UI 框架"
     },
     {
-      "id": 50392499,
-      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-      "domain": "cbc.ca",
-      "points": 128,
-      "comments": 58,
-      "author": "blakesterz",
-      "time": 1793974389,
-      "title_zh": "大学图书馆正被人工智能机器人淹没，公众访问面临风险"
+      "id": 50402212,
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "domain": "anthropic.com",
+      "points": 155,
+      "comments": 86,
+      "author": "geoffbp",
+      "time": 1794033544,
+      "title_zh": "代理内存的组成部分"
     },
     {
       "id": 50387738,
       "title": "Nvidia Kubernetes Engine (NVKE)",
       "url": "https://github.com/dsx-ai-factory/nvke",
       "domain": "github.com",
-      "points": 123,
-      "comments": 27,
+      "points": 124,
+      "comments": 29,
       "author": "gkapur",
       "time": 1793934986,
       "title_zh": "Nvidia Kubernetes 引擎 (NVKE)"
@@ -116,25 +127,32 @@
       "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
       "url": "https://github.com/rivet-dev/rivet",
       "domain": "github.com",
-      "points": 118,
-      "comments": 58,
+      "points": 120,
+      "comments": 59,
       "author": "NathanFlurry",
       "time": 1793899062,
       "title_zh": "启动 HN：Rivet (YC W23) – 在 S3 上扩展和编排代理"
-    },
-    {
-      "id": 50389990,
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "domain": "anthropic.com",
-      "points": 92,
-      "comments": 38,
-      "author": "ersinesen",
-      "time": 1793956410,
-      "title_zh": "人工智能用于科学发现：研究人员如何使用克劳德"
     }
   ],
   "media": [
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "published": "Sat, 07 Nov 2026 22:07:22 +0000",
+      "time": 1794089242,
+      "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "title_zh": "期中考试结束后，埃隆·马斯克（ Elon Musk ）和数据中心的情况看起来很糟糕"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "published": "Sat, 07 Nov 2026 21:17:08 +0000",
+      "time": 1794086228,
+      "snippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "title_zh": "根据美国情报备忘录， Megaspeed高管被招募来监视Nvidia首席执行官"
+    },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -161,24 +179,6 @@
       "time": 1793995530,
       "snippet": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
       "title_zh": "价值 1140 万美元的 Nvidia 硬件在奥克兰和德克萨斯州之间失踪"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch",
-      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
-      "time": 1793990678,
-      "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "title_zh": "数百个 Artex AI 黑客工具被发现公开暴露在网络上"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch",
-      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
-      "time": 1793990660,
-      "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "title_zh": "Meta 推出 Spaces，这是一种与 Muse 代理协作的新方式"
     },
     {
       "title": "Could potential AI clones of GTA VI force a quicker official port?",
@@ -208,15 +208,6 @@
       "title_zh": "我看到一个人形机器人打扫我的公寓。感觉就像是未来的味道。"
     },
     {
-      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-      "source": "Ars Technica",
-      "published": "Thu, 05 Nov 2026 22:49:03 +0000",
-      "time": 1793918943,
-      "snippet": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-      "title_zh": "NASA 使用人工智能生成的图像推出神秘的 X-70 实验飞机"
-    },
-    {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Tech Review",
@@ -224,6 +215,15 @@
       "time": 1793818255,
       "snippet": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize",
       "title_zh": "德克萨斯州是人工智能数据中心建设的新中心。那可能就完了。"
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "time": 1793797200,
+      "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quot",
+      "title_zh": "通过数据沿袭确保代理企业的安全"
     }
   ]
 }
