@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-08T06:22:15+00:00",
+  "generated_at": "2026-11-09T06:55:40+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1867,
-      "comments": 306,
+      "points": 1868,
+      "comments": 308,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",
       "title_zh": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍"
@@ -25,7 +25,7 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 842,
+      "points": 844,
       "comments": 395,
       "author": "aarushyadav",
       "time": "2026-11-02T17:16:17Z",
@@ -72,26 +72,6 @@
       "title_zh": "Show HN：黑客时报，受《纽约时报》启发的黑客新闻版本"
     },
     {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "domain": "carrierexplode.com",
-      "points": 433,
-      "comments": 55,
-      "author": "simplyalec",
-      "time": "2026-10-09T18:10:55Z",
-      "title_zh": "显示HN ：运营商分解：已解码的iPhone、Pixel和Galaxy运营商设置"
-    },
-    {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "domain": "github.com",
-      "points": 421,
-      "comments": 194,
-      "author": "franze",
-      "time": "2026-10-09T11:03:48Z",
-      "title_zh": "Show HN：让您的 AI 代理在屏幕上绘制大箭头、方框和文本"
-    },
-    {
       "title": "Show HN: TitleArt – Make text like it's 1997",
       "url": "https://titleart.dvy.io/",
       "domain": "titleart.dvy.io",
@@ -120,6 +100,26 @@
       "author": "albinstman",
       "time": "2026-10-17T04:36:53Z",
       "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度"
+    },
+    {
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "domain": "p.migdal.pl",
+      "points": 325,
+      "comments": 55,
+      "author": "stared",
+      "time": "2026-11-02T16:25:26Z",
+      "title_zh": "显示HN ：华沙体素–市中心的交互式3D地图"
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "domain": "github.com",
+      "points": 321,
+      "comments": 97,
+      "author": "FabCH",
+      "time": "2026-11-01T13:02:30Z",
+      "title_zh": "Show HN: OmniDiff -开源，超级快，内容感知Git diffftool ，在Rust中"
     }
   ],
   "hot": [
@@ -137,8 +137,8 @@
       "title": "sshole",
       "url": "https://sshhole.com",
       "domain": "sshhole.com",
-      "points": 2960,
-      "comments": 743,
+      "points": 2978,
+      "comments": 747,
       "author": "josemrb",
       "time": "2026-11-05T12:19:02Z",
       "title_zh": "肖尔"
@@ -147,8 +147,8 @@
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "domain": "rikiyat.github.io",
-      "points": 2959,
-      "comments": 899,
+      "points": 2960,
+      "comments": 900,
       "author": "dbreunig",
       "time": "2026-11-02T18:21:28Z",
       "title_zh": "Astra可以读写权重来改进Qwen"
@@ -157,8 +157,8 @@
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "domain": "karpathy.bearblog.dev",
-      "points": 2887,
-      "comments": 641,
+      "points": 2889,
+      "comments": 642,
       "author": "karpathy",
       "time": "2026-10-31T19:56:53Z",
       "title_zh": "HackerTube：根据 HN 推荐的视频构建的 YouTube"
@@ -187,8 +187,8 @@
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
-      "points": 1867,
-      "comments": 306,
+      "points": 1868,
+      "comments": 308,
       "author": "roansh",
       "time": "2026-11-01T15:58:28Z",
       "title_zh": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍"
@@ -197,8 +197,8 @@
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "domain": "arkm.com",
-      "points": 1763,
-      "comments": 1268,
+      "points": 1764,
+      "comments": 1269,
       "author": "Tiberium",
       "time": "2026-10-29T21:38:59Z",
       "title_zh": "Binance-hacker-1029 – Binance 被盗 5.6B 美元"
