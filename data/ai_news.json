@@ -1,175 +1,220 @@
 {
-  "generated_at": "2026-11-09T06:55:38+00:00",
+  "generated_at": "2026-11-10T07:31:40+00:00",
   "hn": [
     {
-      "id": 50385272,
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "domain": "github.com",
-      "points": 1605,
-      "comments": 533,
-      "author": "motoroco",
-      "time": 1793917035,
-      "title_zh": "克劳德·代码将您的电子邮件地址发送到网站"
-    },
-    {
-      "id": 50410107,
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "domain": "caleb.software",
-      "points": 732,
-      "comments": 451,
-      "author": "karagenit",
-      "time": 1794107508,
-      "title_zh": "再见， Claude ，你好Pi"
+      "id": 50418016,
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "domain": "nvidianews.nvidia.com",
+      "points": 956,
+      "comments": 1235,
+      "author": "karimf",
+      "time": 1794176409,
+      "title_zh": "英伟达首席执行官Jensen Huang致员工关于婚外情的信"
     },
     {
       "id": 50415628,
       "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "domain": "thestateofai.com",
-      "points": 707,
-      "comments": 391,
+      "points": 888,
+      "comments": 479,
       "author": "TheWiggles",
       "time": 1794161767,
       "title_zh": "高盛(Goldman Sachs)正在从其银行家和交易员手中撤出Claude Code"
     },
     {
-      "id": 50407882,
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "domain": "apiiro.com",
-      "points": 599,
-      "comments": 408,
-      "author": "shmulc",
-      "time": 1794084332,
-      "title_zh": "Claude Code的“Don 't Ask Again”公开了1,122个公共GitHub文件中的密码"
+      "id": 50418975,
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "domain": "matteoraso.github.io",
+      "points": 550,
+      "comments": 943,
+      "author": "matteoraso",
+      "time": 1794181476,
+      "title_zh": "我不相信人工智能泡沫存在"
     },
     {
-      "id": 50418016,
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "domain": "nvidianews.nvidia.com",
-      "points": 529,
-      "comments": 560,
-      "author": "karimf",
-      "time": 1794176409,
-      "title_zh": "英伟达首席执行官Jensen Huang致员工关于婚外情的信"
-    },
-    {
-      "id": 50406563,
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "domain": "hunch.net",
-      "points": 500,
-      "comments": 309,
-      "author": "srean",
-      "time": 1794074537,
-      "title_zh": "微软研究院人工智能前沿小组的终结"
-    },
-    {
-      "id": 50416801,
-      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "domain": "nvidianews.nvidia.com",
-      "points": 458,
-      "comments": 345,
-      "author": "vincentchau",
-      "time": 1794169603,
-      "title_zh": "英伟达董事会正在调查Jensen Huang"
-    },
-    {
-      "id": 50411961,
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
+      "id": 50429426,
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
       "domain": "github.com",
-      "points": 404,
-      "comments": 181,
-      "author": "joshcsimmons",
-      "time": 1794133324,
-      "title_zh": "Llama-modchip ： 284B DeepSeek ， 64GB内存，无GPU"
+      "points": 546,
+      "comments": 124,
+      "author": "gf74918",
+      "time": 1794248678,
+      "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者"
     },
     {
-      "id": 50392118,
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "domain": "blog.google",
-      "points": 367,
-      "comments": 253,
-      "author": "thisisauserid",
-      "time": 1793972127,
-      "title_zh": "双子座 Omni 1.2 闪存"
-    },
-    {
-      "id": 50416363,
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "domain": "sergeykuhne.com",
-      "points": 215,
-      "comments": 161,
-      "author": "kyunez",
-      "time": 1794166662,
-      "title_zh": "我如何对抗AI Brain Fry"
-    },
-    {
-      "id": 50413822,
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-      "domain": "247wallst.com",
-      "points": 185,
-      "comments": 204,
-      "author": "armcat",
-      "time": 1794149363,
-      "title_zh": "OpenAI以$ 1.25 T的估值筹集了$ 110亿"
-    },
-    {
-      "id": 50402212,
-      "title": "The Components of Agent Memory",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "id": 50429068,
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "domain": "anthropic.com",
-      "points": 179,
-      "comments": 99,
-      "author": "geoffbp",
-      "time": 1794033544,
-      "title_zh": "代理内存的组成部分"
+      "points": 475,
+      "comments": 744,
+      "author": "lairv",
+      "time": 1794247270,
+      "title_zh": "克劳德寓言 5.2 和神话 5.2"
+    },
+    {
+      "id": 50431144,
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "domain": "artificialanalysis.ai",
+      "points": 337,
+      "comments": 244,
+      "author": "theanonymousone",
+      "time": 1794254695,
+      "title_zh": "Claude Fable 5.2 人工分析得分 65，迄今为止最高"
+    },
+    {
+      "id": 50422628,
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "domain": "news.ycombinator.com",
+      "points": 208,
+      "comments": 73,
+      "author": "DenGorbachev",
+      "time": 1794212269,
+      "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程计算机"
+    },
+    {
+      "id": 50429545,
+      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "domain": "eetimes.com",
+      "points": 151,
+      "comments": 24,
+      "author": "giuliomagnifico",
+      "time": 1794249238,
+      "title_zh": "DeepX 声称在不到 5 W 的情况下推理多达 100B 个参数"
+    },
+    {
+      "id": 50435660,
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "domain": "cnbc.com",
+      "points": 114,
+      "comments": 58,
+      "author": "lxm",
+      "time": 1794280806,
+      "title_zh": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16%"
+    },
+    {
+      "id": 50403153,
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "url": "https://news.ycombinator.com/item?id=50403153",
+      "domain": "news.ycombinator.com",
+      "points": 93,
+      "comments": 51,
+      "author": "Michel_Aventin",
+      "time": 1794045708,
+      "title_zh": "询问 HN：您如何跨客户和项目管理 AI 代理的上下文？"
+    },
+    {
+      "id": 50429144,
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "domain": "github.com",
+      "points": 84,
+      "comments": 24,
+      "author": "Dodaios",
+      "time": 1794247544,
+      "title_zh": "显示 HN：STE80 Humanizer – 通过将 80% 的内容写入 ASD-STE100 来去人工智能文本"
+    },
+    {
+      "id": 50392256,
+      "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
+      "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
+      "domain": "datahyena.com",
+      "points": 79,
+      "comments": 68,
+      "author": "ghostfoxgod",
+      "time": 1793972915,
+      "title_zh": "去年，Nvidia 参与了 11 起超过 1 亿美元融资的初创企业中的 1 起"
     }
   ],
   "media": [
     {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
       "source": "TechCrunch",
-      "published": "Mon, 09 Nov 2026 05:26:29 +0000",
-      "time": 1794201989,
-      "snippet": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays o",
-      "title_zh": "Jensen Huang的工作在线吗？耶鲁大学的杰弗里·索南菲尔德（ Jeffrey Sonnenfeld ）估计， “大约是50-50”"
+      "published": "Tue, 10 Nov 2026 07:00:00 +0000",
+      "time": 1794294000,
+      "snippet": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "title_zh": "Otter AI 现在可以跟踪 30 多种语言的对话"
     },
     {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "source": "TechCrunch",
-      "published": "Sun, 08 Nov 2026 21:00:11 +0000",
-      "time": 1794171611,
-      "snippet": "In a memo to the company, Huang admitted that he had an affair.",
-      "title_zh": "英伟达将调查首席执行官黄延森与可能的中国间谍的关系"
+      "published": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "time": 1794274032,
+      "snippet": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "title_zh": "据报道，Anthropic 计划推进 IPO 计划"
     },
     {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "source": "TechCrunch",
-      "published": "Sat, 07 Nov 2026 22:07:22 +0000",
-      "time": 1794089242,
-      "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "title_zh": "期中考试结束后，埃隆·马斯克（ Elon Musk ）和数据中心的情况看起来很糟糕"
+      "published": "Mon, 09 Nov 2026 23:28:37 +0000",
+      "time": 1794266917,
+      "snippet": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "title_zh": "据报道，黄仁勋一年前聘请了一家有处理高调性丑闻历史的公关公司"
     },
     {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
       "source": "TechCrunch",
-      "published": "Sat, 07 Nov 2026 21:17:08 +0000",
-      "time": 1794086228,
-      "snippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "title_zh": "根据美国情报备忘录， Megaspeed高管被招募来监视Nvidia首席执行官"
+      "published": "Mon, 09 Nov 2026 22:46:09 +0000",
+      "time": 1794264369,
+      "snippet": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "title_zh": "一名卖空者在丑闻发生前六个月就指出英伟达首席执行官与一名涉嫌中国间谍的关系"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 09 Nov 2026 19:35:33 +0000",
+      "time": 1794252933,
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US ",
+      "title_zh": "对数据中心的强烈反对可能真的只是与电力有关"
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "Ars Technica",
+      "published": "Mon, 09 Nov 2026 17:24:26 +0000",
+      "time": 1794245066,
+      "snippet": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "title_zh": "Claude Code 不小心在 GitHub 上泄露了秘密"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 09 Nov 2026 17:05:43 +0000",
+      "time": 1794243943,
+      "snippet": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the ",
+      "title_zh": "南希·佩洛西的继任者已准备好监管人工智能"
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
+      "published": "Mon, 09 Nov 2026 15:23:20 +0000",
+      "time": 1794237800,
+      "snippet": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "title_zh": "英伟达首席执行官事件成为国家安全问题"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "time": 1794229200,
+      "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable da",
+      "title_zh": "特殊化学品行业的人工智能创新"
     },
     {
       "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
@@ -179,51 +224,6 @@
       "time": 1793995530,
       "snippet": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
       "title_zh": "价值 1140 万美元的 Nvidia 硬件在奥克兰和德克萨斯州之间失踪"
-    },
-    {
-      "title": "Could potential AI clones of GTA VI force a quicker official port?",
-      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-      "source": "Ars Technica",
-      "published": "Fri, 06 Nov 2026 16:19:12 +0000",
-      "time": 1793981952,
-      "snippet": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-      "title_zh": "GTA VI 的潜在 AI 克隆能否迫使官方移植更快？"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "source": "Ars Technica",
-      "published": "Fri, 06 Nov 2026 14:13:32 +0000",
-      "time": 1793974412,
-      "snippet": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-      "title_zh": "英伟达首席执行官黄仁勋因中国间谍活动被国会传唤"
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Tech Review",
-      "published": "Fri, 06 Nov 2026 10:00:00 +0000",
-      "time": 1793959200,
-      "snippet": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But whe",
-      "title_zh": "我看到一个人形机器人打扫我的公寓。感觉就像是未来的味道。"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Tech Review",
-      "published": "Wed, 04 Nov 2026 18:50:55 +0000",
-      "time": 1793818255,
-      "snippet": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize",
-      "title_zh": "德克萨斯州是人工智能数据中心建设的新中心。那可能就完了。"
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Tech Review",
-      "published": "Wed, 04 Nov 2026 13:00:00 +0000",
-      "time": 1793797200,
-      "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quot",
-      "title_zh": "通过数据沿袭确保代理企业的安全"
     }
   ]
 }
