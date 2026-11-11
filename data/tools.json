@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:31:41+00:00",
+  "generated_at": "2026-11-11T06:49:41+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -66,10 +66,20 @@
       "url": "https://hackertimes.ca/",
       "domain": "hackertimes.ca",
       "points": 476,
-      "comments": 148,
+      "comments": 149,
       "author": "polpenn",
       "time": "2026-11-03T01:53:34Z",
       "title_zh": "Show HN：黑客时报，受《纽约时报》启发的黑客新闻版本"
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "domain": "watched.earth",
+      "points": 463,
+      "comments": 81,
+      "author": "a585gupt",
+      "time": "2026-11-09T17:51:31Z",
+      "title_zh": "显示HN ：本周经过任何地方的每颗卫星及其照片"
     },
     {
       "title": "Show HN: TitleArt – Make text like it's 1997",
@@ -92,6 +102,16 @@
       "title_zh": "显示 HN：Wikihack – HackerTube，但适用于 HN 上提到的维基百科文章"
     },
     {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "domain": "github.com",
+      "points": 333,
+      "comments": 101,
+      "author": "paulirish",
+      "time": "2026-11-10T18:01:15Z",
+      "title_zh": "Show HN ：让您的编码代理脱离~ 2019 JavaScript ，进入现代网络图元"
+    },
+    {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "domain": "llmspeed.dev",
@@ -100,26 +120,6 @@
       "author": "albinstman",
       "time": "2026-10-17T04:36:53Z",
       "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度"
-    },
-    {
-      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "domain": "p.migdal.pl",
-      "points": 327,
-      "comments": 55,
-      "author": "stared",
-      "time": "2026-11-02T16:25:26Z",
-      "title_zh": "显示HN ：华沙体素–市中心的交互式3D地图"
-    },
-    {
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "url": "https://github.com/ivankovic/omnidiff",
-      "domain": "github.com",
-      "points": 322,
-      "comments": 97,
-      "author": "FabCH",
-      "time": "2026-11-01T13:02:30Z",
-      "title_zh": "Show HN: OmniDiff -开源，超级快，内容感知Git diffftool ，在Rust中"
     }
   ],
   "hot": [
@@ -127,7 +127,7 @@
       "title": "Patrick Stewart has died",
       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
       "domain": "nytimes.com",
-      "points": 3311,
+      "points": 3312,
       "comments": 769,
       "author": "j4mie",
       "time": "2026-10-29T19:41:39Z",
@@ -137,8 +137,8 @@
       "title": "sshole",
       "url": "https://sshhole.com",
       "domain": "sshhole.com",
-      "points": 2996,
-      "comments": 750,
+      "points": 2999,
+      "comments": 752,
       "author": "josemrb",
       "time": "2026-11-05T12:19:02Z",
       "title_zh": "肖尔"
@@ -147,7 +147,7 @@
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "domain": "rikiyat.github.io",
-      "points": 2962,
+      "points": 2963,
       "comments": 900,
       "author": "dbreunig",
       "time": "2026-11-02T18:21:28Z",
