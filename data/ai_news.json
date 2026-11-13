@@ -1,112 +1,112 @@
 {
-  "generated_at": "2026-11-12T07:27:11+00:00",
+  "generated_at": "2026-11-13T06:58:41+00:00",
   "hn": [
     {
-      "id": 50452455,
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "domain": "pietromiotti.com",
-      "points": 970,
-      "comments": 354,
-      "author": "eyvindn",
-      "time": 1794398722,
-      "title_zh": "我的 AI 代理发现了未映射的 Maya 站点？"
-    },
-    {
-      "id": 50429068,
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "domain": "anthropic.com",
-      "points": 912,
-      "comments": 1039,
-      "author": "lairv",
-      "time": 1794247270,
-      "title_zh": "克劳德寓言 5.2 和神话 5.2"
-    },
-    {
-      "id": 50459703,
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "domain": "wsj.com",
-      "points": 881,
-      "comments": 1233,
-      "author": "jbredeche",
-      "time": 1794436266,
-      "title_zh": "英伟达准备罢免黄仁勋"
-    },
-    {
-      "id": 50438318,
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "domain": "evanxmerz.com",
-      "points": 633,
-      "comments": 611,
-      "author": "plun9",
-      "time": 1794306358,
-      "title_zh": "人工智能的使用会生成一个脆弱的代码库"
-    },
-    {
-      "id": 50446520,
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "domain": "9to5mac.com",
-      "points": 528,
-      "comments": 535,
-      "author": "linolevan",
-      "time": 1794345903,
-      "title_zh": "苹果推出新的Mac应用程序，使运行本地AI模型变得轻松"
+      "id": 50465829,
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "domain": "ipo.anthropic.com",
+      "points": 897,
+      "comments": 851,
+      "author": "josephljohnston",
+      "time": 1794484001,
+      "title_zh": "人为首次公开募股"
     },
     {
       "id": 50458900,
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "domain": "cbsnews.com",
-      "points": 516,
-      "comments": 505,
+      "points": 669,
+      "comments": 694,
       "author": "herpderperator",
       "time": 1794432275,
       "title_zh": "联合航空禁止人工智能代理代表旅客预订航班"
-    },
-    {
-      "id": 50447074,
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "domain": "vulncheck.com",
-      "points": 450,
-      "comments": 219,
-      "author": "panic",
-      "time": 1794349076,
-      "title_zh": "跟踪人类发现的漏洞"
     },
     {
       "id": 50456791,
       "title": "Gemini Decisions API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "domain": "blog.google",
-      "points": 386,
-      "comments": 122,
+      "points": 557,
+      "comments": 157,
       "author": "iamdelirium",
       "time": 1794421962,
       "title_zh": "双子座决策 API"
+    },
+    {
+      "id": 50446520,
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "domain": "9to5mac.com",
+      "points": 555,
+      "comments": 552,
+      "author": "linolevan",
+      "time": 1794345903,
+      "title_zh": "苹果推出新的Mac应用程序，使运行本地AI模型变得轻松"
+    },
+    {
+      "id": 50471431,
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "domain": "blog.google",
+      "points": 509,
+      "comments": 324,
+      "author": "dvaplima",
+      "time": 1794506508,
+      "title_zh": "双子座 4 氢"
+    },
+    {
+      "id": 50477231,
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "domain": "wired.com",
+      "points": 400,
+      "comments": 303,
+      "author": "lavendermon",
+      "time": 1794536184,
+      "title_zh": "英伟达员工请愿召回黄仁勋"
+    },
+    {
+      "id": 50472260,
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "domain": "antigravity.google",
+      "points": 384,
+      "comments": 105,
+      "author": "jonbaer",
+      "time": 1794509521,
+      "title_zh": "Gemini 4 Hydrogen 和 Orchestrator"
     },
     {
       "id": 50443716,
       "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
       "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
       "domain": "claude.com",
-      "points": 285,
-      "comments": 216,
+      "points": 294,
+      "comments": 217,
       "author": "Yorothegoat",
       "time": 1794333307,
       "title_zh": "Claude白板、Claude Sheets和Claude Data"
+    },
+    {
+      "id": 50474883,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "domain": "unemploymentlabs.com",
+      "points": 262,
+      "comments": 75,
+      "author": "firloop",
+      "time": 1794520571,
+      "title_zh": "中国前沿人工智能模型带有出口管制GPU的指纹"
     },
     {
       "id": 50453637,
       "title": "Atuin Threads: All your agent sessions on every machine",
       "url": "https://blog.atuin.sh/threads-agent-sessions/",
       "domain": "blog.atuin.sh",
-      "points": 212,
-      "comments": 79,
+      "points": 234,
+      "comments": 84,
       "author": "linsomniac",
       "time": 1794406246,
       "title_zh": "Atuin 线程：每台计算机上的所有代理会话"
@@ -116,96 +116,105 @@
       "title": "Faster Retrieval for Better, More Efficient RAG",
       "url": "https://machinelearning.apple.com/research/faster-retrieval",
       "domain": "machinelearning.apple.com",
-      "points": 194,
-      "comments": 36,
+      "points": 233,
+      "comments": 38,
       "author": "zerop",
       "time": 1794416265,
       "title_zh": "更快的检索以获得更好、更高效的 RAG"
     },
     {
-      "id": 50457164,
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "domain": "lpeproject.org",
-      "points": 153,
-      "comments": 155,
-      "author": "speckx",
-      "time": 1794424003,
-      "title_zh": "退休储蓄正在助长人工智能泡沫"
+      "id": 50473190,
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "domain": "reuters.com",
+      "points": 213,
+      "comments": 237,
+      "author": "jbredeche",
+      "time": 1794513093,
+      "title_zh": "消息人士称，英伟达前首席执行官黄与另一名员工有关系"
     }
   ],
   "media": [
     {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
       "source": "TechCrunch",
-      "published": "Thu, 12 Nov 2026 03:13:10 +0000",
-      "time": 1794453190,
-      "snippet": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "title_zh": "谁能取代黄仁勋？可能的继任者名单非常不科学"
+      "published": "Thu, 12 Nov 2026 22:42:51 +0000",
+      "time": 1794523371,
+      "snippet": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "title_zh": "民主党发起英伟达调查，针对黄仁勋与特朗普的“计划”写了一封措辞严厉的信"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "published": "Thu, 12 Nov 2026 22:28:47 +0000",
+      "time": 1794522527,
+      "snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "title_zh": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵"
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch",
+      "published": "Thu, 12 Nov 2026 22:22:28 +0000",
+      "time": 1794522148,
+      "snippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "title_zh": "Muse 现在可以给美国企业打电话——如果你付费的话"
     },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "source": "TechCrunch",
-      "published": "Wed, 11 Nov 2026 23:50:00 +0000",
-      "time": 1794441000,
-      "snippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "Thu, 12 Nov 2026 21:35:00 +0000",
+      "time": 1794519300,
+      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastru",
       "title_zh": "正在展开的黄仁勋丑闻：时间表"
     },
     {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
       "source": "TechCrunch",
-      "published": "Wed, 11 Nov 2026 23:28:45 +0000",
-      "time": 1794439725,
-      "snippet": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "title_zh": "据报道，英伟达董事会准备罢免首席执行官黄仁勋，股价下跌"
+      "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "time": 1794518830,
+      "snippet": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financi",
+      "title_zh": "Nebius 计划支出 400 亿美元测试 Neocloud 策略"
     },
     {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "source": "TechCrunch",
-      "published": "Wed, 11 Nov 2026 23:17:05 +0000",
-      "time": 1794439025,
-      "snippet": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nv",
-      "title_zh": "黄仁勋被指控与英伟达高管有另一桩婚外情"
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Tech Review",
+      "published": "Thu, 12 Nov 2026 20:16:24 +0000",
+      "time": 1794514584,
+      "snippet": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security ",
+      "title_zh": "英伟达私下证实，它可以追踪芯片以打击走私，尽管业界公开质疑其可行性"
     },
     {
-      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
       "source": "Ars Technica",
-      "published": "Wed, 11 Nov 2026 23:10:17 +0000",
-      "time": 1794438617,
-      "snippet": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-      "title_zh": "Nvidia 首席执行官黄仁勋 (Jensen Huang) 的工作突然岌岌可危"
+      "published": "Thu, 12 Nov 2026 19:23:03 +0000",
+      "time": 1794511383,
+      "snippet": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "title_zh": "谷歌推出Gemini 4 Hydrogen，最终取代3.8 Flash"
     },
     {
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
       "source": "Ars Technica",
-      "published": "Wed, 11 Nov 2026 18:16:40 +0000",
-      "time": 1794421000,
-      "snippet": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "title_zh": "台湾芯片制造巨头台积电将向 Anthropic 和 OpenAI 投资 10 亿美元"
+      "published": "Thu, 12 Nov 2026 18:57:45 +0000",
+      "time": 1794509865,
+      "snippet": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "title_zh": "双子座飞行员强烈反对后，谷歌面临学校暂停人工智能的呼吁"
     },
     {
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
       "source": "Ars Technica",
-      "published": "Wed, 11 Nov 2026 17:37:32 +0000",
-      "time": 1794418652,
-      "snippet": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "title_zh": "Big Walk 使用人工智能修复了一个错误。现在独立游戏界正在进行清算。"
-    },
-    {
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-      "source": "Ars Technica",
-      "published": "Wed, 11 Nov 2026 14:08:57 +0000",
-      "time": 1794406137,
-      "snippet": "The four-week project hints that AI could make formal verification far more practical.",
-      "title_zh": "谷歌 DeepMind 刚刚从数学上验证了 Signal 的关键部分"
+      "published": "Thu, 12 Nov 2026 14:50:17 +0000",
+      "time": 1794495017,
+      "snippet": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "title_zh": "谷歌推出 Gemini 驱动的智能眼镜，起价 395 美元，推动隐私保护"
     },
     {
       "title": "The backlash about data centers might really just be about electricity",
@@ -215,15 +224,6 @@
       "time": 1794252933,
       "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US ",
       "title_zh": "对数据中心的强烈反对可能真的只是与电力有关"
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 09 Nov 2026 17:05:43 +0000",
-      "time": 1794243943,
-      "snippet": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the ",
-      "title_zh": "南希·佩洛西的继任者已准备好监管人工智能"
     }
   ]
 }
