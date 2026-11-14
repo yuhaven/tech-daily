@@ -1,46 +1,24 @@
 {
-  "generated_at": "2026-11-13T06:58:41+00:00",
+  "generated_at": "2026-11-14T06:47:17+00:00",
   "hn": [
     {
-      "id": 50465829,
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "domain": "ipo.anthropic.com",
-      "points": 897,
-      "comments": 851,
-      "author": "josephljohnston",
-      "time": 1794484001,
-      "title_zh": "人为首次公开募股"
-    },
-    {
-      "id": 50458900,
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "domain": "cbsnews.com",
-      "points": 669,
-      "comments": 694,
-      "author": "herpderperator",
-      "time": 1794432275,
-      "title_zh": "联合航空禁止人工智能代理代表旅客预订航班"
-    },
-    {
-      "id": 50456791,
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "domain": "blog.google",
-      "points": 557,
-      "comments": 157,
-      "author": "iamdelirium",
-      "time": 1794421962,
-      "title_zh": "双子座决策 API"
+      "id": 50477231,
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "domain": "wired.com",
+      "points": 798,
+      "comments": 661,
+      "author": "lavendermon",
+      "time": 1794536184,
+      "title_zh": "英伟达员工请愿召回黄仁勋"
     },
     {
       "id": 50446520,
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "domain": "9to5mac.com",
-      "points": 555,
-      "comments": 552,
+      "points": 566,
+      "comments": 557,
       "author": "linolevan",
       "time": 1794345903,
       "title_zh": "苹果推出新的Mac应用程序，使运行本地AI模型变得轻松"
@@ -50,135 +28,166 @@
       "title": "Gemini 4 Hydrogen",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "domain": "blog.google",
-      "points": 509,
-      "comments": 324,
+      "points": 565,
+      "comments": 349,
       "author": "dvaplima",
       "time": 1794506508,
       "title_zh": "双子座 4 氢"
-    },
-    {
-      "id": 50477231,
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "domain": "wired.com",
-      "points": 400,
-      "comments": 303,
-      "author": "lavendermon",
-      "time": 1794536184,
-      "title_zh": "英伟达员工请愿召回黄仁勋"
     },
     {
       "id": 50472260,
       "title": "Gemini 4 Hydrogen and Orchestrator",
       "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "domain": "antigravity.google",
-      "points": 384,
-      "comments": 105,
+      "points": 498,
+      "comments": 161,
       "author": "jonbaer",
       "time": 1794509521,
       "title_zh": "Gemini 4 Hydrogen 和 Orchestrator"
     },
     {
-      "id": 50443716,
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "domain": "claude.com",
-      "points": 294,
-      "comments": 217,
-      "author": "Yorothegoat",
-      "time": 1794333307,
-      "title_zh": "Claude白板、Claude Sheets和Claude Data"
-    },
-    {
-      "id": 50474883,
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "domain": "unemploymentlabs.com",
-      "points": 262,
-      "comments": 75,
-      "author": "firloop",
-      "time": 1794520571,
-      "title_zh": "中国前沿人工智能模型带有出口管制GPU的指纹"
-    },
-    {
-      "id": 50453637,
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "domain": "blog.atuin.sh",
-      "points": 234,
-      "comments": 84,
-      "author": "linsomniac",
-      "time": 1794406246,
-      "title_zh": "Atuin 线程：每台计算机上的所有代理会话"
-    },
-    {
-      "id": 50455633,
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "domain": "machinelearning.apple.com",
-      "points": 233,
-      "comments": 38,
-      "author": "zerop",
-      "time": 1794416265,
-      "title_zh": "更快的检索以获得更好、更高效的 RAG"
+      "id": 50481187,
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "domain": "status.claude.com",
+      "points": 488,
+      "comments": 383,
+      "author": "__vivek",
+      "time": 1794565093,
+      "title_zh": "claude.ai、Claude Code 和 platform.claude.com 上出现高频错误"
     },
     {
       "id": 50473190,
       "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
       "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
       "domain": "reuters.com",
-      "points": 213,
-      "comments": 237,
+      "points": 453,
+      "comments": 482,
       "author": "jbredeche",
       "time": 1794513093,
       "title_zh": "消息人士称，英伟达前首席执行官黄与另一名员工有关系"
+    },
+    {
+      "id": 50486748,
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "domain": "theguardian.com",
+      "points": 370,
+      "comments": 96,
+      "author": "bookofjoe",
+      "time": 1794591010,
+      "title_zh": "人工智能破解了哥德尔的笔记本，据称其中包含数百个已证明的定理"
+    },
+    {
+      "id": 50475713,
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "domain": "edge0.ai",
+      "points": 344,
+      "comments": 104,
+      "author": "sroussey",
+      "time": 1794524777,
+      "title_zh": "Edge0-145B：在您自己的电脑上使用前沿人工智能功能"
+    },
+    {
+      "id": 50487864,
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "domain": "freightwaves.com",
+      "points": 335,
+      "comments": 184,
+      "author": "crescit_eundo",
+      "time": 1794595244,
+      "title_zh": "价值1140万美元的Nvidia硬件在从加州运往德州的途中不翼而飞"
+    },
+    {
+      "id": 50493251,
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "domain": "techpowerup.com",
+      "points": 333,
+      "comments": 172,
+      "author": "speckx",
+      "time": 1794624779,
+      "title_zh": "据称，英伟达通过资助人工智能初创公司购买其GPU来人为制造稀缺性"
+    },
+    {
+      "id": 50481870,
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "domain": "theatlantic.com",
+      "points": 332,
+      "comments": 203,
+      "author": "FinnLobsien",
+      "time": 1794568426,
+      "title_zh": "人工智能正在破坏作家与读者之间的信任"
+    },
+    {
+      "id": 50484658,
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "domain": "youtube.com",
+      "points": 221,
+      "comments": 219,
+      "author": "helloplanets",
+      "time": 1794582524,
+      "title_zh": "Jonathan Blow – 如果人工智能解决了编程问题，为什么我的软件还是老样子？[视频]"
     }
   ],
   "media": [
     {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch",
-      "published": "Thu, 12 Nov 2026 22:42:51 +0000",
-      "time": 1794523371,
-      "snippet": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "title_zh": "民主党发起英伟达调查，针对黄仁勋与特朗普的“计划”写了一封措辞严厉的信"
+      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "time": 1794609780,
+      "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "title_zh": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口"
     },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
       "source": "Ars Technica",
-      "published": "Thu, 12 Nov 2026 22:28:47 +0000",
-      "time": 1794522527,
+      "published": "Fri, 13 Nov 2026 21:20:47 +0000",
+      "time": 1794604847,
       "snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
       "title_zh": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵"
     },
     {
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch",
-      "published": "Thu, 12 Nov 2026 22:22:28 +0000",
-      "time": 1794522148,
-      "snippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "title_zh": "Muse 现在可以给美国企业打电话——如果你付费的话"
+      "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "time": 1794598677,
+      "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "title_zh": "AI代理初创公司LangChain估值达30亿美元"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch",
-      "published": "Thu, 12 Nov 2026 21:35:00 +0000",
-      "time": 1794519300,
-      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastru",
-      "title_zh": "正在展开的黄仁勋丑闻：时间表"
+      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "time": 1794595230,
+      "snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "title_zh": "被禁止出口的英伟达芯片是支撑中国最强大人工智能模型的基础——哎呀，Jensen！"
     },
     {
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica",
+      "published": "Fri, 13 Nov 2026 17:25:45 +0000",
+      "time": 1794590745,
+      "snippet": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "title_zh": "OpenAI董事会成员担心人工智能“接管”社会可能只剩几个月的时间"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "source": "TechCrunch",
-      "published": "Thu, 12 Nov 2026 21:27:10 +0000",
-      "time": 1794518830,
-      "snippet": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financi",
-      "title_zh": "Nebius 计划支出 400 亿美元测试 Neocloud 策略"
+      "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "time": 1794585612,
+      "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "title_zh": "ChatGPT 的新钱包让 AI 代理为您购物和结账"
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -206,15 +215,6 @@
       "time": 1794509865,
       "snippet": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
       "title_zh": "双子座飞行员强烈反对后，谷歌面临学校暂停人工智能的呼吁"
-    },
-    {
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "source": "Ars Technica",
-      "published": "Thu, 12 Nov 2026 14:50:17 +0000",
-      "time": 1794495017,
-      "snippet": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "title_zh": "谷歌推出 Gemini 驱动的智能眼镜，起价 395 美元，推动隐私保护"
     },
     {
       "title": "The backlash about data centers might really just be about electricity",

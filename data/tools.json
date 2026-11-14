@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:58:42+00:00",
+  "generated_at": "2026-11-14T06:47:19+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -25,11 +25,21 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 848,
+      "points": 849,
       "comments": 395,
       "author": "aarushyadav",
       "time": "2026-11-02T17:16:17Z",
       "title_zh": "Show HN: Subvocal – 与电脑交谈，不发出噪音"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "domain": "github.com",
+      "points": 722,
+      "comments": 245,
+      "author": "simpsoka",
+      "time": "2026-11-12T17:02:42Z",
+      "title_zh": "Show HN：我的 300 美元刺绣机需要订阅，所以我构建了自己的应用程序"
     },
     {
       "title": "Show HN: Steal My Bitcoin",
@@ -42,51 +52,41 @@
       "title_zh": "Show HN：偷我的比特币"
     },
     {
-      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "url": "https://hackertv.org",
-      "domain": "hackertv.org",
-      "points": 490,
-      "comments": 83,
-      "author": "dsalzman",
-      "time": "2026-11-03T01:18:09Z",
-      "title_zh": "显示 HN：HackerTV – HN 最受推荐的 Youtube 视频作为 24/7 电视频道"
-    },
-    {
       "title": "Show HN: Every satellite that passed over any place this week, and its photos",
       "url": "https://www.watched.earth",
       "domain": "watched.earth",
-      "points": 485,
-      "comments": 84,
+      "points": 490,
+      "comments": 85,
       "author": "a585gupt",
       "time": "2026-11-09T17:51:31Z",
       "title_zh": "显示HN ：本周经过任何地方的每颗卫星及其照片"
     },
     {
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "domain": "hackertv.org",
+      "points": 490,
+      "comments": 84,
+      "author": "dsalzman",
+      "time": "2026-11-03T01:18:09Z",
+      "title_zh": "显示 HN：HackerTV – HN 最受推荐的 Youtube 视频作为 24/7 电视频道"
+    },
+    {
       "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
       "url": "https://hackertimes.ca/",
       "domain": "hackertimes.ca",
-      "points": 476,
+      "points": 477,
       "comments": 149,
       "author": "polpenn",
       "time": "2026-11-03T01:53:34Z",
       "title_zh": "Show HN：黑客时报，受《纽约时报》启发的黑客新闻版本"
     },
     {
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
-      "domain": "github.com",
-      "points": 463,
-      "comments": 171,
-      "author": "simpsoka",
-      "time": "2026-11-12T17:02:42Z",
-      "title_zh": "Show HN：我的 300 美元刺绣机需要订阅，所以我构建了自己的应用程序"
-    },
-    {
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "url": "https://github.com/GoogleChrome/modern-web-guidance",
       "domain": "github.com",
-      "points": 436,
-      "comments": 145,
+      "points": 442,
+      "comments": 146,
       "author": "paulirish",
       "time": "2026-11-10T18:01:15Z",
       "title_zh": "Show HN ：让您的编码代理脱离~ 2019 JavaScript ，进入现代网络图元"
@@ -127,8 +127,8 @@
       "title": "Jensen Huang resigns",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "domain": "apnews.com",
-      "points": 3332,
-      "comments": 3024,
+      "points": 4021,
+      "comments": 3422,
       "author": "lldb",
       "time": "2026-11-12T13:52:29Z",
       "title_zh": "黄仁勋辞职"
@@ -147,7 +147,7 @@
       "title": "sshole",
       "url": "https://sshhole.com",
       "domain": "sshhole.com",
-      "points": 3002,
+      "points": 3004,
       "comments": 752,
       "author": "josemrb",
       "time": "2026-11-05T12:19:02Z",
@@ -157,8 +157,8 @@
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "domain": "rikiyat.github.io",
-      "points": 2965,
-      "comments": 900,
+      "points": 2967,
+      "comments": 901,
       "author": "dbreunig",
       "time": "2026-11-02T18:21:28Z",
       "title_zh": "Astra可以读写权重来改进Qwen"
@@ -167,7 +167,7 @@
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "domain": "karpathy.bearblog.dev",
-      "points": 2894,
+      "points": 2895,
       "comments": 646,
       "author": "karpathy",
       "time": "2026-10-31T19:56:53Z",
@@ -182,16 +182,6 @@
       "author": "ggcr",
       "time": "2026-10-20T09:08:54Z",
       "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
-    },
-    {
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "domain": "jjmaxwell4.com",
-      "points": 1978,
-      "comments": 479,
-      "author": "jjmaxwell4",
-      "time": "2026-10-14T19:26:30Z",
-      "title_zh": "得癌症时的注意事项"
     },
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -242,6 +232,16 @@
       "author": "SiNTEx",
       "time": "2026-10-26T13:04:50Z",
       "title_zh": "人择S-1"
+    },
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "domain": "tesla.com",
+      "points": 1645,
+      "comments": 3162,
+      "author": "shekhar101",
+      "time": "2026-10-16T01:32:45Z",
+      "title_zh": "特斯拉 Roadster"
     }
   ]
 }
