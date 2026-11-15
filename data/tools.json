@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:47:19+00:00",
+  "generated_at": "2026-11-15T06:51:48+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -35,8 +35,8 @@
       "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "url": "https://github.com/simpsoka/zigzag",
       "domain": "github.com",
-      "points": 722,
-      "comments": 245,
+      "points": 740,
+      "comments": 253,
       "author": "simpsoka",
       "time": "2026-11-12T17:02:42Z",
       "title_zh": "Show HN：我的 300 美元刺绣机需要订阅，所以我构建了自己的应用程序"
@@ -55,8 +55,8 @@
       "title": "Show HN: Every satellite that passed over any place this week, and its photos",
       "url": "https://www.watched.earth",
       "domain": "watched.earth",
-      "points": 490,
-      "comments": 85,
+      "points": 492,
+      "comments": 87,
       "author": "a585gupt",
       "time": "2026-11-09T17:51:31Z",
       "title_zh": "显示HN ：本周经过任何地方的每颗卫星及其照片"
@@ -65,7 +65,7 @@
       "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
       "url": "https://hackertv.org",
       "domain": "hackertv.org",
-      "points": 490,
+      "points": 491,
       "comments": 84,
       "author": "dsalzman",
       "time": "2026-11-03T01:18:09Z",
@@ -85,7 +85,7 @@
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "url": "https://github.com/GoogleChrome/modern-web-guidance",
       "domain": "github.com",
-      "points": 442,
+      "points": 444,
       "comments": 146,
       "author": "paulirish",
       "time": "2026-11-10T18:01:15Z",
@@ -127,8 +127,8 @@
       "title": "Jensen Huang resigns",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "domain": "apnews.com",
-      "points": 4021,
-      "comments": 3422,
+      "points": 4044,
+      "comments": 3449,
       "author": "lldb",
       "time": "2026-11-12T13:52:29Z",
       "title_zh": "黄仁勋辞职"
@@ -234,14 +234,14 @@
       "title_zh": "人择S-1"
     },
     {
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "domain": "tesla.com",
-      "points": 1645,
-      "comments": 3162,
-      "author": "shekhar101",
-      "time": "2026-10-16T01:32:45Z",
-      "title_zh": "特斯拉 Roadster"
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "domain": "nbcnews.com",
+      "points": 1639,
+      "comments": 1273,
+      "author": "zulln",
+      "time": "2026-11-13T21:05:53Z",
+      "title_zh": "美国联邦航空管理局发布全国停飞令——4.5 小时后解除"
     }
   ]
 }
