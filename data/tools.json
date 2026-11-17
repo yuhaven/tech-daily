@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:52:16+00:00",
+  "generated_at": "2026-11-17T08:11:11+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -36,7 +36,7 @@
       "url": "https://github.com/simpsoka/zigzag",
       "domain": "github.com",
       "points": 741,
-      "comments": 257,
+      "comments": 258,
       "author": "simpsoka",
       "time": "2026-11-12T17:02:42Z",
       "title_zh": "Show HN：我的 300 美元刺绣机需要订阅，所以我构建了自己的应用程序"
@@ -55,7 +55,7 @@
       "title": "Show HN: Every satellite that passed over any place this week, and its photos",
       "url": "https://www.watched.earth",
       "domain": "watched.earth",
-      "points": 494,
+      "points": 495,
       "comments": 88,
       "author": "a585gupt",
       "time": "2026-11-09T17:51:31Z",
@@ -85,7 +85,7 @@
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "url": "https://github.com/GoogleChrome/modern-web-guidance",
       "domain": "github.com",
-      "points": 447,
+      "points": 448,
       "comments": 146,
       "author": "paulirish",
       "time": "2026-11-10T18:01:15Z",
@@ -127,8 +127,8 @@
       "title": "Jensen Huang resigns",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "domain": "apnews.com",
-      "points": 4051,
-      "comments": 3460,
+      "points": 4055,
+      "comments": 3474,
       "author": "lldb",
       "time": "2026-11-12T13:52:29Z",
       "title_zh": "黄仁勋辞职"
@@ -148,7 +148,7 @@
       "url": "https://sshhole.com",
       "domain": "sshhole.com",
       "points": 3004,
-      "comments": 752,
+      "comments": 751,
       "author": "josemrb",
       "time": "2026-11-05T12:19:02Z",
       "title_zh": "肖尔"
@@ -157,7 +157,7 @@
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "domain": "rikiyat.github.io",
-      "points": 2970,
+      "points": 2971,
       "comments": 902,
       "author": "dbreunig",
       "time": "2026-11-02T18:21:28Z",
@@ -204,6 +204,16 @@
       "title_zh": "Binance-hacker-1029 – Binance 被盗 5.6B 美元"
     },
     {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "domain": "spacex.com",
+      "points": 1743,
+      "comments": 1361,
+      "author": "ls612",
+      "time": "2026-11-14T21:22:24Z",
+      "title_zh": "SpaceX 成功回收星舰，结束第 15 次飞行任务"
+    },
+    {
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "domain": "mistral.ai",
@@ -232,16 +242,6 @@
       "author": "SiNTEx",
       "time": "2026-10-26T13:04:50Z",
       "title_zh": "人择S-1"
-    },
-    {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "domain": "spacex.com",
-      "points": 1670,
-      "comments": 1256,
-      "author": "ls612",
-      "time": "2026-11-14T21:22:24Z",
-      "title_zh": "SpaceX 成功回收星舰，结束第 15 次飞行任务"
     }
   ]
 }

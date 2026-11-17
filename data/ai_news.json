@@ -1,193 +1,220 @@
 {
-  "generated_at": "2026-11-16T06:52:13+00:00",
+  "generated_at": "2026-11-17T08:11:09+00:00",
   "hn": [
     {
-      "id": 50507303,
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "domain": "jakub.jankiewicz.org",
-      "points": 1133,
-      "comments": 610,
-      "author": "jcubic",
-      "time": 1794754018,
-      "title_zh": "所有由人工智能生成的代码都应是开源的"
-    },
-    {
-      "id": 50474883,
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "domain": "unemploymentlabs.com",
-      "points": 438,
-      "comments": 185,
-      "author": "firloop",
-      "time": 1794520571,
-      "title_zh": "中国的前沿人工智能模型带有受出口管制的GPU的印记"
-    },
-    {
-      "id": 50463399,
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "domain": "youtube.com",
-      "points": 406,
-      "comments": 196,
-      "author": "envoked",
-      "time": 1794461364,
-      "title_zh": "Claude Code 和 Codex 使用一块 3 美元的 Arduino 对我 1994 年款吉普车的 ECU 进行了逆向工程 [视频]"
-    },
-    {
-      "id": 50441444,
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "domain": "news.umich.edu",
-      "points": 231,
-      "comments": 126,
-      "author": "DeepLogin",
-      "time": 1794323248,
-      "title_zh": "生成式人工智能在处理非英语文本时消耗更多能源"
-    },
-    {
-      "id": 50506376,
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "domain": "magazine.sebastianraschka.com",
-      "points": 226,
-      "comments": 27,
-      "author": "vismit2000",
-      "time": 1794744846,
-      "title_zh": "了解现代大语言模型中的位置嵌入"
+      "id": 50524736,
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "domain": "xusheng.dev",
+      "points": 541,
+      "comments": 380,
+      "author": "cwaffles",
+      "time": 1794869900,
+      "title_zh": "Windows 11 正在收集您使用的编码代理和开发工具相关数据"
     },
     {
       "id": 50512235,
       "title": "What's Next for Nvidia?",
       "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
       "domain": "steveblank.com",
-      "points": 190,
-      "comments": 250,
+      "points": 470,
+      "comments": 571,
       "author": "zdw",
       "time": 1794786955,
       "title_zh": "英伟达接下来会怎样？"
     },
     {
-      "id": 50511982,
-      "title": "Jensen Huang might return to Nvidia as CEO",
-      "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
-      "domain": "reuters.com",
-      "points": 159,
-      "comments": 156,
-      "author": "YakubYilmaz",
-      "time": 1794785093,
-      "title_zh": "黄仁勋或将重返英伟达担任首席执行官"
+      "id": 50463399,
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "domain": "youtube.com",
+      "points": 451,
+      "comments": 239,
+      "author": "envoked",
+      "time": 1794461364,
+      "title_zh": "Claude Code 和 Codex 使用一块 3 美元的 Arduino 对我 1994 年款吉普车的 ECU 进行了逆向工程 [视频]"
     },
     {
-      "id": 50481321,
-      "title": "What thousands of conversations look like inside a language model",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "domain": "operator0x.com",
-      "points": 120,
-      "comments": 29,
-      "author": "josip208",
-      "time": 1794565561,
-      "title_zh": "数以千计的对话在语言模型中是什么样子"
+      "id": 50474883,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "domain": "unemploymentlabs.com",
+      "points": 450,
+      "comments": 194,
+      "author": "firloop",
+      "time": 1794520571,
+      "title_zh": "中国的前沿人工智能模型带有受出口管制的GPU的印记"
     },
     {
-      "id": 50512950,
-      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "url": "https://www.hntrends.com/2026/november.html",
-      "domain": "hntrends.com",
-      "points": 81,
-      "comments": 67,
-      "author": "myth_drannon",
-      "time": 1794792690,
-      "title_zh": "“谁在招聘？”招聘信息徘徊在近12年来的低点，而人工智能已覆盖所有工作的半数"
+      "id": 50518567,
+      "title": "Nvidia was in trouble before the Jensen Huang mess",
+      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "domain": "wired.com",
+      "points": 273,
+      "comments": 243,
+      "author": "Brajeshwar",
+      "time": 1794842649,
+      "title_zh": "在黄仁勋的丑闻之前，英伟达就已经陷入困境"
     },
     {
-      "id": 50506940,
-      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "url": "https://github.com/db-branch/db-branch",
-      "domain": "github.com",
-      "points": 41,
-      "comments": 10,
-      "author": "nu_nu11",
-      "time": 1794750651,
-      "title_zh": "Show HN：db-branch – 通过ZFS为AI代理和CI在几秒钟内创建数据库分支"
-    },
-    {
-      "id": 50511763,
-      "title": "Huang Discusses Comeback as Nvidia Chief with Allies, FT Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
-      "domain": "bloomberg.com",
-      "points": 32,
-      "comments": 1,
-      "author": "nstj",
-      "time": 1794783231,
-      "title_zh": "据《金融时报》报道，黄仁勋与盟友讨论重返英伟达首席执行官职位事宜"
+      "id": 50526152,
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "domain": "blog.antonio.cx",
+      "points": 101,
+      "comments": 59,
+      "author": "antoniomika",
+      "time": 1794878336,
+      "title_zh": "运行编码代理，而无需向其提供我的凭据"
     },
     {
       "id": 50485275,
       "title": "Artificial Intelligence for the Z80",
       "url": "https://www.dfsantos.com/en/libro-ia-z80",
       "domain": "dfsantos.com",
-      "points": 25,
-      "comments": 2,
+      "points": 82,
+      "comments": 8,
       "author": "AlexeyBrin",
       "time": 1794585043,
       "title_zh": "Z80 的人工智能"
+    },
+    {
+      "id": 50519153,
+      "title": "First phase of embedded assessments at OpenAI",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "domain": "openai.com",
+      "points": 50,
+      "comments": 17,
+      "author": "dvaplima",
+      "time": 1794845240,
+      "title_zh": "OpenAI 嵌入式评估的第一阶段"
+    },
+    {
+      "id": 50520076,
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "url": "https://news.ycombinator.com/item?id=50520076",
+      "domain": "news.ycombinator.com",
+      "points": 49,
+      "comments": 73,
+      "author": "ex-aws-dude",
+      "time": 1794849628,
+      "title_zh": "提问HN：如果AI工具如此出色，为什么您的漏洞待办事项列表还没有清空？"
+    },
+    {
+      "id": 50526264,
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "domain": "tomshardware.com",
+      "points": 44,
+      "comments": 14,
+      "author": "nsoonhui",
+      "time": 1794879316,
+      "title_zh": "Claude Mythos 将集成 AMD GPU 的软件工作量缩短至约三天"
+    },
+    {
+      "id": 50523037,
+      "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+      "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
+      "domain": "cloudnativenow.com",
+      "points": 22,
+      "comments": 7,
+      "author": "CrankyBear",
+      "time": 1794862133,
+      "title_zh": "Kubernetes正在巩固其作为首选人工智能平台的地位"
+    },
+    {
+      "id": 50526584,
+      "title": "Tokendoctor – See what your Claude Code use overpays",
+      "url": "https://github.com/localixai/tokendoctor",
+      "domain": "github.com",
+      "points": 20,
+      "comments": 10,
+      "author": "rsaryev1997",
+      "time": 1794881990,
+      "title_zh": "Tokendoctor – 查看您的Claude Code使用情况是否超额支付"
     }
   ],
   "media": [
     {
-      "title": "Apple launches new app to study how people use AI for health",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "source": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 01:30:00 +0000",
-      "time": 1794792600,
-      "snippet": "Apple's new app for a study will answer everyday medical questions",
-      "title_zh": "苹果推出新应用，研究人们如何使用人工智能来管理健康"
+      "published": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "time": 1794871952,
+      "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "title_zh": "网络安全AI初创公司Corma在约3个月内估值达到10亿美元"
     },
     {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
       "source": "TechCrunch",
-      "published": "Sun, 15 Nov 2026 23:30:00 +0000",
-      "time": 1794785400,
-      "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "title_zh": "印度芯片初创公司Bharat Semi获得2400万美元种子轮融资，瞄准全球人工智能传感器市场"
+      "published": "Mon, 16 Nov 2026 22:03:02 +0000",
+      "time": 1794866582,
+      "snippet": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the tu",
+      "title_zh": "英伟达周二应回答的所有问题——但可能不会回答"
     },
     {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "source": "TechCrunch",
-      "published": "Sun, 15 Nov 2026 21:56:35 +0000",
-      "time": 1794779795,
-      "snippet": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "title_zh": "对黄仁勋来说是坏消息，对人工智能行业来说也是坏消息吗？"
+      "published": "Mon, 16 Nov 2026 20:07:13 +0000",
+      "time": 1794859633,
+      "snippet": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "title_zh": "加利福尼亚州总检察长就“流氓代理”事件起诉OpenAI"
     },
     {
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
       "source": "TechCrunch",
-      "published": "Sun, 15 Nov 2026 20:20:57 +0000",
-      "time": 1794774057,
-      "snippet": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "title_zh": "《周六夜现场》召集所有科技大亨，传授约会和间谍技巧"
+      "published": "Mon, 16 Nov 2026 19:12:02 +0000",
+      "time": 1794856322,
+      "snippet": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "title_zh": "特朗普表示，英伟达前首席执行官黄仁勋与一名疑似中国间谍的婚外情并未对国家安全构成威胁。"
     },
     {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
       "source": "Ars Technica",
-      "published": "Fri, 13 Nov 2026 21:20:47 +0000",
-      "time": 1794604847,
-      "snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "title_zh": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵"
+      "published": "Mon, 16 Nov 2026 19:10:09 +0000",
+      "time": 1794856209,
+      "snippet": "Trump bets China won’t mind US blocking remote access to AI chips.",
+      "title_zh": "美国采取措施，削弱中国对人工智能芯片的远程访问"
     },
     {
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 16 Nov 2026 18:38:47 +0000",
+      "time": 1794854327,
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen ",
+      "title_zh": "开源运动希望黄仁勋回归"
+    },
+    {
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 16 Nov 2026 16:04:28 +0000",
+      "time": 1794845068,
+      "snippet": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction",
+      "title_zh": "通过划定界限而非预测来打造值得信赖的人工智能"
+    },
+    {
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
       "source": "Ars Technica",
-      "published": "Fri, 13 Nov 2026 17:25:45 +0000",
-      "time": 1794590745,
-      "snippet": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "title_zh": "OpenAI董事会成员担心人工智能“接管”社会可能只剩几个月的时间"
+      "published": "Mon, 16 Nov 2026 14:06:16 +0000",
+      "time": 1794837976,
+      "snippet": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "title_zh": "黄仁勋的盟友们建立了一个“作战室”，以助他重返英伟达"
+    },
+    {
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Tech Review",
+      "published": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "time": 1794834000,
+      "snippet": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to l",
+      "title_zh": "构建可在整个企业中发挥作用的AI"
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -197,33 +224,6 @@
       "time": 1794514584,
       "snippet": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security ",
       "title_zh": "英伟达私下证实，它可以追踪芯片以打击走私，尽管业界公开质疑其可行性"
-    },
-    {
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 09 Nov 2026 19:35:33 +0000",
-      "time": 1794252933,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US ",
-      "title_zh": "对数据中心的强烈反对可能真的只是与电力有关"
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 09 Nov 2026 17:05:43 +0000",
-      "time": 1794243943,
-      "snippet": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the ",
-      "title_zh": "接替南希·佩洛西的人已准备好监管人工智能"
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 09 Nov 2026 13:00:00 +0000",
-      "time": 1794229200,
-      "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable da",
-      "title_zh": "在特种化学品行业利用人工智能进行创新"
     }
   ]
 }
