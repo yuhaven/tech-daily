@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:11:11+00:00",
+  "generated_at": "2026-11-18T07:45:05+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -35,7 +35,7 @@
       "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "url": "https://github.com/simpsoka/zigzag",
       "domain": "github.com",
-      "points": 741,
+      "points": 742,
       "comments": 258,
       "author": "simpsoka",
       "time": "2026-11-12T17:02:42Z",
@@ -55,8 +55,8 @@
       "title": "Show HN: Every satellite that passed over any place this week, and its photos",
       "url": "https://www.watched.earth",
       "domain": "watched.earth",
-      "points": 495,
-      "comments": 88,
+      "points": 497,
+      "comments": 89,
       "author": "a585gupt",
       "time": "2026-11-09T17:51:31Z",
       "title_zh": "显示HN ：本周经过任何地方的每颗卫星及其照片"
@@ -127,8 +127,8 @@
       "title": "Jensen Huang resigns",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "domain": "apnews.com",
-      "points": 4055,
-      "comments": 3474,
+      "points": 4059,
+      "comments": 3486,
       "author": "lldb",
       "time": "2026-11-12T13:52:29Z",
       "title_zh": "黄仁勋辞职"
@@ -147,7 +147,7 @@
       "title": "sshole",
       "url": "https://sshhole.com",
       "domain": "sshhole.com",
-      "points": 3004,
+      "points": 3006,
       "comments": 751,
       "author": "josemrb",
       "time": "2026-11-05T12:19:02Z",
@@ -184,6 +184,16 @@
       "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
     },
     {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "domain": "cs.cmu.edu",
+      "points": 2307,
+      "comments": 315,
+      "author": "pcompeau",
+      "time": "2026-11-16T20:43:36Z",
+      "title_zh": "卡内基梅隆大学正在YouTube上免费提供计算机科学课程"
+    },
+    {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "domain": "hackerbooks.org",
@@ -207,8 +217,8 @@
       "title": "SpaceX catches the Starship to end Flight 15",
       "url": "https://www.spacex.com/launches/starship-flight-15",
       "domain": "spacex.com",
-      "points": 1743,
-      "comments": 1361,
+      "points": 1755,
+      "comments": 1435,
       "author": "ls612",
       "time": "2026-11-14T21:22:24Z",
       "title_zh": "SpaceX 成功回收星舰，结束第 15 次飞行任务"
@@ -232,16 +242,6 @@
       "author": "sohkamyung",
       "time": "2026-10-22T23:01:18Z",
       "title_zh": "本地维基百科：维基百科，但仅限于距离您步行半小时的地方"
-    },
-    {
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "domain": "sec.gov",
-      "points": 1710,
-      "comments": 1682,
-      "author": "SiNTEx",
-      "time": "2026-10-26T13:04:50Z",
-      "title_zh": "人择S-1"
     }
   ]
 }
