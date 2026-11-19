@@ -1,148 +1,202 @@
 {
-  "generated_at": "2026-11-18T07:45:02+00:00",
+  "generated_at": "2026-11-19T07:41:22+00:00",
   "hn": [
     {
-      "id": 50535230,
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "domain": "openai.com",
-      "points": 1231,
-      "comments": 764,
-      "author": "jasondavies",
-      "time": 1794937603,
-      "title_zh": "GPT‑6.2 Astra 和 Sol"
+      "id": 50542705,
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "domain": "nicolasbouliane.com",
+      "points": 778,
+      "comments": 693,
+      "author": "grey-area",
+      "time": 1794984446,
+      "title_zh": "人工智能正在扼杀《柏林万象》"
     },
     {
-      "id": 50534631,
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "domain": "ft.com",
-      "points": 503,
-      "comments": 229,
-      "author": "louiereederson",
-      "time": 1794935526,
-      "title_zh": "随着营收达到1040亿美元，Nvidia停止披露新加坡的销售额"
+      "id": 50552424,
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "domain": "blog.google",
+      "points": 728,
+      "comments": 613,
+      "author": "yigitdemirag",
+      "time": 1795037647,
+      "title_zh": "Gemini 4 霓虹色"
     },
     {
       "id": 50540178,
       "title": "Google's AI answers reducing search traffic by 40%",
       "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "domain": "revscope.co",
-      "points": 309,
-      "comments": 242,
+      "points": 697,
+      "comments": 544,
       "author": "slashdev",
       "time": 1794961078,
       "title_zh": "谷歌的AI答案使搜索流量减少了40%"
     },
     {
-      "id": 50529612,
-      "title": "How the Claude Code team thinks about verification",
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "domain": "claude.dev",
-      "points": 281,
-      "comments": 225,
-      "author": "craigmart",
-      "time": 1794910840,
-      "title_zh": "Claude Code团队对验证的看法"
+      "id": 50534631,
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "domain": "ft.com",
+      "points": 662,
+      "comments": 295,
+      "author": "louiereederson",
+      "time": 1794935526,
+      "title_zh": "随着营收达到1040亿美元，Nvidia停止披露新加坡的销售额"
+    },
+    {
+      "id": 50547777,
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "domain": "europeanbusinessmagazine.com",
+      "points": 443,
+      "comments": 192,
+      "author": "Betelbuddy",
+      "time": 1795016974,
+      "title_zh": "在审计测试中，人工智能代理提出的问题比毕马威会计师提出的问题更好"
     },
     {
       "id": 50538303,
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "domain": "complexdiscovery.com",
-      "points": 160,
-      "comments": 202,
+      "points": 320,
+      "comments": 441,
       "author": "judahmeek",
       "time": 1794950172,
       "title_zh": "哈佛大学研究人员发现，人工智能编码代理将瓶颈转移到了代码审核上"
     },
     {
-      "id": 50535740,
-      "title": "Not Everything Needs an LLM",
-      "url": "https://newsletter.posthog.com/p/decision-models",
-      "domain": "newsletter.posthog.com",
-      "points": 145,
-      "comments": 59,
-      "author": "speckx",
-      "time": 1794939378,
-      "title_zh": "并非所有事情都需要 LLM"
-    },
-    {
-      "id": 50526152,
-      "title": "Running coding agents without handing them my credentials",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
-      "domain": "blog.antonio.cx",
-      "points": 131,
-      "comments": 112,
-      "author": "antoniomika",
-      "time": 1794878336,
-      "title_zh": "运行编码代理，而无需向其提供我的凭据"
-    },
-    {
-      "id": 50536565,
-      "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
-      "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
-      "domain": "zerohedge.com",
-      "points": 92,
-      "comments": 15,
-      "author": "hauntingseaweed",
-      "time": 1794942525,
-      "title_zh": "Anthropic向鲁比奥的前幕僚长所在的公司支付了74万美元，该公司游说其国家安全委员会"
-    },
-    {
-      "id": 50540472,
-      "title": "Cerebras Disaggregated Inference",
-      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-      "domain": "cerebras.ai",
-      "points": 68,
-      "comments": 17,
-      "author": "emschwartz",
-      "time": 1794963383,
-      "title_zh": "Cerebras 分散式推理"
-    },
-    {
-      "id": 50536468,
-      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-      "url": "https://starsling.dev",
-      "domain": "starsling.dev",
-      "points": 66,
-      "comments": 37,
-      "author": "yonasb",
-      "time": 1794942103,
-      "title_zh": "HN发布：StarSling（YC P25）——适用于代理规模代码仓库的自我改进型CI"
-    },
-    {
-      "id": 50540836,
-      "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-      "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
-      "domain": "washingtonsun.com",
-      "points": 64,
-      "comments": 32,
-      "author": "ryeights",
-      "time": 1794966311,
-      "title_zh": "银行首席执行官和美国国家安全局向国会表示，由人工智能驱动的补丁是导致服务中断的原因"
+      "id": 50543989,
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "domain": "energy-based-reasoners.github.io",
+      "points": 308,
+      "comments": 55,
+      "author": "frenchmajesty",
+      "time": 1794994172,
+      "title_zh": "基于能量的推理器：推理效率提升 385 倍"
     },
     {
       "id": 50541790,
       "title": "Why is Gemini 4 Carbon taking so long?",
       "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
       "domain": "kernel.dev",
-      "points": 54,
-      "comments": 29,
+      "points": 270,
+      "comments": 138,
       "author": "deenadz",
       "time": 1794975244,
       "title_zh": "为什么Gemini 4 Carbon需要这么长时间？"
+    },
+    {
+      "id": 50554374,
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "domain": "micjm.com",
+      "points": 211,
+      "comments": 67,
+      "author": "seizethecheese",
+      "time": 1795048185,
+      "title_zh": "Gemini 4 Neon看起来像是Opus 5.5的竞争对手"
+    },
+    {
+      "id": 50549493,
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "domain": "openai.com",
+      "points": 200,
+      "comments": 130,
+      "author": "vighneshiyer",
+      "time": 1795023947,
+      "title_zh": "借助 OpenAI 模型推进芯片设计"
+    },
+    {
+      "id": 50535740,
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "domain": "newsletter.posthog.com",
+      "points": 183,
+      "comments": 75,
+      "author": "speckx",
+      "time": 1794939378,
+      "title_zh": "并非所有事情都需要 LLM"
+    },
+    {
+      "id": 50541619,
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "domain": "xinmingtu.cn",
+      "points": 173,
+      "comments": 74,
+      "author": "gmays",
+      "time": 1794973663,
+      "title_zh": "Claude接受了大规模蛋白质序列的训练"
     }
   ],
   "media": [
     {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch",
-      "published": "Wed, 18 Nov 2026 01:44:21 +0000",
-      "time": 1794966261,
-      "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfol",
-      "title_zh": "英伟达的初创企业股份飙升至650亿美元，但黄仁勋的退出让未来的交易蒙上阴影"
+      "published": "Thu, 19 Nov 2026 00:42:56 +0000",
+      "time": 1795048976,
+      "snippet": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce ",
+      "title_zh": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）解释了他为何要求6万名员工离职"
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch",
+      "published": "Wed, 18 Nov 2026 23:45:00 +0000",
+      "time": 1795045500,
+      "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "title_zh": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补”"
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch",
+      "published": "Wed, 18 Nov 2026 23:25:17 +0000",
+      "time": 1795044317,
+      "snippet": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "title_zh": "埃隆·马斯克表示，罢免黄仁勋就像“把迈克尔·乔丹踢出你的球队”"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch",
+      "published": "Wed, 18 Nov 2026 23:17:28 +0000",
+      "time": 1795043848,
+      "snippet": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "title_zh": "黄仁勋离职后，微软首席执行官萨蒂亚·纳德拉（Satya Nadella）仍对英伟达充满信心"
+    },
+    {
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "source": "Ars Technica",
+      "published": "Wed, 18 Nov 2026 18:10:33 +0000",
+      "time": 1795025433,
+      "snippet": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
+      "title_zh": "威尔·莱特（Will Wright）的下一款模拟游戏将使用人工智能从您的记忆中挖掘内容"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 18 Nov 2026 14:42:44 +0000",
+      "time": 1795012964,
+      "snippet": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apa",
+      "title_zh": "人工智能热度指数：人工智能无处不在"
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Tech Review",
+      "published": "Wed, 18 Nov 2026 10:20:30 +0000",
+      "time": 1794997230,
+      "snippet": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “p",
+      "title_zh": "这家嗅觉初创公司称其AI嗅觉与人类的嗅觉一样灵敏"
     },
     {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
@@ -152,60 +206,6 @@
       "time": 1794961649,
       "snippet": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "title_zh": "Copilot 是“全新的工作操作系统”，现在 Office 在其中运行"
-    },
-    {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "source": "TechCrunch",
-      "published": "Wed, 18 Nov 2026 00:16:50 +0000",
-      "time": 1794961010,
-      "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to ",
-      "title_zh": "英伟达承诺，目前营收将继续飙升"
-    },
-    {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "source": "TechCrunch",
-      "published": "Tue, 17 Nov 2026 23:37:48 +0000",
-      "time": 1794958668,
-      "snippet": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "title_zh": "在黄仁勋被罢免后，英伟达正在放弃中国市场"
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "published": "Tue, 17 Nov 2026 23:04:35 +0000",
-      "time": 1794956675,
-      "snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "title_zh": "英伟达表示，在黄仁勋离任后，其开源人工智能战略仍将保持不变。"
-    },
-    {
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "source": "Ars Technica",
-      "published": "Tue, 17 Nov 2026 20:32:55 +0000",
-      "time": 1794947575,
-      "snippet": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-      "title_zh": "“特朗普与Jensen勾肩搭背”：批评人士对黄仁勋重返英伟达的愿望表示不满"
-    },
-    {
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-      "source": "Ars Technica",
-      "published": "Tue, 17 Nov 2026 18:13:34 +0000",
-      "time": 1794939214,
-      "snippet": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-      "title_zh": "OpenAI在承认发生80起失控事件后被加州起诉"
-    },
-    {
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "source": "Ars Technica",
-      "published": "Tue, 17 Nov 2026 16:50:10 +0000",
-      "time": 1794934210,
-      "snippet": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "title_zh": "Google 让您无需使用自己的数据训练 AI 即可更轻松地使用 Gemini"
     },
     {
       "title": "Research Reports",

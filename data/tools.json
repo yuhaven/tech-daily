@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:45:05+00:00",
+  "generated_at": "2026-11-19T07:41:23+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -55,7 +55,7 @@
       "title": "Show HN: Every satellite that passed over any place this week, and its photos",
       "url": "https://www.watched.earth",
       "domain": "watched.earth",
-      "points": 497,
+      "points": 498,
       "comments": 89,
       "author": "a585gupt",
       "time": "2026-11-09T17:51:31Z",
@@ -128,7 +128,7 @@
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "domain": "apnews.com",
       "points": 4059,
-      "comments": 3486,
+      "comments": 3490,
       "author": "lldb",
       "time": "2026-11-12T13:52:29Z",
       "title_zh": "黄仁勋辞职"
@@ -147,7 +147,7 @@
       "title": "sshole",
       "url": "https://sshhole.com",
       "domain": "sshhole.com",
-      "points": 3006,
+      "points": 3007,
       "comments": 751,
       "author": "josemrb",
       "time": "2026-11-05T12:19:02Z",
@@ -174,6 +174,16 @@
       "title_zh": "HackerTube：根据 HN 推荐的视频构建的 YouTube"
     },
     {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "domain": "cs.cmu.edu",
+      "points": 2357,
+      "comments": 328,
+      "author": "pcompeau",
+      "time": "2026-11-16T20:43:36Z",
+      "title_zh": "卡内基梅隆大学正在YouTube上免费提供计算机科学课程"
+    },
+    {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "domain": "github.com",
@@ -182,16 +192,6 @@
       "author": "ggcr",
       "time": "2026-10-20T09:08:54Z",
       "title_zh": "DeepInfer：DeepSeek 模型的高性能推理框架"
-    },
-    {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "domain": "cs.cmu.edu",
-      "points": 2307,
-      "comments": 315,
-      "author": "pcompeau",
-      "time": "2026-11-16T20:43:36Z",
-      "title_zh": "卡内基梅隆大学正在YouTube上免费提供计算机科学课程"
     },
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -217,8 +217,8 @@
       "title": "SpaceX catches the Starship to end Flight 15",
       "url": "https://www.spacex.com/launches/starship-flight-15",
       "domain": "spacex.com",
-      "points": 1755,
-      "comments": 1435,
+      "points": 1759,
+      "comments": 1484,
       "author": "ls612",
       "time": "2026-11-14T21:22:24Z",
       "title_zh": "SpaceX 成功回收星舰，结束第 15 次飞行任务"
