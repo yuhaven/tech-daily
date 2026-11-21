@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:32:11+00:00",
+  "generated_at": "2026-11-21T07:27:42+00:00",
   "showhn": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -26,7 +26,7 @@
       "url": "https://github.com/simpsoka/zigzag",
       "domain": "github.com",
       "points": 743,
-      "comments": 258,
+      "comments": 260,
       "author": "simpsoka",
       "time": "2026-11-12T17:02:42Z",
       "title_zh": "Show HN：我的 300 美元刺绣机需要订阅，所以我构建了自己的应用程序"
@@ -174,14 +174,34 @@
       "title_zh": "HackerTube：根据 HN 推荐的视频构建的 YouTube"
     },
     {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "domain": "alpo.ge",
+      "points": 2535,
+      "comments": 1751,
+      "author": "iamronaldo",
+      "time": "2026-11-20T14:16:21Z",
+      "title_zh": "Levent Alpöge 声称已证明广义黎曼猜想 [pdf]"
+    },
+    {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
       "url": "https://www.cs.cmu.edu/learn/",
       "domain": "cs.cmu.edu",
-      "points": 2372,
-      "comments": 331,
+      "points": 2380,
+      "comments": 333,
       "author": "pcompeau",
       "time": "2026-11-16T20:43:36Z",
       "title_zh": "卡内基梅隆大学正在YouTube上免费提供计算机科学课程"
+    },
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "domain": "math216.wordpress.com",
+      "points": 1895,
+      "comments": 873,
+      "author": "jasondavies",
+      "time": "2026-11-20T18:33:14Z",
+      "title_zh": "紧急通知：Alessandro Masullo GRH"
     },
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -194,6 +214,16 @@
       "title_zh": "显示 HN：HackerBooks – HackerTube，但适用于 HN 上提到的书籍"
     },
     {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "domain": "spacex.com",
+      "points": 1764,
+      "comments": 1495,
+      "author": "ls612",
+      "time": "2026-11-14T21:22:24Z",
+      "title_zh": "SpaceX 成功回收星舰，结束第 15 次飞行任务"
+    },
+    {
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "domain": "arkm.com",
@@ -204,16 +234,6 @@
       "title_zh": "Binance-hacker-1029 – Binance 被盗 5.6B 美元"
     },
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "domain": "spacex.com",
-      "points": 1762,
-      "comments": 1494,
-      "author": "ls612",
-      "time": "2026-11-14T21:22:24Z",
-      "title_zh": "SpaceX 成功回收星舰，结束第 15 次飞行任务"
-    },
-    {
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "domain": "mistral.ai",
@@ -222,26 +242,6 @@
       "author": "kuberwastaken",
       "time": "2026-10-29T14:13:21Z",
       "title_zh": "我们正在发布 Mistral Large 4 的重量"
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "domain": "edjefferson.com",
-      "points": 1725,
-      "comments": 256,
-      "author": "sohkamyung",
-      "time": "2026-10-22T23:01:18Z",
-      "title_zh": "本地维基百科：维基百科，但仅限于距离您步行半小时的地方"
-    },
-    {
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "domain": "sec.gov",
-      "points": 1710,
-      "comments": 1682,
-      "author": "SiNTEx",
-      "time": "2026-10-26T13:04:50Z",
-      "title_zh": "Anthropic S-1"
     }
   ]
 }

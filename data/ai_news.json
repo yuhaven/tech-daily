@@ -1,175 +1,211 @@
 {
-  "generated_at": "2026-11-20T07:32:07+00:00",
+  "generated_at": "2026-11-21T07:27:39+00:00",
   "hn": [
-    {
-      "id": 50562754,
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "domain": "reuters.com",
-      "points": 1046,
-      "comments": 2073,
-      "author": "wslh",
-      "time": 1795107760,
-      "title_zh": "Anthropic在纳斯达克上市"
-    },
     {
       "id": 50552424,
       "title": "Gemini 4 Neon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "domain": "blog.google",
-      "points": 1030,
-      "comments": 765,
+      "points": 1054,
+      "comments": 775,
       "author": "yigitdemirag",
       "time": 1795037647,
       "title_zh": "Gemini 4 霓虹色"
     },
     {
-      "id": 50534631,
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "domain": "ft.com",
-      "points": 665,
-      "comments": 297,
-      "author": "louiereederson",
-      "time": 1794935526,
-      "title_zh": "随着营收达到1040亿美元，Nvidia停止披露新加坡的销售额"
-    },
-    {
-      "id": 50562262,
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "domain": "ounapuu.ee",
-      "points": 530,
-      "comments": 210,
-      "author": "speckx",
-      "time": 1795105818,
-      "title_zh": "去你妈的 AI 安全措施"
-    },
-    {
-      "id": 50547777,
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "domain": "europeanbusinessmagazine.com",
-      "points": 489,
-      "comments": 258,
-      "author": "Betelbuddy",
-      "time": 1795016974,
-      "title_zh": "在审计测试中，人工智能代理提出的问题比毕马威会计师提出的问题更好"
+      "id": 50572503,
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "domain": "architectlabs.com",
+      "points": 641,
+      "comments": 332,
+      "author": "shioyama",
+      "time": 1795168901,
+      "title_zh": "Frostbite：由人工智能发现、设计和验证的新型CPU架构"
     },
     {
       "id": 50563148,
       "title": "Claude solves two open problems in the physics of black holes",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "domain": "anthropic.com",
-      "points": 467,
-      "comments": 220,
+      "points": 554,
+      "comments": 271,
       "author": "cybermango",
       "time": 1795109444,
       "title_zh": "Claude解决了黑洞物理学中的两个未决问题"
     },
     {
-      "id": 50553843,
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "domain": "anthropic.com",
-      "points": 414,
-      "comments": 779,
-      "author": "surprisetalk",
-      "time": 1795044609,
-      "title_zh": "Anthropic首次公开募股定价"
+      "id": 50572348,
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "domain": "signal.org",
+      "points": 543,
+      "comments": 318,
+      "author": "dotcoma",
+      "time": 1795167736,
+      "title_zh": "限制移动操作系统平台上的 AI 代理捕获数据"
     },
     {
-      "id": 50568130,
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "domain": "git-aarvin.github.io",
-      "points": 335,
-      "comments": 209,
-      "author": "hn-aarvin",
-      "time": 1795131335,
-      "title_zh": "Gemini 4 Neon成为模型工程指数的新榜首"
+      "id": 50577265,
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "domain": "arxiv.org",
+      "points": 388,
+      "comments": 117,
+      "author": "lwhsiao",
+      "time": 1795192146,
+      "title_zh": "语言模型可以重写自身的权重"
     },
     {
-      "id": 50553225,
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "domain": "slowchronicle.com",
-      "points": 302,
-      "comments": 77,
-      "author": "ioma8",
-      "time": 1795040953,
-      "title_zh": "LLM 辅助逆向工程"
+      "id": 50581438,
+      "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+      "domain": "marketscreener.com",
+      "points": 276,
+      "comments": 146,
+      "author": "ftchd",
+      "time": 1795206161,
+      "title_zh": "美国证券交易委员会对英伟达的调查正在审查潜在的会计问题——消息人士透露"
     },
     {
-      "id": 50541790,
-      "title": "Why is Gemini 4 Carbon taking so long?",
-      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-      "domain": "kernel.dev",
-      "points": 279,
-      "comments": 140,
-      "author": "deenadz",
-      "time": 1794975244,
-      "title_zh": "为什么Gemini 4 Carbon需要这么长时间？"
+      "id": 50577901,
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "domain": "motherjones.com",
+      "points": 275,
+      "comments": 201,
+      "author": "cdrnsf",
+      "time": 1795193967,
+      "title_zh": "谷歌员工敦促雇主不要惩罚不愿使用人工智能的学校"
     },
     {
       "id": 50561508,
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
       "url": "https://thedataexchange.media/pete-warden-moonshine/",
       "domain": "thedataexchange.media",
-      "points": 226,
-      "comments": 210,
+      "points": 269,
+      "comments": 247,
       "author": "datascientist",
       "time": 1795102692,
-      "title_zh": "Pete Warden谈本地人工智能、开源模型、语音界面、硬件的未来"
+      "title_zh": "Pete Warden谈本地人工智能、开放模型、语音界面、硬件的未来"
     },
     {
-      "id": 50562500,
-      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-      "domain": "restofworld.org",
-      "points": 133,
-      "comments": 66,
+      "id": 50574383,
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "domain": "theguardian.com",
+      "points": 254,
+      "comments": 524,
       "author": "cdrnsf",
-      "time": 1795106750,
-      "title_zh": "人工智能不会取代您的工作。它正在将你的工作变成低薪的零工"
+      "time": 1795181399,
+      "title_zh": "受人工智能板块抛售影响，Anthropic上市第二日表现不佳，纳斯达克指数2026年迄今的所有涨幅均被抹去。"
+    },
+    {
+      "id": 50579297,
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "domain": "ankitg.me",
+      "points": 139,
+      "comments": 55,
+      "author": "ankitvgupta",
+      "time": 1795198516,
+      "title_zh": "为推理芯片添加振动编码"
+    },
+    {
+      "id": 50561199,
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "domain": "hippomaps.ch",
+      "points": 128,
+      "comments": 33,
+      "author": "vihren",
+      "time": 1795101362,
+      "title_zh": "Show HN：针对OpenStreetMap数据的快速确定性自然语言搜索"
+    },
+    {
+      "id": 50568548,
+      "title": "ChatGPT for SNES",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/",
+      "domain": "bxfoundry.com",
+      "points": 123,
+      "comments": 41,
+      "author": "evan_",
+      "time": 1795134359,
+      "title_zh": "适用于 SNES 的 ChatGPT"
     }
   ],
   "media": [
     {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-      "time": 1795136161,
-      "snippet": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "title_zh": "苹果可能正在开发自己的AI代理来运行您的Mac"
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "published": "Fri, 20 Nov 2026 21:58:29 +0000",
+      "time": 1795211909,
+      "snippet": "Google search is making it even easier to access AI tools on the search page.",
+      "title_zh": "谷歌推出全新搜索主页，包含人工智能聊天记录，且无搜索按钮"
     },
     {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 00:43:50 +0000",
-      "time": 1795135430,
-      "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "title_zh": "Anthropic的7位创始人通过创纪录的IPO套现近20亿美元"
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "source": "Ars Technica",
+      "published": "Fri, 20 Nov 2026 21:47:10 +0000",
+      "time": 1795211230,
+      "snippet": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "title_zh": "面对人工智能数据中心创纪录的排放量，Meta正在重新考虑2030年净零排放目标"
     },
     {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch",
-      "published": "Thu, 19 Nov 2026 21:58:06 +0000",
-      "time": 1795125486,
-      "snippet": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "title_zh": "Meta的新款Muse Charm设备售价可能为300美元"
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "published": "Fri, 20 Nov 2026 20:59:08 +0000",
+      "time": 1795208348,
+      "snippet": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "title_zh": "研究人员在人工智能供应链中植入了 200 万只“金丝雀”。一场隐私灾难浮出水面。"
     },
     {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch",
-      "published": "Thu, 19 Nov 2026 21:42:31 +0000",
-      "time": 1795124551,
-      "snippet": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybers",
-      "title_zh": "这些技术故障正在以 AI 代理的方式重现 Y2K 问题"
+      "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+      "time": 1795204421,
+      "snippet": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "title_zh": "丹尼尔·埃克支持人工智能研究人员的聚变能初创公司。以下是他们正在打造的项目。"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch",
+      "published": "Fri, 20 Nov 2026 19:32:08 +0000",
+      "time": 1795203128,
+      "snippet": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "title_zh": "人工智能声称解决了有167年历史的黎曼猜想——人类也解决了"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review",
+      "published": "Fri, 20 Nov 2026 18:15:15 +0000",
+      "time": 1795198515,
+      "snippet": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’",
+      "title_zh": "人工智能领域最常被误解的图表刚刚进行了重大更新"
+    },
+    {
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+      "time": 1795196401,
+      "snippet": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "title_zh": "芯片可以在太空环境中存活——它们的融资能否做到？"
+    },
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch",
+      "published": "Fri, 20 Nov 2026 14:55:44 +0000",
+      "time": 1795186544,
+      "snippet": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good ",
+      "title_zh": "英伟达黄仁勋丑闻的影响仍在持续"
     },
     {
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
@@ -181,15 +217,6 @@
       "title_zh": "多力多滋薯片袋触发人工智能枪支警报，受创伤的青少年起诉学校和警察"
     },
     {
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "source": "Ars Technica",
-      "published": "Wed, 18 Nov 2026 18:10:33 +0000",
-      "time": 1795025433,
-      "snippet": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
-      "title_zh": "威尔·莱特（Will Wright）的下一款模拟游戏将使用人工智能从您的记忆中挖掘内容"
-    },
-    {
       "title": "The AI Hype Index: AI is everywhere",
       "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
       "source": "MIT Tech Review",
@@ -197,33 +224,6 @@
       "time": 1795012964,
       "snippet": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apa",
       "title_zh": "人工智能热度指数：人工智能无处不在"
-    },
-    {
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "source": "MIT Tech Review",
-      "published": "Wed, 18 Nov 2026 10:20:30 +0000",
-      "time": 1794997230,
-      "snippet": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “p",
-      "title_zh": "这家嗅觉初创公司称其AI嗅觉与人类的嗅觉一样灵敏"
-    },
-    {
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Tech Review",
-      "published": "Tue, 17 Nov 2026 14:39:46 +0000",
-      "time": 1794926386,
-      "snippet": "To access a report, click on the corresponding image below.",
-      "title_zh": "调研报告"
-    },
-    {
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "source": "MIT Tech Review",
-      "published": "Mon, 16 Nov 2026 18:38:47 +0000",
-      "time": 1794854327,
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen ",
-      "title_zh": "开源运动希望黄仁勋回归"
     }
   ]
 }
